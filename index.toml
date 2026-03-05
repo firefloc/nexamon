@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/pages.yml"
+hash = "9d66f74f2b71451251c437fe0a3d1feb59e8d1059e922089e0121e8705b9a3d7"
+
+[[files]]
 file = "fix_custom_urls.py"
 hash = "a3f3862f85dfb551142a1538f447c8149e6c8c489eb1bae1d6e381cda349f6fc"
 
@@ -1424,6 +1428,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/comforts-modernized.pw.toml"
 hash = "3ecd30326fe904b7d389de3978c0456ea9e6fc72f5fa574cd61c03de227aa1d9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cutil-nerf-tooltips.pw.toml"
+hash = "785c31c5ead1850fb6c8e67553e48189725a91ec8c9a2205edbff68e3f49cef9"
 metafile = true
 
 [[files]]
