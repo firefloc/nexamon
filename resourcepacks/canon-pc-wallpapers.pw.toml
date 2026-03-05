@@ -1,0 +1,13 @@
+name = "Canon PC Wallpapers [Cobblemon]"
+filename = "Canon PC Wallpapers.zip"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "c20da2ec31a91c3a961ba0b6fd771a405b7197001af592d5955750568d017d2c"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "chI5vWhB"
+version = "L55EKlrV"

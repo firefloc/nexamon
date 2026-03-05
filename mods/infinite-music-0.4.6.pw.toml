@@ -1,0 +1,13 @@
+name = "Music Delay Remover (Infinite Music)"
+filename = "infinite-music-0.4.6.jar"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "f90123fa679e170163f976819c851fc4bd6840d19cf95dde3ff8fe3682eed343"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "OJLdOa8k"
+version = "cIfcDLaq"

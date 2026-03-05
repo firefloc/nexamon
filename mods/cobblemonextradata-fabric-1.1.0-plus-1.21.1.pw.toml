@@ -1,0 +1,13 @@
+name = "Cobblemon Extra Data"
+filename = "CobblemonExtraData-fabric-1.1.0+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "d58bbf075b0f6f6d48e30b80687841222bf951b7aa74003b9adc094680134c55"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "97Az7HCf"
+version = "Lv1s8Ze6"

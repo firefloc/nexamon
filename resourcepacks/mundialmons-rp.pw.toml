@@ -1,0 +1,8 @@
+name = "MundialMons RP.zip"
+filename = "MundialMons RP.zip"
+side = "client"
+
+[download]
+url = ""
+hash-format = "sha256"
+hash = "7abedc89e45eaf73bddc8ce738500742325bfb6bf1defc6ed2d3c2868ab8f17a"

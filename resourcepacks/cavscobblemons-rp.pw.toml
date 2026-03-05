@@ -1,0 +1,8 @@
+name = "CavsCobbleMons RP.zip"
+filename = "CavsCobbleMons RP.zip"
+side = "client"
+
+[download]
+url = ""
+hash-format = "sha256"
+hash = "1b5f91c0c40e811df19594303894ed79e378474e550f6cf2e634e1cc4528f525"

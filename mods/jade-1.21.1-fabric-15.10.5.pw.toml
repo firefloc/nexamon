@@ -1,0 +1,13 @@
+name = "Jade 🔍"
+filename = "Jade-1.21.1-Fabric-15.10.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "b78e8f6e0e3d0148ae3b042c484d11bc5c53a81fbe71a9dcbc750338f4dce386"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "nvQzSEkH"
+version = "5Sbkzz4O"

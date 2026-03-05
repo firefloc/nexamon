@@ -1,0 +1,8 @@
+name = "ftb-teams-fabric-2101.1.9.jar"
+filename = "ftb-teams-fabric-2101.1.9.jar"
+side = "both"
+
+[download]
+url = ""
+hash-format = "sha256"
+hash = "92fc0626fef1a804d0c5b94ad68236e44e93573228a286417b066d90dafb181d"

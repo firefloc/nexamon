@@ -1,0 +1,13 @@
+name = "Cobblemon Catch Rate Display"
+filename = "catchrate-display-fabric-2.5.9.jar"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "a00346ffbaab3297764d1ab7fd01c1f8fa7d41f4289f316425b75a51cb9c98b4"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "vADO40xp"
+version = "jxPrqDr0"

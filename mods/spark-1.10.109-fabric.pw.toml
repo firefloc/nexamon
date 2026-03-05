@@ -1,0 +1,13 @@
+name = "spark"
+filename = "spark-1.10.109-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "fafc121ac53dab1c32e74b7a1cae47d54435ba4cbeeda1180dc96675a7757047"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "l6YH9Als"
+version = "cALUj9l1"

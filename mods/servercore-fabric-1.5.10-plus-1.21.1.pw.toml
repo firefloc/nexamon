@@ -1,0 +1,13 @@
+name = "ServerCore"
+filename = "servercore-fabric-1.5.10+1.21.1.jar"
+side = "server"
+
+[download]
+hash-format = "sha256"
+hash = "63ab514e7af336a0cce46c33bbe558f8cce44f2a17422116af18ea45bc704e31"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "4WWQxlQP"
+version = "FDzBkBBD"

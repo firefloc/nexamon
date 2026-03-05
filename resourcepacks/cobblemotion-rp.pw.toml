@@ -1,0 +1,8 @@
+name = "CobbleMotion RP.zip"
+filename = "CobbleMotion RP.zip"
+side = "client"
+
+[download]
+url = ""
+hash-format = "sha256"
+hash = "f15a2bb5f7ec9720aa4ad3fd2b01ba26326259580bc4a68d3c4672971280288c"

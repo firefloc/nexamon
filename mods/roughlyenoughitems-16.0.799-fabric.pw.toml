@@ -1,0 +1,13 @@
+name = "Roughly Enough Items (REI)"
+filename = "RoughlyEnoughItems-16.0.799-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "098c840780940010f2ba48cb758b77c1b991e69ab3fbec8725af099351653c9d"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "nfn13YXA"
+version = "aWzTESNC"

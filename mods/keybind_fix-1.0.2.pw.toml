@@ -1,0 +1,13 @@
+name = "Keybind Fix Updated"
+filename = "keybind_fix-1.0.2.jar"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "b7041744c85b8db9b27ebdc807a72b3e657a8efef99aec1c388ae26d9dd8d9ce"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "U1hgptta"
+version = "jDPZLqkE"

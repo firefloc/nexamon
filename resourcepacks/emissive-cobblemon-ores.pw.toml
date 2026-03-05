@@ -1,0 +1,13 @@
+name = "Cobblemon Emissive Ores"
+filename = "Emissive Cobblemon Ores.zip"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "1dfdfb226712ef47e28917642711972837af5c5e706e7ca6be0c8298a5b0bcd4"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "SpgcWKWY"
+version = "r0ix2gfK"

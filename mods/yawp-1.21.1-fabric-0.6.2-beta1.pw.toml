@@ -1,0 +1,13 @@
+name = "Yet Another World Protector"
+filename = "yawp-1.21.1-fabric-0.6.2-beta1.jar"
+side = "server"
+
+[download]
+hash-format = "sha256"
+hash = "f6b0852b48f06e167c88c73ed99f949d9cd32c84e78c42d46f7d0b459744bb0d"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "py6EMmAJ"
+version = "fxp89mBL"

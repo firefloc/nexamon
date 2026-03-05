@@ -1,0 +1,13 @@
+name = "Cobblemon Raid Dens"
+filename = "cobblemonraiddens-fabric-0.7.6+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "95351ee552f2704f7b803a79e8533481b644ce8b5c76ede66532e8af5090e7e0"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "GebWh45l"
+version = "gBIUjkRF"

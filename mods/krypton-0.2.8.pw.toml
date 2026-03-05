@@ -1,0 +1,13 @@
+name = "Krypton"
+filename = "krypton-0.2.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "94f195819b24e5da64effdc9da15cdd84836cc75e8ff0fd098bab6bc2f49e3fe"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "fQEb0iXm"
+version = "Acz3ttTp"

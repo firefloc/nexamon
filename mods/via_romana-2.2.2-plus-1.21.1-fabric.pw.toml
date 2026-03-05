@@ -1,0 +1,13 @@
+name = "Via Romana: Infrastructure-Driven Fast Travel"
+filename = "via_romana-2.2.2+1.21.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "28c895d52ec436d2e452698761105c5bbc2a58fa34efd385ccdd9ce2363514d6"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "FVToiKwr"
+version = "znZsBYGz"

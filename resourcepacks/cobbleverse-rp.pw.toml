@@ -1,0 +1,8 @@
+name = "COBBLEVERSE RP.zip"
+filename = "COBBLEVERSE RP.zip"
+side = "client"
+
+[download]
+url = ""
+hash-format = "sha256"
+hash = "eea3007be551aa885a8977359110583e07ed33f7c476f14d488840e063fb5460"

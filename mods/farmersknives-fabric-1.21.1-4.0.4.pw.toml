@@ -1,0 +1,13 @@
+name = "Farmer's Knives"
+filename = "farmersknives-fabric-1.21.1-4.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "00a2316c76f99dd45f40782a4c13f639b426cdaf242d9a76fe8bedb2708b46c8"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "uc3VdfLM"
+version = "2wn5TnBh"

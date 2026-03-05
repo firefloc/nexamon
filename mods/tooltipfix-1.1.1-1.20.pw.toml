@@ -1,0 +1,13 @@
+name = "ToolTipFix"
+filename = "tooltipfix-1.1.1-1.20.jar"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "50c6c45d16c62b0d9a832692b7f6250d5561f0b28bf7729d8ab25fe1162c90d2"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "2RKFTmiB"
+version = "B2L4LeMV"

@@ -1,0 +1,13 @@
+name = "WorldEdit CUI"
+filename = "WorldEditCUI-1.21.1+01.jar"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "2f212dd0d3a35ced1c5401123fa06deb6539cb1c4e57559c8c859e29bdb3fae4"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "NSLJJooQ"
+version = "KzDaAGw6"

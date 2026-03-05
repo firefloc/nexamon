@@ -1,0 +1,13 @@
+name = "SuperMartijn642's Config Lib"
+filename = "supermartijn642configlib-1.1.8-fabric-mc1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "63a29f2acf4be2c5ca89a81a046c1100111ad2865d9638f638e27ca161e7211c"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "LN9BxssP"
+version = "euSlaAtA"

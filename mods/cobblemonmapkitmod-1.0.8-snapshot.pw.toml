@@ -1,0 +1,13 @@
+name = "Cobblemon Map Kit"
+filename = "CobblemonMapKitMod-1.0.8-SNAPSHOT.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "554697343ec91aab16e7c6a6d09538be0a0929fc552867dfc446422da064f813"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "88rQFbH3"
+version = "qRw60VFE"

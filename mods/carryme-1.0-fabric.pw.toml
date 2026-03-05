@@ -1,0 +1,13 @@
+name = "Carry Me"
+filename = "carryme-1.0-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "739d427f3fff5a395698cc7d2a39964e2f2db32eab01b6eb5ae674c7343146f9"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "TqKRgEs9"
+version = "ffZcS3qm"

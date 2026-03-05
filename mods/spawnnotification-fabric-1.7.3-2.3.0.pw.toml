@@ -1,0 +1,13 @@
+name = "Cobblemon Spawn Notification"
+filename = "spawnnotification-fabric-1.7.3-2.3.0.jar"
+side = "server"
+
+[download]
+hash-format = "sha256"
+hash = "3a2f6a0d8f1fb27e09ab28b3300f318a08e4bb3249bffd510922fe3cf108f455"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "LPuJjiQz"
+version = "IosXrYj8"

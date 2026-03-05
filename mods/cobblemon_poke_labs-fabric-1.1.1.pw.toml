@@ -1,0 +1,13 @@
+name = "Cobblemon : Poke Labs"
+filename = "cobblemon_poke_labs-fabric-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "fb7013ebfefbfce2a1645e55a8ee9ef7a44769f942117ff3be1817cacb11b534"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "Wk0xZVPQ"
+version = "l34hOFT3"

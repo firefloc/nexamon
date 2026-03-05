@@ -1,0 +1,13 @@
+name = "[Cobblemon] Pet a poke"
+filename = "patapoke.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "7567d02c2e2ce5729e7828cb2b1a7cbbbfb901f3b02933df60e0b2bf9f3b4cb7"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "kppEhbWI"
+version = "rJIYdOO5"

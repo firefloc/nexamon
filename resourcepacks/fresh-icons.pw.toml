@@ -1,0 +1,13 @@
+name = "Icon Xaero's X FreshAnimations"
+filename = "Fresh Icons.zip"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "6a77950346e51262adfa266a7d52acb0b35798528f4ccf73f518d1c69fc729d8"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "u4iPx1Dr"
+version = "dVHdQVak"

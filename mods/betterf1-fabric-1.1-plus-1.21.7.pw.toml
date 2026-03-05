@@ -1,0 +1,13 @@
+name = "Better F1 Reborn"
+filename = "BetterF1-Fabric-1.1+1.21.7.jar"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "abfb3f37f130ae4dea89e282f1d0fc0e9c4b2235762745931329defb9387bbdf"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "2JIeCmxb"
+version = "S81P3LsG"

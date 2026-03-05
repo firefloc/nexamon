@@ -1,0 +1,13 @@
+name = "Aether Addon: Emissivity"
+filename = "aether_emissivity-1.21.1-1.0.2-fabric.jar"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "531eb33b32799762a5f06fd96b3959d02cfe5661a636d2b2b81f5f5387fa7157"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "sKHHynnb"
+version = "dOmy7MIs"

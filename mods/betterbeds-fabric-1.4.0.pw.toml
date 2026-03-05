@@ -1,0 +1,13 @@
+name = "Better Beds"
+filename = "betterbeds-fabric-1.4.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "d707f5df1c45150eb18b3135380519e74dd9103673a71032ef3de2b9038424aa"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "kKwy3HU9"
+version = "ZPmX9Uy3"

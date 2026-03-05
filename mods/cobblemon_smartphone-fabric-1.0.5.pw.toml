@@ -1,0 +1,13 @@
+name = "Cobblemon Smartphone"
+filename = "cobblemon_smartphone-fabric-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "d2ff6291a84ed0463697fac2d4d9066d89ed3133b63b13ac3a6e9b12d7fbbe15"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "n2f1HbK8"
+version = "3zK00ysw"

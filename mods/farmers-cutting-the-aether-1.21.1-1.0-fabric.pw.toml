@@ -1,0 +1,13 @@
+name = "Farmer's Cutting: The Aether"
+filename = "farmers-cutting-the-aether-1.21.1-1.0-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "e0e973cc5e3cb094705cd3ebad8107cb81fca6d7730725e112553f17b2e90197"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "W77u83l0"
+version = "cNzZRWwB"

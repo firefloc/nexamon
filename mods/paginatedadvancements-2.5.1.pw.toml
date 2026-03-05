@@ -1,0 +1,13 @@
+name = "Paginated Advancements & Custom Frames"
+filename = "paginatedadvancements-2.5.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "776d8006401781bc036199acc9ba80f7dce6c3bcebbbfa260a774add750c4d2d"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "pJogNFap"
+version = "fQnpir9a"

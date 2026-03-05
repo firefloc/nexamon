@@ -1,0 +1,13 @@
+name = "MoreMcmeta"
+filename = "moremcmeta-1.21.1-4.5.2-fabric.jar"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "3ce4a3c2079ac00856a5e2dcb55bbca7c0bb93a8e6470dc99d7944f31c96caf2"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "HFlxNpln"
+version = "S0TNCtxB"

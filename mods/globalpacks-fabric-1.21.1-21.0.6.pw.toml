@@ -1,0 +1,13 @@
+name = "Global Packs"
+filename = "globalpacks-fabric-1.21.1-21.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "391d960afb1d8f0b63ccfb677970512d68642102b6928a4830ebcd6d3fdba2cc"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "NRLPy2mk"
+version = "ErTctr3A"

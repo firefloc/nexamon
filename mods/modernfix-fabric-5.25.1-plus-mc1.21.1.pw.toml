@@ -1,0 +1,13 @@
+name = "ModernFix"
+filename = "modernfix-fabric-5.25.1+mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "3ce5a9ce75066961b7fa5382692bb1387cc3536cc984b064ab7d70b97f3c674c"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "nmDcB62a"
+version = "NnNX8LBn"

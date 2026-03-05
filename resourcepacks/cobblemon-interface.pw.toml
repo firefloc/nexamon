@@ -1,0 +1,13 @@
+name = "Cobblemon Interface"
+filename = "Cobblemon Interface.zip"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "eb40bd047c2e1443c43731e4d1ef1b9d7d0624476336f540b52a3e8fcb9eb315"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "gfiYlQU0"
+version = "8SjyMuZO"

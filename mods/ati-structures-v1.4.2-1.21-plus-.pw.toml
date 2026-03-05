@@ -1,0 +1,13 @@
+name = "ATi Structures"
+filename = "ATi Structures V1.4.2 (1.21+).jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "4fcbec03aa17596bb51c7023329d9f202f20e143aead94ddef3258fed847e80b"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "bii8qPSt"
+version = "bMsKMuKJ"

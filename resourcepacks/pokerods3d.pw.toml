@@ -1,0 +1,13 @@
+name = "Cobblemon 3D Poke Rods"
+filename = "PokeRods3D.zip"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "c93e9c866658bb752976c44414ca0e04fa90246060f114a183599abe1de4ca9e"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "7OFEgDS3"
+version = "L4DqwCP9"

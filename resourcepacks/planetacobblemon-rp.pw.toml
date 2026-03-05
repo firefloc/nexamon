@@ -1,0 +1,8 @@
+name = "PlanetaCobblemon RP.zip"
+filename = "PlanetaCobblemon RP.zip"
+side = "client"
+
+[download]
+url = ""
+hash-format = "sha256"
+hash = "139d3060983eead8e91a166d97fcc690b39f8ae5480edc20282b401aeccd0f55"

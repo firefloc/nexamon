@@ -1,0 +1,13 @@
+name = "Pie Delight Compat"
+filename = "piedelight-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "dc5f3f30b5ccf1048b04e833fd18387212209426135defca6e65638a459f2269"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "QKhjSXvT"
+version = "5g92qAzx"

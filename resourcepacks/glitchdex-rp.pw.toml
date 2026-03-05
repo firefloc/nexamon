@@ -1,0 +1,8 @@
+name = "GlitchDex RP.zip"
+filename = "GlitchDex RP.zip"
+side = "client"
+
+[download]
+url = ""
+hash-format = "sha256"
+hash = "45141851744fb63075f58bcfd8671e9f53d36bcc2c8300b56686b7e7cfd133cf"

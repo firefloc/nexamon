@@ -1,0 +1,13 @@
+name = "Rad Gyms [Cobblemon]"
+filename = "rad-gyms-fabric-0.4.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "3bad4f451f59a73a02dce251689794c9e17a3d1bff60d02350c36429a803ca52"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "eF8kqlHd"
+version = "duBXAr2K"

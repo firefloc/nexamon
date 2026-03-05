@@ -1,0 +1,13 @@
+name = "Sodium Extras"
+filename = "sodiumextras-fabric-1.0.8-1.21.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "f919c512fa7c774e14e7a96502fb7a7e19bb7843df7275390e6fa8e7e090004c"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "vqqx0QiE"
+version = "3Smu12Iu"

@@ -1,0 +1,13 @@
+name = "MNS - Moog's Nether Structures"
+filename = "MoogsNetherStructures-1.21-2.0.31.jar"
+side = "server"
+
+[download]
+hash-format = "sha256"
+hash = "72c2daafe897d680a8c1433d6e73bf6d3f39d96b7d15fdcb90de52d06c5936a4"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "nGUXvjTa"
+version = "zruwScWL"

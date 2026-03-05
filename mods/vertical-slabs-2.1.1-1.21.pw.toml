@@ -1,0 +1,13 @@
+name = "Vertical slabs"
+filename = "vertical-slabs-2.1.1-1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "3a3b7e2e9c24005909b5493c603613aa2cf297803dada6586b0c78ae9c7cba2e"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "APjy7qZz"
+version = "g8Snw529"

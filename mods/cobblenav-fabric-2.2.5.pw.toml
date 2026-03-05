@@ -1,0 +1,13 @@
+name = "Cobblemon Pokenav"
+filename = "cobblenav-fabric-2.2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "3fd669b03f152ab9f5ed3da71b25ea6b95944876367e6e289948bf8a1f159333"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "bI8Nt3uA"
+version = "VjtSuwwW"

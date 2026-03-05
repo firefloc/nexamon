@@ -1,0 +1,13 @@
+name = "Cobblemon Minimons"
+filename = "cobblemon_minimons-1.2.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "f3ee2840911dfaccdace55ce1fb51b86b38b15b43a3f11172c95dd779ab922e4"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "ZbgSWwyz"
+version = "3K4Jbrel"

@@ -1,0 +1,13 @@
+name = "MidnightLib"
+filename = "midnightlib-fabric-1.9.2+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "8bb0239ae90ae97c37e5c6d2530e4a6fb718714aa14254aff9f1677bed83628a"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "codAaoxh"
+version = "3tCMjbnf"

@@ -1,0 +1,13 @@
+name = "Lootr"
+filename = "lootr-fabric-1.21.1-1.11.36.115.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "dec124fc389d971e0da0b31a90dd005a05501042001db9c4fb2e0dc3889b66b2"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "EltpO5cN"
+version = "rE51S2Uo"

@@ -1,0 +1,13 @@
+name = "CRD Converters"
+filename = "crd_converters-fabric-1.1.0+1.21.1.jar"
+side = "server"
+
+[download]
+hash-format = "sha256"
+hash = "85a0eaa27b942c09e182f8f01595d9a17d8889d6cc684d77c8a02779273c6145"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "DQcVN2GF"
+version = "wkdNGSus"

@@ -1,0 +1,13 @@
+name = "Cobblemon Raid Den Queue"
+filename = "raid-den-queue-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "644762235df19f27633d4242f3b110f42b266416faeea2083d312e195140c649"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "KaygqiY5"
+version = "vqLdYXOH"

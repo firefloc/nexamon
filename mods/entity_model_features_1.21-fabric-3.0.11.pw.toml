@@ -1,0 +1,13 @@
+name = "[EMF] Entity Model Features"
+filename = "entity_model_features_1.21-fabric-3.0.11.jar"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "7b7622735be11b5aa0ac67af2dffdf47a690bccd3a590e6cdc1ce656b90b7953"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "4I1XuqiY"
+version = "ZiN44dP9"

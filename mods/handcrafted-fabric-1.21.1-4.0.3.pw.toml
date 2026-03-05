@@ -1,0 +1,13 @@
+name = "Handcrafted"
+filename = "handcrafted-fabric-1.21.1-4.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "9609c27e2eeaed4c633ade2d68ad980cfbed0442a10239846a67e9c62bc1b230"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "pJmCFF0p"
+version = "f0pKpUWd"

@@ -1,0 +1,13 @@
+name = "Waystones"
+filename = "waystones-fabric-1.21.1-21.1.26.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "f52b78dd5bc8b1a014b68f98077b44739f2f43b4b3eb38013e81fb1f8dd88aee"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "LOpKHB2A"
+version = "4kYQEiFS"

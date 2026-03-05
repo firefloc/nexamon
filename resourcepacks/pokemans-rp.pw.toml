@@ -1,0 +1,8 @@
+name = "Pokemans RP.zip"
+filename = "Pokemans RP.zip"
+side = "client"
+
+[download]
+url = ""
+hash-format = "sha256"
+hash = "d0c0268051da4ac0c2a47af803e179ec221e222dd680f4a041e97c2dac5d411b"

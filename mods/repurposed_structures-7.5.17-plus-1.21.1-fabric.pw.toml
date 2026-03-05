@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Fabric"
+filename = "repurposed_structures-7.5.17+1.21.1-fabric.jar"
+side = "server"
+
+[download]
+hash-format = "sha256"
+hash = "9cc35b303d7b6dd0f2c7473eb5cf732b47cfefa7673cc52bcc07a96b28ef0c2c"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "muf0XoRe"
+version = "Fl1vtnd3"

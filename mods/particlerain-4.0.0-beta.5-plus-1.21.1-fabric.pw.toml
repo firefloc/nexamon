@@ -1,0 +1,13 @@
+name = "Particle Rain"
+filename = "particlerain-4.0.0-beta.5+1.21.1-fabric.jar"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "f4bc3446c35eafd789ee5eb32f579e398256462a49cd68e668dcac11c5eabf00"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "nrikgvxm"
+version = "UrZSj6yQ"

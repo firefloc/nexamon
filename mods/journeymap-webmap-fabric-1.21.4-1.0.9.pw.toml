@@ -1,0 +1,13 @@
+name = "JourneyMap  Web Map"
+filename = "journeymap-webmap-fabric-1.21.4-1.0.9.jar"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "4baccd129899cefd1d9b079fa4471c4e79fa63849afcc944b874055899bcd4f3"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "YaZ1fUTg"
+version = "IbtHVx5S"

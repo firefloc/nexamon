@@ -1,0 +1,13 @@
+name = "FerriteCore"
+filename = "ferritecore-7.0.3-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "98c3ab1d5aab8f14b5d082d3f1a467727fd335f02d124555c94339761c4c18f2"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "uXXizFIs"
+version = "sOzRw3CG"

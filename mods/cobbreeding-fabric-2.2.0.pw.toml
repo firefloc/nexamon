@@ -1,0 +1,13 @@
+name = "Cobbreeding"
+filename = "Cobbreeding-fabric-2.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "16742ea3b20b7dd8bf47c341e76a77cce35a67665fda94218cb3007b9f564dcb"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "ItmVb4zY"
+version = "DcOPx56X"

@@ -1,0 +1,8 @@
+name = "ftb-library-fabric-2101.1.30.jar"
+filename = "ftb-library-fabric-2101.1.30.jar"
+side = "both"
+
+[download]
+url = ""
+hash-format = "sha256"
+hash = "3e409b1c830e8be52f340a648c881b10923d8a0a1fcce8e4a64cf7d0493bcc7f"

@@ -1,0 +1,13 @@
+name = "Tom's Simple Storage Knowlogy"
+filename = "tomsstorage_knowlogy-fabric-1.1.1-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "9df80c3d29d816559d936982fd643a63708a9183ae51de2f2638c3b55809ee4d"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "WOgHMcEV"
+version = "pjDQHK4F"

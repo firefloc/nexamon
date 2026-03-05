@@ -1,0 +1,13 @@
+name = "Deeper and Darker"
+filename = "deeperdarker-fabric-1.21-1.3.3-plus-b.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "d8b00ac7b28498785b46ca733687301113374c4520f1d5ad8bba0a7ae8041c1b"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "fnAffV0n"
+version = "3MnQb3Tb"

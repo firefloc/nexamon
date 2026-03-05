@@ -1,0 +1,13 @@
+name = "Baby Legends (Cobblemon)"
+filename = "baby-legends-cobblemon-2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "96a9a4064c16b4b8fee9966fc39ba268b9600c9dbebf2354d38b6bba28710142"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "88hsodcW"
+version = "z8KI8Mom"

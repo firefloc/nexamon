@@ -1,0 +1,13 @@
+name = "Platform"
+filename = "Platform-fabric-1.21.1-1.2.11.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "0622833134ca3f87f812dc7e4d59f54da36142cd1fec82a29074872c264927d8"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "i6fiqm5y"
+version = "gV5SV031"

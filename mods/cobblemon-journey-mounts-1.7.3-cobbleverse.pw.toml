@@ -1,0 +1,8 @@
+name = "cobblemon-journey-mounts-1.7.3-cobbleverse.jar"
+filename = "cobblemon-journey-mounts-1.7.3-cobbleverse.jar"
+side = "both"
+
+[download]
+url = ""
+hash-format = "sha256"
+hash = "c2984ae90391ebbdcdd353567b706c640f7ee8f575005fb3278324f64ed206e1"

@@ -1,0 +1,13 @@
+name = "Complementary Shaders - Unbound"
+filename = "ComplementaryUnbound_r5.7.1.zip"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "5cbf4d99bc7ce4f0df5c15974d276e0949bf6974d48d88a77d5e307b0b9be8af"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "R6NEzAwj"
+version = "d8rcvDTp"

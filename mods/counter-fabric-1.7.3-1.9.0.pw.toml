@@ -1,0 +1,13 @@
+name = "Cobblemon Counter"
+filename = "counter-fabric-1.7.3-1.9.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "62c4fc26e50efca95ef22904421e664af353a3e446763fd80b22aa2bb5260481"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "rj8uLYP4"
+version = "eEfCCFXB"

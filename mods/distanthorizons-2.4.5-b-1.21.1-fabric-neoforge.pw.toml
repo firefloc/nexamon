@@ -1,0 +1,13 @@
+name = "Distant Horizons"
+filename = "DistantHorizons-2.4.5-b-1.21.1-fabric-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "288156d3c9032973b8571d258953181a7c152028e07a4ed7d065d5d6ae4e8bec"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "uCdwusMi"
+version = "bLPLghy9"

@@ -1,0 +1,13 @@
+name = "Respackopts"
+filename = "respackopts-4.14.0+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "8e5794576805b54b78bdce3db1eaa6754d6f28f84bcd047fba16df28ec6d944e"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "TiF5QWZY"
+version = "DQMhaFFo"

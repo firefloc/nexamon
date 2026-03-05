@@ -1,0 +1,13 @@
+name = "Cobblemon Trainer Structures"
+filename = "cobblemonopponents-fabric-1.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "0e4a11db8ca3ad45d328f5b87315d5f8c33399b7f98c2ff9186b3d7629977eb2"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "12e2QV8Q"
+version = "zOQ9Wss5"

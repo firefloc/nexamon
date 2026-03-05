@@ -1,0 +1,8 @@
+name = "ftb-quests-fabric-2101.1.21.jar"
+filename = "ftb-quests-fabric-2101.1.21.jar"
+side = "both"
+
+[download]
+url = ""
+hash-format = "sha256"
+hash = "81d9565481741f2b4f286dc42a15b093678d01bd179162ddb28fa75d222aa740"

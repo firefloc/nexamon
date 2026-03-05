@@ -1,0 +1,13 @@
+name = "Common Network"
+filename = "common-networking-fabric-1.0.21-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "87dc5bc3fe57b7e0f88cea0e9a05b414cedcf2fcf0276758ef9ca7e3fb3d462b"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "HIuqnQpi"
+version = "qJXqSlRN"

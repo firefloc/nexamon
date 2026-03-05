@@ -1,0 +1,13 @@
+name = "Cobblemon Paleontology"
+filename = "cobblemon-paleontologist-0.6.0-Beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "1be46578ac0f3ecfb88ceded99d9828500f5db1332c10c85c37fbcbc173a4b34"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "tbBs6vYE"
+version = "l6Q8BHjE"

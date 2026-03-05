@@ -1,0 +1,13 @@
+name = "Fabric Seasons"
+filename = "fabric-seasons-2.4.2-BETA+1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "5f79a94ec0e98a1e78b1effa92f1c25f62fd782d4e11c4428ba99d7ab5e77917"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "KJe6y9Eu"
+version = "2mIvRTNp"

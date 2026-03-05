@@ -1,0 +1,13 @@
+name = "Sounds Be Gone!"
+filename = "soundsbegone-1.3.5.jar"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "9008bd372a8ed2de71074a287fc7ee51a0aaa21a1b383481509322af104d9b50"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "FOIvwGKz"
+version = "Fj9F9wC2"

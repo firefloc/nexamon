@@ -1,0 +1,13 @@
+name = "UnChipped"
+filename = "unchipped-1.21-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "fc286d3f437a7102276db96c001d830d9f63ec9dbb895b7086af7779d8162007"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "RS1svSgj"
+version = "fMCV0NES"

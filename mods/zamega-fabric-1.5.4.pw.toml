@@ -1,0 +1,13 @@
+name = "Navas ZA Megas"
+filename = "zamega-fabric-1.5.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "0e9469a3e0d1235e88c660cbd8239c703626312e38a546ec5616d48a0b56668f"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "2V1Y86sc"
+version = "vVdlKcht"

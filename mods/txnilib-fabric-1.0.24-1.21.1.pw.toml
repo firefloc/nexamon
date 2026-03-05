@@ -1,0 +1,13 @@
+name = "TxniLib"
+filename = "txnilib-fabric-1.0.24-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "814ea0db4bddf0bbc7beb316490e5f709e067203bbe1b8780ef3b2dde267ccc3"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "vBbPDuOs"
+version = "98FHAlrc"

@@ -1,0 +1,13 @@
+name = "Cobblemon: Better Campfire Pot"
+filename = "bettercampfirepot-1.3.0+1.21.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "43d26e06fb2c82952499968569503ba3312c5b6ad6224fde2365d1393d18308d"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "iTqv0DeF"
+version = "bbAqapE1"

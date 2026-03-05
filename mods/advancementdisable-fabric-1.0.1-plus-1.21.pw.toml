@@ -1,0 +1,13 @@
+name = "AdvancementDisable"
+filename = "advancementdisable-fabric-1.0.1+1.21.jar"
+side = "server"
+
+[download]
+hash-format = "sha256"
+hash = "53e5c47d485b0a0dd417c2255523679a0b4bba059ae796cdab746112ad1440d6"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "XIsVTmcm"
+version = "Txi9EkP3"

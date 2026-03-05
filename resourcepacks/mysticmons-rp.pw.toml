@@ -1,0 +1,8 @@
+name = "MysticMons RP.zip"
+filename = "MysticMons RP.zip"
+side = "client"
+
+[download]
+url = ""
+hash-format = "sha256"
+hash = "647f1da1906e672365785994ee54b35513b9b7396c07ad860d52a518dcf31bea"

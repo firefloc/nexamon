@@ -1,0 +1,13 @@
+name = "Cobblemon Knowlogy"
+filename = "cobblemon_knowlogy-fabric-1.5.0-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "cfe6a9d5c528fa2fadf8a1083e07382cf13c568ffffdef8a67cd6ec775a447dc"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "dba1h0rW"
+version = "rKVP7xgM"

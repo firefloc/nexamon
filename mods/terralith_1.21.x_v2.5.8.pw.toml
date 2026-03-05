@@ -1,0 +1,13 @@
+name = "Terralith"
+filename = "Terralith_1.21.x_v2.5.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "00333a130ac38b7b9ca93700098d5e02e0612bdc2d3522aada2f36e5600621bf"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "8oi3bsk5"
+version = "MuJMtPGQ"

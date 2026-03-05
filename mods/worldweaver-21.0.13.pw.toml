@@ -1,0 +1,13 @@
+name = "World Weaver"
+filename = "worldweaver-21.0.13.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "2c408d36e70290b840faec12a963c4b3efb38391de3c87d73228d3ce76bf132d"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "RiN8rDVs"
+version = "mPmeykPR"

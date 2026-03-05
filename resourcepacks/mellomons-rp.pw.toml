@@ -1,0 +1,13 @@
+name = "MelloMons"
+filename = "MelloMons RP.zip"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "e586ee25a3c029048ced4343f0b0f3e1854453bad58259bf50cbcb064f9f6ab6"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "HFE7B8bM"
+version = "g8PU5ubT"

@@ -1,0 +1,8 @@
+name = "COBBLEVERSE RCTmod RP.zip"
+filename = "COBBLEVERSE RCTmod RP.zip"
+side = "client"
+
+[download]
+url = ""
+hash-format = "sha256"
+hash = "bc3a17b4bca77dba92ece86145d7aec896c6f14c66e58a9d3819bdd07ffd9edf"

@@ -1,0 +1,13 @@
+name = "Chat Heads"
+filename = "chat_heads-0.15.0-fabric-1.21.jar"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "ba0c9b9d13ac28c88052eba1815faf049d9e98dcb6d6050f4cff968ac4c8215d"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "Wb5oqrBJ"
+version = "86yH2lgJ"

@@ -1,0 +1,13 @@
+name = "Poké Discs"
+filename = "PokeDiscs.zip"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "f90d7b3a1c5885a5c48aac3820d57033cd628e720bd9bc90481efe2ed01165d3"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "xk007MaS"
+version = "De9pY2p7"

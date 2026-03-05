@@ -1,0 +1,13 @@
+name = "3D Skin Layers"
+filename = "skinlayers3d-fabric-1.10.1-mc1.21.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "a960ebcfd83945617f42a2c2317cce14aaa1c8942cac9fb8dfde3f2b560227e6"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "zV5r3pPn"
+version = "bb8Z5elg"

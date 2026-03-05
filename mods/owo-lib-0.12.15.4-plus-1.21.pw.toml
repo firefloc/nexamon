@@ -1,0 +1,13 @@
+name = "oωo (owo-lib)"
+filename = "owo-lib-0.12.15.4+1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "825180ce17bc012fb450653b14df9f32479dcdd073fc3f133bb47462f5a63cec"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "ccKDOlHs"
+version = "JB1fLQnc"

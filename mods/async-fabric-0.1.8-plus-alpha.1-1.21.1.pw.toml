@@ -1,0 +1,13 @@
+name = "Async"
+filename = "async-fabric-0.1.8+alpha.1-1.21.1.jar"
+side = "server"
+
+[download]
+hash-format = "sha256"
+hash = "e48a57d91c0559df38cc76ab554ad8f06d3f947fc9a33ab5e664add6b2112bc4"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "vEC2jm6I"
+version = "IL1tuyRn"

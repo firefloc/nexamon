@@ -1,0 +1,13 @@
+name = "Better Third Person"
+filename = "BetterThirdPerson-Fabric-1.21-1.9.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "f9ec9dc6508b20d32a3c770ecc77641e8f87c98e298d58e2757a6ef14abbb457"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "G1s2WpNo"
+version = "QZTn8cTa"

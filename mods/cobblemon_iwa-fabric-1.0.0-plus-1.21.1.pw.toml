@@ -1,0 +1,13 @@
+name = "Cobblemon: Interact Wheel Additions"
+filename = "cobblemon_iwa-fabric-1.0.0+1.21.1.jar"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "9dde30a128c0fcfb42d93521d40c9708ceb3da269c1b590d4524b425dd464868"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "g7yIQJhn"
+version = "WYH4mY7s"

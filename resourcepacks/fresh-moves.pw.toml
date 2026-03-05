@@ -1,0 +1,13 @@
+name = "Fresh Moves"
+filename = "Fresh Moves.zip"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "c433f3d831e86faa956836bf327ca00151bd813d1a8ab36aa064d518a58790f7"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "slufHzC2"
+version = "4uyHvhnf"

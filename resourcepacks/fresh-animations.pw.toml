@@ -1,0 +1,13 @@
+name = "Fresh Animations"
+filename = "Fresh Animations.zip"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "999fbdfe9cddcbadeaaa02827f0583dc3d38d8f264146301cb88395d18df85a9"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "50dA9Sha"
+version = "F9QwVhGH"

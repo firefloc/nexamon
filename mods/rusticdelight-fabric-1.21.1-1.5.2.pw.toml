@@ -1,0 +1,13 @@
+name = "Rustic Delight"
+filename = "rusticdelight-fabric-1.21.1-1.5.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "7ddd89c7140b1e6fe4bdc8a799a5a1430a3bd7d4860855e4fee199b37507f3c5"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "foa4fGIH"
+version = "LtCySLDC"

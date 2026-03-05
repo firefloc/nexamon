@@ -1,0 +1,8 @@
+name = "LackingMons RP.zip"
+filename = "LackingMons RP.zip"
+side = "client"
+
+[download]
+url = ""
+hash-format = "sha256"
+hash = "6e7a9a07464b01c4f748e38dfe735e09ee4874cc82898e09af8b1d8397dac1a9"

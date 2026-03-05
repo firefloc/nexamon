@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Farmer's Delight Compat"
+filename = "repurposed_structures_farmers_delight_compat_v7.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "32868db0c8dbd116ec550347e3d402c7925c5c0c021cde785f56d6f0e6bd95e3"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "P5wB88AS"
+version = "PKPVpBYy"

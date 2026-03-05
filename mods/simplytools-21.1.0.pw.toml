@@ -1,0 +1,8 @@
+name = "simplytools-21.1.0.jar"
+filename = "simplytools-21.1.0.jar"
+side = "both"
+
+[download]
+url = ""
+hash-format = "sha256"
+hash = "b8edad733803ee3e8dc706f5965e85bf9f4513e11b9b3146c674b91c7accf481"

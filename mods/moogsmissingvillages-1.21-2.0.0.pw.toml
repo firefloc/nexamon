@@ -1,0 +1,13 @@
+name = "MMV - Moog's Missing Villages"
+filename = "MoogsMissingVillages-1.21-2.0.0.jar"
+side = "server"
+
+[download]
+hash-format = "sha256"
+hash = "33de63032c126268cbf8b3b1c8de09a9974d30da5aa7f158ac4bd346c06e9c4a"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "spZb29SD"
+version = "Ovcslt8K"

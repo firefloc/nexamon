@@ -1,0 +1,13 @@
+name = "Keybind Sets"
+filename = "CmdKeybindChanger-1.0.2.jar"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "086dc3bbbb834e6eb57889c053c8747a153749824272df9aa07968d1eba1714d"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "zmYU64La"
+version = "uuOxIJzw"

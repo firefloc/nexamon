@@ -1,0 +1,13 @@
+name = "Cobblemore Lib"
+filename = "cobblemore_lib-fabric-1.2.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "aa78d9ce807acc1b91d5438d8fa95ad2d0957a6e9c7d9a60eaac11420a434aa1"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "VYP2vmDS"
+version = "b8DJjXbP"

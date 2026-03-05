@@ -1,0 +1,13 @@
+name = "Cobblemon Challenge"
+filename = "cobblemonchallenge-fabric-2.4.0.jar"
+side = "server"
+
+[download]
+hash-format = "sha256"
+hash = "7b557fdac185e6415263b482c8674392c85de5ec2439efa83a159d57ca676d47"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "XpJB1Qk6"
+version = "3AQmaig2"

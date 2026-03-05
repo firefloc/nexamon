@@ -1,0 +1,13 @@
+name = "CobblemonNPCs"
+filename = "cobblemonnpcs-v4.jar"
+side = "server"
+
+[download]
+hash-format = "sha256"
+hash = "23791db334dcb0b9900973c455a06e622b10942ec787777cbaf8e6cb89db147b"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "Vp8Qj4qr"
+version = "47RbrHPS"

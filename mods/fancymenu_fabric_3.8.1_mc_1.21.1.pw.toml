@@ -1,0 +1,13 @@
+name = "FancyMenu"
+filename = "fancymenu_fabric_3.8.1_MC_1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "32f21b601ce12c7c511752d207a73b077cb19b8e24b0eb3d6e0440a299bc5743"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "Wq5SjeWM"
+version = "6V6kRZzL"

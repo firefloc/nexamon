@@ -1,0 +1,13 @@
+name = "Towers of the Wild Modded - Extra Towers"
+filename = "towers-of-the-wild-modded-extra-towers-1.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "481443baa0dfc77d39dee9e09b25d923f82ca850b96dda77c03c30e918a56d24"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "RJcwF5bg"
+version = "azmCiYpi"

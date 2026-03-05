@@ -1,0 +1,13 @@
+name = "MSS - Moog's Soaring Structures"
+filename = "MoogsSoaringStructures-1.21-2.0.2.jar"
+side = "server"
+
+[download]
+hash-format = "sha256"
+hash = "6d09750501b20d73479b05cfbbe9e31f878ce3e69c269d80763d1994dc41371c"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "RJCLIx7k"
+version = "5oeZ3VOH"

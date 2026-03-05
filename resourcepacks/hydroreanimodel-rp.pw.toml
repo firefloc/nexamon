@@ -1,0 +1,8 @@
+name = "HydroReanimodel RP.zip"
+filename = "HydroReanimodel RP.zip"
+side = "client"
+
+[download]
+url = ""
+hash-format = "sha256"
+hash = "51746fce2225d9e1f5706a5840437d9e9a4d1aa8efc0d9f1d4b9f64a5ca27e6a"

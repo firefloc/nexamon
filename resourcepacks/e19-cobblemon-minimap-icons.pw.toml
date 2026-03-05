@@ -1,0 +1,8 @@
+name = "E19 Cobblemon Minimap Icons.zip"
+filename = "E19 Cobblemon Minimap Icons.zip"
+side = "client"
+
+[download]
+url = ""
+hash-format = "sha256"
+hash = "d197e0269ed652ddfccdb6f06fc5f4a8929d37a41c3dae886ea70f2b9d45cd52"

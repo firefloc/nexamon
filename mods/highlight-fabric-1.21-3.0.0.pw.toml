@@ -1,0 +1,13 @@
+name = "Highlight"
+filename = "highlight-fabric-1.21-3.0.0.jar"
+side = "client"
+
+[download]
+hash-format = "sha256"
+hash = "08932afc913f74e9676b9a59a87bdf817d959cf6d861a9269897778240f11df2"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "Vz96hXMh"
+version = "O0nda3pt"

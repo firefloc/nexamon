@@ -1,0 +1,13 @@
+name = "Pumpkin Pie Delight"
+filename = "pumpkin_pie_delight-1.0.2+1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha256"
+hash = "d451d5255eb01c5c493f563af79c44fb96f67d2fdc5ccc6c085e9218089375bf"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "AhcCiL7x"
+version = "Cvc7c7rN"
