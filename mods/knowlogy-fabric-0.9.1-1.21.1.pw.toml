@@ -5,7 +5,6 @@ side = "both"
 [download]
 hash-format = "sha256"
 hash = "35737c0c002efacfcf27a98a26795200682167be993766c8fcdd7c997d43b6ca"
-mode = ""
 
 [update]
 [update.modrinth]

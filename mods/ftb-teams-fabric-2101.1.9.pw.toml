@@ -3,6 +3,6 @@ filename = "ftb-teams-fabric-2101.1.9.jar"
 side = "both"
 
 [download]
-url = ""
+url = "https://github.com/firefloc/nexamon/releases/download/v1.0.0-custom/ftb-teams-fabric-2101.1.9.jar"
 hash-format = "sha256"
 hash = "92fc0626fef1a804d0c5b94ad68236e44e93573228a286417b066d90dafb181d"

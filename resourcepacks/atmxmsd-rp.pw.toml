@@ -3,6 +3,6 @@ filename = "ATMxMSD RP.zip"
 side = "client"
 
 [download]
-url = ""
+url = "https://github.com/firefloc/nexamon/releases/download/v1.0.0-custom/ATMxMSD%20RP.zip"
 hash-format = "sha256"
 hash = "67e1743fc67fda77c4021d7515aba09ee26c641916e20bb3a0a6965e7a4b8c9f"

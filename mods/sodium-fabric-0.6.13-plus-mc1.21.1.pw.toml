@@ -5,7 +5,6 @@ side = "client"
 [download]
 hash-format = "sha256"
 hash = "e04599514d88e41765f710eeba59e3814909833396bc11b977f48fc2e7e50353"
-mode = ""
 
 [update]
 [update.modrinth]

@@ -3,6 +3,6 @@ filename = "ftb-essentials-fabric-2101.1.9.jar"
 side = "both"
 
 [download]
-url = ""
+url = "https://github.com/firefloc/nexamon/releases/download/v1.0.0-custom/ftb-essentials-fabric-2101.1.9.jar"
 hash-format = "sha256"
 hash = "ce35d74f8c3c9d65e3e12f114fd98c0fd4fd84e380bd94e1d4335bd199e0b6bf"

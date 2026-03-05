@@ -3,6 +3,6 @@ filename = "MissingMons RP.zip"
 side = "client"
 
 [download]
-url = ""
+url = "https://github.com/firefloc/nexamon/releases/download/v1.0.0-custom/MissingMons%20RP.zip"
 hash-format = "sha256"
 hash = "93521742a908024be27a310c41bd99a46f7aacaf9c3278e37a4ee9ff533bc6e7"

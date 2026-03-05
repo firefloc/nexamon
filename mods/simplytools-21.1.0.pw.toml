@@ -3,6 +3,6 @@ filename = "simplytools-21.1.0.jar"
 side = "both"
 
 [download]
-url = ""
+url = "https://github.com/firefloc/nexamon/releases/download/v1.0.0-custom/simplytools-21.1.0.jar"
 hash-format = "sha256"
 hash = "b8edad733803ee3e8dc706f5965e85bf9f4513e11b9b3146c674b91c7accf481"
