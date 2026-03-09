@@ -49,7 +49,24 @@
     "file/E19 Cobblemon Minimap Icons.zip",
     "file/COBBLEVERSE Soundtrack.zip",
     "file/COBBLEVERSE RCTmod RP.zip",
-    "file/COBBLEVERSE RP.zip"
+    "file/COBBLEVERSE RP.zip",
+    "moonlight:merged_pack",
+    "builtin/emissivity_model_override",
+    "cobblemon_knowlogy:cobblemon",
+    "tomsstorage_knowlogy:toms_storage",
+    "knowlogy:1.21.0_tricky_trials",
+    "seasons:seasonal_lush_caves",
+    "cobblemon_knowlogy:cobblemonsmartphone",
+    "knowlogy:tutorial",
+    "knowlogy:1.21.2_bundles_of_bravery",
+    "minecraft:supporteatinganimation",
+    "classic_icons",
+    "cobblemon_knowlogy:cobblemonpokenav",
+    "cobblemon_knowlogy:pokepedia",
+    "knowlogy:1.0.0_minecraft",
+    "file/Maxi's-JM+CM_Pixel-U10.zip",
+    "file/cutil-nerf-tooltips.zip",
+    "file/COBBLEVERSE 1.7.30 Traduction FR.zip"
   ],
   "pack_overrides": {
     "file/COBBLEVERSE RP.zip": {
