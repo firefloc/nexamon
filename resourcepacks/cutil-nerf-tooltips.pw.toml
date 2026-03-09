@@ -4,6 +4,6 @@ side = "both"
 tier = "core"
 
 [download]
-url = "http://90.73.30.60:9457/cutil-nerf-tooltips.zip"
+url = "https://github.com/firefloc/nexamon/releases/download/v1.0.0-custom/cutil-nerf-tooltips.zip"
 hash-format = "sha256"
 hash = "5395b45312ec887c1ae13fa5f94acc8c8e186b0c73a71b1cc649e40b341207fd"
