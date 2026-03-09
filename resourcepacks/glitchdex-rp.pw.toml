@@ -3,6 +3,6 @@ filename = "GlitchDex RP.zip"
 side = "client"
 
 [download]
-url = "https://github.com/firefloc/nexamon/releases/download/v1.0.0-custom/GlitchDex%20RP.zip"
+url = "https://github.com/firefloc/nexamon/releases/download/v1.0.0-custom/GlitchDex.RP.zip"
 hash-format = "sha256"
 hash = "45141851744fb63075f58bcfd8671e9f53d36bcc2c8300b56686b7e7cfd133cf"

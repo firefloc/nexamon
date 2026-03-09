@@ -6,7 +6,7 @@ hash = "9d66f74f2b71451251c437fe0a3d1feb59e8d1059e922089e0121e8705b9a3d7"
 
 [[files]]
 file = "fix_custom_urls.py"
-hash = "a3f3862f85dfb551142a1538f447c8149e6c8c489eb1bae1d6e381cda349f6fc"
+hash = "18007f53941ee66c95a8ea17cf7491ab47eb8ee277e542df930f0b155c060d73"
 
 [[files]]
 file = "index_mods.py"
@@ -1377,7 +1377,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/atmxmsd-rp.pw.toml"
-hash = "8392d4c45dcb643803568ffd31c34c3711dc94ba235708706075a65ef85f4f82"
+hash = "1e236e6567cc227fa760503656188de519d42420bee9ded4206793215e6cd420"
 metafile = true
 
 [[files]]
@@ -1387,7 +1387,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/cavscobblemons-rp.pw.toml"
-hash = "d72b49ca20e6c1911a90557a7804b11ddec24d31640eda1d2b905072f65a6430"
+hash = "0a2928815e1a6f92fb00328c318e8658c0b41934d825befc4b188e2f5a6ccdfd"
 metafile = true
 
 [[files]]
@@ -1407,22 +1407,22 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/cobblemotion-rp.pw.toml"
-hash = "d473faa5bb1f875ec9683522d3abf7324b72bf0cff37ea2970e1afd7af801179"
+hash = "d955ae5861bc333ab48ddfd90179026848cbabb91c4529f76bfd5befaac1c79b"
 metafile = true
 
 [[files]]
 file = "resourcepacks/cobbleverse-rctmod-rp.pw.toml"
-hash = "3805f9e992ebf88b3f45d243c683731c7bc2ce905743598f8b2d64354492890f"
+hash = "5a195167826ccca528312f4496ff858cd32ac38de8c69fc4213db8153c3cfd43"
 metafile = true
 
 [[files]]
 file = "resourcepacks/cobbleverse-rp.pw.toml"
-hash = "5f8b928754cea1da41cde220c872cc3a225d51a4ec4910190de8a79c2256d9e4"
+hash = "769b50e187979a03f8b7447f67bfa96a83ca6abd21c5a082bc0461e5b6358312"
 metafile = true
 
 [[files]]
 file = "resourcepacks/cobbleverse-soundtrack.pw.toml"
-hash = "4ae8ff04fca1cd2d9b2f783664c904a89910a6465ae3c1375afdb6d8a0f236ce"
+hash = "ea221e35328450a36397e36c99bc9a788e92a8b3d93993327fb8ed325d1cb7ec"
 metafile = true
 
 [[files]]
@@ -1437,7 +1437,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/e19-cobblemon-minimap-icons.pw.toml"
-hash = "f0bb192609e8b8a87d92b7a29ed4fa09dde71e6d2ad53bc557c25d991faf5752"
+hash = "c6c14461f416b0f491cbe297e340bf9ab23ee400aa341208c5a3a66c2ddde036"
 metafile = true
 
 [[files]]
@@ -1472,12 +1472,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/glitchdex-rp.pw.toml"
-hash = "06e838b03adef9cd6d6205eade60db21bc720b25ca0b207d75a68e6190226261"
+hash = "97dac8cc4ff6b7015462dc532f6da687240e019a32b6d9b80c7618b8078993cb"
 metafile = true
 
 [[files]]
 file = "resourcepacks/hydroreanimodel-rp.pw.toml"
-hash = "59070458b4f4d909a165ca6a3fa2b4cc149a38ad88527d1a622eb63d827f4b6b"
+hash = "b0bf8003eb1398f1427fa225e0aa3875a99e2ae94dcfa1d1bf3e3bb26b2bed1d"
 metafile = true
 
 [[files]]
@@ -1487,7 +1487,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/lackingmons-rp.pw.toml"
-hash = "bbb60284eeceddd610e2839df52a335979efaf225f591ec9b9aadf6ded3a3fae"
+hash = "0642ada7ceffc2cf5fbd1783caaa1aa4bbc38b2562830cce8f6abf0f64dd99be"
 metafile = true
 
 [[files]]
@@ -1507,22 +1507,22 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/missingmons-rp.pw.toml"
-hash = "0db7a039d92cd56d7fa238486acfc5093628426650e97b60120bc7d570ad2cbd"
+hash = "b4e5536d76f0aa1e77aa44a4fc1de874aea6529ba9ad37a26b9e840bfddd2a40"
 metafile = true
 
 [[files]]
 file = "resourcepacks/mundialmons-rp.pw.toml"
-hash = "64df30f51d1ae0c5be14e0cdac8f76ce1d2af6c84bb99adb261f05b720a9549f"
+hash = "1256f00b3aa961aba2b4723b74a4b43036f502c59ba59b5ae474cbd8d8c05371"
 metafile = true
 
 [[files]]
 file = "resourcepacks/mysticmons-rp.pw.toml"
-hash = "15f8efae48956b9c0d4b8da6e702f7c9c1bacabc91325180a2756f87a2944767"
+hash = "09937fcc2aa09a51a8ceb9496332acf90f29d98429ec57c3acba68d957539fb6"
 metafile = true
 
 [[files]]
 file = "resourcepacks/ojsanimations-rp.pw.toml"
-hash = "d555ffd93bb7f0ded2fbfa6f867d8bc2e6a9272f385cf9f8e065df52e203bf19"
+hash = "7fa5a7e348d6354617e69faa031b839425b99f78f5cb48016f4a39689f95b953"
 metafile = true
 
 [[files]]
@@ -1532,7 +1532,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/planetacobblemon-rp.pw.toml"
-hash = "014f897b3f57a85df1be727e3ad924c35997e1702f8a79602b67d42cc130122d"
+hash = "a7e1166cfd7309b6ece1c5a6f6664d1f56ada4154205a6d010bb5390ec73d86a"
 metafile = true
 
 [[files]]
@@ -1542,7 +1542,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/pokemans-rp.pw.toml"
-hash = "d279f4e7a3935b3313306aa668356cd6bf63ea06ae5c6ff3d72d5c294aa1024e"
+hash = "493cb6f3578630078ad5698087f8f373a634b39c11fb7b3b8b87dc9a9cbd4b5b"
 metafile = true
 
 [[files]]
@@ -1552,7 +1552,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/tdmon-rp.pw.toml"
-hash = "09f6720f449c5b8c467c31c4c5e444674ed1faab9b0cb0877327b06be958c959"
+hash = "925fb99b1bc68845bfabf936fe29669f1d193811211a118d01531d8e1d9bd671"
 metafile = true
 
 [[files]]

@@ -3,6 +3,6 @@ filename = "E19 Cobblemon Minimap Icons.zip"
 side = "client"
 
 [download]
-url = "https://github.com/firefloc/nexamon/releases/download/v1.0.0-custom/E19%20Cobblemon%20Minimap%20Icons.zip"
+url = "https://github.com/firefloc/nexamon/releases/download/v1.0.0-custom/E19.Cobblemon.Minimap.Icons.zip"
 hash-format = "sha256"
 hash = "d197e0269ed652ddfccdb6f06fc5f4a8929d37a41c3dae886ea70f2b9d45cd52"

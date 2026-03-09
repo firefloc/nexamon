@@ -3,6 +3,6 @@ filename = "Pokemans RP.zip"
 side = "client"
 
 [download]
-url = "https://github.com/firefloc/nexamon/releases/download/v1.0.0-custom/Pokemans%20RP.zip"
+url = "https://github.com/firefloc/nexamon/releases/download/v1.0.0-custom/Pokemans.RP.zip"
 hash-format = "sha256"
 hash = "d0c0268051da4ac0c2a47af803e179ec221e222dd680f4a041e97c2dac5d411b"

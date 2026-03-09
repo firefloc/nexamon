@@ -3,6 +3,6 @@ filename = "HydroReanimodel RP.zip"
 side = "client"
 
 [download]
-url = "https://github.com/firefloc/nexamon/releases/download/v1.0.0-custom/HydroReanimodel%20RP.zip"
+url = "https://github.com/firefloc/nexamon/releases/download/v1.0.0-custom/HydroReanimodel.RP.zip"
 hash-format = "sha256"
 hash = "51746fce2225d9e1f5706a5840437d9e9a4d1aa8efc0d9f1d4b9f64a5ca27e6a"

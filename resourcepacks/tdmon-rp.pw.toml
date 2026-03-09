@@ -3,6 +3,6 @@ filename = "TDmon RP.zip"
 side = "client"
 
 [download]
-url = "https://github.com/firefloc/nexamon/releases/download/v1.0.0-custom/TDmon%20RP.zip"
+url = "https://github.com/firefloc/nexamon/releases/download/v1.0.0-custom/TDmon.RP.zip"
 hash-format = "sha256"
 hash = "910e64ffb24126578d4a55ce5f015cc761912368f7c260b091ca4e07884a1e57"
