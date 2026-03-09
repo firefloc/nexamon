@@ -1,0 +1,14 @@
+name = "Mining Quakes ⛏"
+filename = "mining_quakes-fabric-1.1.3.jar"
+side = "client"
+tier = "ultra"
+
+[download]
+url = "https://cdn.modrinth.com/data/LKVZxR8L/versions/3FZxu0WH/mining_quakes-fabric-1.1.3.jar"
+hash-format = "sha512"
+hash = "edff1b6be6da8e96aa9084e561e9ef9a5c8fd1ff6f03e56aab2d3a9c3cf108ca02ad8bd236fcd4d4678ab3a2a65c76e8412b408ff25398b0442208178e0d9e70"
+
+[update]
+[update.modrinth]
+mod-id = "LKVZxR8L"
+version = "3FZxu0WH"

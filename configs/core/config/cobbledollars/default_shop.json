@@ -1,7 +1,7 @@
 {
   "defaultShop": [
     {
-      "Cobble Ball": [
+      "Poké Ball": [
         {
           "item": "cobblemon:poke_ball",
           "price": 400
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "Mob Drops": [
+      "Butins de Mob": [
         {
           "item": "minecraft:egg",
           "price": 250
@@ -105,7 +105,7 @@
       ]
     },
     {
-      "Cards": [
+      "Cartes": [
         {
           "item": "rctmod:trainer_card",
           "price": 500

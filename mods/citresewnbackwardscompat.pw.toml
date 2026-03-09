@@ -1,0 +1,14 @@
+name = "CITResewnBackwardsCompat"
+filename = "citresewn-1.2.1+1.21.jar"
+side = "client"
+tier = "base"
+
+[download]
+url = "https://cdn.modrinth.com/data/OrYRDEkP/versions/bM1zYJHO/citresewn-1.2.1%2B1.21.jar"
+hash-format = "sha512"
+hash = "4b4980ec23e76f3649fbcc14f6f9719e1fc4796763b14d7d4e5c2a279ae97e323b8a07ea4e675d4cad441ea3ba7fd214328acb8b496911e268b302fd62893f71"
+
+[update]
+[update.modrinth]
+mod-id = "OrYRDEkP"
+version = "bM1zYJHO"

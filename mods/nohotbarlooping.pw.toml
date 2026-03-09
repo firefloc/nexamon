@@ -1,0 +1,14 @@
+name = "No Hotbar Looping"
+filename = "nohotbarlooping-1.1.1-1.21.1.jar"
+side = "client"
+tier = "core"
+
+[download]
+url = "https://cdn.modrinth.com/data/HmJkmcXO/versions/3DGuxev9/nohotbarlooping-1.1.1-1.21.1.jar"
+hash-format = "sha512"
+hash = "da99469eef5745d348caa730f35e318e97b6003c86ddcd34ed5d9b57d946a596a69343833abf7c8d6dd14803e65e68da505e47d151d231baad3dada47d0ff8b4"
+
+[update]
+[update.modrinth]
+mod-id = "HmJkmcXO"
+version = "3DGuxev9"

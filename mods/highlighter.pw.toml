@@ -1,0 +1,14 @@
+name = "Highlighter"
+filename = "Highlighter.jar"
+side = "client"
+tier = "core"
+
+[download]
+url = "https://cdn.modrinth.com/data/xc8SNPzT/versions/az92WwAJ/Highlighter.jar"
+hash-format = "sha512"
+hash = "7c5c68614a8e295fbbce086298b16c9616c13365438d90979381c4764de0c9be6f77b8cacb765204899b2af237c43a6c9ab70d1015e0a185d6a9dcbf72a1deeb"
+
+[update]
+[update.modrinth]
+mod-id = "xc8SNPzT"
+version = "az92WwAJ"

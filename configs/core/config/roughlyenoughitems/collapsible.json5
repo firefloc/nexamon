@@ -3,7 +3,7 @@
 	"customGroups": [
 		{
 			"id": "custom:3671dae0-7790-4ea7-87d4-bce9dc7b13d8",
-			"name": "Lights",
+			"name": "Lumières",
 			"stacks": [
 				"{components:{\"minecraft:block_state\":{level:\"4\"}},count:1,id:\"minecraft:light\",type:\"minecraft:item\"}",
 				"{components:{\"minecraft:block_state\":{level:\"3\"}},count:1,id:\"minecraft:light\",type:\"minecraft:item\"}",
@@ -25,7 +25,7 @@
 		},
 		{
 			"id": "custom:5c521acf-7107-4bc0-9558-53745bae1ef2",
-			"name": "Wool",
+			"name": "Laine",
 			"stacks": [
 				"{count:1,id:\"minecraft:white_wool\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:orange_wool\",type:\"minecraft:item\"}",
@@ -47,7 +47,7 @@
 		},
 		{
 			"id": "custom:c375cc5f-be94-46a8-a060-9d019086b790",
-			"name": "Carpets",
+			"name": "Tapis",
 			"stacks": [
 				"{count:1,id:\"minecraft:white_carpet\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:orange_carpet\",type:\"minecraft:item\"}",
@@ -69,7 +69,7 @@
 		},
 		{
 			"id": "custom:0f1c21aa-90d8-41b7-9f3e-d6775e9a3a8e",
-			"name": "Glass",
+			"name": "Verre",
 			"stacks": [
 				"{count:1,id:\"minecraft:white_stained_glass\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:orange_stained_glass\",type:\"minecraft:item\"}",
@@ -93,7 +93,7 @@
 		},
 		{
 			"id": "custom:167317ab-50ea-4485-a37a-cfbcdda12421",
-			"name": "Glass Panes",
+			"name": "Panneaux de verre",
 			"stacks": [
 				"{count:1,id:\"minecraft:glass_pane\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:white_stained_glass_pane\",type:\"minecraft:item\"}",
@@ -116,7 +116,7 @@
 		},
 		{
 			"id": "custom:1fa60876-fad3-4b24-a60d-e766e79a8a1e",
-			"name": "Ores",
+			"name": "Minerais",
 			"stacks": [
 				"{count:1,id:\"minecraft:coal_ore\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:deepslate_coal_ore\",type:\"minecraft:item\"}",
@@ -163,7 +163,7 @@
 		},
 		{
 			"id": "custom:157c4862-c22e-4c29-b965-741afa16b78d",
-			"name": "Copper Blocks",
+			"name": "Blocs de cuivre",
 			"stacks": [
 				"{count:1,id:\"minecraft:copper_block\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:exposed_copper\",type:\"minecraft:item\"}",
@@ -201,7 +201,7 @@
 		},
 		{
 			"id": "custom:f8a1a50b-a5de-4140-bbbd-2cf1ea5381e6",
-			"name": "Concrete Powders",
+			"name": "Poudres de béton",
 			"stacks": [
 				"{count:1,id:\"minecraft:white_concrete_powder\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:orange_concrete_powder\",type:\"minecraft:item\"}",
@@ -223,7 +223,7 @@
 		},
 		{
 			"id": "custom:5a629413-4017-47e7-9c78-6ae625f323e5",
-			"name": "Dead Corals",
+			"name": "Coraux morts",
 			"stacks": [
 				"{count:1,id:\"minecraft:dead_tube_coral_block\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:dead_brain_coral_block\",type:\"minecraft:item\"}",
@@ -244,7 +244,7 @@
 		},
 		{
 			"id": "custom:f96f7c64-f6a8-4d5d-8827-072221e54cea",
-			"name": "Corals",
+			"name": "Coraux",
 			"stacks": [
 				"{count:1,id:\"minecraft:tube_coral_block\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:brain_coral_block\",type:\"minecraft:item\"}",
@@ -275,7 +275,7 @@
 		},
 		{
 			"id": "custom:14e4b30d-ffde-4bdc-9dcf-117c2bcbd483",
-			"name": "Minecarts",
+			"name": "Chariots de mine",
 			"stacks": [
 				"{count:1,id:\"minecraft:minecart\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:chest_minecart\",type:\"minecraft:item\"}",
@@ -287,7 +287,7 @@
 		},
 		{
 			"id": "custom:5b1c0ebd-90bd-4531-9702-3dcaaa796714",
-			"name": "Helmets",
+			"name": "Casques",
 			"stacks": [
 				"{count:1,id:\"minecraft:turtle_helmet\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:leather_helmet\",type:\"minecraft:item\"}",
@@ -300,7 +300,7 @@
 		},
 		{
 			"id": "custom:b143e8b2-6d8d-4d45-8a8e-8a0f7f0cea97",
-			"name": "Chestplates",
+			"name": "Plaques de poitrine",
 			"stacks": [
 				"{count:1,id:\"minecraft:leather_chestplate\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:chainmail_chestplate\",type:\"minecraft:item\"}",
@@ -324,7 +324,7 @@
 		},
 		{
 			"id": "custom:47c975a3-903d-44e4-8ae6-37eca0ccad82",
-			"name": "Boots",
+			"name": "Bottes",
 			"stacks": [
 				"{count:1,id:\"minecraft:leather_boots\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:chainmail_boots\",type:\"minecraft:item\"}",
@@ -336,7 +336,7 @@
 		},
 		{
 			"id": "custom:4b24b350-f0ab-47eb-956e-0ac92c662f1b",
-			"name": "Swords",
+			"name": "Épées",
 			"stacks": [
 				"{count:1,id:\"minecraft:wooden_sword\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:stone_sword\",type:\"minecraft:item\"}",
@@ -348,7 +348,7 @@
 		},
 		{
 			"id": "custom:282d2e8f-c9dc-41d3-90d0-2951ed7bbe1b",
-			"name": "Shovels",
+			"name": "Pelles",
 			"stacks": [
 				"{count:1,id:\"minecraft:wooden_shovel\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:stone_shovel\",type:\"minecraft:item\"}",
@@ -360,7 +360,7 @@
 		},
 		{
 			"id": "custom:38384193-59de-47c7-b16f-5dfb75eb1777",
-			"name": "Pickaxes",
+			"name": "Pioches",
 			"stacks": [
 				"{count:1,id:\"minecraft:wooden_pickaxe\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:stone_pickaxe\",type:\"minecraft:item\"}",
@@ -384,7 +384,7 @@
 		},
 		{
 			"id": "custom:fdaa85d5-fa74-4ec3-85ed-7573a0753961",
-			"name": "Hoes",
+			"name": "Houes",
 			"stacks": [
 				"{count:1,id:\"minecraft:wooden_hoe\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:stone_hoe\",type:\"minecraft:item\"}",
@@ -396,7 +396,7 @@
 		},
 		{
 			"id": "custom:ee17572f-c468-4ee4-894c-a563efa9ad84",
-			"name": "Dyes",
+			"name": "Colorants",
 			"stacks": [
 				"{count:1,id:\"minecraft:white_dye\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:orange_dye\",type:\"minecraft:item\"}",
@@ -418,7 +418,7 @@
 		},
 		{
 			"id": "custom:3a24a6cb-e709-48ab-8ff7-c4f63e661d62",
-			"name": "Horse Armors",
+			"name": "Armures pour chevaux",
 			"stacks": [
 				"{count:1,id:\"minecraft:iron_horse_armor\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:golden_horse_armor\",type:\"minecraft:item\"}",
@@ -428,7 +428,7 @@
 		},
 		{
 			"id": "custom:5d46686a-9e3f-4404-b4f7-7ee5456199ad",
-			"name": "Banner Patterns",
+			"name": "Modèles de bannières",
 			"stacks": [
 				"{count:1,id:\"minecraft:flower_banner_pattern\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:creeper_banner_pattern\",type:\"minecraft:item\"}",
@@ -442,7 +442,7 @@
 		},
 		{
 			"id": "custom:3a07300d-da08-4ea9-a50e-fab300f60f6d",
-			"name": "Candles",
+			"name": "Bougies",
 			"stacks": [
 				"{count:1,id:\"minecraft:candle\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:white_candle\",type:\"minecraft:item\"}",
@@ -465,7 +465,7 @@
 		},
 		{
 			"id": "custom:2053d836-7458-45f0-b400-a3e74eba2c18",
-			"name": "Decorated Pot Sherds",
+			"name": "Tessons de poterie décorés",
 			"stacks": [
 				"{count:1,id:\"minecraft:angler_pottery_sherd\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:archer_pottery_sherd\",type:\"minecraft:item\"}",
@@ -500,7 +500,7 @@
 		},
 		{
 			"id": "custom:6c8ad7e3-2092-4240-bdcd-6dd8b8b54eac",
-			"name": "Ominous Bottles",
+			"name": "Bouteilles sinistres",
 			"stacks": [
 				"{count:1,id:\"minecraft:ominous_bottle\",type:\"minecraft:item\"}",
 				"{components:{\"minecraft:ominous_bottle_amplifier\":1},count:1,id:\"minecraft:ominous_bottle\",type:\"minecraft:item\"}",
@@ -511,7 +511,7 @@
 		},
 		{
 			"id": "custom:83f31bb3-fc65-4b0d-8bf7-c15bd2642871",
-			"name": "Berries",
+			"name": "Baies",
 			"stacks": [
 				"{count:1,id:\"cobblemon:pomeg_berry\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblemon:wepear_berry\",type:\"minecraft:item\"}",
@@ -589,7 +589,7 @@
 		},
 		{
 			"id": "custom:66eb39ef-d158-43aa-b2c8-17c4fbbd3315",
-			"name": "Battle Items",
+			"name": "Objets de combat",
 			"stacks": [
 				"{count:1,id:\"cobblemon:x_special_attack\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblemon:x_attack\",type:\"minecraft:item\"}",
@@ -603,7 +603,7 @@
 		},
 		{
 			"id": "custom:94793e94-8b69-437a-94f0-708139219642",
-			"name": "Fossils",
+			"name": "Fossiles",
 			"stacks": [
 				"{count:1,id:\"cobblemon:sail_fossil\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblemon:fossilized_bird\",type:\"minecraft:item\"}",
@@ -624,7 +624,7 @@
 		},
 		{
 			"id": "custom:5fe871ae-be64-439d-b098-aa032eff4747",
-			"name": "Fishing Rods",
+			"name": "Cannes à pêche",
 			"stacks": [
 				"{count:1,id:\"minecraft:fishing_rod\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblemon:great_rod\",type:\"minecraft:item\"}",
@@ -679,7 +679,7 @@
 		},
 		{
 			"id": "custom:00128970-66d5-4220-a721-d60ce4be8019",
-			"name": "Gilded Chests",
+			"name": "Coffres dorés",
 			"stacks": [
 				"{count:1,id:\"cobblemon:yellow_gilded_chest\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblemon:black_gilded_chest\",type:\"minecraft:item\"}",
@@ -692,7 +692,7 @@
 		},
 		{
 			"id": "custom:333e7fee-7e98-4daf-9884-66674caad6a5",
-			"name": "Ancient Poké Balls",
+			"name": "Anciennes Poké Balls",
 			"stacks": [
 				"{count:1,id:\"cobblemon:ancient_gigaton_ball\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblemon:ancient_poke_ball\",type:\"minecraft:item\"}",
@@ -752,7 +752,7 @@
 		},
 		{
 			"id": "custom:51ce71f9-0064-4a04-9ab1-47b69afd5b13",
-			"name": "Medicines",
+			"name": "Médicaments",
 			"stacks": [
 				"{count:1,id:\"cobblemon:potion\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblemon:super_potion\",type:\"minecraft:item\"}",
@@ -780,7 +780,7 @@
 		},
 		{
 			"id": "custom:d4f2f092-7f9c-4c34-a299-350a8c23b45b",
-			"name": "Apricorns",
+			"name": "Abricornes",
 			"stacks": [
 				"{count:1,id:\"cobblemon:red_apricorn\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblemon:yellow_apricorn_seed\",type:\"minecraft:item\"}",
@@ -800,7 +800,7 @@
 		},
 		{
 			"id": "custom:917954bc-7cf6-4709-b9b5-a20936cfa282",
-			"name": "Vitamins",
+			"name": "Vitamines",
 			"stacks": [
 				"{count:1,id:\"cobblemon:iron\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblemon:zinc\",type:\"minecraft:item\"}",
@@ -814,7 +814,7 @@
 		},
 		{
 			"id": "custom:cf113bcc-e8b7-49fb-9753-7d0f8c9005bf",
-			"name": "Mints",
+			"name": "Aromates",
 			"stacks": [
 				"{count:1,id:\"cobblemon:gentle_mint\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblemon:hasty_mint\",type:\"minecraft:item\"}",
@@ -854,7 +854,7 @@
 		},
 		{
 			"id": "custom:b776d78a-78b7-41ee-9f5a-d03ab2c99019",
-			"name": "Gems",
+			"name": "Pierres précieuses",
 			"stacks": [
 				"{count:1,id:\"cobblemon:psychic_gem\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblemon:steel_gem\",type:\"minecraft:item\"}",
@@ -878,7 +878,7 @@
 		},
 		{
 			"id": "custom:6665bd27-d441-4ec7-b1fc-6ab8d552b122",
-			"name": "Feathers",
+			"name": "Plumes",
 			"stacks": [
 				"{count:1,id:\"cobblemon:muscle_feather\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblemon:clever_feather\",type:\"minecraft:item\"}",
@@ -903,7 +903,7 @@
 		},
 		{
 			"id": "custom:67a51c26-c099-40e6-8505-80352899dca7",
-			"name": "Mulches",
+			"name": "Paillis",
 			"stacks": [
 				"{count:1,id:\"cobblemon:growth_mulch\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblemon:rich_mulch\",type:\"minecraft:item\"}",
@@ -918,7 +918,7 @@
 		},
 		{
 			"id": "custom:47177738-a7dd-4b25-95dd-d62eb370076d",
-			"name": "Sleeping Bags",
+			"name": "Sacs de couchage",
 			"stacks": [
 				"{count:1,id:\"comforts:sleeping_bag_white\",type:\"minecraft:item\"}",
 				"{count:1,id:\"comforts:sleeping_bag_orange\",type:\"minecraft:item\"}",
@@ -940,7 +940,7 @@
 		},
 		{
 			"id": "custom:ff633741-bce6-4477-8647-0661e92942bc",
-			"name": "Hammocks",
+			"name": "Hamacs",
 			"stacks": [
 				"{count:1,id:\"comforts:hammock_white\",type:\"minecraft:item\"}",
 				"{count:1,id:\"comforts:hammock_orange\",type:\"minecraft:item\"}",
@@ -1006,7 +1006,7 @@
 		},
 		{
 			"id": "custom:29ceb82e-8628-4be0-8a59-ddd0d885c68b",
-			"name": "Poké Flutes",
+			"name": "Flûtes Poké",
 			"stacks": [
 				"{components:{\"minecraft:instrument\":\"minecraft:ponder_goat_horn\"},count:1,id:\"minecraft:goat_horn\",type:\"minecraft:item\"}",
 				"{components:{\"minecraft:instrument\":\"minecraft:sing_goat_horn\"},count:1,id:\"minecraft:goat_horn\",type:\"minecraft:item\"}",
@@ -1020,7 +1020,7 @@
 		},
 		{
 			"id": "custom:62826387-d15a-4745-9443-1475f125f56f",
-			"name": "Exp. Candies",
+			"name": "Bonbons Exp.",
 			"stacks": [
 				"{count:1,id:\"cobblemon:rare_candy\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblemon:exp_candy_xl\",type:\"minecraft:item\"}",
@@ -1032,7 +1032,7 @@
 		},
 		{
 			"id": "custom:674b14a1-1329-4a5f-b799-234d5d0487a7",
-			"name": "Battle Items",
+			"name": "Objets de combat",
 			"stacks": [
 				"{count:1,id:\"cobblemon:light_clay\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblemon:power_weight\",type:\"minecraft:item\"}",
@@ -1139,7 +1139,7 @@
 		},
 		{
 			"id": "custom:773586ef-adeb-4f38-9409-caf6dc6262e3",
-			"name": "Seeds",
+			"name": "Semences",
 			"stacks": [
 				"{count:1,id:\"minecraft:wheat_seeds\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:pumpkin_seeds\",type:\"minecraft:item\"}",
@@ -1164,7 +1164,7 @@
 		},
 		{
 			"id": "custom:804c62c7-0da8-4f61-9fb4-3805ec5b888d",
-			"name": "Tumblestone Blocks",
+			"name": "Blocs de pierre tumulaire",
 			"stacks": [
 				"{count:1,id:\"cobblemon:chiseled_sky_tumblestone_bricks\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblemon:tumblestone_block\",type:\"minecraft:item\"}",
@@ -1188,7 +1188,7 @@
 		},
 		{
 			"id": "custom:e401b547-ad34-4cad-9c10-a8bc4d9f8491",
-			"name": "Buckets",
+			"name": "Seaux",
 			"stacks": [
 				"{count:1,id:\"minecraft:bucket\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:water_bucket\",type:\"minecraft:item\"}",
@@ -1206,7 +1206,7 @@
 		},
 		{
 			"id": "custom:bf29161b-8aae-4adf-af1f-d620bb0905da",
-			"name": "Copper Lamps",
+			"name": "Lampes en cuivre",
 			"stacks": [
 				"{count:1,id:\"minecraft:copper_bulb\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:exposed_copper_bulb\",type:\"minecraft:item\"}",
@@ -1220,7 +1220,7 @@
 		},
 		{
 			"id": "custom:8326eead-8c37-441f-bed6-636c11e55eef",
-			"name": "Evolution Stone Blocks",
+			"name": "Blocs de pierre de l'évolution",
 			"stacks": [
 				"{count:1,id:\"cobblemon:leaf_stone_block\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblemon:thunder_stone_block\",type:\"minecraft:item\"}",
@@ -1257,7 +1257,7 @@
 		},
 		{
 			"id": "custom:804d1384-7e70-4278-94b0-81c17d8d855c",
-			"name": "Shulker Boxes",
+			"name": "Boîtes Shulker",
 			"stacks": [
 				"{count:1,id:\"minecraft:shulker_box\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:white_shulker_box\",type:\"minecraft:item\"}",
@@ -1303,7 +1303,7 @@
 		},
 		{
 			"id": "custom:b205e382-ca66-41ee-9f24-023bc0b8ca58",
-			"name": "Backpacks",
+			"name": "Sacs à dos",
 			"stacks": [
 				"{count:1,id:\"sophisticatedbackpacks:backpack\",type:\"minecraft:item\"}",
 				"{components:{\"sophisticatedcore:accent_color\":-393218,\"sophisticatedcore:main_color\":-393218},count:1,id:\"sophisticatedbackpacks:backpack\",type:\"minecraft:item\"}",
@@ -1332,7 +1332,7 @@
 		},
 		{
 			"id": "custom:3b69ee0b-a71b-46d8-a236-1c2f8afa5a99",
-			"name": "Heads & Skulls",
+			"name": "Têtes et crânes",
 			"stacks": [
 				"{count:1,id:\"minecraft:player_head\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:zombie_head\",type:\"minecraft:item\"}",
@@ -1345,7 +1345,7 @@
 		},
 		{
 			"id": "custom:827e4999-17aa-4325-a8bf-62ca2cc0e5bc",
-			"name": "Furniture: Stools",
+			"name": "Meubles : Tabourets",
 			"stacks": [
 				"{count:1,id:\"cobblefurnies:red_stool\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblefurnies:red_dark_stool\",type:\"minecraft:item\"}",
@@ -1383,7 +1383,7 @@
 		},
 		{
 			"id": "custom:6d841aeb-f06b-42ed-a4c0-0a569eaa4647",
-			"name": "Furniture: Stoves",
+			"name": "Meubles : Poêles",
 			"stacks": [
 				"{count:1,id:\"cobblefurnies:red_stove\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblefurnies:orange_stove\",type:\"minecraft:item\"}",
@@ -1405,7 +1405,7 @@
 		},
 		{
 			"id": "custom:c6985d98-a121-49d7-a032-0e001ca03038",
-			"name": "Poké Wool",
+			"name": "Laine Poké",
 			"stacks": [
 				"{count:1,id:\"cobblefurnies:red_poke_wool\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblefurnies:red_poke_wool_carpet\",type:\"minecraft:item\"}",
@@ -1443,7 +1443,7 @@
 		},
 		{
 			"id": "custom:69375345-46e9-46d1-b2fd-a68d1047b5fb",
-			"name": "TM Moves",
+			"name": "Capacités Techniques",
 			"stacks": [
 				"{count:1,id:\"tmcraft:tm_10000000voltthunderbolt\",type:\"minecraft:item\"}",
 				"{count:1,id:\"tmcraft:tm_absorb\",type:\"minecraft:item\"}",
@@ -2378,7 +2378,7 @@
 		},
 		{
 			"id": "custom:965b40f2-ef1c-423a-b6ca-e8d41c2f63ec",
-			"name": "Tutor Moves",
+			"name": "Donneur de Capacités",
 			"stacks": [
 				"{count:1,id:\"tmcraft:tutor_10000000voltthunderbolt\",type:\"minecraft:item\"}",
 				"{count:1,id:\"tmcraft:tutor_absorb\",type:\"minecraft:item\"}",
@@ -3313,7 +3313,7 @@
 		},
 		{
 			"id": "custom:9c43345b-9b77-4439-9ae6-7e88203f8807",
-			"name": "Mega Ores",
+			"name": "Méga minerais",
 			"stacks": [
 				"{count:1,id:\"mega_showdown:mega_meteorid_dawn_ore\",type:\"minecraft:item\"}",
 				"{count:1,id:\"mega_showdown:mega_meteorid_dusk_ore\",type:\"minecraft:item\"}",
@@ -3329,7 +3329,7 @@
 		},
 		{
 			"id": "custom:8efc8d80-aaf1-4059-8581-f73a633e2928",
-			"name": "Tera Shards",
+			"name": "Éclats de Tera",
 			"stacks": [
 				"{count:1,id:\"mega_showdown:bug_tera_shard\",type:\"minecraft:item\"}",
 				"{count:1,id:\"mega_showdown:dark_tera_shard\",type:\"minecraft:item\"}",
@@ -3367,7 +3367,7 @@
 		},
 		{
 			"id": "custom:de63a386-a7e2-4ce6-8ce1-22b66a9db7fa",
-			"name": "Blank Move Items",
+			"name": "Objets de Capacités vierges",
 			"stacks": [
 				"{count:1,id:\"tmcraft:copper_blank_disc\",type:\"minecraft:item\"}",
 				"{count:1,id:\"tmcraft:iron_blank_disc\",type:\"minecraft:item\"}",
@@ -3397,7 +3397,7 @@
 		},
 		{
 			"id": "custom:07b970b4-3599-4cf2-9f51-57834a109709",
-			"name": "Storage Upgrades",
+			"name": "Amélioration du stockage",
 			"stacks": [
 				"{count:1,id:\"sophisticatedstorage:pickup_upgrade\",type:\"minecraft:item\"}",
 				"{count:1,id:\"sophisticatedstorage:advanced_pickup_upgrade\",type:\"minecraft:item\"}",
@@ -3460,7 +3460,7 @@
 		},
 		{
 			"id": "custom:f6eef19e-68f4-40da-ab8f-a800ce9e5cfd",
-			"name": "Backpack Upgrades",
+			"name": "Améliorations du sac à dos",
 			"stacks": [
 				"{count:1,id:\"sophisticatedbackpacks:pickup_upgrade\",type:\"minecraft:item\"}",
 				"{count:1,id:\"sophisticatedbackpacks:advanced_pickup_upgrade\",type:\"minecraft:item\"}",
@@ -3517,7 +3517,7 @@
 		},
 		{
 			"id": "custom:d5052313-53ad-497f-a084-8be82f7af610",
-			"name": "Beds",
+			"name": "Lits",
 			"stacks": [
 				"{count:1,id:\"minecraft:white_bed\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:orange_bed\",type:\"minecraft:item\"}",
@@ -3550,7 +3550,7 @@
 		},
 		{
 			"id": "custom:c62b9ed1-b88a-4e25-96bd-14e48cfa0381",
-			"name": "Furniture: Sofas",
+			"name": "Meubles : Canapés",
 			"stacks": [
 				"{count:1,id:\"cobblefurnies:red_sofa\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblefurnies:orange_sofa\",type:\"minecraft:item\"}",
@@ -3583,7 +3583,7 @@
 		},
 		{
 			"id": "custom:f0cc0f2a-fec9-44dd-86c5-21c1a528ddb0",
-			"name": "Furniture: Sinks",
+			"name": "Meubles : Éviers",
 			"stacks": [
 				"{count:1,id:\"cobblefurnies:red_sink\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblefurnies:orange_sink\",type:\"minecraft:item\"}",
@@ -3659,7 +3659,7 @@
 		},
 		{
 			"id": "custom:ac8b3ae0-95f1-4dac-a0a4-b3b8e43bcfde",
-			"name": "Tableware",
+			"name": "Vaisselle",
 			"stacks": [
 				"{count:1,id:\"handcrafted:white_cup\",type:\"minecraft:item\"}",
 				"{count:1,id:\"handcrafted:yellow_cup\",type:\"minecraft:item\"}",
@@ -3685,7 +3685,7 @@
 		},
 		{
 			"id": "custom:492f0c08-4c18-4a3a-9ab3-de95ce7ddc5b",
-			"name": "Cushions",
+			"name": "Coussins",
 			"stacks": [
 				"{count:1,id:\"cozyhome:cushion\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cozyhome:hay_cushion\",type:\"minecraft:item\"}",
@@ -3711,7 +3711,7 @@
 		},
 		{
 			"id": "custom:8d1ed1be-74cf-4f38-ab62-79f78346dc8f",
-			"name": "Furniture: Clocks",
+			"name": "Meubles : Horloges",
 			"stacks": [
 				"{count:1,id:\"cozyhome:oak_wall_clock\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cozyhome:spruce_wall_clock\",type:\"minecraft:item\"}",
@@ -3747,7 +3747,7 @@
 		},
 		{
 			"id": "custom:bd3e84ff-ce34-4cb9-996b-58c11c76101e",
-			"name": "Furniture: Desks",
+			"name": "Mobilier : Bureaux",
 			"stacks": [
 				"{count:1,id:\"cobblefurnies:poke_ball_desk\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cozyhome:oak_desk\",type:\"minecraft:item\"}",
@@ -3776,7 +3776,7 @@
 		},
 		{
 			"id": "custom:582550ea-1c09-4c2c-857a-950f92e6b34e",
-			"name": "Furniture: Mirrors",
+			"name": "Meubles : Miroirs",
 			"stacks": [
 				"{count:1,id:\"cozyhome:oak_wall_mirror\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cozyhome:spruce_wall_mirror\",type:\"minecraft:item\"}",
@@ -3793,7 +3793,7 @@
 		},
 		{
 			"id": "custom:f9cb91ae-d83c-4437-a925-6faaed4e393d",
-			"name": "Furniture: Bathtubs",
+			"name": "Meubles : Baignoires",
 			"stacks": [
 				"{count:1,id:\"cozyhome:stone_brick_bathtub\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cozyhome:mossy_stone_brick_bathtub\",type:\"minecraft:item\"}",
@@ -3819,7 +3819,7 @@
 		},
 		{
 			"id": "custom:b9ec5d36-0cfd-4044-afbf-2f5bbaf5ecad",
-			"name": "Furniture: Fountains",
+			"name": "Mobilier : Fontaines",
 			"stacks": [
 				"{count:1,id:\"cozyhome:stone_brick_fountain\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cozyhome:mossy_stone_brick_fountain\",type:\"minecraft:item\"}",
@@ -3861,7 +3861,7 @@
 		},
 		{
 			"id": "custom:3e23a61e-18ae-4b1f-9893-a79c50ce1d4d",
-			"name": "Furniture: Chimneys",
+			"name": "Mobilier : Cheminées",
 			"stacks": [
 				"{count:1,id:\"cozyhome:stone_brick_chimney\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cozyhome:mossy_stone_brick_chimney\",type:\"minecraft:item\"}",
@@ -3887,7 +3887,7 @@
 		},
 		{
 			"id": "custom:66a30624-a51d-489e-9215-fa354bc49668",
-			"name": "Stumps",
+			"name": "Souches",
 			"stacks": [
 				"{count:1,id:\"cozyhome:oak_large_stump\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cozyhome:spruce_large_stump\",type:\"minecraft:item\"}",
@@ -3904,7 +3904,7 @@
 		},
 		{
 			"id": "custom:b42992c3-9f98-45f1-9d1a-059ba1c313fb",
-			"name": "Furniture: Couches",
+			"name": "Mobilier : Canapés",
 			"stacks": [
 				"{count:1,id:\"cozyhome:oak_couch\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cozyhome:spruce_couch\",type:\"minecraft:item\"}",
@@ -3932,7 +3932,7 @@
 		},
 		{
 			"id": "custom:f3eadaad-5a2b-4a88-ad21-a2801b891f81",
-			"name": "Sheets",
+			"name": "Draps",
 			"stacks": [
 				"{count:1,id:\"handcrafted:black_sheet\",type:\"minecraft:item\"}",
 				"{count:1,id:\"handcrafted:blue_sheet\",type:\"minecraft:item\"}",
@@ -3954,7 +3954,7 @@
 		},
 		{
 			"id": "custom:f5b64fcb-105c-4bb7-8a54-da6c0a14754e",
-			"name": "Furniture: Benches",
+			"name": "Meubles : Bancs",
 			"stacks": [
 				"{count:1,id:\"handcrafted:acacia_bench\",type:\"minecraft:item\"}",
 				"{count:1,id:\"handcrafted:bamboo_bench\",type:\"minecraft:item\"}",
@@ -3984,7 +3984,7 @@
 		},
 		{
 			"id": "custom:ade7c1ac-e1b6-49d9-93b9-920d860653cb",
-			"name": "Pillars & Corners",
+			"name": "Piliers et angles",
 			"stacks": [
 				"{count:1,id:\"handcrafted:acacia_pillar_trim\",type:\"minecraft:item\"}",
 				"{count:1,id:\"handcrafted:acacia_corner_trim\",type:\"minecraft:item\"}",
@@ -4036,7 +4036,7 @@
 		},
 		{
 			"id": "custom:d0415f68-5607-40d5-a985-fc0b555937e0",
-			"name": "Furniture: Counters",
+			"name": "Meubles : Comptoirs",
 			"stacks": [
 				"{count:1,id:\"cobblefurnies:red_cabinetry\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblefurnies:orange_cabinetry\",type:\"minecraft:item\"}",
@@ -4091,7 +4091,7 @@
 		},
 		{
 			"id": "custom:1a35c5ba-8351-443b-94ad-f643f4eccf0b",
-			"name": "Pokémon Statues",
+			"name": "Statues Pokémon",
 			"stacks": [
 				"{count:1,id:\"cobblefurnies:statue_ancient\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblefurnies:statue_pikachu\",type:\"minecraft:item\"}",
@@ -4102,7 +4102,7 @@
 		},
 		{
 			"id": "custom:5b930d80-eb37-49b2-a737-1f617c171688",
-			"name": "Resurrection Machine",
+			"name": "Machine à résurrection",
 			"stacks": [
 				"{count:1,id:\"cobblemon:monitor\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblemon:restoration_tank\",type:\"minecraft:item\"}",
@@ -4111,7 +4111,7 @@
 		},
 		{
 			"id": "custom:8c869459-b1ac-4b31-958a-502e6171646a",
-			"name": "Egg Moves",
+			"name": "Capacités Œufs",
 			"stacks": [
 				"{count:1,id:\"tmcraft:egg_10000000voltthunderbolt\",type:\"minecraft:item\"}",
 				"{count:1,id:\"tmcraft:egg_absorb\",type:\"minecraft:item\"}",
@@ -5046,7 +5046,7 @@
 		},
 		{
 			"id": "custom:63a845a8-463a-4ddd-bdd2-44e22c28573c",
-			"name": "Glazed Terracotta",
+			"name": "Terre cuite émaillée",
 			"stacks": [
 				"{count:1,id:\"minecraft:white_glazed_terracotta\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:orange_glazed_terracotta\",type:\"minecraft:item\"}",
@@ -5068,7 +5068,7 @@
 		},
 		{
 			"id": "custom:a7351b85-58a4-477a-887e-1de505154f13",
-			"name": "Terracotta",
+			"name": "Terre cuite",
 			"stacks": [
 				"{count:1,id:\"minecraft:white_terracotta\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:orange_terracotta\",type:\"minecraft:item\"}",
@@ -5091,7 +5091,7 @@
 		},
 		{
 			"id": "custom:479c1b4c-9a43-47d4-975a-e7b116479578",
-			"name": "Poké Floors",
+			"name": "Planchers Poké",
 			"stacks": [
 				"{count:1,id:\"cobblefurnies:kitchen_floor\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblefurnies:bamboo_floor\",type:\"minecraft:item\"}",
@@ -5110,7 +5110,7 @@
 		},
 		{
 			"id": "custom:6fddb72f-cd1a-4352-a0d8-e120c7689934",
-			"name": "Oricorio Nectars",
+			"name": "Nectars d'Oricorio",
 			"stacks": [
 				"{count:1,id:\"mega_showdown:pink_nectar\",type:\"minecraft:item\"}",
 				"{count:1,id:\"mega_showdown:purple_nectar\",type:\"minecraft:item\"}",
@@ -5120,7 +5120,7 @@
 		},
 		{
 			"id": "custom:47b994c8-051e-4fb5-8455-78fc9de88760",
-			"name": "Trellis",
+			"name": "Treillis",
 			"stacks": [
 				"{count:1,id:\"beautify:oak_trellis\",type:\"minecraft:item\"}",
 				"{count:1,id:\"beautify:spruce_trellis\",type:\"minecraft:item\"}",
@@ -5136,7 +5136,7 @@
 		},
 		{
 			"id": "custom:7adbce21-5ba7-42cb-9c85-8429da7c9d12",
-			"name": "Blinds",
+			"name": "Stores",
 			"stacks": [
 				"{count:1,id:\"beautify:oak_blinds\",type:\"minecraft:item\"}",
 				"{count:1,id:\"beautify:spruce_blinds\",type:\"minecraft:item\"}",
@@ -5153,7 +5153,7 @@
 		},
 		{
 			"id": "custom:f13ba863-a24a-4822-b86a-eacd83509bb2",
-			"name": "Frames",
+			"name": "Cadres",
 			"stacks": [
 				"{count:1,id:\"minecraft:item_frame\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:glow_item_frame\",type:\"minecraft:item\"}",
@@ -5172,7 +5172,7 @@
 		},
 		{
 			"id": "custom:9012baa8-9be3-4005-a889-d59066db8a24",
-			"name": "Candelabra",
+			"name": "Chandelier",
 			"stacks": [
 				"{count:1,id:\"beautify:lamp_candelabra\",type:\"minecraft:item\"}",
 				"{count:1,id:\"beautify:lamp_candelabra_light_blue\",type:\"minecraft:item\"}",
@@ -5221,7 +5221,7 @@
 		},
 		{
 			"id": "custom:6fc2075d-9de5-4cb9-8202-2d8b84f66a9e",
-			"name": "Operator Utilities",
+			"name": "Utilités de l'opérateur",
 			"stacks": [
 				"{count:1,id:\"minecraft:command_block\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:repeating_command_block\",type:\"minecraft:item\"}",
@@ -5236,7 +5236,7 @@
 		},
 		{
 			"id": "custom:dd88ea4f-ef86-4919-811d-4b594b494918",
-			"name": "Crafting Tables",
+			"name": "Tables d'artisanat",
 			"stacks": [
 				"{count:1,id:\"minecraft:crafting_table\",type:\"minecraft:item\"}",
 				"{count:1,id:\"carved_wood:spruce_crafting_table\",type:\"minecraft:item\"}",
@@ -5254,7 +5254,7 @@
 		},
 		{
 			"id": "custom:b2fdff8e-5e10-4b32-bc8d-210dd0aa9fa4",
-			"name": "Crafters",
+			"name": "Artisans",
 			"stacks": [
 				"{count:1,id:\"minecraft:crafter\",type:\"minecraft:item\"}",
 				"{count:1,id:\"carved_wood:spruce_crafter\",type:\"minecraft:item\"}",
@@ -5272,7 +5272,7 @@
 		},
 		{
 			"id": "custom:73d0cb40-4358-4860-afd1-be45f83b00a6",
-			"name": "Ladders",
+			"name": "Échelles",
 			"stacks": [
 				"{count:1,id:\"minecraft:ladder\",type:\"minecraft:item\"}",
 				"{count:1,id:\"carved_wood:spruce_ladder\",type:\"minecraft:item\"}",
@@ -5290,7 +5290,7 @@
 		},
 		{
 			"id": "custom:d01dd0f8-1da2-4fc5-9c1e-a57f3f51ca50",
-			"name": "Barrels",
+			"name": "Fûts",
 			"stacks": [
 				"{count:1,id:\"minecraft:barrel\",type:\"minecraft:item\"}",
 				"{components:{\"sophisticatedstorage:wood_type\":\"acacia\"},count:1,id:\"sophisticatedstorage:barrel\",type:\"minecraft:item\"}",
@@ -5724,7 +5724,7 @@
 		},
 		{
 			"id": "custom:2ffaec56-267e-4a3a-adbe-a31b32069579",
-			"name": "League Trophies",
+			"name": "Trophées de la Ligue",
 			"stacks": [
 				"{count:1,id:\"cobbleversebadges:kanto_league_trophy\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobbleversebadges:johto_league_trophy\",type:\"minecraft:item\"}",
@@ -5734,7 +5734,7 @@
 		},
 		{
 			"id": "custom:d3fd4b3f-ad48-4e49-a27f-ff197ccb228c",
-			"name": "Chests",
+			"name": "Coffres",
 			"stacks": [
 				"{count:1,id:\"minecraft:chest\",type:\"minecraft:item\"}",
 				"{components:{\"sophisticatedstorage:wood_type\":\"acacia\"},count:1,id:\"sophisticatedstorage:chest\",type:\"minecraft:item\"}",
@@ -5836,7 +5836,7 @@
 		},
 		{
 			"id": "custom:bbadd6b7-db83-4f71-8e05-f887dd42107b",
-			"name": "Trapped Chests",
+			"name": "Coffres piégés",
 			"stacks": [
 				"{count:1,id:\"minecraft:trapped_chest\",type:\"minecraft:item\"}",
 				"{count:1,id:\"carved_wood:trapped_oak_chest\",type:\"minecraft:item\"}",
@@ -5855,7 +5855,7 @@
 		},
 		{
 			"id": "custom:541b256b-a41a-4e19-8f01-050bbd26dbf9",
-			"name": "Campfires",
+			"name": "Feux de camp",
 			"stacks": [
 				"{count:1,id:\"minecraft:campfire\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:soul_campfire\",type:\"minecraft:item\"}",
@@ -5885,7 +5885,7 @@
 		},
 		{
 			"id": "custom:94d6d21f-b615-466b-b0e2-37a2a66cd555",
-			"name": "Bookshelves",
+			"name": "Étagères",
 			"stacks": [
 				"{count:1,id:\"minecraft:bookshelf\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:chiseled_bookshelf\",type:\"minecraft:item\"}",
@@ -5915,7 +5915,7 @@
 		},
 		{
 			"id": "custom:e3ff86af-60a1-456c-9160-d576c9f5995e",
-			"name": "Lecterns",
+			"name": "Lutrins",
 			"stacks": [
 				"{count:1,id:\"minecraft:lectern\",type:\"minecraft:item\"}",
 				"{count:1,id:\"carved_wood:spruce_lectern\",type:\"minecraft:item\"}",
@@ -5933,7 +5933,7 @@
 		},
 		{
 			"id": "custom:8dd3f26c-2d6d-4a3e-8e8f-821285f6f595",
-			"name": "Beehives",
+			"name": "Ruches",
 			"stacks": [
 				"{count:1,id:\"minecraft:beehive\",type:\"minecraft:item\"}",
 				"{count:1,id:\"carved_wood:spruce_beehive\",type:\"minecraft:item\"}",
@@ -5951,7 +5951,7 @@
 		},
 		{
 			"id": "custom:5783aa4c-cf73-4515-a828-4eb2baa50b75",
-			"name": "Carved Planks",
+			"name": "Planches sculptées",
 			"stacks": [
 				"{count:1,id:\"carved_wood:carved_oak_planks\",type:\"minecraft:item\"}",
 				"{count:1,id:\"carved_wood:carved_spruce_planks\",type:\"minecraft:item\"}",
@@ -5969,7 +5969,7 @@
 		},
 		{
 			"id": "custom:e9c9eace-8015-48ec-8ce3-ddb0511891d9",
-			"name": "Boards",
+			"name": "Conseil d'administration",
 			"stacks": [
 				"{count:1,id:\"carved_wood:oak_boards\",type:\"minecraft:item\"}",
 				"{count:1,id:\"carved_wood:spruce_boards\",type:\"minecraft:item\"}",
@@ -5999,7 +5999,7 @@
 		},
 		{
 			"id": "custom:cfc9b0c8-da8b-4975-aa49-560185917e47",
-			"name": "Wood Panels",
+			"name": "Panneaux en bois",
 			"stacks": [
 				"{count:1,id:\"carved_wood:oak_panels\",type:\"minecraft:item\"}",
 				"{count:1,id:\"carved_wood:spruce_panels\",type:\"minecraft:item\"}",
@@ -6017,7 +6017,7 @@
 		},
 		{
 			"id": "custom:12ab49a5-a820-4551-a20c-6c33742c945a",
-			"name": "Lanterns",
+			"name": "Lanternes",
 			"stacks": [
 				"{count:1,id:\"minecraft:sea_lantern\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:lantern\",type:\"minecraft:item\"}",
@@ -6050,7 +6050,7 @@
 		},
 		{
 			"id": "custom:eed2a993-dede-4592-9fea-00b3d74816e0",
-			"name": "Tiles",
+			"name": "Carreaux",
 			"stacks": [
 				"{count:1,id:\"minecraft:deepslate_tiles\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:cracked_deepslate_tiles\",type:\"minecraft:item\"}",
@@ -6070,7 +6070,7 @@
 		},
 		{
 			"id": "custom:da95ffc7-72ea-4d0d-abc4-f33ba6b42e2b",
-			"name": "Mosaics",
+			"name": "Mosaïques",
 			"stacks": [
 				"{count:1,id:\"minecraft:bamboo_mosaic\",type:\"minecraft:item\"}",
 				"{count:1,id:\"carved_wood:oak_mosaic\",type:\"minecraft:item\"}",
@@ -6092,7 +6092,7 @@
 		},
 		{
 			"id": "custom:f2d6fbbd-0d7f-4559-ac2d-de56473232d0",
-			"name": "Pillars",
+			"name": "Piliers",
 			"stacks": [
 				"{count:1,id:\"minecraft:purpur_pillar\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:quartz_pillar\",type:\"minecraft:item\"}",
@@ -6112,7 +6112,7 @@
 		},
 		{
 			"id": "custom:3b9fb7b4-7c74-4527-9c46-16784a0d4b4d",
-			"name": "Log & Stem Bundles",
+			"name": "Fagots de grumes et de tiges",
 			"stacks": [
 				"{count:1,id:\"carved_wood:oak_log_bundle\",type:\"minecraft:item\"}",
 				"{count:1,id:\"carved_wood:spruce_log_bundle\",type:\"minecraft:item\"}",
@@ -6142,7 +6142,7 @@
 		},
 		{
 			"id": "custom:7034c6b9-b003-4cac-b2d3-a75cac374675",
-			"name": "Anvils",
+			"name": "Enclumes",
 			"stacks": [
 				"{count:1,id:\"minecraft:anvil\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:chipped_anvil\",type:\"minecraft:item\"}",
@@ -6151,7 +6151,7 @@
 		},
 		{
 			"id": "custom:a475514f-a14e-4e7e-b401-8b3206699dee",
-			"name": "Concrete Panels",
+			"name": "Panneaux en béton",
 			"stacks": [
 				"{count:1,id:\"moarconcrete:white_concrete_panel\",type:\"minecraft:item\"}",
 				"{count:1,id:\"moarconcrete:light_gray_concrete_panel\",type:\"minecraft:item\"}",
@@ -6173,7 +6173,7 @@
 		},
 		{
 			"id": "custom:af39287c-4bea-4011-bdb9-ff34fa0a0429",
-			"name": "Infested Blocks",
+			"name": "Blocs infestés",
 			"stacks": [
 				"{count:1,id:\"minecraft:infested_stone\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:infested_cobblestone\",type:\"minecraft:item\"}",
@@ -6186,7 +6186,7 @@
 		},
 		{
 			"id": "custom:ca059d33-eaf2-4044-b812-a209073c319d",
-			"name": "Poké Dolls",
+			"name": "Poupées Poké",
 			"stacks": [
 				"{count:1,id:\"pokeblocks:pokedoll_calyrex\",type:\"minecraft:item\"}",
 				"{count:1,id:\"pokeblocks:pokedoll_shiny_calyrex\",type:\"minecraft:item\"}",
@@ -6481,7 +6481,7 @@
 		},
 		{
 			"id": "custom:bbe0cba7-ba9f-4bf5-897b-f03f5968480d",
-			"name": "Special Dolls",
+			"name": "Poupées spéciales",
 			"stacks": [
 				"{count:1,id:\"pokeblocks:pokedoll_calyrex_animated\",type:\"minecraft:item\"}",
 				"{count:1,id:\"pokeblocks:pokedoll_shiny_calyrex_animated\",type:\"minecraft:item\"}",
@@ -6503,7 +6503,7 @@
 		},
 		{
 			"id": "custom:205d344b-a0d7-4166-b982-7deb778e646e",
-			"name": "Move Recorders",
+			"name": "Enregistreurs",
 			"stacks": [
 				"{count:1,id:\"tmcraft:tm_move_recorder\",type:\"minecraft:item\"}",
 				"{count:1,id:\"tmcraft:egg_move_recorder\",type:\"minecraft:item\"}",
@@ -6513,7 +6513,7 @@
 		},
 		{
 			"id": "custom:37b50fc7-0628-461f-ab75-8acaa98e1e7e",
-			"name": "Scrolls",
+			"name": "Parchemins",
 			"stacks": [
 				"{count:1,id:\"waystones:return_scroll\",type:\"minecraft:item\"}",
 				"{count:1,id:\"waystones:blank_scroll\",type:\"minecraft:item\"}",
@@ -6523,7 +6523,7 @@
 		},
 		{
 			"id": "custom:a1c2773b-fb3e-4767-9802-c4131fca4ba9",
-			"name": "Bottle Caps",
+			"name": "Capsules",
 			"stacks": [
 				"{count:1,id:\"obc:bottle_cap\",type:\"minecraft:item\"}",
 				"{count:1,id:\"obc:bottle_cap_hp\",type:\"minecraft:item\"}",
@@ -6544,7 +6544,7 @@
 		},
 		{
 			"id": "custom:897bd81f-b53c-4bbe-b4ee-ee00511871bc",
-			"name": "Z-Crystals",
+			"name": "Cristaux Z",
 			"stacks": [
 				"{count:1,id:\"mega_showdown:blank_z\",type:\"minecraft:item\"}",
 				"{count:1,id:\"mega_showdown:normalium_z\",type:\"minecraft:item\"}",
@@ -6586,7 +6586,7 @@
 		},
 		{
 			"id": "custom:7a935190-7115-411a-be34-04fb7b7ae7c7",
-			"name": "Mega Bracelets",
+			"name": "Méga Bracelets",
 			"stacks": [
 				"{count:1,id:\"mega_showdown:mega_bracelet\",type:\"minecraft:item\"}",
 				"{count:1,id:\"mega_showdown:mega_bracelet_red\",type:\"minecraft:item\"}",
@@ -6599,7 +6599,7 @@
 		},
 		{
 			"id": "custom:67993874-3240-4080-8763-fcc28192cd3e",
-			"name": "Key Stone Accessories",
+			"name": "Accessoires pour Méga-Gemmes",
 			"stacks": [
 				"{count:1,id:\"mega_showdown:may_bracelet\",type:\"minecraft:item\"}",
 				"{count:1,id:\"mega_showdown:mega_ring\",type:\"minecraft:item\"}",
@@ -6613,7 +6613,7 @@
 		},
 		{
 			"id": "custom:fe1567c4-33de-482b-8470-63c5700860ae",
-			"name": "Arceus Plates",
+			"name": "Plaques Arceus",
 			"stacks": [
 				"{count:1,id:\"mega_showdown:flame_plate\",type:\"minecraft:item\"}",
 				"{count:1,id:\"mega_showdown:splash_plate\",type:\"minecraft:item\"}",
@@ -6636,7 +6636,7 @@
 		},
 		{
 			"id": "custom:8c9dc9ef-870a-4e1e-87dc-cc146a0553ef",
-			"name": "Silvally Memory Discs",
+			"name": "Disques de mémoire Silvally",
 			"stacks": [
 				"{count:1,id:\"mega_showdown:bug_memory\",type:\"minecraft:item\"}",
 				"{count:1,id:\"mega_showdown:dark_memory\",type:\"minecraft:item\"}",
@@ -6659,7 +6659,7 @@
 		},
 		{
 			"id": "custom:60fa9274-f059-4bb5-8ac7-25acf4b2ece9",
-			"name": "Genesect Drives",
+			"name": "Entraînements Genesect",
 			"stacks": [
 				"{count:1,id:\"mega_showdown:burn_drive\",type:\"minecraft:item\"}",
 				"{count:1,id:\"mega_showdown:chill_drive\",type:\"minecraft:item\"}",
@@ -6669,7 +6669,7 @@
 		},
 		{
 			"id": "custom:af219547-291f-4ac8-9cba-9e7c28ee425c",
-			"name": "Z-Rings",
+			"name": "Bracelet Z",
 			"stacks": [
 				"{count:1,id:\"mega_showdown:z_ring\",type:\"minecraft:item\"}",
 				"{count:1,id:\"mega_showdown:z_ring_black\",type:\"minecraft:item\"}",
@@ -6690,7 +6690,7 @@
 		},
 		{
 			"id": "custom:5662f3fb-6d5d-4a55-82c1-5f6c1f901146",
-			"name": "Kanto League Locator Items",
+			"name": "Éléments de localisation de la ligue de Kanto",
 			"stacks": [
 				"{count:1,id:\"lumymon:onyx_stone\",type:\"minecraft:item\"}",
 				"{count:1,id:\"lumymon:cerulean_star\",type:\"minecraft:item\"}",
@@ -6705,7 +6705,7 @@
 		},
 		{
 			"id": "custom:d39aeff6-6fed-44b2-8477-d904a5629f29",
-			"name": "Johto League Locator Items",
+			"name": "Éléments de localisation de la ligue Johto",
 			"stacks": [
 				"{count:1,id:\"lumymon:raptor_bracer\",type:\"minecraft:item\"}",
 				"{count:1,id:\"lumymon:magnifying_glass\",type:\"minecraft:item\"}",
@@ -6720,7 +6720,7 @@
 		},
 		{
 			"id": "custom:afb54fe5-77ae-4689-9a86-e472ebf089e2",
-			"name": "Hoenn League Locator Items",
+			"name": "Objets de localisation de la ligue de Hoenn",
 			"stacks": [
 				"{count:1,id:\"lumymon:rock_tome\",type:\"minecraft:item\"}",
 				"{count:1,id:\"lumymon:fighting_glove\",type:\"minecraft:item\"}",
@@ -6741,7 +6741,7 @@
 		},
 		{
 			"id": "custom:9571571f-67c9-4ae6-884b-b680b646eb9f",
-			"name": "Sinnoh League Locator Items",
+			"name": "Éléments de localisation de la ligue de Sinnoh",
 			"stacks": [
 				"{count:1,id:\"lumymon:rock_casque\",type:\"minecraft:item\"}",
 				"{count:1,id:\"lumymon:grass_aroma\",type:\"minecraft:item\"}",
@@ -6760,7 +6760,7 @@
 		},
 		{
 			"id": "custom:23494fbb-c5b0-4b17-93f5-c0f3bed4aa00",
-			"name": "Smithing Templates",
+			"name": "Modèles de forge",
 			"stacks": [
 				"{count:1,id:\"minecraft:netherite_upgrade_smithing_template\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:sentry_armor_trim_smithing_template\",type:\"minecraft:item\"}",
@@ -6788,7 +6788,7 @@
 		},
 		{
 			"id": "custom:a9d265a8-8d6d-4c14-afb3-209c8e5a1427",
-			"name": "Kanto Gym Badges",
+			"name": "Badges du gymnase de Kanto",
 			"stacks": [
 				"{count:1,id:\"cobbleversebadges:kanto_boulder_badge\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobbleversebadges:kanto_cascade_badge\",type:\"minecraft:item\"}",
@@ -6802,7 +6802,7 @@
 		},
 		{
 			"id": "custom:3cc21e0c-8816-4620-ae97-bbd800e48f13",
-			"name": "Johto Gym Badges",
+			"name": "Badges Johto Gym",
 			"stacks": [
 				"{count:1,id:\"cobbleversebadges:johto_zephyr_badge\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobbleversebadges:johto_hive_badge\",type:\"minecraft:item\"}",
@@ -6816,7 +6816,7 @@
 		},
 		{
 			"id": "custom:ef44ec4c-522e-46f6-80a0-97405838f050",
-			"name": "Hoenn Gym Badges",
+			"name": "Badges Hoenn Gym",
 			"stacks": [
 				"{count:1,id:\"cobbleversebadges:hoenn_stone_badge\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobbleversebadges:hoenn_knuckle_badge\",type:\"minecraft:item\"}",
@@ -6830,7 +6830,7 @@
 		},
 		{
 			"id": "custom:c18eab12-2573-4380-afe2-151f5dc67bb6",
-			"name": "Sinnoh Gym Badges",
+			"name": "Badges Sinnoh Gym",
 			"stacks": [
 				"{count:1,id:\"cobbleversebadges:sinnoh_coal_badge\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobbleversebadges:sinnoh_forest_badge\",type:\"minecraft:item\"}",
@@ -6858,7 +6858,7 @@
 		},
 		{
 			"id": "custom:75bf725b-0c45-48cd-8dce-51ff078b489d",
-			"name": "Poké Candies",
+			"name": "Bonbons Poké",
 			"stacks": [
 				"{count:1,id:\"cobblemon:mighty_candy\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblemon:smart_candy\",type:\"minecraft:item\"}",
@@ -6889,7 +6889,7 @@
 		},
 		{
 			"id": "custom:de0cc0d5-afdb-4ffc-be01-384b53e4658b",
-			"name": "Campfire Pots",
+			"name": "Pots pour feu de camp",
 			"stacks": [
 				"{count:1,id:\"cobblemon:campfire_pot_blue\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblemon:campfire_pot_white\",type:\"minecraft:item\"}",
@@ -6902,7 +6902,7 @@
 		},
 		{
 			"id": "custom:5244fbaa-ae5c-4444-8616-4094ab0ba4d5",
-			"name": "Meteoroid Blocks",
+			"name": "Blocs de météoroïdes",
 			"stacks": [
 				"{count:1,id:\"mega_showdown:mega_meteorid_block\",type:\"minecraft:item\"}",
 				"{count:1,id:\"mega_showdown:mega_meteorid_radiated_block\",type:\"minecraft:item\"}",
@@ -6914,7 +6914,7 @@
 		},
 		{
 			"id": "custom:19c1a7b5-1438-402a-9814-cdea67888fdd",
-			"name": "Mushrooms & Fungi",
+			"name": "Champignons",
 			"stacks": [
 				"{count:1,id:\"minecraft:brown_mushroom\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:red_mushroom\",type:\"minecraft:item\"}",
@@ -6927,7 +6927,7 @@
 		},
 		{
 			"id": "custom:d2e419e6-8a48-435e-97b4-48d17d99950b",
-			"name": "Poké Beans",
+			"name": "Haricots Poké",
 			"stacks": [
 				"{count:1,id:\"cobblecuisine:bean_seeds\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblecuisine:red_bean\",type:\"minecraft:item\"}",
@@ -6971,7 +6971,7 @@
 		},
 		{
 			"id": "custom:71dfa043-ee35-47da-aa9b-59c4feb96a84",
-			"name": "Poké Cakes",
+			"name": "Gâteaux Poké",
 			"stacks": [
 				"{count:1,id:\"cobblecuisine:twin_mushroom_cake\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblecuisine:red_mushroom_cake\",type:\"minecraft:item\"}",
@@ -7003,7 +7003,7 @@
 		},
 		{
 			"id": "custom:0ede5c90-bb3e-4e7a-b1cd-51c015c06d1c",
-			"name": "Poké Sandwiches",
+			"name": "Sandwichs Poké",
 			"stacks": [
 				"{count:1,id:\"cobblecuisine:sour_pickle_sandwich\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblecuisine:sour_cheese_sandwich\",type:\"minecraft:item\"}",
@@ -7028,7 +7028,7 @@
 		},
 		{
 			"id": "custom:d4d1734c-ae4f-47de-a318-5261813d2dc4",
-			"name": "Poké Salads",
+			"name": "Salades Poké",
 			"stacks": [
 				"{count:1,id:\"cobblecuisine:salad_mix\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblecuisine:mixed_vegetable_salad\",type:\"minecraft:item\"}",
@@ -7071,7 +7071,7 @@
 		},
 		{
 			"id": "custom:5a0b23f5-0a07-4987-8402-5bdcf1aff7e5",
-			"name": "Roasted Berries",
+			"name": "Baies grillées",
 			"stacks": [
 				"{count:1,id:\"cobblecuisine:roasted_oran_berry\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblecuisine:roasted_babiri_berry\",type:\"minecraft:item\"}",
@@ -7131,7 +7131,7 @@
 		},
 		{
 			"id": "custom:ce889c77-f0bc-4670-8194-15f69ed54c1b",
-			"name": "Curtains",
+			"name": "Rideaux",
 			"stacks": [
 				"{count:1,id:\"cobblefurnies:red_curtain\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblefurnies:orange_curtain\",type:\"minecraft:item\"}",
@@ -7153,7 +7153,7 @@
 		},
 		{
 			"id": "custom:f4f17bb5-e34f-42bb-8ddf-c2b745714286",
-			"name": "Armchairs",
+			"name": "Fauteuils",
 			"stacks": [
 				"{count:1,id:\"cobblefurnies:red_armchair\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblefurnies:orange_armchair\",type:\"minecraft:item\"}",
@@ -7175,7 +7175,7 @@
 		},
 		{
 			"id": "custom:67490bc7-d97d-486a-a88d-f7456096b605",
-			"name": "Lamps",
+			"name": "Lampes",
 			"stacks": [
 				"{count:1,id:\"cozyhome:oak_lamp\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cozyhome:spruce_lamp\",type:\"minecraft:item\"}",
@@ -7212,7 +7212,7 @@
 		},
 		{
 			"id": "custom:15b2a7eb-d61e-48d6-b94d-906c9f240ad0",
-			"name": "Furniture: Drawers",
+			"name": "Meubles : Tiroirs",
 			"stacks": [
 				"{count:1,id:\"cobblefurnies:red_drawer\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblefurnies:orange_drawer\",type:\"minecraft:item\"}",
@@ -7280,7 +7280,7 @@
 		},
 		{
 			"id": "custom:8df7b858-42a1-452b-a442-ea73f4761bd1",
-			"name": "Furniture: Cabinets",
+			"name": "Meubles : Armoires",
 			"stacks": [
 				"{count:1,id:\"handcrafted:acacia_cupboard\",type:\"minecraft:item\"}",
 				"{count:1,id:\"handcrafted:bamboo_cupboard\",type:\"minecraft:item\"}",
@@ -7337,7 +7337,7 @@
 		},
 		{
 			"id": "custom:69708f4e-0320-43cf-b936-1f62838281f6",
-			"name": "Furniture: Wall Supports",
+			"name": "Mobilier : Supports muraux",
 			"stacks": [
 				"{count:1,id:\"cobblefurnies:oak_wall_support\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblefurnies:spruce_wall_support\",type:\"minecraft:item\"}",
@@ -7356,7 +7356,7 @@
 		},
 		{
 			"id": "custom:cfec8da8-6478-4f93-b5b8-55c8a47fe132",
-			"name": "Furniture: Chairs",
+			"name": "Meubles : Chaises",
 			"stacks": [
 				"{count:1,id:\"cobblefurnies:red_chair\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblefurnies:red_dark_chair\",type:\"minecraft:item\"}",
@@ -7434,7 +7434,7 @@
 		},
 		{
 			"id": "custom:a7da6cc1-5fec-4063-844e-031ac92a72ba",
-			"name": "Furniture: Tables",
+			"name": "Meubles : Tables",
 			"stacks": [
 				"{count:1,id:\"cobblefurnies:red_table\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblefurnies:red_dark_table\",type:\"minecraft:item\"}",
@@ -7522,7 +7522,7 @@
 		},
 		{
 			"id": "custom:4e364212-484b-4224-acc5-779e200f4fd7",
-			"name": "Star Moves",
+			"name": "Capacités Étoiles",
 			"stacks": [
 				"{count:1,id:\"tmcraft:star_10000000voltthunderbolt\",type:\"minecraft:item\"}",
 				"{count:1,id:\"tmcraft:star_absorb\",type:\"minecraft:item\"}",
@@ -8457,7 +8457,7 @@
 		},
 		{
 			"id": "custom:22454d8e-44aa-4d0b-9683-a3938e21eaf1",
-			"name": "Smooth Stone Blocks",
+			"name": "Blocs de pierre lisse",
 			"stacks": [
 				"{count:1,id:\"minecraft:smooth_stone\",type:\"minecraft:item\"}",
 				"{count:1,id:\"rechiseled:stone_smooth_connecting\",type:\"minecraft:item\"}",
@@ -8492,7 +8492,7 @@
 		},
 		{
 			"id": "custom:1e3d12da-53e4-4670-8119-8e85d67d60ab",
-			"name": "Planks",
+			"name": "Planches",
 			"stacks": [
 				"{count:1,id:\"minecraft:oak_planks\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:spruce_planks\",type:\"minecraft:item\"}",
@@ -8513,7 +8513,7 @@
 		},
 		{
 			"id": "custom:8b03eb4f-318a-4383-b0c3-93789ad470cc",
-			"name": "Buttons",
+			"name": "Boutons",
 			"stacks": [
 				"{count:1,id:\"minecraft:stone_button\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:polished_blackstone_button\",type:\"minecraft:item\"}",
@@ -8552,7 +8552,7 @@
 		},
 		{
 			"id": "custom:9f9e7e91-c8ed-441b-857e-ee1856277c75",
-			"name": "Pressure Plates",
+			"name": "Plaques de pression",
 			"stacks": [
 				"{count:1,id:\"minecraft:stone_pressure_plate\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:polished_blackstone_pressure_plate\",type:\"minecraft:item\"}",
@@ -8577,7 +8577,7 @@
 		},
 		{
 			"id": "custom:f5b5cebe-fca9-4010-b6b2-4f2fbf9f4053",
-			"name": "Doors",
+			"name": "Portes",
 			"stacks": [
 				"{count:1,id:\"minecraft:iron_door\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:oak_door\",type:\"minecraft:item\"}",
@@ -8607,7 +8607,7 @@
 		},
 		{
 			"id": "custom:ea9040fc-45f6-48a7-89bd-a290094491b4",
-			"name": "Trapdoors",
+			"name": "Trappes",
 			"stacks": [
 				"{count:1,id:\"minecraft:iron_trapdoor\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:oak_trapdoor\",type:\"minecraft:item\"}",
@@ -8637,7 +8637,7 @@
 		},
 		{
 			"id": "custom:6804e0a3-e041-4716-94ba-5603cf057832",
-			"name": "Fences",
+			"name": "Clôtures",
 			"stacks": [
 				"{count:1,id:\"minecraft:oak_fence\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:spruce_fence\",type:\"minecraft:item\"}",
@@ -8675,7 +8675,7 @@
 		},
 		{
 			"id": "custom:bb7dc2c9-15fc-4ad9-ac4a-7e4def369720",
-			"name": "Stone Blocks",
+			"name": "Blocs de pierre",
 			"stacks": [
 				"{count:1,id:\"minecraft:stone\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:stone_slab\",type:\"minecraft:item\"}",
@@ -8774,7 +8774,7 @@
 		},
 		{
 			"id": "custom:f33a5404-9657-4621-8537-6b516902f3a1",
-			"name": "Spruce Plank Blocks",
+			"name": "Blocs de planches d'épicéa",
 			"stacks": [
 				"{count:1,id:\"minecraft:spruce_planks\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:spruce_slab\",type:\"minecraft:item\"}",
@@ -8894,7 +8894,7 @@
 		},
 		{
 			"id": "custom:f1725c0f-3afc-4ecc-b76b-e06b26c673a3",
-			"name": "Sandstone Blocks",
+			"name": "Blocs de grès",
 			"stacks": [
 				"{count:1,id:\"minecraft:sandstone\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:chiseled_sandstone\",type:\"minecraft:item\"}",
@@ -8957,7 +8957,7 @@
 		},
 		{
 			"id": "custom:eebf9a82-ef20-48b2-925f-dcdae07eeb5e",
-			"name": "Red Sandstone Blocks",
+			"name": "Blocs de grès rouge",
 			"stacks": [
 				"{count:1,id:\"minecraft:red_sandstone_slab\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:cut_red_sandstone_slab\",type:\"minecraft:item\"}",
@@ -9020,7 +9020,7 @@
 		},
 		{
 			"id": "custom:c73f445b-97bd-455f-bd3d-41d8c7cfa922",
-			"name": "Red Nether Brick Blocks",
+			"name": "Blocs de briques du Néant rouge",
 			"stacks": [
 				"{count:1,id:\"minecraft:red_nether_bricks\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:red_nether_brick_stairs\",type:\"minecraft:item\"}",
@@ -9101,7 +9101,7 @@
 		},
 		{
 			"id": "custom:310420a2-e5f7-4d2d-a6b1-ca53ce95c417",
-			"name": "Redstone Blocks",
+			"name": "Blocs de Redstone",
 			"stacks": [
 				"{count:1,id:\"minecraft:redstone_block\",type:\"minecraft:item\"}",
 				"{count:1,id:\"rechiseled:redstone_block_bordered\",type:\"minecraft:item\"}",
@@ -9189,7 +9189,7 @@
 		},
 		{
 			"id": "custom:88989043-c8ae-4011-a2ef-3fcaf2cc744f",
-			"name": "Quartz Blocks",
+			"name": "Blocs de quartz",
 			"stacks": [
 				"{count:1,id:\"minecraft:quartz_slab\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:smooth_quartz\",type:\"minecraft:item\"}",
@@ -9288,7 +9288,7 @@
 		},
 		{
 			"id": "custom:c701f3eb-e005-44db-a11b-b604e17cccfc",
-			"name": "Purpur Blocks",
+			"name": "Blocs de Purpur",
 			"stacks": [
 				"{count:1,id:\"minecraft:purpur_slab\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:purpur_block\",type:\"minecraft:item\"}",
@@ -9403,7 +9403,7 @@
 		},
 		{
 			"id": "custom:762e321f-6c81-4ac5-8d17-ab7e753a9d44",
-			"name": "Obsidian Blocks",
+			"name": "Blocs d'obsidienne",
 			"stacks": [
 				"{count:1,id:\"minecraft:obsidian\",type:\"minecraft:item\"}",
 				"{count:1,id:\"rechiseled:obsidian_bordered\",type:\"minecraft:item\"}",
@@ -9497,7 +9497,7 @@
 		},
 		{
 			"id": "custom:83a24615-e024-469e-b050-e23609a69a20",
-			"name": "Oak Plank Blocks",
+			"name": "Blocs de planches de chêne",
 			"stacks": [
 				"{count:1,id:\"minecraft:oak_planks\",type:\"minecraft:item\"}",
 				"{count:1,id:\"rechiseled:oak_planks_beams\",type:\"minecraft:item\"}",
@@ -9617,7 +9617,7 @@
 		},
 		{
 			"id": "custom:30437e56-c23a-42d4-8335-1c3f10369dd3",
-			"name": "Prismarine Brick Blocks",
+			"name": "Blocs de briques prismarines",
 			"stacks": [
 				"{count:1,id:\"minecraft:prismarine_brick_slab\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:prismarine_bricks\",type:\"minecraft:item\"}",
@@ -9734,7 +9734,7 @@
 		},
 		{
 			"id": "custom:66774811-55b3-436c-a6fb-891d9ba8cc30",
-			"name": "Netherite Blocks",
+			"name": "Blocs de Nétherite",
 			"stacks": [
 				"{count:1,id:\"minecraft:netherite_block\",type:\"minecraft:item\"}",
 				"{count:1,id:\"rechiseled:netherite_block_beams\",type:\"minecraft:item\"}",
@@ -9807,7 +9807,7 @@
 		},
 		{
 			"id": "custom:4b897d13-e420-40f0-bbc4-a065f7363358",
-			"name": "Nether Brick Blocks",
+			"name": "Blocs de briques du Néant",
 			"stacks": [
 				"{count:1,id:\"minecraft:nether_brick_slab\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:nether_bricks\",type:\"minecraft:item\"}",
@@ -9890,7 +9890,7 @@
 		},
 		{
 			"id": "custom:d72c9494-76be-4727-9d27-475fb1a99f96",
-			"name": "Netherrack Blocks",
+			"name": "Blocs Netherrack",
 			"stacks": [
 				"{count:1,id:\"minecraft:netherrack\",type:\"minecraft:item\"}",
 				"{count:1,id:\"rechiseled:netherrack_beams\",type:\"minecraft:item\"}",
@@ -9951,7 +9951,7 @@
 		},
 		{
 			"id": "custom:86b520e0-1976-4f6b-bac8-c51e7eb99bb0",
-			"name": "Mossy Cobblestone Blocks",
+			"name": "Blocs de pierres moussues",
 			"stacks": [
 				"{count:1,id:\"minecraft:mossy_cobblestone\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:mossy_cobblestone_stairs\",type:\"minecraft:item\"}",
@@ -10008,7 +10008,7 @@
 		},
 		{
 			"id": "custom:220e8c88-0bec-4020-be16-b396cd199ed0",
-			"name": "Mangrove Plank Blocks",
+			"name": "Blocs de planches de palétuviers",
 			"stacks": [
 				"{count:1,id:\"minecraft:mangrove_planks\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:mangrove_slab\",type:\"minecraft:item\"}",
@@ -10128,7 +10128,7 @@
 		},
 		{
 			"id": "custom:2c06ccc3-9d61-4580-9f2e-c60fe37842a6",
-			"name": "Lapis Blocks",
+			"name": "Blocs de Lapis",
 			"stacks": [
 				"{count:1,id:\"minecraft:lapis_block\",type:\"minecraft:item\"}",
 				"{count:1,id:\"rechiseled:lapis_block_bordered\",type:\"minecraft:item\"}",
@@ -10348,7 +10348,7 @@
 		},
 		{
 			"id": "custom:610d587c-cbca-41c6-b7d6-b066c3d14182",
-			"name": "Iron Blocks",
+			"name": "Blocs de fer",
 			"stacks": [
 				"{count:1,id:\"minecraft:iron_block\",type:\"minecraft:item\"}",
 				"{count:1,id:\"rechiseled:iron_block_bordered\",type:\"minecraft:item\"}",
@@ -10433,7 +10433,7 @@
 		},
 		{
 			"id": "custom:6b28a2bf-040c-4aa9-a055-b516cb7c6b72",
-			"name": "Granite Blocks",
+			"name": "Blocs de granit",
 			"stacks": [
 				"{count:1,id:\"minecraft:granite\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:polished_granite\",type:\"minecraft:item\"}",
@@ -10508,7 +10508,7 @@
 		},
 		{
 			"id": "custom:22426cb0-3f8a-4c90-bbdf-5a4947ac29d4",
-			"name": "Gold Blocks",
+			"name": "Blocs d'or",
 			"stacks": [
 				"{count:1,id:\"minecraft:gold_block\",type:\"minecraft:item\"}",
 				"{count:1,id:\"rechiseled:gold_block_beams\",type:\"minecraft:item\"}",
@@ -10578,7 +10578,7 @@
 		},
 		{
 			"id": "custom:4ffaedfd-3c8a-477b-bfc7-8eca993ba0b0",
-			"name": "Glowstone Blocks",
+			"name": "Blocs de pierres lumineuses",
 			"stacks": [
 				"{count:1,id:\"minecraft:glowstone\",type:\"minecraft:item\"}",
 				"{count:1,id:\"rechiseled:glowstone_brick_pattern\",type:\"minecraft:item\"}",
@@ -10639,7 +10639,7 @@
 		},
 		{
 			"id": "custom:e3cea9ee-060a-4cf4-97de-6a633ce4b98b",
-			"name": "End Stone Blocks",
+			"name": "Blocs de pierre d'extrémité",
 			"stacks": [
 				"{count:1,id:\"minecraft:end_stone\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:end_stone_bricks\",type:\"minecraft:item\"}",
@@ -10739,7 +10739,7 @@
 		},
 		{
 			"id": "custom:acf353da-85ea-4432-ab90-c30f9659d1bd",
-			"name": "Emerald Blocks",
+			"name": "Blocs d'émeraude",
 			"stacks": [
 				"{count:1,id:\"minecraft:emerald_block\",type:\"minecraft:item\"}",
 				"{count:1,id:\"rechiseled:emerald_block_bordered_crosses\",type:\"minecraft:item\"}",
@@ -10821,7 +10821,7 @@
 		},
 		{
 			"id": "custom:26b7acf0-9577-4ec3-a7e8-c257e1b54147",
-			"name": "Dirt Blocks",
+			"name": "Blocs de terre",
 			"stacks": [
 				"{count:1,id:\"minecraft:dirt\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:coarse_dirt\",type:\"minecraft:item\"}",
@@ -10911,7 +10911,7 @@
 		},
 		{
 			"id": "custom:d1585e6d-3f2a-4496-9aeb-f900492f97b8",
-			"name": "Diorite Blocks",
+			"name": "Blocs de diorite",
 			"stacks": [
 				"{count:1,id:\"minecraft:diorite\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:polished_diorite\",type:\"minecraft:item\"}",
@@ -10986,7 +10986,7 @@
 		},
 		{
 			"id": "custom:0e125d61-5ddd-4d93-b80c-d31925dd39d5",
-			"name": "Diamond Blocks",
+			"name": "Blocs de diamants",
 			"stacks": [
 				"{count:1,id:\"minecraft:diamond_block\",type:\"minecraft:item\"}",
 				"{count:1,id:\"rechiseled:diamond_block_chiseled\",type:\"minecraft:item\"}",
@@ -11053,7 +11053,7 @@
 		},
 		{
 			"id": "custom:c100d49e-7674-4749-b6ff-fba2067d9ecf",
-			"name": "Dark Prismarine Blocks",
+			"name": "Blocs prismarine foncée",
 			"stacks": [
 				"{count:1,id:\"minecraft:dark_prismarine_slab\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:dark_prismarine\",type:\"minecraft:item\"}",
@@ -11134,7 +11134,7 @@
 		},
 		{
 			"id": "custom:05d4f7c7-d42a-4ec8-a56d-4a8538587833",
-			"name": "Dark Oak Plank Blocks",
+			"name": "Blocs de planches en chêne foncé",
 			"stacks": [
 				"{count:1,id:\"minecraft:dark_oak_planks\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:dark_oak_slab\",type:\"minecraft:item\"}",
@@ -11254,7 +11254,7 @@
 		},
 		{
 			"id": "custom:e2854208-8d72-4096-b25f-940717e19130",
-			"name": "Crimson Plank Blocks",
+			"name": "Blocs de planches cramoisies",
 			"stacks": [
 				"{count:1,id:\"minecraft:crimson_planks\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:crimson_slab\",type:\"minecraft:item\"}",
@@ -11374,7 +11374,7 @@
 		},
 		{
 			"id": "custom:9c0b5cc8-877c-430f-b138-d91392fd6f90",
-			"name": "Copper Blocks",
+			"name": "Blocs de cuivre",
 			"stacks": [
 				"{count:1,id:\"minecraft:copper_block\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:exposed_copper\",type:\"minecraft:item\"}",
@@ -11480,7 +11480,7 @@
 		},
 		{
 			"id": "custom:d2ea5956-37f0-48d1-a2c2-c52121fc0c15",
-			"name": "Cobblestone Blocks",
+			"name": "Blocs de pierre",
 			"stacks": [
 				"{count:1,id:\"minecraft:cobblestone\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:cobblestone_slab\",type:\"minecraft:item\"}",
@@ -11594,7 +11594,7 @@
 		},
 		{
 			"id": "custom:d408f964-e0c8-4e80-96a6-8b16ae47a397",
-			"name": "Deepslate Blocks",
+			"name": "Blocs en ardoise",
 			"stacks": [
 				"{count:1,id:\"minecraft:deepslate\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:cobbled_deepslate\",type:\"minecraft:item\"}",
@@ -11700,7 +11700,7 @@
 		},
 		{
 			"id": "custom:36075dea-db96-440f-b498-1a1bc51b9414",
-			"name": "Coal Blocks",
+			"name": "Blocs de charbon",
 			"stacks": [
 				"{count:1,id:\"minecraft:coal_block\",type:\"minecraft:item\"}",
 				"{count:1,id:\"rechiseled:coal_block_carved\",type:\"minecraft:item\"}",
@@ -11770,7 +11770,7 @@
 		},
 		{
 			"id": "custom:43e8caa6-e924-410f-9021-3354ef8f5772",
-			"name": "Cherry Plank Blocks",
+			"name": "Blocs de planches de cerisier",
 			"stacks": [
 				"{count:1,id:\"minecraft:cherry_planks\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:cherry_slab\",type:\"minecraft:item\"}",
@@ -11890,7 +11890,7 @@
 		},
 		{
 			"id": "custom:8c151fc3-4d07-46cf-94b8-6c7b8e5ddcc0",
-			"name": "Bone Blocks",
+			"name": "Blocs osseux",
 			"stacks": [
 				"{count:1,id:\"minecraft:bone_block\",type:\"minecraft:item\"}",
 				"{count:1,id:\"rechiseled:bone_block_bordered\",type:\"minecraft:item\"}",
@@ -11954,7 +11954,7 @@
 		},
 		{
 			"id": "custom:972e56ec-237d-4a40-bc96-534aac584c3f",
-			"name": "Blue Ice Blocks",
+			"name": "Blocs de glace bleue",
 			"stacks": [
 				"{count:1,id:\"minecraft:blue_ice\",type:\"minecraft:item\"}",
 				"{count:1,id:\"rechiseled:blue_ice_bordered\",type:\"minecraft:item\"}",
@@ -12012,7 +12012,7 @@
 		},
 		{
 			"id": "custom:10711c68-8d10-4f29-b515-4bc27f4075e3",
-			"name": "Blackstone Blocks",
+			"name": "Blocs de pierre noire",
 			"stacks": [
 				"{count:1,id:\"minecraft:blackstone\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:blackstone_slab\",type:\"minecraft:item\"}",
@@ -12062,7 +12062,7 @@
 		},
 		{
 			"id": "custom:6cccdcbb-ef0f-4f44-8148-5cd0b4a178a1",
-			"name": "Birch Plank Blocks",
+			"name": "Blocs de planches de bouleau",
 			"stacks": [
 				"{count:1,id:\"minecraft:birch_planks\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:birch_stairs\",type:\"minecraft:item\"}",
@@ -12182,7 +12182,7 @@
 		},
 		{
 			"id": "custom:ac7f0b7a-3f76-497c-8492-7e6c42972dc3",
-			"name": "Bamboo Plank Blocks",
+			"name": "Blocs de planches de bambou",
 			"stacks": [
 				"{count:1,id:\"minecraft:bamboo_planks\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:bamboo_slab\",type:\"minecraft:item\"}",
@@ -12299,7 +12299,7 @@
 		},
 		{
 			"id": "custom:6c506c82-e5f8-4053-956f-19582db8b6be",
-			"name": "Basalt Blocks",
+			"name": "Blocs de basalte",
 			"stacks": [
 				"{count:1,id:\"minecraft:basalt\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:polished_basalt\",type:\"minecraft:item\"}",
@@ -12359,7 +12359,7 @@
 		},
 		{
 			"id": "custom:60776838-11c8-413a-be04-65d8406736f2",
-			"name": "Andesite Blocks",
+			"name": "Blocs d'andésite",
 			"stacks": [
 				"{count:1,id:\"minecraft:andesite\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:polished_andesite\",type:\"minecraft:item\"}",
@@ -12434,7 +12434,7 @@
 		},
 		{
 			"id": "custom:74d26bc1-ecd6-40e1-80d7-dc3346b5c54e",
-			"name": "Acacia Plank Blocks",
+			"name": "Blocs de planches en acacia",
 			"stacks": [
 				"{count:1,id:\"minecraft:acacia_planks\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:acacia_slab\",type:\"minecraft:item\"}",
@@ -12554,7 +12554,7 @@
 		},
 		{
 			"id": "custom:30f81f46-5328-4c18-ad58-cfcf14672584",
-			"name": "Amethyst Blocks",
+			"name": "Blocs d'améthyste",
 			"stacks": [
 				"{count:1,id:\"minecraft:amethyst_block\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:budding_amethyst\",type:\"minecraft:item\"}",
@@ -12625,7 +12625,7 @@
 		},
 		{
 			"id": "custom:d426a257-d3e8-421c-9274-dd4f42d5b746",
-			"name": "Tuff Blocks",
+			"name": "Blocs Tuff",
 			"stacks": [
 				"{count:1,id:\"minecraft:tuff\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:tuff_slab\",type:\"minecraft:item\"}",
@@ -12643,7 +12643,7 @@
 		},
 		{
 			"id": "custom:55880cd8-e3a8-41ec-a378-509f08979192",
-			"name": "Mud Blocks",
+			"name": "Blocs de boue",
 			"stacks": [
 				"{count:1,id:\"minecraft:mud\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:mud_brick_slab\",type:\"minecraft:item\"}",
@@ -12654,7 +12654,7 @@
 		},
 		{
 			"id": "custom:133420d7-0684-4c7d-8e24-69ebec7b770a",
-			"name": "Concrete Blocks",
+			"name": "Blocs de béton",
 			"stacks": [
 				"{count:1,id:\"minecraft:white_concrete\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:orange_concrete\",type:\"minecraft:item\"}",
@@ -12740,7 +12740,7 @@
 		},
 		{
 			"id": "custom:6489cc4e-ba15-4893-809a-8bcafa0614d3",
-			"name": "Harnesses",
+			"name": "Harnais",
 			"stacks": [
 				"{count:1,id:\"minecraft:white_harness\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:orange_harness\",type:\"minecraft:item\"}",
@@ -12762,7 +12762,7 @@
 		},
 		{
 			"id": "custom:332b599a-c59a-49d5-8d0f-385b156fbed1",
-			"name": "Bundles",
+			"name": "Liasses",
 			"stacks": [
 				"{count:1,id:\"minecraft:bundle\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:white_bundle\",type:\"minecraft:item\"}",
@@ -12785,7 +12785,7 @@
 		},
 		{
 			"id": "custom:ca799055-62b7-40cc-b00d-f192567b0524",
-			"name": "Resin Blocks",
+			"name": "Blocs de résine",
 			"stacks": [
 				"{count:1,id:\"minecraft:resin_block\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:resin_bricks\",type:\"minecraft:item\"}",
@@ -12796,7 +12796,7 @@
 		},
 		{
 			"id": "custom:9c20dc26-cd79-4b69-8712-5d04bd958efa",
-			"name": "Pale Oak Plank Blocks",
+			"name": "Blocs de planches de chêne pâle",
 			"stacks": [
 				"{count:1,id:\"minecraft:pale_oak_planks\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:pale_oak_stairs\",type:\"minecraft:item\"}",
@@ -12805,7 +12805,7 @@
 		},
 		{
 			"id": "custom:defc1856-eb94-47c5-b1d7-d6f5c6a8de76",
-			"name": "Boats",
+			"name": "Bateaux",
 			"stacks": [
 				"{count:1,id:\"minecraft:oak_boat\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:oak_chest_boat\",type:\"minecraft:item\"}",
@@ -12835,7 +12835,7 @@
 		},
 		{
 			"id": "custom:76924914-9ad6-4d3f-bf49-6b7df9f9124e",
-			"name": "Signs",
+			"name": "Signes",
 			"stacks": [
 				"{count:1,id:\"minecraft:oak_sign\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:spruce_sign\",type:\"minecraft:item\"}",
@@ -12871,7 +12871,7 @@
 		},
 		{
 			"id": "custom:ad3d1f11-124c-47f7-86be-3da8110b3f17",
-			"name": "Warped Plank Blocks",
+			"name": "Blocs de planches gauchies",
 			"stacks": [
 				"{count:1,id:\"minecraft:warped_planks\",type:\"minecraft:item\"}",
 				"{count:1,id:\"carved_wood:carved_warped_planks\",type:\"minecraft:item\"}",
@@ -12992,7 +12992,7 @@
 		},
 		{
 			"id": "custom:aab923e9-497c-4f67-b847-7c66b68fc4f5",
-			"name": "Stairs",
+			"name": "Escaliers",
 			"stacks": [
 				"{count:1,id:\"minecraft:tuff_stairs\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:polished_tuff_stairs\",type:\"minecraft:item\"}",
@@ -14318,7 +14318,7 @@
 		},
 		{
 			"id": "custom:87cbcf23-1337-453f-9488-43b5c7331031",
-			"name": "Fence Gates",
+			"name": "Barrières de clôture",
 			"stacks": [
 				"{count:1,id:\"minecraft:oak_fence_gate\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:spruce_fence_gate\",type:\"minecraft:item\"}",
@@ -14355,7 +14355,7 @@
 		},
 		{
 			"id": "custom:8eff66c4-9165-4ff1-b11f-d8f2148904f7",
-			"name": "Logs & Wood",
+			"name": "Bûches et bois",
 			"stacks": [
 				"{count:1,id:\"minecraft:oak_log\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:spruce_log\",type:\"minecraft:item\"}",
@@ -14407,7 +14407,7 @@
 		},
 		{
 			"id": "custom:76aa2e99-ec7f-481f-8d5e-872bef1ee568",
-			"name": "Bricks",
+			"name": "Briques",
 			"stacks": [
 				"{count:1,id:\"minecraft:tuff_bricks\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:bricks\",type:\"minecraft:item\"}",
@@ -14448,7 +14448,7 @@
 		},
 		{
 			"id": "custom:e8667768-ed80-4e06-9030-25a3b574a992",
-			"name": "Slabs",
+			"name": "Dalles",
 			"stacks": [
 				"{count:1,id:\"minecraft:tuff_slab\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:polished_tuff_slab\",type:\"minecraft:item\"}",
@@ -15794,7 +15794,7 @@
 		},
 		{
 			"id": "custom:136abdbe-7f70-4f1a-9ca5-df2ff47d2d3e",
-			"name": "Stems & Hyphae",
+			"name": "Tiges et hyphes",
 			"stacks": [
 				"{count:1,id:\"minecraft:crimson_stem\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:warped_stem\",type:\"minecraft:item\"}",
@@ -15809,7 +15809,7 @@
 		},
 		{
 			"id": "custom:31b74720-0d19-41c9-a9b8-25c8eaa9e310",
-			"name": "Cartography Tables",
+			"name": "Tables de cartographie",
 			"stacks": [
 				"{count:1,id:\"lumymon:kanto_cartography_table\",type:\"minecraft:item\"}",
 				"{count:1,id:\"lumymon:johto_cartography_table\",type:\"minecraft:item\"}",
@@ -15823,7 +15823,7 @@
 		},
 		{
 			"id": "custom:9d649bcd-b98c-4579-8ce4-d2046a57397a",
-			"name": "Paintings",
+			"name": "Peintures",
 			"stacks": [
 				"{count:1,id:\"minecraft:painting\",type:\"minecraft:item\"}",
 				"{components:{\"minecraft:entity_data\":{id:\"minecraft:painting\",variant:\"minecraft:alban\"}},count:1,id:\"minecraft:painting\",type:\"minecraft:item\"}",
@@ -15973,7 +15973,7 @@
 		},
 		{
 			"id": "custom:35f8b44c-2e5b-4a5e-9a4b-60f4e88bfee5",
-			"name": "Banners",
+			"name": "Bannières",
 			"stacks": [
 				"{count:1,id:\"minecraft:white_banner\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:orange_banner\",type:\"minecraft:item\"}",
@@ -15996,7 +15996,7 @@
 		},
 		{
 			"id": "custom:d67c8459-07e9-4be5-8be0-4882b93f4693",
-			"name": "Leaves",
+			"name": "Feuilles",
 			"stacks": [
 				"{count:1,id:\"minecraft:oak_leaves\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:spruce_leaves\",type:\"minecraft:item\"}",
@@ -16016,7 +16016,7 @@
 		},
 		{
 			"id": "custom:dcc7cbbe-5a53-4907-99d1-a3d7533e2574",
-			"name": "Suspicious Stews",
+			"name": "Ragoûts suspects",
 			"stacks": [
 				"{components:{\"minecraft:suspicious_stew_effects\":[{duration:7,id:\"minecraft:saturation\"}]},count:1,id:\"minecraft:suspicious_stew\",type:\"minecraft:item\"}",
 				"{components:{\"minecraft:suspicious_stew_effects\":[{duration:100,id:\"minecraft:night_vision\"}]},count:1,id:\"minecraft:suspicious_stew\",type:\"minecraft:item\"}",
@@ -16035,7 +16035,7 @@
 		},
 		{
 			"id": "custom:3c3fba98-4503-46ac-9458-8fbb8b3ce066",
-			"name": "Amethyst Crystals",
+			"name": "Cristaux d'améthyste",
 			"stacks": [
 				"{count:1,id:\"minecraft:small_amethyst_bud\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:medium_amethyst_bud\",type:\"minecraft:item\"}",
@@ -16045,7 +16045,7 @@
 		},
 		{
 			"id": "custom:4dc58a50-47da-48fd-8094-cc2ca1b79335",
-			"name": "Froglights",
+			"name": "Lumières froides",
 			"stacks": [
 				"{count:1,id:\"minecraft:ochre_froglight\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:verdant_froglight\",type:\"minecraft:item\"}",
@@ -16054,7 +16054,7 @@
 		},
 		{
 			"id": "custom:e651b34e-75b5-4587-bc22-0e5c7476d2b6",
-			"name": "Poké Drinks",
+			"name": "Boissons Poké",
 			"stacks": [
 				"{count:1,id:\"cobblecuisine:miltank_mix_au_lait\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblecuisine:protein_smoothie\",type:\"minecraft:item\"}",
@@ -16066,7 +16066,7 @@
 		},
 		{
 			"id": "custom:ecbf87f4-70f5-4f7a-8f91-4d532bdbcb9a",
-			"name": "Golden Candied Berries",
+			"name": "Baies confites dorées",
 			"stacks": [
 				"{count:1,id:\"cobblecuisine:candied_razz_berry\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblecuisine:candied_nanab_berry\",type:\"minecraft:item\"}",
@@ -16076,7 +16076,7 @@
 		},
 		{
 			"id": "custom:f5523045-661e-4079-8d56-6d13d57d243c",
-			"name": "Poké Plaques",
+			"name": "Plaques Poké",
 			"stacks": [
 				"{count:1,id:\"cobblemon:black_plaque\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblemon:light_blue_plaque\",type:\"minecraft:item\"}",
@@ -16098,7 +16098,7 @@
 		},
 		{
 			"id": "custom:0e79b669-7ba1-4fd9-b194-d2425a6f529d",
-			"name": "Food",
+			"name": "Alimentation",
 			"stacks": [
 				"{count:1,id:\"minecraft:apple\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:mushroom_stew\",type:\"minecraft:item\"}",
@@ -16156,7 +16156,7 @@
 		},
 		{
 			"id": "custom:1cd62c89-dcfb-4aeb-88f0-465c432a3cc4",
-			"name": "Mega Stones",
+			"name": "Méga-Gemmes",
 			"stacks": [
 				"{count:1,id:\"mega_showdown:abomasite\",type:\"minecraft:item\"}",
 				"{count:1,id:\"mega_showdown:absolite\",type:\"minecraft:item\"}",
@@ -16254,7 +16254,7 @@
 		},
 		{
 			"id": "custom:1421ec5d-67b5-4528-aae6-0b0461dc0244",
-			"name": "Evolution Items",
+			"name": "Articles sur l'évolution",
 			"stacks": [
 				"{count:1,id:\"cobblemon:clover_sweet\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblemon:unremarkable_teacup\",type:\"minecraft:item\"}",
@@ -16310,7 +16310,7 @@
 		},
 		{
 			"id": "custom:5aa2cc4e-85b2-480d-94e9-ce61df830a92",
-			"name": "Ingots",
+			"name": "Lingots",
 			"stacks": [
 				"{count:1,id:\"minecraft:iron_ingot\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:copper_ingot\",type:\"minecraft:item\"}",
@@ -16321,7 +16321,7 @@
 		},
 		{
 			"id": "custom:0cca5d8a-5629-4c02-85bb-491c99570608",
-			"name": "Raw Ore Blocks",
+			"name": "Blocs de minerai brut",
 			"stacks": [
 				"{count:1,id:\"minecraft:raw_iron_block\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:raw_copper_block\",type:\"minecraft:item\"}",
@@ -16330,7 +16330,7 @@
 		},
 		{
 			"id": "custom:6bd6fdc6-c8d0-434a-ba67-bc4cd73658ff",
-			"name": "Battle Position Blocks",
+			"name": "Blocs de position de combat",
 			"stacks": [
 				"{count:1,id:\"cobblemonbattlepositions:trainer_pokemon_position\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblemonbattlepositions:player_pokemon_position\",type:\"minecraft:item\"}",
@@ -16340,7 +16340,7 @@
 		},
 		{
 			"id": "custom:2a7e01fa-b026-4ea3-8e85-94e685b5a76e",
-			"name": "Gym Badge Boxes",
+			"name": "Boîtes à badges pour le gymnase",
 			"stacks": [
 				"{count:1,id:\"cobbleversebadges:kanto_badge_box\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobbleversebadges:johto_badge_box\",type:\"minecraft:item\"}",
@@ -16350,7 +16350,7 @@
 		},
 		{
 			"id": "custom:4bf64a7b-5316-4096-8b63-4491bd6b0c1d",
-			"name": "Sacred Stakes",
+			"name": "Enjeux sacrés",
 			"stacks": [
 				"{count:1,id:\"legendarymonuments:firescourge_stake\",type:\"minecraft:item\"}",
 				"{count:1,id:\"legendarymonuments:grasswither_stake\",type:\"minecraft:item\"}",
@@ -16360,7 +16360,7 @@
 		},
 		{
 			"id": "custom:d39845f0-6dba-4bc9-bf2f-950deb551b1e",
-			"name": "Tera Pouches",
+			"name": "Pochettes Tera",
 			"stacks": [
 				"{count:1,id:\"mega_showdown:tera_pouch_white\",type:\"minecraft:item\"}",
 				"{count:1,id:\"mega_showdown:tera_pouch_orange\",type:\"minecraft:item\"}",
@@ -16382,7 +16382,7 @@
 		},
 		{
 			"id": "custom:423e3491-8c7a-45c3-8751-3f08832851da",
-			"name": "COBBLEVERSE Legendary Radars",
+			"name": "COBBLEVERSE Radars légendaires",
 			"stacks": [
 				"{count:1,id:\"lumymon:articuno_radar\",type:\"minecraft:item\"}",
 				"{count:1,id:\"lumymon:zapdos_radar\",type:\"minecraft:item\"}",
@@ -16420,7 +16420,7 @@
 		},
 		{
 			"id": "custom:7430f5f8-56af-4f98-baf0-b9568294757f",
-			"name": "COBBLEVERSE Altars & Shrines",
+			"name": "Autels et sanctuaires de COBBLEVERSE",
 			"stacks": [
 				"{count:1,id:\"lumymon:articuno_altar\",type:\"minecraft:item\"}",
 				"{count:1,id:\"lumymon:zapdos_altar\",type:\"minecraft:item\"}",
@@ -16454,7 +16454,7 @@
 		},
 		{
 			"id": "custom:87587192-f619-423d-b600-f8e8df06c025",
-			"name": "Flowers",
+			"name": "Fleurs",
 			"stacks": [
 				"{count:1,id:\"minecraft:dandelion\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:poppy\",type:\"minecraft:item\"}",
@@ -16486,7 +16486,7 @@
 		},
 		{
 			"id": "custom:8bece83c-181a-4c61-9fdd-ccfca536c9e5",
-			"name": "Plants & Vegetation",
+			"name": "Plantes et végétation",
 			"stacks": [
 				"{count:1,id:\"minecraft:short_grass\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:fern\",type:\"minecraft:item\"}",
@@ -16519,7 +16519,7 @@
 		},
 		{
 			"id": "custom:8a46336f-1ed1-4164-922e-67218e9ae5aa",
-			"name": "Eggs",
+			"name": "Œufs",
 			"stacks": [
 				"{count:1,id:\"minecraft:turtle_egg\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:sniffer_egg\",type:\"minecraft:item\"}",
@@ -16530,7 +16530,7 @@
 		},
 		{
 			"id": "custom:32d0cf1b-7195-433f-a8a4-94422abba3e9",
-			"name": "Relic Coins",
+			"name": "Monnaies reliques",
 			"stacks": [
 				"{count:1,id:\"cobblemon:relic_coin\",type:\"minecraft:item\"}",
 				"{count:1,id:\"cobblemon:relic_coin_pouch\",type:\"minecraft:item\"}",
@@ -16549,7 +16549,7 @@
 		},
 		{
 			"id": "custom:53afd259-42a2-4407-beae-1a6a0b6973fc",
-			"name": "Walls",
+			"name": "Murs",
 			"stacks": [
 				"{count:1,id:\"minecraft:tuff_wall\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:polished_tuff_wall\",type:\"minecraft:item\"}",
@@ -16605,7 +16605,7 @@
 		},
 		{
 			"id": "custom:f49fd989-2ec3-4d0d-a42b-1e86fedf864d",
-			"name": "Saplings",
+			"name": "Les jeunes arbres",
 			"stacks": [
 				"{count:1,id:\"minecraft:oak_sapling\",type:\"minecraft:item\"}",
 				"{count:1,id:\"minecraft:spruce_sapling\",type:\"minecraft:item\"}",
@@ -16621,7 +16621,7 @@
 		},
 		{
 			"id": "custom:b32f550e-267c-4eb5-9fa1-74768a09e768",
-			"name": "Ruinous Seals",
+			"name": "Sceaux ruineux",
 			"stacks": [
 				"{count:1,id:\"legendarymonuments:icerend_seal\",type:\"minecraft:item\"}",
 				"{count:1,id:\"legendarymonuments:groundblight_seal\",type:\"minecraft:item\"}",
@@ -16631,7 +16631,7 @@
 		},
 		{
 			"id": "custom:dd083fd5-923c-48d0-8bf6-76a38e8430dd",
-			"name": "Regi Ores",
+			"name": "Minerais de Regi",
 			"stacks": [
 				"{count:1,id:\"lumymon:ice_ore\",type:\"minecraft:item\"}",
 				"{count:1,id:\"lumymon:rock_ore\",type:\"minecraft:item\"}",
@@ -16642,7 +16642,7 @@
 		},
 		{
 			"id": "custom:f3ec98d2-2d8a-435e-85be-09c546074e0c",
-			"name": "Rotom Units",
+			"name": "Formes de Motisma",
 			"stacks": [
 				"{count:1,id:\"mega_showdown:rotom_washing_machine\",type:\"minecraft:item\"}",
 				"{count:1,id:\"mega_showdown:rotom_fan\",type:\"minecraft:item\"}",
@@ -16653,7 +16653,7 @@
 		},
 		{
 			"id": "custom:e5bcac97-4962-420f-84ad-61b683c395b9",
-			"name": "Ogerpon Masks",
+			"name": "Masques Ogerpon",
 			"stacks": [
 				"{count:1,id:\"mega_showdown:cornerstone_mask\",type:\"minecraft:item\"}",
 				"{count:1,id:\"mega_showdown:wellspring_mask\",type:\"minecraft:item\"}",

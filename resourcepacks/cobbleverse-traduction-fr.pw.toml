@@ -1,0 +1,9 @@
+name = "COBBLEVERSE Traduction FR"
+filename = "COBBLEVERSE-Traduction-FR-1.7.30.zip"
+side = "client"
+tier = "core"
+
+[download]
+url = "https://github.com/firefloc/nexamon/releases/download/v1.0.0-custom/COBBLEVERSE-Traduction-FR-1.7.30.zip"
+hash-format = "sha256"
+hash = "b517dc7e88abb9ef868793d470f24919b7a82f71d9e764085cad41b168f04b2e"

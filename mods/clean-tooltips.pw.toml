@@ -1,0 +1,14 @@
+name = "Clean Tooltips"
+filename = "clean_tooltips-1.1-fabric-1.21.1.jar"
+side = "client"
+tier = "core"
+
+[download]
+url = "https://cdn.modrinth.com/data/vMoHe8uI/versions/AUOz1hMI/clean_tooltips-1.1-fabric-1.21.1.jar"
+hash-format = "sha512"
+hash = "ab7fb5f9be7f4a859ce9a36be59e6041d23b2d354f742ce9ef5dd0c6e43ceedfcf797c6b45f2cddc9ec12407b03a77e8133a9c80149a27a377d23a903e3619c6"
+
+[update]
+[update.modrinth]
+mod-id = "vMoHe8uI"
+version = "AUOz1hMI"
