@@ -19980,7 +19980,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "5a66ed868fdbbf64a2fbaf61f308eb81cb79d227ef59cb03401fe5b3c6116913"
+hash = "30892eff04a33501d1f58d420e7e416d203e9df07c54e86637c54440909f7d20"
 metafile = true
 
 [[files]]
@@ -20569,11 +20569,6 @@ hash = "0f61a34e15a486bcdabbbbd5f88f0d45de576e1fafa8ab761ac79cee148684ce"
 metafile = true
 
 [[files]]
-file = "resourcepacks/bokoblin-from-zelda-the-wind-waker.pw.toml"
-hash = "c16d04dd0e9cbb62e9a1ce680e2b6aa84ca4bd1ea5665ded7d184abfa6817bf9"
-metafile = true
-
-[[files]]
 file = "resourcepacks/canon-pc-wallpapers.pw.toml"
 hash = "24af11890679cb4c40a2cc7599eb506daeed129794ef39c3a2880dc3bfa00a4b"
 metafile = true
@@ -20746,11 +20741,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/pokerods3d.pw.toml"
 hash = "fad211f9a9fa8e4949c7eb9783cfe34fe55ebb0ae019eb8e4cb55798821df76f"
-metafile = true
-
-[[files]]
-file = "resourcepacks/spacecool564-inventory-rework.pw.toml"
-hash = "0d801b8699d01ead5bb7a20647e11c6761e355e141266d26da0ee9d9299a0d7a"
 metafile = true
 
 [[files]]
