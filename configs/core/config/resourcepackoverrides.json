@@ -66,6 +66,7 @@
     "knowlogy:1.0.0_minecraft",
     "file/Maxi's-JM+CM_Pixel-U10.zip",
     "file/cutil-nerf-tooltips.zip",
+    "file/Nexamon Overrides.zip",
     "file/COBBLEVERSE 1.7.30 Traduction FR.zip"
   ],
   "pack_overrides": {
@@ -367,6 +368,11 @@
       "hidden": true
     },
     "vanillabackport:freshly_animated_legacy": {
+      "hidden": true
+    },
+    "file/Nexamon Overrides.zip": {
+      "title": "\"§e§lNexamon Overrides\"",
+      "description": "\"§a✔ Master Candy → Level Cap\n§f© §3Nexamon\"",
       "hidden": true
     }
   },

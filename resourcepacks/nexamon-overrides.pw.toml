@@ -1,0 +1,9 @@
+name = "Nexamon Overrides"
+filename = "Nexamon Overrides.zip"
+side = "both"
+tier = "core"
+
+[download]
+url = "http://90.73.30.60:9457/nexamon-overrides.zip"
+hash-format = "sha256"
+hash = "61bf4f709755832fc1606106bb7db932642025c52368153a4ab4cbec491025e9"
