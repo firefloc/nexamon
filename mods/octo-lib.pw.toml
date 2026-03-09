@@ -1,0 +1,14 @@
+name = "OctoLib"
+filename = "OctoLib-FABRIC-0.6.1+1.21.jar"
+side = "both"
+tier = "base"
+
+[download]
+url = "https://cdn.modrinth.com/data/RH2KUdKJ/versions/oCmdIpY6/OctoLib-FABRIC-0.6.1%2B1.21.jar"
+hash-format = "sha512"
+hash = "e7c43be4546b38bf518584913805e3c9481b9c39c686f570d4f9d11e7f3d04fd6a864e0955303e078633caefc39cf380abd8caccab8b8c3fea6a0461b2ddfd1f"
+
+[update]
+[update.modrinth]
+mod-id = "RH2KUdKJ"
+version = "oCmdIpY6"
