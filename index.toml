@@ -20539,11 +20539,6 @@ hash = "572a336473a1bb7c2f9bc1edadc9da91c0ea796fa4c01069acbcc897b8ca9429"
 metafile = true
 
 [[files]]
-file = "mods/worldweaver-21.0.13.pw.toml"
-hash = "c826a2a38b5e3e9e1e00ce7f654bcf504d5fb73fc3f1f043d05b01891597889b"
-metafile = true
-
-[[files]]
 file = "mods/yacl.pw.toml"
 hash = "cc151a1e47b937d563e889aaed4b30f575b0064ea75ba6fed3dd62bc42c415d3"
 metafile = true
