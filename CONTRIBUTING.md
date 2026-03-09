@@ -120,6 +120,79 @@ git commit -m "add: mon-rp resource pack"
 git push
 ```
 
+## Hebergement des fichiers custom (NON-Modrinth)
+
+**REGLE CRITIQUE** : les URL dans les `.pw.toml` doivent etre **accessibles publiquement**.
+Si packwiz ne peut pas telecharger un fichier, **TOUT le pack echoue** pour TOUS les joueurs.
+
+### Sources de fichiers
+
+| Source | URL | Exemple |
+|--------|-----|---------|
+| Modrinth | `https://cdn.modrinth.com/data/...` | Automatique via `index_resourcepacks.py` |
+| Custom (nous) | GitHub Releases `v1.0.0-custom` | `https://github.com/firefloc/nexamon/releases/download/v1.0.0-custom/MonFichier.zip` |
+
+**JAMAIS** utiliser d'URL locale (`http://192.168...`, `http://90.73...`, `localhost`, IP privee).
+
+### Procedure pour ajouter un fichier custom
+
+```bash
+# 1. Avoir le fichier .zip pret localement
+
+# 2. Calculer le hash SHA256
+sha256sum mon-fichier.zip
+
+# 3. Uploader sur la release GitHub v1.0.0-custom
+#    ATTENTION: GitHub remplace les espaces par des points dans le nom
+gh release upload v1.0.0-custom mon-fichier.zip --clobber
+
+# 4. Verifier le nom exact sur la release (espaces → points)
+gh release view v1.0.0-custom --json assets --jq '.assets[].name' | grep -i "mon-fichier"
+
+# 5. Verifier que le telechargement fonctionne (HTTP 200)
+curl -sL -o /dev/null -w "%{http_code}" "https://github.com/firefloc/nexamon/releases/download/v1.0.0-custom/Mon.Fichier.zip"
+# Doit retourner 200. Si 404 → le nom est incorrect.
+
+# 6. Creer le .pw.toml avec la bonne URL et le bon hash
+cat > resourcepacks/mon-fichier.pw.toml << 'TOML'
+name = "Mon Fichier"
+filename = "Mon Fichier.zip"
+side = "both"
+tier = "core"
+
+[download]
+url = "https://github.com/firefloc/nexamon/releases/download/v1.0.0-custom/Mon.Fichier.zip"
+hash-format = "sha256"
+hash = "<sha256 de l'etape 2>"
+TOML
+
+# 7. Tester le build
+python3 build_packs.py
+
+# 8. Commit + push
+git add resourcepacks/mon-fichier.pw.toml
+git commit -m "add: Mon Fichier resource pack"
+git push
+```
+
+### Mise a jour d'un fichier custom existant
+
+```bash
+# 1. Recreer le .zip avec les nouvelles modifications
+# 2. Recalculer le hash: sha256sum mon-fichier.zip
+# 3. Re-uploader: gh release upload v1.0.0-custom mon-fichier.zip --clobber
+# 4. Verifier le download (curl HTTP 200)
+# 5. Mettre a jour le hash dans le .pw.toml
+# 6. Commit + push
+```
+
+### Checklist avant commit (OBLIGATOIRE)
+
+- [ ] Le hash SHA256 dans le `.pw.toml` correspond au fichier uploade
+- [ ] L'URL retourne HTTP 200 (`curl -sL -o /dev/null -w "%{http_code}" <url>`)
+- [ ] `python3 build_packs.py` reussit sans erreur
+- [ ] Aucune URL locale/privee dans les fichiers modifies
+
 ## CI / Verification
 
 Le workflow GitHub Actions (`.github/workflows/pages.yml`) execute:
@@ -151,9 +224,27 @@ Le workflow GitHub Actions (`.github/workflows/pages.yml`) execute:
 | `configs/core/config/resourcepackoverrides.json` | Liste des RP actives par defaut (default_packs) |
 | `build_packs.py` | Script de generation des 3 variantes |
 
+## Feuille de passage agent (AGENT_LOG.md)
+
+**OBLIGATOIRE** pour tout agent (IA ou humain) qui modifie le repo.
+
+Apres chaque intervention, ajouter une ligne dans `AGENT_LOG.md` :
+
+```
+| HH:MM | Modele (session-id 8 chars) | action courte (hash commit) | OK / CASSE — raison |
+```
+
+- **Modele** : `Claude Opus 4.6`, `Claude Sonnet 4.6`, `humain`, etc.
+- **Session-id** : 8 premiers chars de l'ID de conversation/session
+- **Resultat** : `OK`, `CASSE — impact`, ou `EN COURS`
+- Si ca casse, decrire l'impact clairement (ex: "packwiz 404 pour tous les joueurs")
+
 ## Bonnes pratiques
 
 - Toujours `python3 build_packs.py` en local avant de push
 - Verifier le nombre de mods/RP dans la sortie du script
 - Ne jamais `git add low/ base/ ultra/` — ils sont dans `.gitignore`
 - Commit messages: `add:`, `remove:`, `fix:`, `update:` + nom du mod/config
+- **Toujours verifier les URLs avant de commit** (`curl -sL -o /dev/null -w "%{http_code}" <url>`)
+- **Jamais d'URL locale/privee** dans les `.pw.toml`
+- **Toujours signer le AGENT_LOG.md** apres intervention
