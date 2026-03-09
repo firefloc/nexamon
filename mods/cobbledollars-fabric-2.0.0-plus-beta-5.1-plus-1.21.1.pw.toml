@@ -3,6 +3,7 @@ filename = "CobbleDollars-fabric-2.0.0+Beta-5.1+1.21.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/s7N7AsqL/versions/cqsHXSXe/CobbleDollars-fabric-2.0.0%2BBeta-5.1%2B1.21.1.jar"
 hash-format = "sha256"
 hash = "5d8690980ecc79b5f33005dd274d148d0b9b7713ff5e8223c7011aa8bb08401a"
 

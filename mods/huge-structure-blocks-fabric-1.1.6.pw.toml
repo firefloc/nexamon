@@ -3,6 +3,7 @@ filename = "huge-structure-blocks-fabric-1.1.6.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/AMLtKGdJ/versions/jZrAT0D5/huge-structure-blocks-fabric-1.1.6.jar"
 hash-format = "sha256"
 hash = "759071bd7b1db4367f232db35872ce6a30e8adee57a8543d0967d0b39b37819d"
 

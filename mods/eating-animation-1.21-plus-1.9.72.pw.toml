@@ -3,6 +3,7 @@ filename = "eating-animation-1.21+1.9.72.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/rUgZvGzi/versions/KWZCioh0/eating-animation-1.21%2B1.9.72.jar"
 hash-format = "sha256"
 hash = "0290d5c286dc10bf5d402ed7a28f17af5a06973d6a69ae73c6dcaceae79e5456"
 

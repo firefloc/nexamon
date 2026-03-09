@@ -3,6 +3,7 @@ filename = "txnilib-fabric-1.0.24-1.21.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/vBbPDuOs/versions/98FHAlrc/txnilib-fabric-1.0.24-1.21.1.jar"
 hash-format = "sha256"
 hash = "814ea0db4bddf0bbc7beb316490e5f709e067203bbe1b8780ef3b2dde267ccc3"
 

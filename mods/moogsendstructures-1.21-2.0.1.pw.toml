@@ -3,6 +3,7 @@ filename = "MoogsEndStructures-1.21-2.0.1.jar"
 side = "server"
 
 [download]
+url = "https://cdn.modrinth.com/data/r4PuRGfV/versions/66xhbndk/MoogsEndStructures-1.21-2.0.1.jar"
 hash-format = "sha256"
 hash = "3c6818cb4ca78d783f16b013b1f80c41cc6899ecc4091365fdd3926583c6202a"
 

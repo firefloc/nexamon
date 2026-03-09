@@ -3,6 +3,7 @@ filename = "FullyHisuianStarters RP.zip"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/5vRvzDPO/versions/6RwfalgE/Fully%20Hisuian%20Starters%201.1.1.zip"
 hash-format = "sha256"
 hash = "a12cbdd26881621404bce13b7ce022aa18872067bdfefaa80d8d1c22bd6fc4b0"
 

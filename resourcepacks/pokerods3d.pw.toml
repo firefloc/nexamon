@@ -3,6 +3,7 @@ filename = "PokeRods3D.zip"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/7OFEgDS3/versions/L4DqwCP9/Cobblemon%203D%20Pok%C3%A9%20Rods%201.0.zip"
 hash-format = "sha256"
 hash = "c93e9c866658bb752976c44414ca0e04fa90246060f114a183599abe1de4ca9e"
 

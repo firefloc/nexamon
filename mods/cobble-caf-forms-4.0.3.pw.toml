@@ -3,6 +3,7 @@ filename = "cobble-caf-forms-4.0.3.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/469QXqgC/versions/4XhFwNeW/cobble-caf-forms-4.0.3.jar"
 hash-format = "sha256"
 hash = "3e134a15697fc0d3a4d0e82df9e1f058da43a4d941a2f7f5f3b1e750788604a5"
 

@@ -3,6 +3,7 @@ filename = "farmers-cutting-the-aether-1.21.1-1.0-fabric.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/W77u83l0/versions/cNzZRWwB/farmers-cutting-the-aether-1.21.1-1.0-fabric.jar"
 hash-format = "sha256"
 hash = "e0e973cc5e3cb094705cd3ebad8107cb81fca6d7730725e112553f17b2e90197"
 

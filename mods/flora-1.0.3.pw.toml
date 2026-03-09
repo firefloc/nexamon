@@ -3,6 +3,7 @@ filename = "flora-1.0.3.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/7Wz1FfTK/versions/H1XJd8TF/flora-1.0.3.jar"
 hash-format = "sha256"
 hash = "54a5afefbcf8a8c0ff38c1fb27f8ee932a108f32d4e1b4bebf26cb73ee3feb68"
 

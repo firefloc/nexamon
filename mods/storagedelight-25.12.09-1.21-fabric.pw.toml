@@ -3,6 +3,7 @@ filename = "storagedelight-25.12.09-1.21-fabric.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/LTTvOp5L/versions/9tF7dgPG/storagedelight-25.12.09-1.21-fabric.jar"
 hash-format = "sha256"
 hash = "da24e0cbd67d6fa9888b6cc5a547dd8c7d8a3b21b921c565a76a1c8680f1956f"
 

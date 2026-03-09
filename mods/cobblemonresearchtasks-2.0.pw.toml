@@ -3,6 +3,7 @@ filename = "cobblemonresearchtasks-2.0.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/zoP5qy7S/versions/BMbNXB3F/cobblemonresearchtasks-2.0.jar"
 hash-format = "sha256"
 hash = "32f59c17b9941de43547d0d042d665a83fdfdbe1c09b6d52db1a1284cd487fc8"
 

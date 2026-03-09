@@ -3,6 +3,7 @@ filename = "aether_protect_your_moa-1.21.1-1.0.0-fabric.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/6KeEgbxe/versions/DuHYzXT1/aether_protect_your_moa-1.21.1-1.0.0-fabric.jar"
 hash-format = "sha256"
 hash = "ef8851d09ef7b8e4693638580627f92041803524e0c5591af76f2a571cd4b0e5"
 

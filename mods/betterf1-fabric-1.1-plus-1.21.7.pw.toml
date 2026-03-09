@@ -3,6 +3,7 @@ filename = "BetterF1-Fabric-1.1+1.21.7.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/2JIeCmxb/versions/S81P3LsG/BetterF1-Fabric-1.1%2B1.21.7.jar"
 hash-format = "sha256"
 hash = "abfb3f37f130ae4dea89e282f1d0fc0e9c4b2235762745931329defb9387bbdf"
 

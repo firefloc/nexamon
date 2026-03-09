@@ -3,6 +3,7 @@ filename = "waystones-fabric-1.21.1-21.1.26.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/LOpKHB2A/versions/4kYQEiFS/waystones-fabric-1.21.1-21.1.26.jar"
 hash-format = "sha256"
 hash = "f52b78dd5bc8b1a014b68f98077b44739f2f43b4b3eb38013e81fb1f8dd88aee"
 

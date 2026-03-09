@@ -3,6 +3,7 @@ filename = "Cobblemon_Fence-1.0.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/aCQFwusS/versions/ztAK8jdM/Cobblemon_Fence-1.0.1.jar"
 hash-format = "sha256"
 hash = "0ab6d8a6034f8e7fd8fafe2f443c8acfb8efecc05c9866129f0bca47d0a50dc1"
 

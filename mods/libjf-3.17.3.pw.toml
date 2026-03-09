@@ -3,6 +3,7 @@ filename = "libjf-3.17.3.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/WKwQAwke/versions/FOFo5tY4/libjf-3.17.3.jar"
 hash-format = "sha256"
 hash = "bcf972e8a0ffc24ddff25319e3fc89feb7cee3d26833bf16e8f53d16ae01b359"
 

@@ -3,6 +3,7 @@ filename = "CobblemonTrialsEdition-fabric-1.2.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/oH4pigcS/versions/J2IqdyMZ/CobblemonTrialsEdition-fabric-1.2.1.jar"
 hash-format = "sha256"
 hash = "aab8b0eed5fcabe7d30ebbd7839d8e200bd79e9de8b1f343a2f5a02ace8a39d5"
 

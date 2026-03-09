@@ -3,6 +3,7 @@ filename = "towers-of-the-wild-modded-extra-towers-1.0.8.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/RJcwF5bg/versions/azmCiYpi/towers-of-the-wild-modded-extra-towers-1.0.8.jar"
 hash-format = "sha256"
 hash = "481443baa0dfc77d39dee9e09b25d923f82ca850b96dda77c03c30e918a56d24"
 

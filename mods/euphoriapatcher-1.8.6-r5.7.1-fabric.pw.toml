@@ -3,6 +3,7 @@ filename = "EuphoriaPatcher-1.8.6-r5.7.1-fabric.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/4H6sumDB/versions/pI6g9nqi/EuphoriaPatcher-1.8.6-r5.7.1-fabric.jar"
 hash-format = "sha256"
 hash = "9ebe1de226413858a08d9272511366e63f327bbf4d2b8f0c960234fc8bbca277"
 

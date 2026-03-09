@@ -3,6 +3,7 @@ filename = "paginatedadvancements-2.5.1.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/pJogNFap/versions/fQnpir9a/paginatedadvancements-2.5.1.jar"
 hash-format = "sha256"
 hash = "776d8006401781bc036199acc9ba80f7dce6c3bcebbbfa260a774add750c4d2d"
 

@@ -3,6 +3,7 @@ filename = "RoughlyEnoughItems-16.0.799-fabric.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/nfn13YXA/versions/aWzTESNC/RoughlyEnoughItems-16.0.799-fabric.jar"
 hash-format = "sha256"
 hash = "098c840780940010f2ba48cb758b77c1b991e69ab3fbec8725af099351653c9d"
 

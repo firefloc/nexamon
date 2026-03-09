@@ -3,6 +3,7 @@ filename = "aether_enhanced_extinguishing-1.21.1-1.0.0-fabric.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/FDrEl7QY/versions/zvKKXPY5/aether_enhanced_extinguishing-1.21.1-1.0.0-fabric.jar"
 hash-format = "sha256"
 hash = "c15da19f4af3085d849e8f9be5211bdb5e2a305e85d3da473404942b56538c7d"
 

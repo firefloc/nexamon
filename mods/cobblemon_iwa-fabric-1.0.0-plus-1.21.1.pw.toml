@@ -3,6 +3,7 @@ filename = "cobblemon_iwa-fabric-1.0.0+1.21.1.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/g7yIQJhn/versions/WYH4mY7s/cobblemon_iwa-fabric-1.0.0%2B1.21.1.jar"
 hash-format = "sha256"
 hash = "9dde30a128c0fcfb42d93521d40c9708ceb3da269c1b590d4524b425dd464868"
 

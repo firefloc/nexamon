@@ -3,6 +3,7 @@ filename = "lenientdeath-1.2.5+1.21.1.jar"
 side = "server"
 
 [download]
+url = "https://cdn.modrinth.com/data/Bfi1KBJV/versions/FUbtsgt9/lenientdeath-1.2.5%2B1.21.1.jar"
 hash-format = "sha256"
 hash = "117175de6d7a8cc9cf36d48fd55a8460183dd30f4d25c0e7230ba8fe470f79b4"
 

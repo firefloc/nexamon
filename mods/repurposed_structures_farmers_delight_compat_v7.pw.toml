@@ -3,6 +3,7 @@ filename = "repurposed_structures_farmers_delight_compat_v7.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/P5wB88AS/versions/PKPVpBYy/repurposed_structures_farmers_delight_compat_v7.jar"
 hash-format = "sha256"
 hash = "32868db0c8dbd116ec550347e3d402c7925c5c0c021cde785f56d6f0e6bd95e3"
 

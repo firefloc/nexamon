@@ -3,6 +3,7 @@ filename = "CobblemonMapKitMod-1.0.8-SNAPSHOT.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/88rQFbH3/versions/qRw60VFE/CobblemonMapKitMod-1.0.8-SNAPSHOT.jar"
 hash-format = "sha256"
 hash = "554697343ec91aab16e7c6a6d09538be0a0929fc552867dfc446422da064f813"
 

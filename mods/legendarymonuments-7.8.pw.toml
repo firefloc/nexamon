@@ -3,6 +3,7 @@ filename = "LegendaryMonuments-7.8.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/m6RyHSbV/versions/kSVEEVIv/LegendaryMonuments-7.8.jar"
 hash-format = "sha256"
 hash = "5507d1f3f5c9d4afe1db3aac7ae20f88b491daaeb3aa7edc150cca8ad6fefcfc"
 

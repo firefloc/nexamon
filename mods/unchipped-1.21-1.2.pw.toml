@@ -3,6 +3,7 @@ filename = "unchipped-1.21-1.2.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/RS1svSgj/versions/fMCV0NES/unchipped-1.21-1.2.jar"
 hash-format = "sha256"
 hash = "fc286d3f437a7102276db96c001d830d9f63ec9dbb895b7086af7779d8162007"
 

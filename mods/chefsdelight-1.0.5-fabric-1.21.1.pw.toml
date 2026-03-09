@@ -3,6 +3,7 @@ filename = "chefsdelight-1.0.5-fabric-1.21.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/pvcsfne4/versions/Sur0Lj66/chefsdelight-1.0.5-fabric-1.21.1.jar"
 hash-format = "sha256"
 hash = "a7bc2666e50602fc05cc77015976793936ba72603053b310d66570ce962404b0"
 

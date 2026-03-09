@@ -3,6 +3,7 @@ filename = "AetherVillages-1.21.1-1.0.8-fabric.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/3P2XnNW6/versions/AOZ2B4Ql/AetherVillages-1.21.1-1.0.8-fabric.jar"
 hash-format = "sha256"
 hash = "75ae3897f7cf84fee945e6d4f868e229ac5b90dfe0c80be5129a48bdbcde6330"
 

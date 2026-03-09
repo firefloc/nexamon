@@ -3,6 +3,7 @@ filename = "notenoughcrashes-fabric-4.4.9+1.21.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/yM94ont6/versions/gR0LY1dB/notenoughcrashes-fabric-4.4.9%2B1.21.1.jar"
 hash-format = "sha256"
 hash = "1a3a0ec9e7bb60f9c15938ca4287beaf5e49e81183ac273d1a02d734aa327a74"
 

@@ -3,6 +3,7 @@ filename = "Cobblemon Interface.zip"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/gfiYlQU0/versions/8SjyMuZO/Cobblemon%20Interface%20v1.6.0.zip"
 hash-format = "sha256"
 hash = "eb40bd047c2e1443c43731e4d1ef1b9d7d0624476336f540b52a3e8fcb9eb315"
 

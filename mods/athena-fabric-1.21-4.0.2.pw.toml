@@ -3,6 +3,7 @@ filename = "athena-fabric-1.21-4.0.2.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/7PcGW9Vp/athena-fabric-1.21-4.0.2.jar"
 hash-format = "sha256"
 hash = "998c92dc8e01999f3e6870c94102aa73d755dc56f17a7d36c67f79178f836ffb"
 

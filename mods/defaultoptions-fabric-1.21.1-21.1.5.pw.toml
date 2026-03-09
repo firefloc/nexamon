@@ -3,6 +3,7 @@ filename = "defaultoptions-fabric-1.21.1-21.1.5.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/WEg59z5b/versions/LxHdpgVy/defaultoptions-fabric-1.21.1-21.1.5.jar"
 hash-format = "sha256"
 hash = "51b3c58c56db995e40d2bff33e865b2de31e470a7fe403c1fc4ca98bfeadb53a"
 

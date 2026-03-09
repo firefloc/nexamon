@@ -3,6 +3,7 @@ filename = "kitchenprojectiles-1.0.6+mc1.21.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/BYmvNgRP/versions/QjAxnEqe/kitchenprojectiles-1.0.6%2Bmc1.21.1.jar"
 hash-format = "sha256"
 hash = "b62744995292fb5945bef21729e78b81729328d3a15ec3f7cdec702cedb4e380"
 

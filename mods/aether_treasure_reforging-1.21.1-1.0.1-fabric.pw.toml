@@ -3,6 +3,7 @@ filename = "aether_treasure_reforging-1.21.1-1.0.1-fabric.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/4qIW8vBb/versions/4aMqNDCa/aether_treasure_reforging-1.21.1-1.0.1-fabric.jar"
 hash-format = "sha256"
 hash = "2ca2f8e40b9b841bab5031b26c71eddbb262bfa053232b0e9623879e68662862"
 

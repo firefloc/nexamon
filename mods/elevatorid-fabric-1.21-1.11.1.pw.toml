@@ -3,6 +3,7 @@ filename = "elevatorid-fabric-1.21-1.11.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/hi2dSXTu/versions/IYcefR0v/elevatorid-fabric-1.21-1.11.1.jar"
 hash-format = "sha256"
 hash = "71e2cd195d980dff01e22f94c1e8a6c78d8da123399761e7b009f87edf4ceed9"
 

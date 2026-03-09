@@ -3,6 +3,7 @@ filename = "pokeblocks-1.4.0-1.21.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/hnOfcjSq/versions/AMYJbQsk/pokeblocks-1.4.0-1.21.1.jar"
 hash-format = "sha256"
 hash = "c113f9e61a7bef35c3bacc57651a7508f3f07c20218b51eade31766899f1176d"
 

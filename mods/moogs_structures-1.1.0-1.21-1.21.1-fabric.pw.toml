@@ -3,6 +3,7 @@ filename = "moogs_structures-1.1.0-1.21-1.21.1-fabric.jar"
 side = "server"
 
 [download]
+url = "https://cdn.modrinth.com/data/1oUDhxuy/versions/jQCmAAAT/moogs_structures-1.1.0-1.21-1.21.1-fabric.jar"
 hash-format = "sha256"
 hash = "3db3a72f2fecf96ae394a2957604ee97fb073f4145321aaaea90cd0cd6693643"
 

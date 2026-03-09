@@ -3,6 +3,7 @@ filename = "geckolib-fabric-1.21.1-4.8.3.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/8BmcQJ2H/versions/fvT8GY10/geckolib-fabric-1.21.1-4.8.3.jar"
 hash-format = "sha256"
 hash = "8787e90e26f68dc9101685c010b3d65a92dbca6c6f5c533c7e4650d2ec1f721a"
 

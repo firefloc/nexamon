@@ -3,6 +3,7 @@ filename = "cobblemonalphas-1.4.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/QnWyhFGf/versions/wVSPSTdd/cobblemonalphas-1.4.1.jar"
 hash-format = "sha256"
 hash = "c62be4d3ee441084a51b3cd6d6a40f2fd674f16c2412afbd328b0c50feac30d5"
 

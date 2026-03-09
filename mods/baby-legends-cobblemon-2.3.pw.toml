@@ -3,6 +3,7 @@ filename = "baby-legends-cobblemon-2.3.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/88hsodcW/versions/z8KI8Mom/baby-legends-cobblemon-2.3.jar"
 hash-format = "sha256"
 hash = "96a9a4064c16b4b8fee9966fc39ba268b9600c9dbebf2354d38b6bba28710142"
 

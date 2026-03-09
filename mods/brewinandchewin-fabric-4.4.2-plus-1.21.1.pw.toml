@@ -3,6 +3,7 @@ filename = "BrewinAndChewin-fabric-4.4.2+1.21.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/hIu9KJTT/versions/KeuLnLf6/BrewinAndChewin-fabric-4.4.2%2B1.21.1.jar"
 hash-format = "sha256"
 hash = "c57f14a1fd1468d57a6aabb97410364548902c2e82416f242e56dd629bc32157"
 

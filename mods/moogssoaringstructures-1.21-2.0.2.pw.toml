@@ -3,6 +3,7 @@ filename = "MoogsSoaringStructures-1.21-2.0.2.jar"
 side = "server"
 
 [download]
+url = "https://cdn.modrinth.com/data/RJCLIx7k/versions/5oeZ3VOH/MoogsSoaringStructures-1.21-2.0.2.jar"
 hash-format = "sha256"
 hash = "6d09750501b20d73479b05cfbbe9e31f878ce3e69c269d80763d1994dc41371c"
 

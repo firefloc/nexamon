@@ -3,6 +3,7 @@ filename = "spark-1.10.109-fabric.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/l6YH9Als/versions/cALUj9l1/spark-1.10.109-fabric.jar"
 hash-format = "sha256"
 hash = "fafc121ac53dab1c32e74b7a1cae47d54435ba4cbeeda1180dc96675a7757047"
 

@@ -3,6 +3,7 @@ filename = "infinite-music-0.4.6.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/OJLdOa8k/versions/cIfcDLaq/infinite-music-0.4.6.jar"
 hash-format = "sha256"
 hash = "f90123fa679e170163f976819c851fc4bd6840d19cf95dde3ff8fe3682eed343"
 

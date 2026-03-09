@@ -3,6 +3,7 @@ filename = "sodiumextras-fabric-1.0.8-1.21.1.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/vqqx0QiE/versions/3Smu12Iu/sodiumextras-fabric-1.0.8-1.21.1.jar"
 hash-format = "sha256"
 hash = "f919c512fa7c774e14e7a96502fb7a7e19bb7843df7275390e6fa8e7e090004c"
 

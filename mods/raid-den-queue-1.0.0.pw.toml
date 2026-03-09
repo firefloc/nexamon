@@ -3,6 +3,7 @@ filename = "raid-den-queue-1.0.0.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/KaygqiY5/versions/vqLdYXOH/raid-den-queue-1.0.0.jar"
 hash-format = "sha256"
 hash = "644762235df19f27633d4242f3b110f42b266416faeea2083d312e195140c649"
 

@@ -3,6 +3,7 @@ filename = "rctapi-fabric-1.21.1-0.14.8-beta.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/CBfM2yw7/versions/C4VTuik1/rctapi-fabric-1.21.1-0.14.8-beta.jar"
 hash-format = "sha256"
 hash = "1b08dcd11fbcfd1cf786b9da050458438d5203f6fcf9eaec1fc95372e9a6b78e"
 

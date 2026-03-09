@@ -3,6 +3,7 @@ filename = "cobblemonnpcs-v4.jar"
 side = "server"
 
 [download]
+url = "https://cdn.modrinth.com/data/Vp8Qj4qr/versions/47RbrHPS/cobblemonnpcs-v4.jar"
 hash-format = "sha256"
 hash = "23791db334dcb0b9900973c455a06e622b10942ec787777cbaf8e6cb89db147b"
 

@@ -3,6 +3,7 @@ filename = "beautify-2.0.0+1.21.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/DhSSvaxs/versions/ZyaUkJxq/beautify-2.0.0%2B1.21.1.jar"
 hash-format = "sha256"
 hash = "134da1a8e3841f0a14004e839bd1e0a9d091cc5769a82b0052cebda2804ac4fd"
 

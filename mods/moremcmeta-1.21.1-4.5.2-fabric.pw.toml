@@ -3,6 +3,7 @@ filename = "moremcmeta-1.21.1-4.5.2-fabric.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/HFlxNpln/versions/S0TNCtxB/moremcmeta-1.21.1-4.5.2-fabric.jar"
 hash-format = "sha256"
 hash = "3ce4a3c2079ac00856a5e2dcb55bbca7c0bb93a8e6470dc99d7944f31c96caf2"
 

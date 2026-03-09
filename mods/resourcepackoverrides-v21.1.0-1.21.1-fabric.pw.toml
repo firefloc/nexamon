@@ -3,6 +3,7 @@ filename = "ResourcePackOverrides-v21.1.0-1.21.1-Fabric.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/YsFycamt/versions/MIxxajqC/ResourcePackOverrides-v21.1.0-1.21.1-Fabric.jar"
 hash-format = "sha256"
 hash = "5db1e3d3f07947ceb893ccd823a7660f62f8f794e2bf9a5b721a3c3d32dcbc59"
 

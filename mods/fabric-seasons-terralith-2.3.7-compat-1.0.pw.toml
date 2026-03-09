@@ -3,6 +3,7 @@ filename = "fabric-seasons-terralith-2.3.7-compat-1.0.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/D53qveoj/versions/MJ2OF7eg/fabric-seasons-terralith-2.3.7-compat-1.0.jar"
 hash-format = "sha256"
 hash = "c709416512c59958e4f00d2fa318a81436f14caa32554a8e5a97bfd13dfb9524"
 

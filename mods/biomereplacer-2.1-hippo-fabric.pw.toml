@@ -3,6 +3,7 @@ filename = "biomereplacer-2.1-hippo-fabric.jar"
 side = "server"
 
 [download]
+url = "https://cdn.modrinth.com/data/DAXbR0Wj/versions/IeQCQzcl/biomereplacer-2.1-hippo-fabric.jar"
 hash-format = "sha256"
 hash = "ec6eeda3d4d32d9740c3e6f24177db3fcfa06866f73e341c0ad4ea090d0055ac"
 

@@ -3,6 +3,7 @@ filename = "cobblemonintegrations-fabric-1.21.1-1.1.5.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/NPCfuUI4/versions/aAMX15bV/cobblemonintegrations-fabric-1.21.1-1.1.5.jar"
 hash-format = "sha256"
 hash = "1651c8e0a43ba2a966121aa080905134e2c2a18238a020f58277b41dd324ee14"
 

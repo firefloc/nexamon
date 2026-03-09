@@ -3,6 +3,7 @@ filename = "ImmediatelyFast-Fabric-1.6.10+1.21.1.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/yHztKxR5/ImmediatelyFast-Fabric-1.6.10%2B1.21.1.jar"
 hash-format = "sha256"
 hash = "211a6784185e9a5e7f631c38de35c580a8b88b2f30eb6850216497bbaefc7cf9"
 

@@ -3,6 +3,7 @@ filename = "cobblemon_smartphone-fabric-1.0.5.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/n2f1HbK8/versions/3zK00ysw/cobblemon_smartphone-fabric-1.0.5.jar"
 hash-format = "sha256"
 hash = "d2ff6291a84ed0463697fac2d4d9066d89ed3133b63b13ac3a6e9b12d7fbbe15"
 

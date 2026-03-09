@@ -3,6 +3,7 @@ filename = "forgivingvoid-fabric-1.21.1-21.1.6.jar"
 side = "server"
 
 [download]
+url = "https://cdn.modrinth.com/data/1vkzEZjE/versions/1gnUKJtk/forgivingvoid-fabric-1.21.1-21.1.6.jar"
 hash-format = "sha256"
 hash = "5c2a1a3c7afe65d4e7d759622b843a912ec558223c13a2aec8ec077dbd1efcdd"
 

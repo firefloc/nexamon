@@ -3,6 +3,7 @@ filename = "cobblemon-book-wiki-1.2.0.jar"
 side = "server"
 
 [download]
+url = "https://cdn.modrinth.com/data/C6BG1xXK/versions/JAc7Vr24/cobblemon-book-wiki-1.2.0.jar"
 hash-format = "sha256"
 hash = "da09ab74476661028b33b7c690172153fff26c344e10ec1270c7ccd846c1e0f9"
 

@@ -3,6 +3,7 @@ filename = "chat_heads-0.15.0-fabric-1.21.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/86yH2lgJ/chat_heads-0.15.0-fabric-1.21.jar"
 hash-format = "sha256"
 hash = "ba0c9b9d13ac28c88052eba1815faf049d9e98dcb6d6050f4cff968ac4c8215d"
 

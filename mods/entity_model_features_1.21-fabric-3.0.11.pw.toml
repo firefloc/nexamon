@@ -3,6 +3,7 @@ filename = "entity_model_features_1.21-fabric-3.0.11.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/ZiN44dP9/entity_model_features_1.21-fabric-3.0.11.jar"
 hash-format = "sha256"
 hash = "7b7622735be11b5aa0ac67af2dffdf47a690bccd3a590e6cdc1ce656b90b7953"
 

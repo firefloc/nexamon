@@ -3,6 +3,7 @@ filename = "pickaxeminigame-2.1.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/dKugrhWI/versions/iiDDKQTd/pickaxeminigame-2.1.1.jar"
 hash-format = "sha256"
 hash = "93b73c8883ebaa22e1f3da4f9adf652b4ccf8857559fef98e41c39a036df980b"
 

@@ -3,6 +3,7 @@ filename = "moreculling-fabric-1.21.1-1.0.6.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/51shyZVL/versions/1V6UtDhN/moreculling-fabric-1.21.1-1.0.6.jar"
 hash-format = "sha256"
 hash = "b7cf4b2d005682b2e1999c0a6fae868b1ddf941aa08efb0ef79baa71acf8bb3a"
 

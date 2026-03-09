@@ -3,6 +3,7 @@ filename = "keybind_fix-1.0.2.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/U1hgptta/versions/jDPZLqkE/keybind_fix-1.0.2.jar"
 hash-format = "sha256"
 hash = "b7041744c85b8db9b27ebdc807a72b3e657a8efef99aec1c388ae26d9dd8d9ce"
 

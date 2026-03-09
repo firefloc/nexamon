@@ -3,6 +3,7 @@ filename = "Fresh Moves.zip"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/slufHzC2/versions/4uyHvhnf/-1.21.2%20Fresh%20Moves%20v3.1%20%28With%20Animated%20Eyes%29.zip"
 hash-format = "sha256"
 hash = "c433f3d831e86faa956836bf327ca00151bd813d1a8ab36aa064d518a58790f7"
 

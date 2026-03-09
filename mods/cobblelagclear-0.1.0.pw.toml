@@ -3,6 +3,7 @@ filename = "cobblelagclear-0.1.0.jar"
 side = "server"
 
 [download]
+url = "https://cdn.modrinth.com/data/IC3LYVR6/versions/gd5eJWa5/cobblelagclear-0.1.0.jar"
 hash-format = "sha256"
 hash = "c59cdd119c2aa59d8ee4c59986ce65c19add8c6c7057bd57b90bdc4265f42cc1"
 

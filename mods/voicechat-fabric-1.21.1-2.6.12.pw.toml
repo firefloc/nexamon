@@ -3,6 +3,7 @@ filename = "voicechat-fabric-1.21.1-2.6.12.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/a5dpsZGN/voicechat-fabric-1.21.1-2.6.12.jar"
 hash-format = "sha256"
 hash = "24950f92c4afdcbd39f1421320d9daa2261c074589885a41e88b8944462fc29a"
 

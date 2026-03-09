@@ -3,6 +3,7 @@ filename = "accessories_compat_layer-fabric-0.1.12+1.21.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/ySnjMzLg/versions/pWxabbaf/accessories_compat_layer-fabric-0.1.12%2B1.21.1.jar"
 hash-format = "sha256"
 hash = "c77c281616618ee51bb4f9bced4708be6d1baa690b3e8564a68d04df9f080980"
 

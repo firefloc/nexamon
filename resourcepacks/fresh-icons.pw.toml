@@ -3,6 +3,7 @@ filename = "Fresh Icons.zip"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/u4iPx1Dr/versions/dVHdQVak/Icon%20Fresh%200.4.zip"
 hash-format = "sha256"
 hash = "6a77950346e51262adfa266a7d52acb0b35798528f4ccf73f518d1c69fc729d8"
 

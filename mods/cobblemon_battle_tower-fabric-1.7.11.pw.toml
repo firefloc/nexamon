@@ -3,6 +3,7 @@ filename = "cobblemon_battle_tower-fabric-1.7.11.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/v19DG9nW/versions/88Pc3OFM/cobblemon_battle_tower-fabric-1.7.11.jar"
 hash-format = "sha256"
 hash = "619468001f1d4832d0c74689b4fb8b919b2868210e24b453e6ae5b6f26e26dcf"
 

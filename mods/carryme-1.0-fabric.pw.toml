@@ -3,6 +3,7 @@ filename = "carryme-1.0-fabric.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/TqKRgEs9/versions/ffZcS3qm/carryme-1.0-fabric.jar"
 hash-format = "sha256"
 hash = "739d427f3fff5a395698cc7d2a39964e2f2db32eab01b6eb5ae674c7343146f9"
 

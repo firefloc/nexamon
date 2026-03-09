@@ -3,6 +3,7 @@ filename = "respackopts-4.14.0+1.21.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/TiF5QWZY/versions/DQMhaFFo/respackopts-4.14.0%2B1.21.1.jar"
 hash-format = "sha256"
 hash = "8e5794576805b54b78bdce3db1eaa6754d6f28f84bcd047fba16df28ec6d944e"
 

@@ -3,6 +3,7 @@ filename = "advancementdisable-fabric-1.0.1+1.21.jar"
 side = "server"
 
 [download]
+url = "https://cdn.modrinth.com/data/XIsVTmcm/versions/Txi9EkP3/advancementdisable-fabric-1.0.1%2B1.21.jar"
 hash-format = "sha256"
 hash = "53e5c47d485b0a0dd417c2255523679a0b4bba059ae796cdab746112ad1440d6"
 

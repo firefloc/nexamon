@@ -3,6 +3,7 @@ filename = "immersivearmorhud-fabric-1.0.1-1.21.1.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/EyJFr6Vw/versions/YNFGU4YV/immersivearmorhud-fabric-1.0.1-1.21.1.jar"
 hash-format = "sha256"
 hash = "160185891beafea4be964e72b7012cfc779c7d371cfd7a11707d37a155da7a48"
 

@@ -3,6 +3,7 @@ filename = "TreeChop-1.21.1-fabric-0.19.3a.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/gHoB7SHO/versions/YK5sxWxT/TreeChop-1.21.1-fabric-0.19.3a.jar"
 hash-format = "sha256"
 hash = "0f3259a4911e033908e72dad96e12765db86633245642ce609473bc9c5471e73"
 

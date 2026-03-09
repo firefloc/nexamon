@@ -3,6 +3,7 @@ filename = "pumpkin_pie_delight-1.0.2+1.21.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/AhcCiL7x/versions/Cvc7c7rN/pumpkin_pie_delight-1.0.2%2B1.21.jar"
 hash-format = "sha256"
 hash = "d451d5255eb01c5c493f563af79c44fb96f67d2fdc5ccc6c085e9218089375bf"
 

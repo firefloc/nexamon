@@ -3,6 +3,7 @@ filename = "cobblemon-battle-extras-fabric-1.7.27.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/2iY8VFqL/versions/tSKaXZIQ/cobblemon-battle-extras-fabric-1.7.27.jar"
 hash-format = "sha256"
 hash = "76d84b377ba3010621d5e027b1086bb7f72d7bb65f265cdf680158eec0b9bfee"
 

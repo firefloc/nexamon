@@ -3,6 +3,7 @@ filename = "cobblemon_quests-[1.21.1]-fabric-1.2.0.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/kZgRPg5R/versions/cZ8toB2d/cobblemon_quests-%5B1.21.1%5D-fabric-1.2.0.jar"
 hash-format = "sha256"
 hash = "2d6321bf24532d036a261b1ad06eb386a931354446453e66ebac7a0a5dbc7d0d"
 

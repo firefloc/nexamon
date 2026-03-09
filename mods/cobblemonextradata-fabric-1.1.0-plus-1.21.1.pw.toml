@@ -3,6 +3,7 @@ filename = "CobblemonExtraData-fabric-1.1.0+1.21.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/97Az7HCf/versions/Lv1s8Ze6/CobblemonExtraData-fabric-1.1.0%2B1.21.1.jar"
 hash-format = "sha256"
 hash = "d58bbf075b0f6f6d48e30b80687841222bf951b7aa74003b9adc094680134c55"
 

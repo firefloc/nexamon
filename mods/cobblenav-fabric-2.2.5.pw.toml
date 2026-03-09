@@ -3,6 +3,7 @@ filename = "cobblenav-fabric-2.2.5.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/bI8Nt3uA/versions/VjtSuwwW/cobblenav-fabric-2.2.5.jar"
 hash-format = "sha256"
 hash = "3fd669b03f152ab9f5ed3da71b25ea6b95944876367e6e289948bf8a1f159333"
 

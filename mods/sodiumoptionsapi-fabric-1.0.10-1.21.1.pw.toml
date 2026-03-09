@@ -3,6 +3,7 @@ filename = "sodiumoptionsapi-fabric-1.0.10-1.21.1.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/Es5v4eyq/versions/RR1lyQmh/sodiumoptionsapi-fabric-1.0.10-1.21.1.jar"
 hash-format = "sha256"
 hash = "59b8de5a85b964b9fb9ff83042240ca8842ea77e430d89c69af57dfdff1acc29"
 

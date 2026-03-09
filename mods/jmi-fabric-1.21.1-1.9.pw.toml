@@ -3,6 +3,7 @@ filename = "jmi-fabric-1.21.1-1.9.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/M1ZKbfkJ/versions/Af5j3GGk/jmi-fabric-1.21.1-1.9.jar"
 hash-format = "sha256"
 hash = "55fd7df4257d2bff9b1814bbaeab589a67f31a547ebd0fd30bdee298142c1c1d"
 

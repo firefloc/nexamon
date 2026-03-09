@@ -3,6 +3,7 @@ filename = "owo-lib-0.12.15.4+1.21.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/ccKDOlHs/versions/JB1fLQnc/owo-lib-0.12.15.4%2B1.21.jar"
 hash-format = "sha256"
 hash = "825180ce17bc012fb450653b14df9f32479dcdd073fc3f133bb47462f5a63cec"
 

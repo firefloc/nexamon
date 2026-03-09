@@ -3,6 +3,7 @@ filename = "MoogsNetherStructures-1.21-2.0.31.jar"
 side = "server"
 
 [download]
+url = "https://cdn.modrinth.com/data/nGUXvjTa/versions/zruwScWL/MoogsNetherStructures-1.21-2.0.31.jar"
 hash-format = "sha256"
 hash = "72c2daafe897d680a8c1433d6e73bf6d3f39d96b7d15fdcb90de52d06c5936a4"
 

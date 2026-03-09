@@ -3,6 +3,7 @@ filename = "continuity-3.0.0+1.21.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/1IjD5062/versions/kSPJ4hQv/continuity-3.0.0%2B1.21.jar"
 hash-format = "sha256"
 hash = "99fd46b834874d167ea2349a9a72947cbfa7192f927aa99bbeb4b0637aa208d4"
 

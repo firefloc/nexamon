@@ -3,6 +3,7 @@ filename = "villagerconfig-fabric-4.5.2+1.21.1.jar"
 side = "server"
 
 [download]
+url = "https://cdn.modrinth.com/data/OClpEDe3/versions/sUeX84bR/villagerconfig-fabric-4.5.2%2B1.21.1.jar"
 hash-format = "sha256"
 hash = "9d0b2c07a123f4a7643c946a30ef4fb5a23fa762735376200c1b9e797652b895"
 

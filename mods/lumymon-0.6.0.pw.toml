@@ -3,6 +3,7 @@ filename = "LumyMon-0.6.0.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/QAX8WiBc/versions/RiKv3S6X/LumyMon-0.6.0.jar"
 hash-format = "sha256"
 hash = "589a46cde7a76f5f7fa43172ebbdb98e4407df8927d042a9be3033690dd42d62"
 

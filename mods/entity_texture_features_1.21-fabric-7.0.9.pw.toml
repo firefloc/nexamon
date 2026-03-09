@@ -3,6 +3,7 @@ filename = "entity_texture_features_1.21-fabric-7.0.9.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/RinXbOFW/entity_texture_features_1.21-fabric-7.0.9.jar"
 hash-format = "sha256"
 hash = "e9e39ec50d8e028060e5a21683e98d529d64a65ac9e72c7c887163eb01808af9"
 

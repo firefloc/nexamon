@@ -3,6 +3,7 @@ filename = "Maxi's-JM+CM_Pixel-U10.zip"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/ENCwFpBk/versions/9Nlaz9wg/Maxi%27s-JM%2BCM_Pixel-U10.zip"
 hash-format = "sha256"
 hash = "51919cf8b0fffed300b16128d013291c6879da69034a54293d02501503277704"
 

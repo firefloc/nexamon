@@ -3,6 +3,7 @@ filename = "particular-1.1.2+1.21.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/B1CcCd9h/versions/3dq7wTCR/particular-1.1.2%2B1.21.jar"
 hash-format = "sha256"
 hash = "932e9f48506c6258f9215a243049076fbc9e72c3f42284115d59f65696c20be8"
 

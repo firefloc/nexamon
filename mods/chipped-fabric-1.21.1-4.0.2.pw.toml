@@ -3,6 +3,7 @@ filename = "chipped-fabric-1.21.1-4.0.2.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/BAscRYKm/versions/6h2mVZcb/chipped-fabric-1.21.1-4.0.2.jar"
 hash-format = "sha256"
 hash = "1721c94365fd8d2d3c3fdcac7efbfd7e605daa7dfb8adc4c126c5bbde2820c79"
 

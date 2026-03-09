@@ -3,6 +3,7 @@ filename = "cobblemon_minimons-1.2.5.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/ZbgSWwyz/versions/3K4Jbrel/cobblemon_minimons-1.2.5.jar"
 hash-format = "sha256"
 hash = "f3ee2840911dfaccdace55ce1fb51b86b38b15b43a3f11172c95dd779ab922e4"
 

@@ -3,6 +3,7 @@ filename = "MobsBeGone-0.0.7.jar"
 side = "server"
 
 [download]
+url = "https://cdn.modrinth.com/data/hXvXSxxg/versions/B5tawRRL/MobsBeGone-0.0.7.jar"
 hash-format = "sha256"
 hash = "ad45c9c1bfe8c018d372f9fb6eb3e95507d6252b6cb4204478d04653d9634e98"
 

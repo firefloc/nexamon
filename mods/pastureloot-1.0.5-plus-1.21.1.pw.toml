@@ -3,6 +3,7 @@ filename = "pastureLoot-1.0.5+1.21.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/XP2jcAo0/versions/MYJtblOM/pastureLoot-1.0.5%2B1.21.1.jar"
 hash-format = "sha256"
 hash = "48a705eb70a3f129d64af565ff79cfe164d0e59fe2bbc20a903024d0cc844b8f"
 

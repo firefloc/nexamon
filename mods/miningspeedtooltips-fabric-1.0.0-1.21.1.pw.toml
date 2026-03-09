@@ -3,6 +3,7 @@ filename = "miningspeedtooltips-fabric-1.0.0-1.21.1.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/aMctJ87u/versions/MiByGiNa/miningspeedtooltips-fabric-1.0.0-1.21.1.jar"
 hash-format = "sha256"
 hash = "d0d04ae0b3172d6ac0116e047a6167392ad0d19ca099b6047ceec322eeb8c159"
 

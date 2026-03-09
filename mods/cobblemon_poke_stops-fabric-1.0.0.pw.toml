@@ -3,6 +3,7 @@ filename = "cobblemon_poke_stops-fabric-1.0.0.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/HiwZaUgN/versions/61rZNyhD/cobblemon_poke_stops-fabric-1.0.0.jar"
 hash-format = "sha256"
 hash = "02af098087bdc560f9af0413d3622d3c2d1a5dc0de1b61261b8abfa3f1d1807e"
 

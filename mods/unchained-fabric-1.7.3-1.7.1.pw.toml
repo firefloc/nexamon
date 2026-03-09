@@ -3,6 +3,7 @@ filename = "unchained-fabric-1.7.3-1.7.1.jar"
 side = "server"
 
 [download]
+url = "https://cdn.modrinth.com/data/wh0wnzrT/versions/uFACxWHR/unchained-fabric-1.7.3-1.7.1.jar"
 hash-format = "sha256"
 hash = "2aac1644881e3133de26109b1b5368d35ef59afeb0ed9062f5536e17b427c60c"
 

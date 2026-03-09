@@ -3,6 +3,7 @@ filename = "vmp-fabric-mc1.21.1-0.2.0+beta.7.172-all.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/wnEe9KBa/versions/VmlY7QTx/vmp-fabric-mc1.21.1-0.2.0%2Bbeta.7.172-all.jar"
 hash-format = "sha256"
 hash = "97a35a4388b1e7cd5325983b1e3f5f72fe7460367ef5755ae9fc9785c2930803"
 

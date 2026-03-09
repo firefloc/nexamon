@@ -3,6 +3,7 @@ filename = "vertical-slabs-2.1.1-1.21.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/APjy7qZz/versions/g8Snw529/vertical-slabs-2.1.1-1.21.jar"
 hash-format = "sha256"
 hash = "3a3b7e2e9c24005909b5493c603613aa2cf297803dada6586b0c78ae9c7cba2e"
 

@@ -3,6 +3,7 @@ filename = "structurify-fabric-2.0.17+mc1.21.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/yz7AM2zx/versions/vNEI9u7F/structurify-fabric-2.0.17%2Bmc1.21.1.jar"
 hash-format = "sha256"
 hash = "5f862102398f9c7b7c6136bd81ecbc5d1ae64742b2369fe46cf3f0265afb7189"
 

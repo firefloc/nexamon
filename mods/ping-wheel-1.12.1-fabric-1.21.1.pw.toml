@@ -3,6 +3,7 @@ filename = "Ping-Wheel-1.12.1-fabric-1.21.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/QQXAdCzh/versions/KGV5bulZ/Ping-Wheel-1.12.1-fabric-1.21.1.jar"
 hash-format = "sha256"
 hash = "ca99aba3c49c24a7acbe5f2df112e5a3e5d7acd8d63e82b105f90fa4c0c27324"
 

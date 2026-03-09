@@ -3,6 +3,7 @@ filename = "aether-1.21.1-1.5.11-fabric.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/YhmgMVyu/versions/NSqdh1i9/aether-1.21.1-1.5.11-fabric.jar"
 hash-format = "sha256"
 hash = "5909f195eb995f3760de5acff197e4c32029c5941d32320bc4a84c90bee79faf"
 

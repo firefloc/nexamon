@@ -3,6 +3,7 @@ filename = "Cobbledolarsaddon-1.0.1+1.21.1.jar"
 side = "server"
 
 [download]
+url = "https://cdn.modrinth.com/data/U9CQIPCV/versions/qe0La8V5/Cobbledolarsaddon-1.0.1%2B1.21.1.jar"
 hash-format = "sha256"
 hash = "f04eb637047ae863d482781622eb4bc0342a0fee93b07c0f0f1c05f2ececafd8"
 

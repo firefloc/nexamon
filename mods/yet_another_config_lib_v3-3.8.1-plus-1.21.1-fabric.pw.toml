@@ -3,6 +3,7 @@ filename = "yet_another_config_lib_v3-3.8.1+1.21.1-fabric.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/UCDofDYx/yet_another_config_lib_v3-3.8.1%2B1.21.1-fabric.jar"
 hash-format = "sha256"
 hash = "413d7710f4f2b08fc188e205c3dfe542785da577d949cae28b5c0fc37ae75336"
 

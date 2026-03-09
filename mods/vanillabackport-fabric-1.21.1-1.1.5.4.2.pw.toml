@@ -3,6 +3,7 @@ filename = "VanillaBackport-fabric-1.21.1-1.1.5.4.2.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/6xwxDTgf/versions/dQd9n3aB/VanillaBackport-fabric-1.21.1-1.1.5.4.2.jar"
 hash-format = "sha256"
 hash = "158021195b338681b0ef853d494d113c963bdc2beb74487a8b011b59ffe258df"
 
