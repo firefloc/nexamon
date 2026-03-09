@@ -1,6 +1,6 @@
 name = "Cobblemon Capture XP"
 filename = "capturexp-fabric-1.7.3-1.3.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/LBl4Qguc/versions/hjQp9Aq3/capturexp-fabric-1.7.3-1.3.0.jar"

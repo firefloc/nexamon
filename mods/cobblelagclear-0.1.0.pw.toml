@@ -1,6 +1,6 @@
 name = "CobbleLagClear"
 filename = "cobblelagclear-0.1.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/IC3LYVR6/versions/gd5eJWa5/cobblelagclear-0.1.0.jar"

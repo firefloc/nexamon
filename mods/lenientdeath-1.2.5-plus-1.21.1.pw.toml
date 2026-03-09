@@ -1,6 +1,6 @@
 name = "Lenient Death"
 filename = "lenientdeath-1.2.5+1.21.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Bfi1KBJV/versions/FUbtsgt9/lenientdeath-1.2.5%2B1.21.1.jar"

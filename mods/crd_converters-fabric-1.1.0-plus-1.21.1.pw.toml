@@ -1,6 +1,6 @@
 name = "CRD Converters"
 filename = "crd_converters-fabric-1.1.0+1.21.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/DQcVN2GF/versions/wkdNGSus/crd_converters-fabric-1.1.0%2B1.21.1.jar"

@@ -1,6 +1,6 @@
 name = "MobsBeGone"
 filename = "MobsBeGone-0.0.7.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/hXvXSxxg/versions/B5tawRRL/MobsBeGone-0.0.7.jar"

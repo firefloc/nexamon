@@ -1,6 +1,6 @@
 name = "Yet Another World Protector"
 filename = "yawp-1.21.1-fabric-0.6.2-beta1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/py6EMmAJ/versions/fxp89mBL/yawp-1.21.1-fabric-0.6.2-beta1.jar"

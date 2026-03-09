@@ -1,6 +1,6 @@
 name = "CRD Broadcasts"
 filename = "crd_broadcasts-fabric-1.4.1+1.21.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/TmNAjS6y/versions/H2YvwYxI/crd_broadcasts-fabric-1.4.1%2B1.21.1.jar"

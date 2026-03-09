@@ -1,6 +1,6 @@
 name = "CobblemonNPCs"
 filename = "cobblemonnpcs-v4.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Vp8Qj4qr/versions/47RbrHPS/cobblemonnpcs-v4.jar"

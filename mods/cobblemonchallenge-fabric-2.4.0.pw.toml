@@ -1,6 +1,6 @@
 name = "Cobblemon Challenge"
 filename = "cobblemonchallenge-fabric-2.4.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/XpJB1Qk6/versions/3AQmaig2/cobblemonchallenge-fabric-2.4.0.jar"
