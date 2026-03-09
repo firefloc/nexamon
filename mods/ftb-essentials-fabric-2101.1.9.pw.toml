@@ -1,6 +1,7 @@
 name = "ftb-essentials-fabric-2101.1.9.jar"
 filename = "ftb-essentials-fabric-2101.1.9.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://github.com/firefloc/nexamon/releases/download/v1.0.0-custom/ftb-essentials-fabric-2101.1.9.jar"

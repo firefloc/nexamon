@@ -1,6 +1,7 @@
 name = "Rustic Delight"
 filename = "rusticdelight-fabric-1.21.1-1.5.2.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/foa4fGIH/versions/LtCySLDC/rusticdelight-fabric-1.21.1-1.5.2.jar"

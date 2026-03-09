@@ -1,0 +1,16 @@
+encounterChance: 0.06
+shinyChance: 256
+shinyChanceWithLure: 128
+aspectChance: 50
+cooldown: 120
+bucketWeights:
+  ultra-rare: 2.0
+  uncommon: 40.0
+  common: 100.0
+  rare: 10.0
+normalLureDuration: 7200
+superLureDuration: 14400
+maxLureDuration: 24000
+normalRepelDuration: 7200
+superRepelDuration: 14400
+maxRepelDuration: 24000

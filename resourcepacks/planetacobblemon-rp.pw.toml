@@ -1,6 +1,7 @@
 name = "PlanetaCobblemon RP.zip"
 filename = "PlanetaCobblemon RP.zip"
 side = "client"
+tier = "core"
 
 [download]
 url = "https://github.com/firefloc/nexamon/releases/download/v1.0.0-custom/PlanetaCobblemon.RP.zip"

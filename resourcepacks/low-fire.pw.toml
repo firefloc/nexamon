@@ -1,6 +1,7 @@
 name = "Low Fire"
 filename = "Low Fire.zip"
 side = "client"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/1jZGHJ05/versions/hAoQzlU9/Low%20Fire.zip"

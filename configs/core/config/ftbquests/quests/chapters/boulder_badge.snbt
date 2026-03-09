@@ -1,0 +1,407 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	default_quest_size: 2.0d
+	filename: "boulder_badge"
+	group: "7A3B25ABFD04C294"
+	icon: {
+		components: {
+			"ftbquests:icon": "lumymon:block/kanto_cartography_table_front"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "39839EF1B134613B"
+	images: [
+		{
+			height: 5.0d
+			image: "cobbleversebadges:item/kanto_badge_box"
+			rotation: 0.0d
+			width: 5.0d
+			x: -14.0d
+			y: -15.5d
+		}
+		{
+			height: 2.5d
+			image: "cobblemon_quests:item/misty-lgpe"
+			rotation: 0.0d
+			width: 2.5d
+			x: -7.0d
+			y: -19.0d
+		}
+		{
+			height: 2.5d
+			image: "cobblemon_quests:item/ltsurge"
+			rotation: 0.0d
+			width: 2.5d
+			x: -4.0d
+			y: -19.0d
+		}
+		{
+			height: 2.5d
+			image: "cobblemon_quests:item/brock-lgpe"
+			rotation: 0.0d
+			width: 2.5d
+			x: -10.0d
+			y: -19.0d
+		}
+		{
+			height: 2.5d
+			image: "cobblemon_quests:item/erika-lgpe"
+			rotation: 0.0d
+			width: 2.5d
+			x: -1.0d
+			y: -19.0d
+		}
+		{
+			height: 2.5d
+			image: "cobblemon_quests:item/koga-lgpe"
+			rotation: 0.0d
+			width: 2.5d
+			x: -10.0d
+			y: -12.0d
+		}
+		{
+			height: 2.5d
+			image: "cobblemon_quests:item/blaine-gen3"
+			rotation: 0.0d
+			width: 2.5d
+			x: -4.0d
+			y: -12.0d
+		}
+		{
+			height: 2.5d
+			image: "cobblemon_quests:item/giovanni-lgpe"
+			rotation: 0.0d
+			width: 2.5d
+			x: -1.0d
+			y: -12.0d
+		}
+		{
+			height: 2.2d
+			image: "cobblemon_quests:item/sabrina-lgpe"
+			rotation: 0.0d
+			width: 2.2d
+			x: -7.0d
+			y: -12.0d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["2224196CE7342C1C"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobbleversebadges:item/kanto_boulder_badge"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "57482A59E7B70BA5"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2A785FDE0FD3D922"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6C4E1341B787EDA5"
+					table_id: 6815066128165839759L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "055E6F65C1A4FF06"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "66C386351F8C5EBF"
+				item: { count: 1, id: "cobbleversebadges:kanto_boulder_badge" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: -17.0d
+		}
+		{
+			dependencies: ["57482A59E7B70BA5"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobbleversebadges:item/kanto_cascade_badge"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "45520BABAFFF5E83"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2F0D28EA4FCA2009"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5E0230D48A838B49"
+					table_id: 6815066128165839759L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "78E70E1ACD077C3D"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "40B0AF88090BCC26"
+				item: { count: 1, id: "cobbleversebadges:kanto_cascade_badge" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -17.0d
+		}
+		{
+			dependencies: ["45520BABAFFF5E83"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobbleversebadges:item/kanto_thunder_badge"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "2977241474116251"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "19FD84093B0BF3BC"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "59C1855E2E59B41E"
+					table_id: 6815066128165839759L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "505A313EC107BA3D"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "6EC8D9CD73D5B600"
+				item: { count: 1, id: "cobbleversebadges:kanto_thunder_badge" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -17.0d
+		}
+		{
+			dependencies: ["2977241474116251"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobbleversebadges:item/kanto_rainbow_badge"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "63324A400A88BDC8"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1F28DF9F80D8F80B"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4E5226248B40754B"
+					table_id: 6815066128165839759L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0C593797127B6431"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "43ADE313642E450F"
+				item: { count: 1, id: "cobbleversebadges:kanto_rainbow_badge" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -17.0d
+		}
+		{
+			dependencies: ["5FC16B575C97C26C"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobbleversebadges:item/kanto_earth_badge"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "13130CA03346A08F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6507FDD527E830BF"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1F894088DF0498FA"
+					table_id: 5510279823512477608L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3C2CC698187FCFA0"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "0C768C5441F4AA15"
+				item: { count: 1, id: "cobbleversebadges:kanto_earth_badge" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -14.0d
+		}
+		{
+			dependencies: ["78020A754F4F01F4"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobbleversebadges:item/kanto_volcano_badge"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5FC16B575C97C26C"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2184B5C44FCE6E43"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1059269F4CD68B4B"
+					table_id: 6815066128165839759L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3511C8C34696F3BD"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "0818B8DADF71DC5C"
+				item: { count: 1, id: "cobbleversebadges:kanto_volcano_badge" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -14.0d
+		}
+		{
+			dependencies: ["6E4B9435A23DD309"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobbleversebadges:item/kanto_marsh_badge"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "78020A754F4F01F4"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6B870D0687489065"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "47AA8CCF904B4158"
+					table_id: 6815066128165839759L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "57F02CB6F225924A"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "2CC95B7DDC25C223"
+				item: { count: 1, id: "cobbleversebadges:kanto_marsh_badge" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -14.0d
+		}
+		{
+			dependencies: ["63324A400A88BDC8"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobbleversebadges:item/kanto_soul_badge"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "6E4B9435A23DD309"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5F3B893D9E29A8CB"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5AB4B138EE93D197"
+					table_id: 6815066128165839759L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "38DB1339BAC11D2F"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "6722C8AD07D35EC1"
+				item: { count: 1, id: "cobbleversebadges:kanto_soul_badge" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: -14.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:block/kanto_cartography_table_front"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 0.9d
+			id: "2224196CE7342C1C"
+			shape: "rsquare"
+			tasks: [{
+				id: "702C0448A23CFCD6"
+				structure: "cobbleverse:brock"
+				type: "structure"
+			}]
+			x: -14.0d
+			y: -20.0d
+		}
+	]
+}

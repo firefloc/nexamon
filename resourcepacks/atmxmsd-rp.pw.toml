@@ -1,6 +1,7 @@
 name = "ATMxMSD RP.zip"
 filename = "ATMxMSD RP.zip"
 side = "client"
+tier = "core"
 
 [download]
 url = "https://github.com/firefloc/nexamon/releases/download/v1.0.0-custom/ATMxMSD.RP.zip"

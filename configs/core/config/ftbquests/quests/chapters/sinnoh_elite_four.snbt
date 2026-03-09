@@ -1,0 +1,223 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	default_quest_size: 2.0d
+	filename: "sinnoh_elite_four"
+	group: "5D79B3BD438A8363"
+	icon: {
+		components: {
+			"ftbquests:icon": "cobblemon:item/advancements/cobblemon_logo_purple"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "5E24587AC936477D"
+	images: [
+		{
+			height: 2.5d
+			image: "cobblemon_quests:item/aaron"
+			rotation: 0.0d
+			width: 2.5d
+			x: -4.0d
+			y: -2.0d
+		}
+		{
+			height: 2.7d
+			image: "cobblemon_quests:item/bertha"
+			rotation: 0.0d
+			width: 2.7d
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			height: 2.5d
+			image: "cobblemon_quests:item/flint"
+			rotation: 0.0d
+			width: 2.5d
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			height: 2.5d
+			image: "cobblemon_quests:item/lucian"
+			rotation: 0.0d
+			width: 2.5d
+			x: 5.0d
+			y: -2.0d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["240D0D361DCFDC51"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/bug_net"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "42F2A7BB476EB34E"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "686B51EEF9B3C23C"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6BA0D1932FB47EF1"
+					table_id: 6815066128165839759L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3129FFAE9F12C2F4"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "cobbleverse:trainer/sinnoh/defeat_elite_aaron"
+				criterion: ""
+				id: "1B1D53793A40F220"
+				type: "advancement"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["42F2A7BB476EB34E"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/ground_shawl"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "65567009D401C3B2"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5001E0C497ED8228"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "27BFB4244740B26B"
+					table_id: 6815066128165839759L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "400DFD316270C64D"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "cobbleverse:trainer/sinnoh/defeat_elite_terrie"
+				criterion: ""
+				id: "63D009039553F46F"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["65567009D401C3B2"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/fire_flint"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "087B7D2C2FCCD5B4"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1CEEED370315CBB4"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1BB292D39A6BDC75"
+					table_id: 6815066128165839759L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "140467764B6D959A"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "cobbleverse:trainer/sinnoh/defeat_elite_vulcano"
+				criterion: ""
+				id: "2156193B78506D46"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["087B7D2C2FCCD5B4"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/psychic_volume"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "534FBD7084B569D1"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2AEF95B407B1D161"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "41E2A282841775E5"
+					table_id: 5510279823512477608L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3E6F0C25BAC5534A"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "cobbleverse:trainer/sinnoh/defeat_elite_luciano"
+				criterion: ""
+				id: "6CB19A44182DA913"
+				type: "advancement"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["06A91D098D66DF74"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:block/sinnoh_cartography_table_front"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 0.9d
+			id: "240D0D361DCFDC51"
+			shape: "rsquare"
+			tasks: [{
+				id: "5B21F428072BE77D"
+				structure: "cobbleverse:sinnoh_league"
+				type: "structure"
+			}]
+			x: -7.0d
+			y: -3.0d
+		}
+	]
+}

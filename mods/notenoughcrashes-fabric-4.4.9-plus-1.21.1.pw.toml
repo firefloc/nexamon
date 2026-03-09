@@ -1,6 +1,7 @@
 name = "Not Enough Crashes"
 filename = "notenoughcrashes-fabric-4.4.9+1.21.1.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/yM94ont6/versions/gR0LY1dB/notenoughcrashes-fabric-4.4.9%2B1.21.1.jar"

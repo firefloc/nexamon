@@ -1,0 +1,2039 @@
+{
+	chapter.008CC261F35A7805.title: "Génération VI (6)"
+	chapter.066158EB9A2DAF26.title: "Génération V (5)"
+	chapter.0BF415E12AA9ABE0.title: "Cannes Poké !"
+	chapter.0D0B0716EC45C880.title: "Champion !"
+	chapter.1020220ECBA88704.title: "Conseil 4 !"
+	chapter.1472E6AC3EE66D62.title: "Dynamax \\& Gigamax !"
+	chapter.1839394B9F452169.title: "Génération VIII (8)"
+	chapter.18B1DEB31A23C049.title: "Poké Balls !"
+	chapter.1B0E5D0CED5C600C.title: "Lieux !"
+	chapter.1D8CB429DA2243D2.title: "Objets d’évolution !"
+	chapter.211FCB576565CD4B.title: "Le commencement !"
+	chapter.2623C5AC186BB224.title: "Génération IX (9)"
+	chapter.29B5FF4288515F44.title: "Capacités Z !"
+	chapter.2F5466DB63F8D674.title: "Champion !"
+	chapter.30C2B0346B02F577.title: "Génération VII (7)"
+	chapter.362FC2E7698D11DD.title: "Champion !"
+	chapter.39839EF1B134613B.title: "Badges !"
+	chapter.3B8391675D6DC885.title: "Gastronomie !"
+	chapter.3BEABD607533CFCF.title: "Badges !"
+	chapter.3D61312671719F0E.title: "Champion !"
+	chapter.3FAAF64134E794CB.title: "Génération I (1)"
+	chapter.3FCFFB7956A3D182.title: "Fossiles !"
+	chapter.41AFF2DA138387A8.title: "Anneau Omni !"
+	chapter.430284DBA72F6FCD.title: "Objets tenus !"
+	chapter.43ABEC1E8C7AB131.title: "Génération II (2)"
+	chapter.456A7B79EC4BE573.title: "Remèdes \\& améliorations !"
+	chapter.45A5E7C50E557319.title: "Méga-Évolution !"
+	chapter.486AB1E2FCF6AF59.title: "Évolitions d’Évoli !"
+	chapter.545C06ECACEEAC49.title: "Conseil 4 !"
+	chapter.58ECBF286AB860B8.title: "Conseil 4 !"
+	chapter.59517BC7C17AD9CD.title: "Plantes !"
+	chapter.5A9E6A212D1026BB.title: "Paradoxe"
+	chapter.5BC3200F9B07DFB0.title: "Autres formes uniques !"
+	chapter.5E24587AC936477D.title: "Conseil 4 !"
+	chapter.5EBA1DE7FEE41287.title: "Baies !"
+	chapter.6187957A8895DBF9.title: "Génération IV (4)"
+	chapter.633DF32822519C20.title: "Badges !"
+	chapter.634EE64E777B6BE0.title: "Génération III (3)"
+	chapter.68FC3BCD45EACCD0.title: "Badges !"
+	chapter.7CFF3563420B8C92.title: "Téracristallisation !"
+	chapter.7D81F917A36C958B.title: "Fusions !"
+	chapter_group.0D71855D01B1484A.title: "&#568553Mega Showdown&r !"
+	chapter_group.11BEA68691B3DB4C.title: "Chapitre 2 : &#0736FFJohto&r"
+	chapter_group.272513F47AC86E00.title: "Chapitre 3 : &2Hoenn&r"
+	chapter_group.4827DCA20016B109.title: "&#B95FFFLégendaires&r, &#FFBF74Mythiques&r, &#8F2536Paradoxes&r !"
+	chapter_group.5A414AC1BCA19975.title: "&#FFF974Collectionneur&r !"
+	chapter_group.5D79B3BD438A8363.title: "Chapitre 4 : &#FF5DA7Sinnoh&r"
+	chapter_group.7A3B25ABFD04C294.title: "Chapitre 1 : &4Kanto&r"
+	quest.005F4760EFCB952E.quest_subtitle: "Apparition ultra-rare dans les biomes Prairie, Bosquet, Pentes enneigées, Pics déchiquetés, Pics gelés et Pics rocheux !"
+	quest.005F4760EFCB952E.title: "Volcanion"
+	quest.009D6B0704C825EE.quest_desc: [""]
+	quest.009D6B0704C825EE.quest_subtitle: "Trouve une Baie Coba dans les biomes Montagne, Tempéré ou Céleste !"
+	quest.00D105BB8339C3B9.quest_subtitle: "Invoque et attrape le Pokémon légendaire Rayquaza !"
+	quest.00D105BB8339C3B9.title: "Rayquaza"
+	quest.0112832716E8727F.quest_desc: [
+		"Bats Alice en combat pour obtenir le Badge &#69AFFFFeather&r !"
+		""
+		"Les Pokémon de type &#9AB6FFFVol&r d’Alice planent avec fierté. Cloue ses ambitions au sol avec une stratégie astucieuse et atteins de nouveaux sommets !"
+	]
+	quest.0112832716E8727F.quest_subtitle: "Bats Alice en combat !"
+	quest.0112832716E8727F.title: "Badge &#69AFFFFeather&r (Alice)"
+	quest.01B0251080F4C765.quest_desc: [""]
+	quest.01B0251080F4C765.quest_subtitle: "Obtiens un Éclat Téracristal Ténèbres en vainquant un Pokémon de type Ténèbres !"
+	quest.01B459E62D92659D.quest_subtitle: "Apparition ultra-rare dans le biome Forêt sombre la nuit !"
+	quest.01B459E62D92659D.title: "Yveltal"
+	quest.01B9BD934F0FD87C.quest_desc: [""]
+	quest.01B9BD934F0FD87C.quest_subtitle: "Fabrique un Orbe Téracristal, puis fais un clic droit pour l’équiper !"
+	quest.01B9BD934F0FD87C.title: "Orbe Téracristal"
+	quest.01EAC47694E9247A.quest_subtitle: "Apparition ultra-rare dans les biomes Pics rocheux, Pics déchiquetés, Pics gelés et Pentes enneigées la nuit lorsque la météo est dégagée !"
+	quest.01EAC47694E9247A.title: "Dialga"
+	quest.023BA60FD6212391.quest_subtitle: "Apparition ultra-rare dans le biome Plage !"
+	quest.023BA60FD6212391.title: "Mesprit"
+	quest.02A428333C13CCEB.quest_subtitle: "Fais évoluer Évoli avec un haut niveau d’amitié en lui faisant connaître une capacité de type Fée !"
+	quest.02A428333C13CCEB.title: "Sylveon"
+	quest.02FD55D3061FB0DE.quest_desc: [
+		"Bienvenue dans &#3588FFCOB&rBLE&#FFD64EVERSE&r, commence ton aventure et amuse-toi !"
+		""
+		"&#A8FF65&lNote : Chaque carré aux coins arrondis indique le début d’une ligne de quêtes !&r&r"
+	]
+	quest.02FD55D3061FB0DE.quest_subtitle: "Clique sur la coche pour terminer cette quête !"
+	quest.02FD55D3061FB0DE.title: "Bienvenue dans Cobbleverse !"
+	quest.034CF2F3A7BD2E38.quest_desc: ["Fabrique le Pendentif Spectre, puis combine-le avec une Carte vide sur une Table de cartographie de l’&#8B4C33Overworld&r afin d’obtenir une Carte indiquant l’emplacement de l’Arène de Fannie !"]
+	quest.034CF2F3A7BD2E38.quest_subtitle: "Fabrique le Pendentif Spectre !"
+	quest.037F17A48E12CDF1.title: "Achète 12 Yeux de l’Ender !"
+	quest.0398DE49A8C41B14.quest_subtitle: "Trouve le Volcan dans le biome Océan chaud profond à Hoenn !"
+	quest.0398DE49A8C41B14.title: "Volcan"
+	quest.03C9EB5A54EFE4B8.quest_desc: ["Chance ×3 d’apparition pendant un orage !"]
+	quest.03C9EB5A54EFE4B8.quest_subtitle: "Attrape Raikou près de la Tour Cendrée !"
+	quest.03C9EB5A54EFE4B8.title: "Raikou"
+	quest.03FF0E36D82B9ED1.quest_subtitle: "Fabrique une Unité de réassemblage !"
+	quest.040853A6CB2BB70A.quest_desc: [
+		"Place-la dans l’emplacement d’objet tenu de Silvallié afin de changer son type en &#83BFFFFVol&r."
+		""
+		"Une fois retirée, il redeviendra de type Normal."
+	]
+	quest.040853A6CB2BB70A.quest_subtitle: "Butin aléatoire des Coffres d’épreuves ominieuses. Obtiens des Clés d’épreuve ominieuse en vainquant le boss de la Tour de la Team Rocket !"
+	quest.0412555EDD02C321.quest_desc: [""]
+	quest.0412555EDD02C321.quest_subtitle: "Obtiens une Étoile Vœu en brisant un Cristal d’Étoile Vœu !"
+	quest.0412555EDD02C321.title: "Étoile Vœu"
+	quest.042C93A9650C2F9A.quest_desc: [""]
+	quest.042C93A9650C2F9A.quest_subtitle: "Réanime Dinoclier en utilisant le &#FF8F6BFossile Armure&r dans la Machine de restauration !"
+	quest.042C93A9650C2F9A.title: "Réanimer Dinoclier"
+	quest.044CEBE36ABD4C6E.quest_subtitle: "Apparition ultra-rare dans l’End !"
+	quest.044CEBE36ABD4C6E.title: "Cosmovum"
+	quest.04835FCA0F96EFAF.quest_subtitle: "Invoque et attrape le Pokémon légendaire Kyogre !"
+	quest.04835FCA0F96EFAF.title: "Kyogre"
+	quest.04979E3541CCF29F.quest_subtitle: "Obtiens une Baie Sailak via la mutation de baies !"
+	quest.04ED3B92B305C3D2.quest_desc: [""]
+	quest.04ED3B92B305C3D2.quest_subtitle: "Prépare une Soupe Max Miel et donne-la à Shifours !"
+	quest.04ED3B92B305C3D2.title: "Soupe Max Miel"
+	quest.0548F85BD3E8AAB1.quest_desc: [""]
+	quest.0548F85BD3E8AAB1.quest_subtitle: "Obtiens un Éclat Téracristal Fée en vainquant un Pokémon de type Fée !"
+	quest.056CCE8AEC55AA7D.quest_desc: ["Fabrique des Lunettes Cinabre, puis combine-les avec une Carte vide sur une Table de cartographie du &l&#952430Nether&r&r afin d’obtenir une Carte indiquant l’emplacement de l’Arène d’Auguste !"]
+	quest.056CCE8AEC55AA7D.quest_subtitle: "Fabrique les Lunettes Cinabre !"
+	quest.056CEC5FDCB3921D.quest_desc: ["Fabrique une Loupe, puis combine-la avec une Carte vide sur une Table de cartographie de l’&#8B4C33Overworld&r afin d’obtenir une Carte indiquant l’emplacement de l’Arène de Raffaello !"]
+	quest.056CEC5FDCB3921D.quest_subtitle: "Fabrique une Loupe !"
+	quest.05CD90796AD241A0.quest_subtitle: "Invoque et attrape le Pokémon légendaire chromatique Regice !"
+	quest.05CD90796AD241A0.title: "&zChromatique&r Regice"
+	quest.05DD48CCC386EC3F.quest_subtitle: "Apparition ultra-rare dans l’End !"
+	quest.05DD48CCC386EC3F.title: "Necrozma"
+	quest.05E58B21B7AB848C.quest_subtitle: "Obtiens les deux formes de fusion de Kyurem !"
+	quest.05E58B21B7AB848C.title: "Noir et Blanc"
+	quest.060A335AB9769087.quest_subtitle: "Localise les Arènes, Ligues et structures de Pokémon légendaires !"
+	quest.06225330AE907264.quest_desc: ["Permet de voir quels Pokémon tu peux attraper en pêchant !"]
+	quest.06225330AE907264.quest_subtitle: "Fabrique un FishingNav !"
+	quest.06225330AE907264.title: "FishingNav"
+	quest.06A54B8A3EEF0632.quest_subtitle: "Apparition ultra-rare dans tous les biomes de Forêt !"
+	quest.06A54B8A3EEF0632.title: "Regieleki"
+	quest.06A91D098D66DF74.quest_desc: [
+		"Bats Corrado en combat pour obtenir le Badge &#FFC776Bea&rc&#8D8D8Don&r !"
+		""
+		"Les Pokémon de type &#FFD861Électrik&r de Corrado débordent d’énergie. Reste vigilant et prouve qu’aucun courant ne peut arrêter ta puissance !"
+	]
+	quest.06A91D098D66DF74.quest_subtitle: "Bats Corrado en combat !"
+	quest.06A91D098D66DF74.title: "Badge &#FFC776Bea&rc&#8D8D8Don&r (Corrado)"
+	quest.0728A7D663A17F6F.quest_subtitle: "Obtiens la Casquette de Sacha en le vainquant en combat ou en la récupérant dans sa chambre !"
+	quest.0728A7D663A17F6F.title: "Casquette de Sacha"
+	quest.074628B32F22A35F.quest_desc: ["Fais un clic droit sur Wushours avec le Parchemin des Ténèbres."]
+	quest.074628B32F22A35F.quest_subtitle: "Trouve le Parchemin des Ténèbres dans une Pyramide du désert en utilisant une brosse sur du sable ou du gravier suspect !"
+	quest.078AD18833E69135.quest_subtitle: "Trouve 8 Éclats corrompus cachés à l’intérieur de la Tour Radio !"
+	quest.079C0EAB9972CC43.quest_subtitle: "Trouve l’Emblème Émeraude caché dans la Tour Céleste !"
+	quest.085C0A07D4764981.quest_desc: ["Fais un clic droit sur Plumeline avec du Nectar Rose afin de changer sa forme en Style Hula."]
+	quest.085C0A07D4764981.quest_subtitle: "Fabrique un Nectar Rose !"
+	quest.087B7D2C2FCCD5B4.quest_desc: [
+		"Bats Vulcano en combat pour progresser dans le Conseil 4 de Sinnoh !"
+		""
+		"Les Pokémon de type &#FF7749Feu&r de Vulcano brûlent d’intensité et de puissance. Affronte la chaleur sans crainte et surmonte sa force ardente !"
+	]
+	quest.087B7D2C2FCCD5B4.quest_subtitle: "Bats Vulcano en combat !"
+	quest.087B7D2C2FCCD5B4.title: "Troisième membre du Conseil 4 de Sinnoh"
+	quest.08AD363504827E24.quest_subtitle: "Place la Couronne sur la statue de Sylveroy pour l’invoquer !"
+	quest.08AD363504827E24.title: "Sylveroy"
+	quest.093699C4947C82D2.quest_subtitle: "Apparition rare dans les biomes Forêt sombre et Profondeurs obscures !"
+	quest.093699C4947C82D2.title: "Flotte-Mèche"
+	quest.099C322568AFB6F9.quest_desc: [""]
+	quest.099C322568AFB6F9.quest_subtitle: "Trouve des Graines de Vivilégume auprès des marchands ambulants, dans les maisons de village et dans certains coffres de structures !"
+	quest.09A3D8BF648FD961.quest_subtitle: "Prépare une Soupe Max et donne-la à ton Pokémon !"
+	quest.09A3D8BF648FD961.title: "Soupe Max"
+	quest.0A0EB70368A61DCC.quest_desc: [""]
+	quest.0A0EB70368A61DCC.quest_subtitle: "Trouvable dans les Plaines (ultra-rare), ou peut être réanimé avec un Casque fossilisé (lâché par le Scientifique de la Team Rocket dans la Tour de la Team Rocket) dans la Machine de restauration !"
+	quest.0A0EB70368A61DCC.title: "Type:0"
+	quest.0A22300BEB394EFA.quest_subtitle: "Apparition ultra-rare dans les Profondeurs obscures !"
+	quest.0A22300BEB394EFA.title: "Marshadow"
+	quest.0A479909202B2559.quest_subtitle: "Apparition ultra-rare dans le biome Plage !"
+	quest.0A479909202B2559.title: "Uxie"
+	quest.0A89AC156A3989E7.quest_subtitle: "Invoque et attrape le Pokémon légendaire chromatique Ho-Oh !"
+	quest.0A89AC156A3989E7.title: "&zChromatique&r Ho-Oh"
+	quest.0AFB7782EE044EAD.quest_desc: ["Fabrique le Fusible Électrique, puis combine-le avec une Carte vide sur une Table de cartographie de l’&#8B4C33Overworld&r afin d’obtenir une Carte indiquant l’emplacement de l’Arène de Corrado !"]
+	quest.0AFB7782EE044EAD.quest_subtitle: "Fabrique le Fusible Électrique !"
+	quest.0B1DBB5AB3845AB2.quest_desc: [""]
+	quest.0B1DBB5AB3845AB2.quest_subtitle: "Trouve une Baie Oran dans n’importe quel biome !"
+	quest.0B22EECE3C094194.quest_subtitle: "Obtiens une Baie Tamato via la mutation de baies !"
+	quest.0B502AB5A7358516.quest_subtitle: "Apparition ultra-rare dans les Grottes de spéléothèmes !"
+	quest.0B502AB5A7358516.title: "Genesect"
+	quest.0B595C77E6EA2E84.quest_subtitle: "Récolte la Carotte Givrante plantée à la Flèche Couronnée !"
+	quest.0B91219C515B33FC.quest_desc: [
+		"1. Équipe le Bracelet Dynamax en faisant un clic droit dessus tout en le tenant dans ta main droite."
+		""
+		"2. Nourris ton Pokémon avec une Soupe Max (ou une Soupe Max Miel s’il s’agit de Shifours)."
+		""
+		"3. Tu dois te trouver à moins de 20 blocs d’un Point d’énergie."
+		""
+		"4. Pour Gigamaxer en combat : clique sur le bouton Dynamax, puis choisis n’importe quelle capacité."
+	]
+	quest.0B91219C515B33FC.quest_subtitle: "Gigamax un Pokémon !"
+	quest.0B91219C515B33FC.title: "Gigamax"
+	quest.0BADB2706119833A.quest_subtitle: "Trouve l’une de ces Baies et utilise-les pour la mutation de baies !"
+	quest.0BADB2706119833A.title: "Parents Baie Prine"
+	quest.0BCD6868379707C9.quest_subtitle: "Apparition ultra-rare dans le biome Forêt sombre la nuit !"
+	quest.0BCD6868379707C9.title: "Darkrai"
+	quest.0BD1133509008A8D.quest_subtitle: "Fais évoluer Wushours en Shifours Style Mille Poings en utilisant le Parchemin de l’Eau !"
+	quest.0BD1133509008A8D.title: "Shifours Style Mille Poings"
+	quest.0C0B95617B4A289A.quest_subtitle: "Apparition ultra-rare dans le biome Pics de glace quand il pleut !"
+	quest.0C0B95617B4A289A.title: "Kyurem"
+	quest.0C208229F620CD40.quest_desc: [
+		"Place-le dans l’emplacement d’objet tenu de Silvallié afin de changer son type en &#FFB7E2Fée&r."
+		""
+		"Une fois retiré, il redeviendra de type Normal."
+	]
+	quest.0C208229F620CD40.quest_subtitle: "Butin aléatoire des Coffres d’épreuves ominieuses. Obtiens des Clés d’épreuve ominieuse en vainquant le boss de la Tour de la Team Rocket !"
+	quest.0C40FE0242F0A093.quest_subtitle: "Apparition ultra-rare dans les biomes Prairie, Bosquet, Pentes enneigées, Pics déchiquetés, Pics gelés et Pics rocheux la nuit !"
+	quest.0C40FE0242F0A093.title: "Rugit-Lune"
+	quest.0CC1FBC4C4D49392.quest_desc: [""]
+	quest.0CC1FBC4C4D49392.quest_subtitle: "Fabrique toutes les &#020202Cannes Poké&r pour obtenir une Master Ball !"
+	quest.0CC1FBC4C4D49392.title: "Attrape-les tous à l’hameçon !"
+	quest.0D4F83C70CE87C29.quest_desc: [""]
+	quest.0D4F83C70CE87C29.quest_subtitle: "Prépare-toi pour ta première Téracristallisation !"
+	quest.0D4F83C70CE87C29.title: "Créa-téra-stique !"
+	quest.0D7F0660CBC00FFE.quest_subtitle: "Obtiens une Baie Micle via la mutation de baies !"
+	quest.0D97117805AD175E.quest_subtitle: "Trouve la Tour Radio Rocket dans le biome Savane à Johto !"
+	quest.0D97117805AD175E.title: "Tour Radio Rocket"
+	quest.0D97C5344EE8CE8F.quest_subtitle: "Apparition ultra-rare dans le biome Marais de mangrove !"
+	quest.0D97C5344EE8CE8F.title: "Wo-Chien"
+	quest.0DB909B0FD28B9A5.quest_desc: [
+		"1. Fais un clic droit sur Zekrom avec les ADN Splicers pour les charger."
+		""
+		"2. Fais un clic droit sur Kyurem avec les ADN Splicers chargés pour le transformer en Kyurem Noir."
+		""
+		"(Tu peux &nannuler&r la fusion en faisant un clic droit sur Kyurem Noir avec les ADN Splicers)"
+	]
+	quest.0DB909B0FD28B9A5.quest_subtitle: "Fusionne Kyurem avec Zekrom pour obtenir Kyurem Noir !"
+	quest.0DB909B0FD28B9A5.title: "Fusion Kyurem Noir"
+	quest.0DE4DBAB33452111.quest_subtitle: "Invoque et attrape le Pokémon légendaire chromatique Kyogre !"
+	quest.0DE4DBAB33452111.title: "&zChromatique&r Kyogre"
+	quest.0DFEEFAA88CEAB48.quest_desc: [""]
+	quest.0DFEEFAA88CEAB48.quest_subtitle: "Trouve une Baie Cobaba dans les biomes Terres désolées, Lugubre ou Taïga !"
+	quest.0E06E3498F158291.quest_subtitle: "Invoque et attrape le Pokémon légendaire chromatique Électhor !"
+	quest.0E06E3498F158291.title: "&zChromatique&r Électhor"
+	quest.0E33E095CBC95FA7.quest_subtitle: "Fais évoluer Évoli en utilisant une Pierre Glace !"
+	quest.0E33E095CBC95FA7.title: "Givrali"
+	quest.0E35F70DB36D4052.quest_desc: ["Fais un clic droit sur Plumeline avec du Nectar Jaune afin de changer sa forme en Style Pom-Pom."]
+	quest.0E35F70DB36D4052.quest_subtitle: "Fabrique un Nectar Jaune !"
+	quest.0E71F3652D4EA2F7.quest_desc: ["Fabrique un Chapeau d’Acier, puis combine-le avec une Carte vide sur une Table de cartographie de l’&#8B4C33Overworld&r afin d’obtenir une Carte indiquant l’emplacement de la Ligue de Hoenn !"]
+	quest.0E71F3652D4EA2F7.quest_subtitle: "Fabrique un Chapeau d’Acier !"
+	quest.0E7510E524B2BDEC.quest_desc: ["Fabrique du Lait Doux, puis combine-le avec une Carte vide sur une Table de cartographie de l’&#8B4C33Overworld&r afin d’obtenir une Carte indiquant l’emplacement de l’Arène de Chiara !"]
+	quest.0E7510E524B2BDEC.quest_subtitle: "Fabrique du Lait Doux !"
+	quest.0E787685D592AFFC.quest_desc: [
+		"Tu as obtenu les 8 Badges de &#FF0514Kanto&r, il est temps d’affronter le Conseil 4 !"
+		""
+		"Rends-toi à la Tour du Conseil 4 dans &#772AB7l’End&r pour commencer ton défi. Bats les 4 membres pour gagner le droit d’affronter le Champion de Kanto !"
+		""
+		"&#FF0514Cartes des Arènes \\& de la Ligue&r :"
+		"[ { \"text\": \"Clique ici !\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"7C0DA6EC2DD8CD24\" } } ]"
+	]
+	quest.0E787685D592AFFC.quest_subtitle: "Trouve la Ligue Pokémon de Kanto !"
+	quest.0E787685D592AFFC.title: "Conseil 4 de Kanto"
+	quest.0E88A7F1D07438BD.quest_subtitle: "Obtiens une Baie Sédra via la mutation de baies !"
+	quest.0EEAB8742DFC89A7.quest_subtitle: "Trouve le Jardin Secret dans le biome Océan tiède profond à Hoenn !"
+	quest.0EEAB8742DFC89A7.title: "Jardin secret"
+	quest.0EF2E98AE8867002.quest_desc: [
+		"Félicitations pour avoir vaincu le Champion de Johto !"
+		""
+		"Ton prochain défi est celui des Arènes de Hoenn. Bats les 8 Champions d’Arène et récupère leurs Badges."
+		""
+		"Veuillez redémarrer votre monde après avoir vaincu Peter afin que les Arènes de &#82FF05Hoenn&r commencent à apparaître."
+		"(Désolé, c’est comme ça que fonctionne le modpack !)"
+		""
+		"&#82FF05Cartes des Arènes \\& de la Ligue&r :"
+		"[ { \"text\": \"Clique ici !\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0A8C3CC12E167F8B\" } } ]"
+	]
+	quest.0EF2E98AE8867002.quest_subtitle: "Trouve la première Arène de Hoenn et commence à collecter des Badges !"
+	quest.0EF2E98AE8867002.title: "Arènes de Hoenn"
+	quest.0F7B4BA231DA2AC4.quest_desc: ["Casser l’un ou l’autre type de racine fera toujours tomber une seule Grosse Racine."]
+	quest.0F7B4BA231DA2AC4.quest_subtitle: "Se trouve suspendu aux plafonds des grottes au-dessus de la couche d’ardoise des abîmes !"
+	quest.0FAF5C154E4CC224.quest_subtitle: "Invoque et attrape le Pokémon légendaire Latios !"
+	quest.0FAF5C154E4CC224.title: "Latios"
+	quest.0FF89F37E6141C8D.quest_subtitle: "Obtiens les deux formes de fusion de Sylveroy !"
+	quest.0FF89F37E6141C8D.title: "Glacier et Spectre"
+	quest.102FA36986394529.quest_desc: [""]
+	quest.102FA36986394529.quest_subtitle: "Invoque et attrape Mew !"
+	quest.102FA36986394529.title: "Mew"
+	quest.1073536FDB271B25.quest_desc: [""]
+	quest.1073536FDB271B25.quest_subtitle: "Trouve une Tour de la Team Rocket dans le biome Terres désolées à Kanto !"
+	quest.1073536FDB271B25.title: "Tour de la Team Rocket"
+	quest.10E7617929623D39.quest_desc: [""]
+	quest.10E7617929623D39.quest_subtitle: "Fabrique n’importe quel Anneau Z pour pouvoir utiliser les Capacités Z !"
+	quest.11615D7CD0C5EFE0.quest_desc: ["Fabrique le Gant de Combat, puis combine-le avec une Carte vide sur une Table de cartographie de l’&#8B4C33Overworld&r afin d’obtenir une Carte indiquant l’emplacement de l’Arène de Rudi !"]
+	quest.11615D7CD0C5EFE0.quest_subtitle: "Fabrique le Gant de Combat !"
+	quest.121C07E7FE81E2E1.quest_subtitle: "Trouve le Sanctuaire d’If dans le biome Taïga à Johto !"
+	quest.121C07E7FE81E2E1.title: "Sanctuaire d’If"
+	quest.12EA4F70C04D5CED.quest_subtitle: "Trouve un Modèle de forge via la pêche ou dans des coffres de butin !"
+	quest.1311FD98E021E9AF.quest_subtitle: "Fais évoluer Évoli avec un haut niveau d’amitié la nuit !"
+	quest.1311FD98E021E9AF.title: "Noctali"
+	quest.13130CA03346A08F.quest_desc: [
+		"Bats Giovanni en combat pour obtenir le badge &#05721BEar&r&#AEFFB0th&r !"
+		""
+		"Giovanni incarne la puissance, le contrôle et l’ambition. Bats ses forces de type &#7C371ESol&r pour décrocher le Badge Terre, preuve ultime que la force sans honneur ne vaut rien !"
+	]
+	quest.13130CA03346A08F.quest_subtitle: "Bats Giovanni en combat !"
+	quest.13130CA03346A08F.title: "Badge &#05721BEar&r&#AEFFB0th&r (Giovanni)"
+	quest.133805E6A31D3E4D.quest_subtitle: "Trouve la Météorite de Deoxys dans le biome Petites îles de l’End à Hoenn !"
+	quest.133805E6A31D3E4D.title: "Météorite de Deoxys"
+	quest.133B933693414CB0.quest_subtitle: "Invoque et attrape le Pokémon légendaire Ho-Oh !"
+	quest.133B933693414CB0.title: "Ho-Oh"
+	quest.136E581D1BB5FF4E.quest_desc: ["Fabrique la Pierre Onyx, puis combine-la avec une Carte vide sur une Table de cartographie de l’&#8B4C33Overworld&r afin d’obtenir une Carte indiquant l’emplacement de l’Arène de Pierre !"]
+	quest.136E581D1BB5FF4E.quest_subtitle: "Fabrique une Pierre Onyx !"
+	quest.137867AE57F06215.quest_subtitle: "Plante des Graines de haricot et récolte des Haricots !"
+	quest.13BBEADA7EED5527.quest_desc: [""]
+	quest.13BBEADA7EED5527.quest_subtitle: "Obtiens un Éclat Téracristal Poison en vainquant un Pokémon de type Poison !"
+	quest.13CC7133283FD572.quest_desc: ["Fabrique le Radar Regirock, puis combine-le avec une Carte vide sur une Table de cartographie de l’&#8B4C33Overworld&r afin d’obtenir une Carte indiquant l’emplacement du Temple de Regirock !"]
+	quest.13CC7133283FD572.quest_subtitle: "Fabrique le Radar Regirock !"
+	quest.13F27E26C674F4A5.quest_desc: [
+		"Bats Omar en combat pour obtenir le Badge &#838383F&re&#539EFFn&r !"
+		""
+		"Les Pokémon de type &#66A9FFEau&r d’Omar coulent avec vitesse et puissance. Surfe sur la bataille et démontre ta maîtrise !"
+	]
+	quest.13F27E26C674F4A5.quest_subtitle: "Bats Omar en combat !"
+	quest.13F27E26C674F4A5.title: "Badge &#838383F&re&#539EFFn&r (Omar)"
+	quest.142E3870762DF970.quest_desc: ["Fabrique l’Allume-feu, puis combine-le avec une Carte vide sur une Table de cartographie de l’&#8B4C33Overworld&r afin d’obtenir une Carte indiquant l’emplacement de l’Arène de Fiammetta !"]
+	quest.142E3870762DF970.quest_subtitle: "Fabrique l’Allume-feu !"
+	quest.145986C6F62725EF.quest_subtitle: "Invoque et attrape Deoxys chromatique !"
+	quest.145986C6F62725EF.title: "&zChromatique&r Deoxys"
+	quest.145CF266951A966D.quest_subtitle: "Obtiens une Baie Jaboca via la mutation de baies !"
+	quest.14BAB68C888A9078.quest_subtitle: "Collecte des Noigrumes et des Pousses de Noigrume sur les noigrumiers trouvés à l’état sauvage !"
+	quest.14D615E06A5D0E95.quest_desc: [""]
+	quest.14D615E06A5D0E95.quest_subtitle: "Réanime Cranidos en utilisant le &#FF904CFossile Crâne&r dans la Machine de restauration !"
+	quest.14D615E06A5D0E95.title: "Réanimer Cranidos"
+	quest.14D70E7DD8855D2B.quest_subtitle: "Obtiens une Baie Nomel via la mutation de baies !"
+	quest.153B42AFEB5F9670.quest_desc: [
+		"Bats Frida en combat pour progresser dans le Conseil 4 de Hoenn !"
+		""
+		"Les Pokémon &bGlace&r de Frida sont froids et implacables. Reste affûté et réchauffe ta stratégie pour briser sa défense !"
+	]
+	quest.153B42AFEB5F9670.quest_subtitle: "Bats Frida en combat !"
+	quest.153B42AFEB5F9670.title: "Troisième membre du Conseil 4 de Hoenn"
+	quest.1565E74BD3A3B19D.quest_subtitle: "Collecte des Noigrumes et des Pousses de Noigrume sur les noigrumiers trouvés à l’état sauvage !"
+	quest.15668E539D9A6E2A.quest_desc: [""]
+	quest.15668E539D9A6E2A.quest_subtitle: "Fabrique le Bracelet de Flora !"
+	quest.15668E539D9A6E2A.title: "Bracelet de Flora"
+	quest.15D6F07686F779D9.quest_desc: [
+		"Bats Petra en combat pour obtenir le Badge &#FF5C7BS&r&#FAFF81t&r&#663D20o&r&#FAFF81n&r&#FF5C7Be&r !"
+		""
+		"Les Pokémon de type &#FFC8A9Roche&r de Petra sont aussi inébranlables que les montagnes. Brise sa défense avec stratégie et prouve ta force !"
+	]
+	quest.15D6F07686F779D9.quest_subtitle: "Bats Petra en combat !"
+	quest.15D6F07686F779D9.title: "Badge &#FF5C7BS&r&#FAFF81t&r&#663D20o&r&#FAFF81n&r&#FF5C7Be&r (Petra)"
+	quest.15E60D47860894E0.quest_subtitle: "Apparition ultra-rare dans le biome Deltas de basalte !"
+	quest.15E60D47860894E0.title: "Feu-Perçant"
+	quest.1645AC6DD2C8973B.quest_desc: [""]
+	quest.1645AC6DD2C8973B.quest_subtitle: "Collecte tous les &#7C4B2AAméliorations&r, &#574DFFBonbons Exp&r, &#8FFFFFFplumes&r, &#FF50B6remèdes&r et &2Menthes&r !"
+	quest.1645AC6DD2C8973B.title: "Boostez-les tous !"
+	quest.1684675033C55992.quest_subtitle: "Apparition rare dans tous les biomes Collines le jour !"
+	quest.1684675033C55992.title: "Mite-de-Fer"
+	quest.16A283F649D91A0B.quest_desc: [""]
+	quest.16A283F649D91A0B.quest_subtitle: "Trouve une Baie Charti dans les biomes Spéléothèmes, Montagne, Sablonneux ou Volcanique !"
+	quest.16D73EF092FC97B7.quest_subtitle: "Apparition rare dans les biomes Grottes luxuriantes et Jungle souterraine la nuit !"
+	quest.16D73EF092FC97B7.title: "Chef-de-Fer"
+	quest.16E1B0F3ABE60992.quest_subtitle: "Fabrique un Point d’énergie et place-le !"
+	quest.16E1B0F3ABE60992.title: "Point d’énergie"
+	quest.16E9750BD81BD081.quest_desc: [""]
+	quest.16F3E452E7C64018.quest_subtitle: "Apparition ultra-rare dans les biomes Forêt fleurie et Cerisaie la nuit !"
+	quest.16F3E452E7C64018.title: "Cresselia"
+	quest.178FCF0F712E434B.quest_subtitle: "Apparition rare dans les biomes Prairie, Bosquet, Pentes enneigées, Pics déchiquetés, Pics gelés et Pics rocheux !"
+	quest.178FCF0F712E434B.title: "Épine-de-Fer"
+	quest.17AC515A82A97FCC.quest_subtitle: "Obtiens la GS Ball en vainquant ton rival légendaire Red près du Sanctuaire d’If afin d’invoquer Celebi !"
+	quest.17AC515A82A97FCC.title: "GS Ball"
+	quest.17D2EA4227096498.quest_desc: ["Collecte toutes les &#034DFFBaies&r pour débloquer ceci et obtenir la Master Ball !"]
+	quest.17D2EA4227096498.quest_subtitle: "Collecte toutes les Baies !"
+	quest.17D2EA4227096498.title: "Cueillez-les tous !"
+	quest.18157C94D57A4E1A.quest_desc: ["Fabrique l’Étoile Azur, puis combine-la avec une Carte vide sur une Table de cartographie de l’&#8B4C33Overworld&r afin d’obtenir une Carte indiquant l’emplacement de l’Arène d’Ondine !"]
+	quest.18157C94D57A4E1A.quest_subtitle: "Fabrique une Étoile Azur !"
+	quest.183E9B3AA9615CF4.quest_desc: [
+		"Place-le dans l’emplacement d’objet tenu de Zamazenta pour le transformer en Forme Bouclier Suprême."
+		""
+		"Une fois retiré, il redeviendra normal."
+	]
+	quest.183E9B3AA9615CF4.quest_subtitle: "Trouve le Bouclier Rouillé dans des Ruines Sol Henge en utilisant une brosse sur du sable ou du gravier suspect !"
+	quest.18510690A7718B13.quest_desc: ["Fabrique le Radar de l’Arbre Dyna, puis combine-le avec une Carte vide sur une Table de cartographie de l’&#8B4C33Overworld&r afin d’obtenir une Carte indiquant l’emplacement de l’Arbre Dyna !"]
+	quest.18510690A7718B13.quest_subtitle: "Fabrique le Radar de l’Arbre Dyna !"
+	quest.18B332460F9F7AE8.quest_desc: ["Fabrique la Carte Radio, puis combine-la avec une Carte vide sur une Table de cartographie de l’&#8B4C33Overworld&r afin d’obtenir une Carte indiquant l’emplacement de la Tour Radio Rocket !"]
+	quest.18B332460F9F7AE8.quest_subtitle: "Fabrique la Carte Radio !"
+	quest.1940451320E830C2.quest_desc: [
+		"Place-le dans l’emplacement d’objet tenu d’Ogerpon pour la transformer en Forme Masque du Brasier."
+		""
+		"Une fois retiré, elle redeviendra normale."
+	]
+	quest.1940451320E830C2.quest_subtitle: "Trouve le Masque du Brasier dans la Tour Gimmi du désert en utilisant une brosse sur du sable ou du gravier suspect !"
+	quest.1946D7F2E54C7697.quest_desc: [""]
+	quest.1946D7F2E54C7697.quest_subtitle: "Fabrique les Lunettes de Max !"
+	quest.1946D7F2E54C7697.title: "Lunettes de Max"
+	quest.19B1F4543974F94D.quest_subtitle: "Invoque et attrape le Pokémon légendaire chromatique Registeel !"
+	quest.19B1F4543974F94D.title: "&zChromatique&r Registeel"
+	quest.19EEA6C0A2E4B241.quest_subtitle: "Apparition ultra-rare dans le biome Plage !"
+	quest.19EEA6C0A2E4B241.title: "Azelf"
+	quest.1A22C0265F596665.quest_subtitle: "Apparition ultra-rare dans les biomes Pics gelés, Pics déchiquetés et Pentes enneigées !"
+	quest.1A22C0265F596665.title: "Fezandipiti"
+	quest.1A37CB653D69484B.quest_subtitle: "Monte pour la première fois un Pokémon !"
+	quest.1A37CB653D69484B.title: "Ta première chevauchée"
+	quest.1A3B86F549A2BE75.quest_subtitle: "Collecte tous les Cristaux Z !"
+	quest.1A3B86F549A2BE75.title: "Collectionneur Z"
+	quest.1A47CBEE47FDB7F0.quest_desc: [""]
+	quest.1A47CBEE47FDB7F0.quest_subtitle: "Fabrique un Bracelet Méga !"
+	quest.1A47CBEE47FDB7F0.title: "Bracelet Méga"
+	quest.1A904A8302DAC6E0.quest_desc: ["Fabrique le Radar Regice, puis combine-le avec une Carte vide sur une Table de cartographie de l’&#8B4C33Overworld&r afin d’obtenir une Carte indiquant l’emplacement du Temple de Regice !"]
+	quest.1A904A8302DAC6E0.quest_subtitle: "Fabrique le Radar Regice !"
+	quest.1AA585D72EF932DD.quest_subtitle: "Apparition ultra-rare dans tous les biomes de Forêt !"
+	quest.1AA585D72EF932DD.title: "Viridium"
+	quest.1AED63D262B3D056.quest_desc: ["Le Minerai de glace se trouve dans les biomes Pics gelés, Océan gelé ou Pics de glace entre les hauteurs 65 et 120 !"]
+	quest.1AED63D262B3D056.quest_subtitle: "Mine une Relique Cryo dans le Minerai de glace !"
+	quest.1B1D1C845691BC1A.quest_subtitle: "Fais évoluer Évoli avec un haut niveau d’amitié le jour !"
+	quest.1B1D1C845691BC1A.title: "Mentali"
+	quest.1BCC799EBCA45304.quest_desc: [
+		"Place-le dans l’emplacement d’objet tenu d’Arceus afin de changer son type en &#6A3629Sol&r."
+		""
+		"Une fois retiré, il redeviendra de type Normal."
+	]
+	quest.1BCC799EBCA45304.quest_subtitle: "Trouvable dans les Mines abandonnées, Cités antiques, coffres aléatoires ou Tours/Structures !"
+	quest.1BDC96685054FE77.quest_subtitle: "Obtiens une Baie Sitrus via la mutation de baies !"
+	quest.1BE056394BC0A556.quest_subtitle: "Fabrique un Noyau Céleste pour invoquer Rayquaza !"
+	quest.1C14120A3C29F973.quest_desc: ["Le PokéNav t’indiquera quels Pokémon peuvent être repérés dans ta position actuelle !"]
+	quest.1C14120A3C29F973.quest_subtitle: "Fabrique un PokéNav !"
+	quest.1C14120A3C29F973.title: "PokéNav"
+	quest.1C35FC8CD94EDB4C.quest_desc: [
+		"1. Fais un clic droit sur Blizzeval avec les Rênes d’Unité pour les charger."
+		""
+		"2. Fais un clic droit sur Sylveroy avec les Rênes chargées pour le transformer en Sylveroy Cavalier du Froid."
+		""
+		"(Tu peux &nannuler&r la fusion en faisant un clic droit sur Sylveroy Cavalier du Froid avec les Rênes d’Unité)"
+	]
+	quest.1C35FC8CD94EDB4C.quest_subtitle: "Fusionne Sylveroy avec Blizzeval pour obtenir Sylveroy Cavalier du Froid !"
+	quest.1C35FC8CD94EDB4C.title: "Fusion Sylveroy Cavalier du Froid"
+	quest.1C40D1BB8C3A8271.quest_subtitle: "Collecte des Noigrumes et des Pousses de Noigrume sur les noigrumiers trouvés à l’état sauvage !"
+	quest.1C5FE0369441717E.quest_subtitle: "Obtiens une Baie Prine via la mutation de baies !"
+	quest.1C63B6BC11B4F97E.quest_desc: [
+		"Place-le dans l’emplacement d’objet tenu de Silvallié afin de changer son type en &bGlace&r."
+		""
+		"Une fois retiré, il redeviendra de type Normal."
+	]
+	quest.1C63B6BC11B4F97E.quest_subtitle: "Butin aléatoire des Coffres d’épreuves ominieuses. Obtiens des Clés d’épreuve ominieuse en vainquant le boss de la Tour de la Team Rocket !"
+	quest.1C6A069FA07598E4.quest_subtitle: "Apparition ultra-rare dans tous les biomes de Forêt !"
+	quest.1C6A069FA07598E4.title: "Regidrago"
+	quest.1C7BE17A2DAA5A24.title: "Échange 1 Pièce contre 10 PokéDollars !"
+	quest.1CC53F5E30BC1AED.quest_subtitle: "Transforme Mewtwo en Mewtwo Armure en utilisant l’Armure Rocket !"
+	quest.1CC53F5E30BC1AED.title: "Mewtwo Armure"
+	quest.1CFDF9BD60692770.quest_desc: [""]
+	quest.1CFDF9BD60692770.quest_subtitle: "Fabrique la Méga-Tiare de Lisia !"
+	quest.1CFDF9BD60692770.title: "Méga-Tiare de Lisia"
+	quest.1D1841D0B0670308.quest_subtitle: "Trouve le Site archéologique dans le biome Désert !"
+	quest.1D1841D0B0670308.title: "Site archéologique"
+	quest.1D62FB37D9900444.quest_desc: [
+		"Bats Marzia en combat pour obtenir le Badge &#FF7D69C&ro&#FF7D69b&rb&#FF7D69l&re !"
+		""
+		"Les Pokémon de type &#FF050ACombat&r de Marzia frappent avec précision et puissance. Esquive, riposte, et prouve que ton talent est inégalable !"
+	]
+	quest.1D62FB37D9900444.quest_subtitle: "Bats Marzia en combat !"
+	quest.1D62FB37D9900444.title: "Badge &#FF7D69C&ro&#FF7D69b&rb&#FF7D69l&re (Marzia)"
+	quest.1DBA10FF3D34DA70.quest_desc: [""]
+	quest.1DBA10FF3D34DA70.quest_subtitle: "Trouve une Baie Yache dans les biomes Glacial ou Taïga !"
+	quest.1DD429BDDB99CF55.quest_subtitle: "Obtiens une Baie Étoile via la mutation de baies !"
+	quest.1EC387AB9779CCC0.quest_subtitle: "Apparition ultra-rare dans le biome Taïga enneigée, dans le Temple de Frimapic !"
+	quest.1EC387AB9779CCC0.title: "Regigigas"
+	quest.1EC66A1A525A2700.quest_subtitle: "Apparition ultra-rare dans le biome Grottes luxuriantes !"
+	quest.1EC66A1A525A2700.title: "Ogerpon"
+	quest.1F02EBBF8516864B.quest_desc: [""]
+	quest.1F02EBBF8516864B.quest_subtitle: "Fabrique l’Anneau de Lysandre !"
+	quest.1F02EBBF8516864B.title: "Anneau de Lysandre"
+	quest.1F14066FF412651B.quest_desc: [
+		"Bats Peter en combat pour atteindre le Champion de Kanto !"
+		""
+		"Des ailes légendaires grondent dans le ciel. Les &#0337FFDragons&r de Peter incarnent la fureur autant que la liberté, seul un vrai champion peut s’élever au-dessus de leur tempête !"
+	]
+	quest.1F14066FF412651B.quest_subtitle: "Bats Peter en combat !"
+	quest.1F14066FF412651B.title: "Quatrième membre du Conseil 4 de Kanto"
+	quest.1F850DF8E2377EBB.quest_desc: [
+		"Place-le dans l’emplacement d’objet tenu d’Arceus afin de changer son type en &#B25AFFPoison&r."
+		""
+		"Une fois retiré, il redeviendra de type Normal."
+	]
+	quest.1F850DF8E2377EBB.quest_subtitle: "Trouvable dans les Mines abandonnées, Cités antiques, coffres aléatoires ou Tours/Structures !"
+	quest.1F8E91037AFB1968.quest_desc: [
+		"Place-le dans l’emplacement d’objet tenu de Silvallié afin de changer son type en &#FFC8A9Roche&r."
+		""
+		"Une fois retiré, il redeviendra de type Normal."
+	]
+	quest.1F8E91037AFB1968.quest_subtitle: "Butin aléatoire des Coffres d’épreuves ominieuses. Obtiens des Clés d’épreuve ominieuse en vainquant le boss de la Tour de la Team Rocket !"
+	quest.1FAEC39AEBE3ED15.quest_desc: [""]
+	quest.1FAEC39AEBE3ED15.quest_subtitle: "Obtiens un Éclat Téracristal Plante en vainquant un Pokémon de type Plante !"
+	quest.1FCB04828260D948.quest_desc: [
+		"1. Fais un clic droit sur Solgaleo avec le Solariseur N pour le charger."
+		""
+		"2. Fais un clic droit sur Necrozma avec le Solariseur N chargé pour le transformer en Necrozma Crinière du Couchant."
+		""
+		"(Tu peux &nannuler&r la fusion en faisant un clic droit sur Necrozma Crinière du Couchant avec le Solariseur N)"
+	]
+	quest.1FCB04828260D948.quest_subtitle: "Fusionne Necrozma avec Solgaleo pour obtenir Necrozma Crinière du Couchant !"
+	quest.1FCB04828260D948.title: "Fusion Necrozma Crinière du Couchant"
+	quest.1FEFABC2F67C9F9B.quest_subtitle: "Apparition ultra-rare dans le biome Landes du Nether !"
+	quest.1FEFABC2F67C9F9B.title: "Heatran"
+	quest.1FFCF567DCBDBE58.quest_subtitle: "Collecte des Feuilles de menthe sur des plants de menthe trouvés à l’état sauvage !"
+	quest.202F96DD38F1493B.quest_subtitle: "Apparition ultra-rare dans les biomes Cerisaie, Forêt fleurie, Prairie et Plaines de tournesols le jour quand la météo est dégagée !"
+	quest.202F96DD38F1493B.title: "Shaymin"
+	quest.204729931C21B30C.quest_subtitle: "Fabrique une Table de cartographie de l’End !"
+	quest.20927CA7A8A07DB8.quest_subtitle: "Trouve un point de nourrissage, puis jette-y une Carotte Givrante pour invoquer Blizzeval !"
+	quest.20927CA7A8A07DB8.title: "Blizzeval"
+	quest.20930D42AB0E8AC8.quest_subtitle: "Fabrique une Table de cartographie du Nether !"
+	quest.20A447AA417BA690.quest_desc: [""]
+	quest.20A447AA417BA690.quest_subtitle: "Obtiens un Éclat Téracristal Stellaire avec une petite chance en vainquant n’importe quel Pokémon !"
+	quest.20FC08360393822F.quest_subtitle: "Invoque et attrape le Pokémon légendaire chromatique Lugia !"
+	quest.20FC08360393822F.title: "&zChromatique&r Lugia"
+	quest.214CB99D28FDD8E9.quest_subtitle: "Apparition ultra-rare dans l’End !"
+	quest.214CB99D28FDD8E9.title: "Hoopa"
+	quest.21C1045078017179.quest_desc: [""]
+	quest.21C1045078017179.quest_subtitle: "Trouve une Baie Pecha dans les biomes Jungle ou Marais !"
+	quest.21D1F9211EB00606.quest_desc: ["Fabrique le Casque Roche, puis combine-le avec une Carte vide sur une Table de cartographie de l’&#8B4C33Overworld&r afin d’obtenir une Carte indiquant l’emplacement de l’Arène de Pedro !"]
+	quest.21D1F9211EB00606.quest_subtitle: "Fabrique le Casque Roche !"
+	quest.2224196CE7342C1C.quest_desc: [
+		"Tu as choisi ton premier Pokémon, ton voyage commence maintenant !"
+		""
+		"Explore la région, bats les 8 Champions d’Arène, gagne leurs Badges et progresse jusqu’à la Ligue Pokémon de Kanto !"
+		""
+		"&#FF0514Cartes des Arènes \\& de la Ligue&r :"
+		"[ { \"text\": \"Clique ici !\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"7C0DA6EC2DD8CD24\" } } ]"
+	]
+	quest.2224196CE7342C1C.quest_subtitle: "Trouve la première Arène de Kanto et commence à collecter des Badges !"
+	quest.2224196CE7342C1C.title: "Arènes de Kanto"
+	quest.222994D96CE12AD6.quest_subtitle: "Fabrique le Catalogue de Motisma en utilisant toutes les unités ci-dessus pour passer d’une forme de Motisma à l’autre !"
+	quest.222994D96CE12AD6.title: "Catalogue de Motisma"
+	quest.223BC3A3F166D181.quest_subtitle: "Obtiens les deux formes de fusion de Necrozma !"
+	quest.223BC3A3F166D181.title: "Soleil et Lune"
+	quest.226EB6102A8B1BEC.quest_subtitle: "Invoque et attrape le Pokémon légendaire Électhor !"
+	quest.226EB6102A8B1BEC.title: "Électhor"
+	quest.237F3FFDE1DC4BD3.quest_subtitle: "Obtiens une Baie Enigma via la mutation de baies !"
+	quest.23903D381303B616.quest_subtitle: "Utilise certaines Baies, attrape-le avec une Copain Ball, puis marche pour maximiser l’amitié de Greninja !"
+	quest.23903D381303B616.title: "Augmenter l’amitié de Greninja"
+	quest.23C6FEC855031A99.quest_desc: [""]
+	quest.23C6FEC855031A99.quest_subtitle: "Obtiens un Éclat Téracristal Glace en vainquant un Pokémon de type Glace !"
+	quest.240D0D361DCFDC51.quest_desc: [
+		"Tu as obtenu les 8 Badges de &#FF2EAASinnoh&r, il est temps d’affronter le Conseil 4 !"
+		""
+		"Rends-toi à la Ligue de Sinnoh (Oasis du désert) pour commencer ton défi. Bats les 4 membres pour gagner le droit d’affronter le Champion de Sinnoh !"
+		""
+		"&#FF2EAACartes des Arènes \\& de la Ligue&r :"
+		"[ { \"text\": \"Clique ici !\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0D47E527E6F73D28\" } } ]"
+	]
+	quest.240D0D361DCFDC51.quest_subtitle: "Trouve la Ligue Pokémon de Sinnoh !"
+	quest.240D0D361DCFDC51.title: "Conseil 4 de Sinnoh"
+	quest.2424867704D491EC.quest_subtitle: "Trouve la Flèche Couronnée dans la Taïga enneigée !"
+	quest.2424867704D491EC.title: "Flèche Couronnée"
+	quest.243BF5E241A0A0E9.quest_desc: ["Fabrique le Radar Électhor, puis combine-le avec une Carte vide sur une Table de cartographie de l’&#8B4C33Overworld&r afin d’obtenir une Carte indiquant l’emplacement de la Tour d’Électhor !"]
+	quest.243BF5E241A0A0E9.quest_subtitle: "Fabrique le Radar Électhor !"
+	quest.243BF5E241A0A0E9.title: "Radar Électhor"
+	quest.24608003F59BFAAD.quest_desc: ["Fabrique le Radar de la Tour Cendrée, puis combine-le avec une Carte vide sur une Table de cartographie de l’&#8B4C33Overworld&r afin d’obtenir la Carte de la Tour Cendrée !"]
+	quest.24608003F59BFAAD.quest_subtitle: "Fabrique le Radar de la Tour Cendrée !"
+	quest.247178E01879A603.quest_desc: [
+		"1. Équipe l’Orbe Téracristal en faisant un clic droit dessus tout en le tenant dans ta main droite."
+		""
+		"2. Tu ne peux Téracristalliser qu’en combat : clique sur le bouton Téracristallisation, puis choisis n’importe quelle capacité !"
+	]
+	quest.247178E01879A603.quest_subtitle: "Téracristallise un Pokémon !"
+	quest.247178E01879A603.title: "Téracristalliser"
+	quest.2499570694EF60AF.quest_subtitle: "Trouve l’une de ces Baies et utilise-les pour la mutation de baies !"
+	quest.2499570694EF60AF.title: "Parents Baie Enigma"
+	quest.24B57B2D00FAEBD0.quest_subtitle: "Obtiens une Baie Hondew via la mutation de baies !"
+	quest.24D62E8C78821D15.quest_desc: [
+		"Bats Ferruccio en combat pour obtenir le Badge &#85672AM&r&#9D9D9Di&r&#85672An&r&#9D9D9De&r !"
+		""
+		"Les Pokémon de type &#565D70Acier&r de Ferruccio sont aussi inébranlables que le métal. Frappe avec stratégie et montre ta résilience !"
+	]
+	quest.24D62E8C78821D15.quest_subtitle: "Bats Ferruccio en combat !"
+	quest.24D62E8C78821D15.title: "Badge &#85672AM&r&#9D9D9Di&r&#85672An&r&#9D9D9De&r (Ferruccio)"
+	quest.24EC4F676DEC3112.quest_desc: ["Fais un clic droit sur Wushours avec le Parchemin de l’Eau !"]
+	quest.24EC4F676DEC3112.quest_subtitle: "Trouve le Parchemin de l’Eau dans une Ruine océanique chaude en utilisant une brosse sur du sable ou du gravier suspect !"
+	quest.250F71452B2E90A1.quest_desc: ["En ajoutant un Cherch’Combat lors de la création de la carte, tu peux étendre la portée de recherche des structures et t’assurer que la carte fabriquée pointera vers une structure qui n’a encore jamais été cartographiée."]
+	quest.250F71452B2E90A1.quest_subtitle: "Fabrique un Cherch’Combat !"
+	quest.251BFE853F54C109.quest_subtitle: "Apparition ultra-rare dans les biomes Savane et Plateau de savane !"
+	quest.251BFE853F54C109.title: "Okidogi"
+	quest.253CEEA6CD8AF135.quest_subtitle: "Collecte des Feuilles de menthe sur des plants de menthe trouvés à l’état sauvage !"
+	quest.25A0273D06F317A4.quest_desc: [
+		"1. Fais un clic droit sur Lunala avec le Lunariseur N pour le charger."
+		""
+		"2. Fais un clic droit sur Necrozma avec le Lunariseur N chargé pour le transformer en Necrozma Ailes de l’Aurore."
+		""
+		"(Tu peux &nannuler&r la fusion en faisant un clic droit sur Necrozma Ailes de l’Aurore avec le Lunariseur N)"
+	]
+	quest.25A0273D06F317A4.quest_subtitle: "Fusionne Necrozma avec Lunala pour obtenir Necrozma Ailes de l’Aurore !"
+	quest.25A0273D06F317A4.title: "Fusion Necrozma Ailes de l’Aurore"
+	quest.25A3CC04D92FCDCF.quest_subtitle: "Obtiens une Baie Magost via la mutation de baies !"
+	quest.2620FDF70D9DDDB1.quest_desc: [
+		"Place-le dans l’emplacement d’objet tenu de Silvallié afin de changer son type en &9Spectre&r."
+		""
+		"Une fois retiré, il redeviendra de type Normal."
+	]
+	quest.2620FDF70D9DDDB1.quest_subtitle: "Butin aléatoire des Coffres d’épreuves ominieuses. Obtiens des Clés d’épreuve ominieuse en vainquant le boss de la Tour de la Team Rocket !"
+	quest.262421074DA89C77.quest_subtitle: "Plante des Graines de Vivilégume et récolte des Vivilégumes !"
+	quest.263FA2DC0869870C.quest_desc: [""]
+	quest.263FA2DC0869870C.quest_subtitle: "Fais évoluer Wushours en Shifours Style Poing Final en utilisant le Parchemin des Ténèbres !"
+	quest.263FA2DC0869870C.title: "Shifours Style Poing Final"
+	quest.264F1FEF03E9ACBC.quest_subtitle: "Apparition ultra-rare dans le biome Grottes luxuriantes, près d’un Bourgeon d’améthyste !"
+	quest.264F1FEF03E9ACBC.title: "Terapagos"
+	quest.265BF838C3D8E351.quest_desc: [
+		"Place-le dans l’emplacement d’objet tenu d’Arceus afin de changer son type en &bGlace&r."
+		""
+		"Une fois retiré, il redeviendra de type Normal."
+	]
+	quest.265BF838C3D8E351.quest_subtitle: "Trouvable dans les Mines abandonnées, Cités antiques, coffres aléatoires ou Tours/Structures !"
+	quest.2682C0514501D6F3.quest_subtitle: "Fabrique l’Armure Rocket !"
+	quest.2682C0514501D6F3.title: "Armure Rocket"
+	quest.268606FA070169BD.title: "Évoluer en Croâporal"
+	quest.26B69F36C306857A.quest_subtitle: "Récupère des Graines de menthe en récoltant des plants de menthe !"
+	quest.271867977D0D18B1.quest_desc: [
+		"Place-le dans l’emplacement d’objet tenu de Silvallié afin de changer son type en &0Ténèbres&r."
+		""
+		"Une fois retiré, il redeviendra de type Normal."
+	]
+	quest.271867977D0D18B1.quest_subtitle: "Butin aléatoire des Coffres d’épreuves ominieuses. Obtiens des Clés d’épreuve ominieuse en vainquant le boss de la Tour de la Team Rocket !"
+	quest.273FD269DFCF1BA2.quest_desc: [""]
+	quest.273FD269DFCF1BA2.quest_subtitle: "Réanime Amonita en utilisant le &#93642DFossile Helix&r dans la Machine de restauration !"
+	quest.273FD269DFCF1BA2.title: "Réanimer Amonita"
+	quest.277EA1CF5BC5C012.quest_subtitle: "Bats Lyris dans la Tour Céleste pour obtenir la Gemme Éther !"
+	quest.27872BA4AB3614A9.quest_subtitle: "Apparition rare dans tous les biomes de l’Overworld, ou sur les Plages près d’un bloc de fer !"
+	quest.27872BA4AB3614A9.title: "Meltan"
+	quest.27901C6B55463F9F.quest_subtitle: "Obtiens une Baie Wiki via la mutation de baies !"
+	quest.2791B6E3D2370A22.quest_desc: ["Fabrique le Ruban Glace, puis combine-le avec une Carte vide sur une Table de cartographie de l’&#8B4C33Overworld&r afin d’obtenir une Carte indiquant l’emplacement de l’Arène de Bianca !"]
+	quest.2791B6E3D2370A22.quest_subtitle: "Fabrique le Ruban Glace !"
+	quest.27A08743FA9FC83C.quest_subtitle: "Apparition ultra-rare dans le biome Forêt venteuse !"
+	quest.27A08743FA9FC83C.title: "Cobaltium"
+	quest.2816FB2751FADB21.quest_desc: [
+		"Bats Flo en combat pour obtenir le Badge &2F&ro&2r&re&2s&rt !"
+		""
+		"Les Pokémon de type &#386A48Plante&r de Flo puisent leur force dans la nature. Déjoue ses tactiques et deviens plus fort à chaque action !"
+	]
+	quest.2816FB2751FADB21.quest_subtitle: "Bats Flo en combat !"
+	quest.2816FB2751FADB21.title: "Badge &2F&ro&2r&re&2s&rt (Flo)"
+	quest.283B4243B6B3A6A6.quest_desc: ["Fabrique le Radar Artikodin, puis combine-le avec une Carte vide sur une Table de cartographie de l’&#8B4C33Overworld&r afin d’obtenir une Carte indiquant l’emplacement de la Tour d’Artikodin !"]
+	quest.283B4243B6B3A6A6.quest_subtitle: "Fabrique le Radar Artikodin !"
+	quest.285042710E3529BB.quest_subtitle: "Fabrique une Machine de restauration en utilisant un Moniteur de données, un Analyseur de fossiles et un Réservoir de restauration !"
+	quest.285042710E3529BB.title: "Machine de restauration"
+	quest.286112A95927CD9B.quest_desc: ["Fabrique la Clé de Sacha, puis combine-la avec une Carte vide sur une Table de cartographie de l’&#8B4C33Overworld&r afin d’obtenir une Carte indiquant l’emplacement de la Maison de Sacha !"]
+	quest.286112A95927CD9B.quest_subtitle: "Fabrique la Clé de Sacha !"
+	quest.28AC8F93C0222129.quest_desc: ["Fabrique le Radar Kyogre, puis combine-le avec une Carte vide sur une Table de cartographie de l’&#8B4C33Overworld&r afin d’obtenir une Carte indiquant l’emplacement du Temple de la Mer !"]
+	quest.28AC8F93C0222129.quest_subtitle: "Fabrique le Radar Kyogre !"
+	quest.28C4C6BEB823747E.quest_desc: [
+		"Bats Olga en combat pour progresser dans le Conseil 4 de Kanto !"
+		""
+		"Calme, concentrée, et plus froide que la &bGlace&r elle-même. Olga met à l’épreuve non seulement ta force, mais aussi ton endurance. Fais fondre sa détermination gelée et prouve qu’une chaleur d’âme peut briser n’importe quel givre !"
+	]
+	quest.28C4C6BEB823747E.quest_subtitle: "Bats Olga en combat !"
+	quest.28C4C6BEB823747E.title: "Premier membre du Conseil 4 de Kanto"
+	quest.28DB92A970FE1FAF.quest_desc: [
+		"Fais un clic droit sur Boréas, Fulguris ou Démétéros pour alterner entre leurs Formes Avatar et Totémique."
+		""
+		"Un nouveau clic droit les remettra dans leur forme précédente."
+	]
+	quest.28DB92A970FE1FAF.quest_subtitle: "Trouve les Lunettes Dévoilement dans une Pyramide du désert en utilisant une brosse sur du sable ou du gravier suspect !"
+	quest.2906F0F05F902938.quest_desc: ["Fais un clic droit sur Plumeline avec du Nectar Jaune afin de changer sa forme en Style Flamenco."]
+	quest.2906F0F05F902938.quest_subtitle: "Fabrique un Nectar Rouge !"
+	quest.2977241474116251.quest_desc: [
+		"Bats le Major Bob en combat pour obtenir le badge &#FFC84EThu&r&#FF6142nder&r !"
+		""
+		"Le Major Bob manie la &#FFD861Foudre&r comme une arme. Garde les pieds sur terre et montre que la vraie puissance ne vient pas toujours de la tension seule."
+	]
+	quest.2977241474116251.quest_subtitle: "Bats le Major Bob en combat !"
+	quest.2977241474116251.title: "Badge &#FFC84EThu&r&#FF6142nder&r (Major Bob)"
+	quest.2A13BBA8B0CB64C7.quest_desc: [
+		"Bats Aldo en combat pour progresser dans le Conseil 4 de Kanto !"
+		""
+		"La puissance ne vaut rien sans discipline. La force &#FF050ACombat&r d’Aldo fait trembler la terre, mais seuls ceux dont l’esprit et le corps sont en équilibre peuvent résister à sa puissance. Tiens bon, et frappe juste !"
+	]
+	quest.2A13BBA8B0CB64C7.quest_subtitle: "Bats Aldo en combat !"
+	quest.2A13BBA8B0CB64C7.title: "Deuxième membre du Conseil 4 de Kanto"
+	quest.2A3C737A6FADD814.quest_desc: [
+		"Bats Sandra en combat pour obtenir le Badge &4R&r&#010E40ising&r !"
+		""
+		"Sandra commande des Pokémon de type &#0337FFDragon&r avec une fierté et une férocité sans égal. Affronte sa puissance ancestrale de front et prouve que tu as l’âme d’un véritable Maître Dragon !"
+	]
+	quest.2A3C737A6FADD814.quest_subtitle: "Bats Sandra en combat !"
+	quest.2A3C737A6FADD814.title: "Badge &4R&r&#010E40ising&r (Sandra)"
+	quest.2AB22FBCCBE616CF.quest_desc: [
+		"Place-le dans l’emplacement d’objet tenu de Silvallié afin de changer son type en &4Combat&r."
+		""
+		"Une fois retiré, il redeviendra de type Normal."
+	]
+	quest.2AB22FBCCBE616CF.quest_subtitle: "Butin aléatoire des Coffres d’épreuves ominieuses. Obtiens des Clés d’épreuve ominieuse en vainquant le boss de la Tour de la Team Rocket !"
+	quest.2ACF5CDFD9CBEFB9.quest_desc: [""]
+	quest.2ACF5CDFD9CBEFB9.quest_subtitle: "Fabrique l’Ancre d’Adrien !"
+	quest.2ACF5CDFD9CBEFB9.title: "Ancre d’Adrien"
+	quest.2AE6E5549700EC75.quest_subtitle: "Apparition ultra-rare dans le biome Terres arides quand la météo est dégagée !"
+	quest.2AE6E5549700EC75.title: "Démétéros"
+	quest.2AF4D27B114E23C8.quest_desc: ["Place-le dans l’emplacement d’objet tenu de Genesect pour changer son TechnoBuster en type &#4E9FFFEau&r."]
+	quest.2AF4D27B114E23C8.quest_subtitle: "Fabrique le Module Aqua !"
+	quest.2B5A28ED76680107.quest_subtitle: "Collecte des Feuilles de menthe sur des plants de menthe trouvés à l’état sauvage !"
+	quest.2BE64797938C8D59.quest_subtitle: "Apparition peu commune dans tous les biomes de l’Overworld !"
+	quest.2BE64797938C8D59.title: "Attraper un Plumeline"
+	quest.2BF6DD924F845A8E.quest_desc: [
+		"Bats Bianca en combat pour obtenir le Badge I&bc&ri&bc&rl&be&r !"
+		""
+		"Les Pokémon &bGlace&r de Bianca figent le champ de bataille avec précision. Réchauffe ta stratégie et perce le givre !"
+	]
+	quest.2BF6DD924F845A8E.quest_subtitle: "Bats Bianca en combat !"
+	quest.2BF6DD924F845A8E.title: "Badge I&bc&ri&bc&rl&be&r (Bianca)"
+	quest.2C65BDD42AD0C2B6.quest_subtitle: "Apparition ultra-rare dans le biome Cerisaie !"
+	quest.2C65BDD42AD0C2B6.title: "Wushours"
+	quest.2CA4B6D2F3014C50.quest_desc: [""]
+	quest.2CA4B6D2F3014C50.quest_subtitle: "Collecte toutes les &#CAFF63Plantes&r de Cobblemon !"
+	quest.2CA4B6D2F3014C50.title: "Plantez-les tous !"
+	quest.2CCCECBF03448AD1.quest_desc: ["Fabrique l’Haltère lourd, puis combine-le avec une Carte vide sur une Table de cartographie de l’&#8B4C33Overworld&r afin d’obtenir une Carte indiquant l’emplacement de l’Arène de Furio !"]
+	quest.2CCCECBF03448AD1.quest_subtitle: "Fabrique un Haltère lourd !"
+	quest.2CD572C995D20DFC.quest_subtitle: "Obtiens une Baie Rowap via la mutation de baies !"
+	quest.2D3BF583B8B93EDA.quest_subtitle: "Trouve la Tour de Sulfura dans le biome Landes du Nether à Kanto !"
+	quest.2D3BF583B8B93EDA.title: "Tour de Sulfura"
+	quest.2D52E8CCBB38730C.quest_subtitle: "Fabrique un Cube Zygarde !"
+	quest.2D547F08DB303F02.quest_subtitle: "Invoque et attrape le Pokémon légendaire Regirock !"
+	quest.2D547F08DB303F02.title: "Regirock"
+	quest.2D5997E5AEE170C5.quest_subtitle: "Trouve une Méga-Gemme entre les niveaux Y -5 et -19 !"
+	quest.2D5997E5AEE170C5.title: "Méga-Gemme"
+	quest.2D8B2A8806CCDB1F.quest_subtitle: "Utilise le Catalogue sur ton Motisma pour le transformer dans n’importe quelle forme !"
+	quest.2D8B2A8806CCDB1F.title: "Utiliser le Catalogue"
+	quest.2D8E89E7C2432F4D.quest_subtitle: "Apparition ultra-rare dans les biomes Champs de champignons et Îles mirage hivernales !"
+	quest.2D8E89E7C2432F4D.title: "Victini"
+	quest.2DAD8D2916082EB6.quest_desc: ["3× chances d’apparaître pendant la pluie !"]
+	quest.2DAD8D2916082EB6.quest_subtitle: "Attrape Suicune chromatique près de la Tour Cendrée !"
+	quest.2DAD8D2916082EB6.title: "&zChromatique&r Suicune"
+	quest.2DB5AD09C2F41A96.quest_desc: ["3× chances d’apparaître pendant la pluie !"]
+	quest.2DB5AD09C2F41A96.quest_subtitle: "Attrape Suicune près de la Tour Cendrée !"
+	quest.2DB5AD09C2F41A96.title: "Suicune"
+	quest.2DCB40C7A6DD0273.quest_subtitle: "Apparition rare dans les biomes Terres arides, Désert, Savane, Prairie, Bosquet, Pentes enneigées, Pics déchiquetés, Pics gelés et Pics rocheux !"
+	quest.2DCB40C7A6DD0273.title: "Roue-de-Fer"
+	quest.2DE259C0F3243EB7.quest_desc: [
+		"Bats Tell \\& Pat en combat pour obtenir le Badge &#FF85F6M&r&#8F316Bin&r&#FDFF67d&r !"
+		""
+		"Le duo &#8F316BPsy&r met à l’épreuve aussi bien ton esprit que ta stratégie. Déjoue leurs plans pour prouver ta force mentale ! "
+	]
+	quest.2DE259C0F3243EB7.quest_subtitle: "Bats Tell \\& Pat en combat !"
+	quest.2DE259C0F3243EB7.title: "Badge &#FF85F6M&r&#8F316Bin&r&#FDFF67d&r (Tell \\& Pat)"
+	quest.2E00F71F43D7D6B8.quest_subtitle: "Obtiens une Baie Sailak via la mutation de baies !"
+	quest.2ECD210FE1AE199A.quest_subtitle: "Trouve l’une de ces Baies et utilise-les pour la mutation de baies !"
+	quest.2ECD210FE1AE199A.title: "Parents Baie Mepo"
+	quest.2ECDCAFC38B1B39D.quest_desc: [""]
+	quest.2ECDCAFC38B1B39D.quest_subtitle: "Fabrique le Méga-Bracelet de Brice !"
+	quest.2ECDCAFC38B1B39D.title: "Méga-Bracelet de Brice"
+	quest.2ED47CB2DE44934C.quest_subtitle: "Apparition ultra-rare dans les biomes Savane, Plateau de savane et Jungle !"
+	quest.2ED47CB2DE44934C.title: "Tokorico"
+	quest.2F2D46FF0813472E.quest_desc: [""]
+	quest.2F2D46FF0813472E.quest_subtitle: "Fabrique un Bracelemax et fais un clic droit pour l’équiper !"
+	quest.2F2D46FF0813472E.title: "Bracelemax"
+	quest.2F839A37AE569CB0.quest_subtitle: "Apparition ultra-rare dans les biomes Rivière gelée, Pics déchiquetés, Plage enneigée et Plaines enneigées !"
+	quest.2F839A37AE569CB0.title: "Baojian"
+	quest.2FECCE4B4398F959.quest_desc: [""]
+	quest.2FECCE4B4398F959.quest_subtitle: "Bats Atena dans la Tour de la Team Rocket pour obtenir le Catalyseur de clonage !"
+	quest.2FECCE4B4398F959.title: "Catalyseur de clonage"
+	quest.302EE1407782DA2D.quest_subtitle: "Apparition ultra-rare dans les biomes Prairie, Bosquet, Pentes enneigées, Pics déchiquetés, Pics gelés et Pics rocheux quand il pleut !"
+	quest.302EE1407782DA2D.title: "Serpente-Eau"
+	quest.303B99B8CF539610.quest_subtitle: "Trouve l’une de ces Baies et utilise-les pour la mutation de baies !"
+	quest.303B99B8CF539610.title: "Parents Baie Sitrus"
+	quest.30701FA179E7A9B8.quest_subtitle: "Apparition rare dans les biomes Terres arides, Désert et Savane !"
+	quest.30701FA179E7A9B8.title: "Pelleteuse"
+	quest.30968294F1D8DC44.quest_desc: [""]
+	quest.30968294F1D8DC44.quest_subtitle: "Fabrique un PokéNav Doré !"
+	quest.30968294F1D8DC44.title: "PokéNav doré"
+	quest.30A8BC03A77783FB.quest_subtitle: "Obtiens une Baie Kee via la mutation de baies !"
+	quest.30C47CEC596E11F7.quest_subtitle: "Collecte des Feuilles de menthe sur des plants de menthe trouvés à l’état sauvage !"
+	quest.30EC943C398AD3D4.quest_subtitle: "Rassemble ces objets pour fabriquer un PokéNav !"
+	quest.30EC943C398AD3D4.title: "Matériaux de fabrication du PokéNav"
+	quest.30F6A0BB697E49FD.quest_desc: [
+		"&#66994B1.&r Mets le nombre requis de Cellules et de Noyaux de Zygarde dans le Cube Zygarde."
+		""
+		"&#66994B2.&r Fais un clic droit sur l’Unité de réassemblage en tenant le Cube Zygarde."
+		""
+		"&#66994B3.&r Temps d’assemblage :"
+		""
+		"   - Forme 10% : 2 minutes."
+		""
+		"   - Forme 50% : 5 minutes."
+		""
+		"   - Forme Complète : 10 minutes."
+		""
+		"&#66994B4.&r Quand l’écran devient vert, fais un clic droit sur l’Unité de réassemblage avec n’importe quelle Poké Ball pour obtenir Zygarde."
+		""
+		"&#66994B5.&r La Forme Complète ne se déclenche qu’en combat, lorsque les PV de Zygarde tombent à 50% ou moins."
+	]
+	quest.30F6A0BB697E49FD.title: "Zygarde"
+	quest.30F9E05BD7CB7F1B.quest_desc: [
+		"Bats Fannie en combat pour obtenir le Badge &#B57FFFR&r&#979797eli&r&#B57FFFc&r !"
+		""
+		"Les Pokémon de type &9Spectre&r de Fannie hantent le champ de bataille avec ruse. Affronte les ombres et prouve ton courage !"
+	]
+	quest.30F9E05BD7CB7F1B.quest_subtitle: "Bats Fannie en combat !"
+	quest.30F9E05BD7CB7F1B.title: "Badge &#B57FFFR&r&#979797eli&r&#B57FFFc&r (Fannie)"
+	quest.3137EBD2241E3768.quest_subtitle: "Fabrique la Pierre d’âme d’Ombre pour transformer Lugia en Forme Obscure !"
+	quest.319866CDE3C64773.quest_desc: [""]
+	quest.319866CDE3C64773.quest_subtitle: "Réanime Mewtwo en utilisant l’ADN antique et le Catalyseur de clonage dans la Machine à fossiles !"
+	quest.319866CDE3C64773.title: "Mewtwo"
+	quest.31ACB00AA6935B90.quest_subtitle: "Invoque et attrape le Pokémon légendaire Groudon !"
+	quest.31ACB00AA6935B90.title: "Groudon"
+	quest.31FDA9EA436CB998.quest_subtitle: "Apparition ultra-rare dans l’End !"
+	quest.31FDA9EA436CB998.title: "Arceus"
+	quest.32EB64ED2BE6760A.quest_desc: [""]
+	quest.32EB64ED2BE6760A.quest_subtitle: "Obtiens un Éclat Téracristal Psy en vainquant un Pokémon de type Psy !"
+	quest.32FB5CC9A6106BF0.quest_subtitle: "Trouve la Grotte Souhait dans le biome Plateau fleuri à Hoenn !"
+	quest.32FB5CC9A6106BF0.title: "Grotte Souhait"
+	quest.333F585F874B36D2.quest_desc: [""]
+	quest.333F585F874B36D2.quest_subtitle: "Trouve une Baie Babiri dans les biomes Bambouseraie, Montagne ou Taïga !"
+	quest.33414DA21AA2E0C6.quest_subtitle: "Apparition ultra-rare dans le biome Forêt sombre !"
+	quest.33414DA21AA2E0C6.title: "Dinglu"
+	quest.3342C958DD79F9DC.quest_subtitle: "Obtiens une Baie Abriko via la mutation de baies !"
+	quest.334459244F006053.quest_desc: ["3× chances d’apparaître pendant l’orage !"]
+	quest.334459244F006053.quest_subtitle: "Attrape Raikou chromatique près de la Tour Cendrée !"
+	quest.334459244F006053.title: "&zChromatique&r Raikou"
+	quest.335402653A555691.quest_desc: [
+		"1. Fais un clic droit sur Reshiram avec les Splicers ADN pour les charger."
+		""
+		"2. Fais un clic droit sur Kyurem avec les Splicers chargés pour le transformer en Kyurem Blanc."
+		""
+		"(Tu peux &nannuler&r la fusion en faisant un clic droit sur Kyurem Blanc avec les Splicers ADN)"
+	]
+	quest.335402653A555691.quest_subtitle: "Fusionne Kyurem avec Reshiram pour obtenir Kyurem Blanc !"
+	quest.335402653A555691.title: "Fusion Kyurem Blanc"
+	quest.338CAF0A4F898F95.quest_subtitle: "Prépare du Miel Max afin de cuisiner la Soupe Max Douce !"
+	quest.338CAF0A4F898F95.title: "Miel Max"
+	quest.3393A14A85A1E4A0.quest_subtitle: "Apparition ultra-rare dans les biomes Terres arides et dans tous les biomes de Forêt !"
+	quest.3393A14A85A1E4A0.title: "Zeraora"
+	quest.339A8CC6D311E474.quest_subtitle: "Apparition rare dans les biomes Pics gelés, Pics de glace, Plaines enneigées, Rivière gelée, Pics déchiquetés, Plage enneigée et Pentes enneigées !"
+	quest.339A8CC6D311E474.title: "Hotte-de-Fer"
+	quest.33EDF5C423E850DA.quest_subtitle: "Apparition ultra-rare dans les biomes Forêt sombre et End, la nuit !"
+	quest.33EDF5C423E850DA.title: "Lunala"
+	quest.33EEC20142FBF5E8.quest_desc: [
+		"Bats Rudi en combat pour obtenir le Badge &#46ABFFKnuc&r&#FF8E55kl&r&#FFD156e&r !"
+		""
+		"Les Pokémon de type &#FF050ACombat&r de Rudi frappent vite et fort. Fais preuve de finesse pour le déstabiliser et remporter la victoire !"
+	]
+	quest.33EEC20142FBF5E8.quest_subtitle: "Bats Rudi en combat !"
+	quest.33EEC20142FBF5E8.title: "Badge &#46ABFFKnuc&r&#FF8E55kl&r&#FFD156e&r (Rudi)"
+	quest.34144BB3D56283D4.quest_desc: [""]
+	quest.34144BB3D56283D4.quest_subtitle: "Trouve une Baie Kasib dans les biomes Grottes de spéléothèmes, Luxuriant, Sinistre, Marais ou Taïga !"
+	quest.34830EF8CA75A8B8.quest_subtitle: "Apparition ultra-rare dans les biomes Collines venteuses et Savane venteuse pendant un orage !"
+	quest.34830EF8CA75A8B8.title: "Fulguris"
+	quest.348DCA4DE302CEF8.quest_desc: ["Utilisé pour fabriquer des cartes des structures légendaires."]
+	quest.348DCA4DE302CEF8.quest_subtitle: "Fabrique un Radar Poké !"
+	quest.34ED97CB94A2C48E.quest_desc: ["Appuie sur C (ou la touche que tu as définie pour « Afficher le résumé ») afin de choisir ton premier &#1772FFP&r&#FFC534o&r&#FFC534k&r&#FFC534é&r&#FFC534m&r&#FFC534o&r&#1772FFn&r !"]
+	quest.34ED97CB94A2C48E.quest_subtitle: "Choisis ton premier Pokémon !"
+	quest.34ED97CB94A2C48E.title: "Choisir un Starter"
+	quest.34FF76951665936A.quest_desc: ["Fabrique la Nageoire draconique, puis combine-la avec une Carte vide sur une Table de cartographie de l’&#8B4C33Overworld&r afin d’obtenir une Carte indiquant l’emplacement de la Ligue de Sinnoh !"]
+	quest.34FF76951665936A.quest_subtitle: "Fabrique une Nageoire draconique !"
+	quest.35693050C289BDBB.quest_subtitle: "Apparition ultra-rare dans les biomes Pics rocheux, Pics déchiquetés, Pics gelés et Pentes enneigées quand il pleut en journée !"
+	quest.35693050C289BDBB.title: "Palkia"
+	quest.35861957E0DB31E6.quest_desc: ["Le Catalyseur de clonage radiant peut être trouvé dans la rare variante de Tour Rocket avec le Ballon Miaouss !"]
+	quest.35861957E0DB31E6.quest_subtitle: "Réanime Mewtwo chromatique en utilisant l’ADN antique radiant et le Catalyseur de clonage dans la Machine à fossiles !"
+	quest.35861957E0DB31E6.title: "&zChromatique&r Mewtwo"
+	quest.35D7BD22E3177EB9.quest_desc: [""]
+	quest.35D7BD22E3177EB9.quest_subtitle: "Collecte tous les &2Objets d’évolution&r pour obtenir une Master Ball !"
+	quest.35D7BD22E3177EB9.title: "Évoluez-les tous !"
+	quest.3638994A7F17AFED.quest_desc: [
+		"Bats Adriano en combat pour obtenir le Badge &#0560FFR&r&#66A9FFain&r !"
+		""
+		"Les Pokémon de type &#66A9FFEau&r d’Adriano frappent avec force et précision. Navigue au cœur de la bataille pour arracher la victoire !"
+	]
+	quest.3638994A7F17AFED.quest_subtitle: "Bats Adriano en combat !"
+	quest.3638994A7F17AFED.title: "Badge &#0560FFR&r&#66A9FFain&r (Adriano)"
+	quest.3686738AFEA5C4D8.quest_subtitle: "Trouve les Ruines Luna Henge !"
+	quest.3686738AFEA5C4D8.title: "Ruines Luna Henge"
+	quest.36A0DF7E5E26BF36.quest_subtitle: "Bats Ivan de la Team Aqua dans la Tour Céleste pour obtenir la Gemme Primordiale !"
+	quest.36B24DE8AA40DC42.quest_subtitle: "Apparition ultra-rare dans les biomes Savane, Plateau de savane et End en journée !"
+	quest.36B24DE8AA40DC42.title: "Solgaleo"
+	quest.36EFDB701FDBBDA8.quest_desc: [""]
+	quest.36EFDB701FDBBDA8.quest_subtitle: "Brise un Cristal Méga pour obtenir une Méga-Gemme brute !"
+	quest.36EFDB701FDBBDA8.title: "Méga-Gemme"
+	quest.370185762ECC6693.quest_subtitle: "Bats Max de la Team Magma dans la Tour Céleste pour obtenir la Gemme Désolation !"
+	quest.3702E45E52CAC978.quest_subtitle: "Obtiens une Baie Mepo via la mutation de baies !"
+	quest.371AC9855026DC52.quest_desc: [
+		"Bats Walter en combat pour obtenir le Badge &#5EFFD1Dyn&r&#FFDE43amo&r !"
+		""
+		"Les Pokémon de type &#FFD861Électrik&r de Walter attaquent à une vitesse foudroyante. Reste sur tes gardes et frappe au bon moment !"
+	]
+	quest.371AC9855026DC52.quest_subtitle: "Bats Walter en combat !"
+	quest.371AC9855026DC52.title: "Badge &#5EFFD1Dyn&r&#FFDE43amo&r (Walter)"
+	quest.372621CC96F62BC8.quest_desc: ["Fais un clic droit sur Hoopa avec la Bouteille Prison pour alterner entre les formes Enchaînée et Déchaînée."]
+	quest.372621CC96F62BC8.quest_subtitle: "Trouve la Bouteille Prison dans une Pyramide du désert en utilisant une brosse sur du sable ou du gravier suspect !"
+	quest.372E0C9F6FA9F616.quest_desc: ["Permet de stocker, retirer et organiser tes Pokémon quand ton équipe est complète !"]
+	quest.372E0C9F6FA9F616.quest_subtitle: "Fabrique un PC !"
+	quest.372E0C9F6FA9F616.title: "PC"
+	quest.372FB6769B427C4F.quest_subtitle: "Trouve l’Orbe Rouge cachée dans le Volcan pour libérer Primo-Groudon !"
+	quest.3735B0EF06CACBA5.quest_subtitle: "Fais évoluer Évoli en utilisant une Pierre Feu !"
+	quest.3735B0EF06CACBA5.title: "Pyroli"
+	quest.37C314264039C307.quest_desc: [
+		"Bats Aldo en combat pour progresser dans le Conseil 4 de Johto !"
+		""
+		"La force d’Aldo est forgée par une discipline implacable. Affronte ses Pokémon de type &#FF050ACombat&r de front et prouve que la détermination peut frapper plus fort que n’importe quel poing !"
+	]
+	quest.37C314264039C307.quest_subtitle: "Bats Aldo en combat !"
+	quest.37C314264039C307.title: "Troisième membre du Conseil 4 de Johto"
+	quest.382C44153E94B2B3.quest_desc: [""]
+	quest.382C44153E94B2B3.quest_subtitle: "Réanime Ptyranidur en utilisant le &#AFB8FFFossile Mâchoire&r dans la Machine de restauration !"
+	quest.382C44153E94B2B3.title: "Réanimer Ptyranidur"
+	quest.3892A3835F8A5B21.quest_subtitle: "Obtiens une Baie Watmel via la mutation de baies !"
+	quest.38A5DC525C3E058B.quest_subtitle: "Trouve un Mégaroïde entre les niveaux Y -20 et -32 !"
+	quest.38A5DC525C3E058B.title: "Mégaroïde"
+	quest.38EA125092BA648A.quest_subtitle: "Cherche la Matrice synthétique dans la Tour Radio !"
+	quest.38EA125092BA648A.title: "Matrice synthétique"
+	quest.3914EBF6677C4087.quest_desc: [
+		"Bats Agatha en combat pour progresser dans le Conseil 4 de Kanto !"
+		""
+		"Agatha commande des ombres plus anciennes que le temps. Affronte ses épreuves &9spectrales&r et prouve que le courage est la seule lumière qui ne s’éteint jamais dans les ténèbres !"
+	]
+	quest.3914EBF6677C4087.quest_subtitle: "Bats Agatha en combat !"
+	quest.3914EBF6677C4087.title: "Troisième membre du Conseil 4 de Kanto"
+	quest.39541AEF900E4E67.quest_desc: ["Place-le dans l’emplacement d’objet tenu de Genesect pour changer son TechnoBuster en type &bGlace&r."]
+	quest.39541AEF900E4E67.quest_subtitle: "Fabrique le Module Cryo !"
+	quest.3988D3D04D4D8C1C.quest_subtitle: "Fabrique les Splicers ADN pour fusionner Kyurem avec Zekrom ou Reshiram !"
+	quest.3988D3D04D4D8C1C.title: "Splicers ADN"
+	quest.3990C767657CBBB2.quest_subtitle: "Apparition ultra-rare dans tous les biomes de Forêt !"
+	quest.3990C767657CBBB2.title: "Zamazenta"
+	quest.399FE206D33FF43C.quest_subtitle: "Apparition ultra-rare dans tous les biomes de Taïga !"
+	quest.399FE206D33FF43C.title: "Magearna"
+	quest.39B1CF061B735BA7.quest_desc: [
+		"Bats Jasmine en combat pour obtenir le Badge M&#7FA6FFinera&rl !"
+		""
+		"Les Pokémon de type &#565D70Acier&r de Jasmine brillent d’une force tranquille et d’une défense inébranlable. Brise sa résolution d’acier avec courage et prouve que même le métal peut plier devant un cœur véritable !"
+	]
+	quest.39B1CF061B735BA7.quest_subtitle: "Bats Jasmine en combat !"
+	quest.39B1CF061B735BA7.title: "Badge M&#7FA6FFinera&rl (Jasmine)"
+	quest.39C0487D95E8D001.quest_desc: ["Fabrique la Bêche en acier, puis combine-la avec une Carte vide sur une Table de cartographie de l’&#8B4C33Overworld&r afin d’obtenir une Carte indiquant l’emplacement de l’Arène de Ferruccio !"]
+	quest.39C0487D95E8D001.quest_subtitle: "Fabrique une Bêche en acier !"
+	quest.39CA3E8FE27D5EB3.quest_subtitle: "Apparition rare dans le biome Désert, la nuit !"
+	quest.39CA3E8FE27D5EB3.title: "Paume-de-Fer"
+	quest.3A3EF6A3704F2057.quest_desc: [""]
+	quest.3A3EF6A3704F2057.quest_subtitle: "Utilise 50 Éclats Téracristal pour changer le Tératype d’un Pokémon !"
+	quest.3A3EF6A3704F2057.title: "Changer le Tératype"
+	quest.3A53AFD2DDCA465C.quest_subtitle: "Obtiens une Baie Pitaye via la mutation de baies !"
+	quest.3A5DDBE47841AD25.quest_desc: [""]
+	quest.3A5DDBE47841AD25.quest_subtitle: "Trouve un Champimax dans les Grottes luxuriantes !"
+	quest.3A5DDBE47841AD25.title: "Champimax"
+	quest.3AABAE3F1725ED6A.quest_desc: [""]
+	quest.3AABAE3F1725ED6A.quest_subtitle: "Obtiens un Éclat Téracristal Combat en vainquant un Pokémon de type Combat !"
+	quest.3AD8315E4A9E02DA.quest_subtitle: "Invoque et attrape Artikodin chromatique !"
+	quest.3AD8315E4A9E02DA.title: "&zChromatique&r Artikodin"
+	quest.3ADC0E6772867AE0.quest_desc: [
+		"Bats Ester en combat pour progresser dans le Conseil 4 de Hoenn !"
+		""
+		"Les Pokémon &9Spectre&r d’Ester sont insaisissables et retors. Reste concentré et anticipe ses actions pour décrocher la victoire !"
+	]
+	quest.3ADC0E6772867AE0.quest_subtitle: "Bats Ester en combat !"
+	quest.3ADC0E6772867AE0.title: "Deuxième membre du Conseil 4 de Hoenn"
+	quest.3B2DBFFAFC4D3E0C.quest_subtitle: "Plante des Graines de haricot et récolte des Haricots !"
+	quest.3B9D8B88C5831C97.quest_desc: ["Fabrique la Bague du Boss, puis combine-la avec une Carte vide sur une Table de cartographie de l’&#8B4C33Overworld&r afin d’obtenir une Carte indiquant l’emplacement de l’Arène de Giovanni !"]
+	quest.3B9D8B88C5831C97.quest_subtitle: "Fabrique une Bague du Boss !"
+	quest.3BDDD63911C262AB.quest_desc: ["Place-le dans l’emplacement d’objet tenu de Genesect pour changer son TechnoBuster en type &cFeu&r."]
+	quest.3BDDD63911C262AB.quest_subtitle: "Fabrique le Module Pyro !"
+	quest.3BDFE1B5955FCF42.quest_subtitle: "Obtiens une Puce de localisation en récompense des Coffres ominieux des Chambres d’épreuve, ou dans les coffres des Cités de l’End et des Bastions du Nether !"
+	quest.3C38E3482344D27A.quest_desc: [""]
+	quest.3C38E3482344D27A.quest_subtitle: "Réanime Ptéra en utilisant le &#FF8920Vieil Ambre&r dans la Machine de restauration !"
+	quest.3C38E3482344D27A.title: "Réanimer Ptéra"
+	quest.3C5CFFEFA814D04D.quest_desc: [""]
+	quest.3C5CFFEFA814D04D.quest_subtitle: "Réanime Dracozolt en utilisant le &6Fossile Oiseau&r et le &#A0FF4AFossile Drake&r dans la Machine de restauration !"
+	quest.3C5CFFEFA814D04D.title: "Réanimer Dracozolt"
+	quest.3CBC785359409B0B.quest_desc: [
+		"Place-le dans l’emplacement d’objet tenu d’Arceus afin de changer son type en &#565D70Acier&r."
+		""
+		"Une fois retiré, il redeviendra de type Normal."
+	]
+	quest.3CBC785359409B0B.quest_subtitle: "Trouvable dans les Mines abandonnées, les Cités antiques, les coffres aléatoires ou certaines tours/structures !"
+	quest.3D12FE3FB19938AE.quest_subtitle: "Prépare un Appât personnalisé dans la Marmite du feu de camp !"
+	quest.3D12FE3FB19938AE.title: "Appât personnalisé"
+	quest.3D18C1AE2B0B18DF.quest_subtitle: "Trouve le Temple de la Mer dans le biome Océan froid profond à Hoenn !"
+	quest.3D18C1AE2B0B18DF.title: "Temple de la Mer"
+	quest.3D1F9AC747146ACD.quest_desc: [""]
+	quest.3D1F9AC747146ACD.quest_subtitle: "Réanime Kabuto en utilisant le &#FF9F4AFossile Dôme&r dans la Machine de restauration !"
+	quest.3D1F9AC747146ACD.title: "Réanimer Kabuto"
+	quest.3D2093FE7CC91D7F.quest_desc: [""]
+	quest.3D2093FE7CC91D7F.quest_subtitle: "Trouve une Baie Maron dans les biomes de Forêt !"
+	quest.3D7A81D94BF8F839.quest_subtitle: "Invoque et attrape Jirachi !"
+	quest.3D7A81D94BF8F839.title: "Jirachi"
+	quest.3E2361944AE27CD8.quest_subtitle: "Apparition rare dans les biomes Savane, Plateau de savane, Terres arides et Désert !"
+	quest.3E2361944AE27CD8.title: "Fort-Ivoire"
+	quest.3E6E1E380560209B.quest_desc: [""]
+	quest.3E6E1E380560209B.quest_subtitle: "Réanime Lilia en utilisant le &#DFFF57Fossile Racine&r dans la Machine de restauration !"
+	quest.3E6E1E380560209B.title: "Réanimer Lilia"
+	quest.3E87F3E2327574AA.quest_desc: [""]
+	quest.3E87F3E2327574AA.quest_subtitle: "Trouve une Baie Occa dans les biomes Jungle, Sablonneux, Thermaux ou Volcaniques !"
+	quest.3E8F71EBCC332087.quest_desc: [""]
+	quest.3E8F71EBCC332087.quest_subtitle: "Collecte toutes les &#FF050FPoké&r Balls pour obtenir une Master Ball !"
+	quest.3E8F71EBCC332087.title: "T’as des Balls, gamin !"
+	quest.3E919DDD395ECAD3.quest_subtitle: "Trouve la Tour de Zapdos dans le biome Rivage rocheux à Kanto !"
+	quest.3E919DDD395ECAD3.title: "Tour de Zapdos"
+	quest.3EA045F31152B159.quest_desc: [
+		"Bats Pedro en combat pour obtenir le Badge &#583011C&ro&#583011a&rl !"
+		""
+		"Les Pokémon de type &#FFC8A9Roche&r de Pedro sont aussi solides que les sommets eux-mêmes. Brise leurs défenses avec stratégie et prouve ta force !"
+	]
+	quest.3EA045F31152B159.quest_subtitle: "Bats Pedro en combat !"
+	quest.3EA045F31152B159.title: "Badge &#583011C&ro&#583011a&rl (Pedro)"
+	quest.3EA22637BA8D419F.quest_subtitle: "Obtiens une Baie Durin via la mutation de baies !"
+	quest.3ECCCDF9B5D6E550.quest_subtitle: "Apparition ultra-rare dans l’End !"
+	quest.3ECCCDF9B5D6E550.title: "Cosmog"
+	quest.3ED45E727496B99E.quest_subtitle: "Atteins l’End et une surprise t’attendra près du portail !"
+	quest.3F1738FC061C4D93.title: "Évoluer en Amphinobi"
+	quest.3F3D6090AC478ADF.quest_desc: [""]
+	quest.3F3D6090AC478ADF.quest_subtitle: "Trouve une Baie Rindo dans les biomes Jungle, Tempérés ou Luxuriants !"
+	quest.3F8751801E83C84F.quest_desc: [
+		"Place-le dans l’emplacement d’objet tenu d’Arceus afin de changer son type en &#8F316BPsy&r."
+		""
+		"Une fois retiré, il redeviendra de type Normal."
+	]
+	quest.3F8751801E83C84F.quest_subtitle: "Trouvable dans les Mines abandonnées, les Cités antiques, les coffres aléatoires ou certaines tours/structures !"
+	quest.3F8ED7008A06D835.quest_subtitle: "Fabrique une brosse pour commencer à chercher des fossiles !"
+	quest.3FC42A252443B85B.quest_subtitle: "Invoque et attrape Rayquaza chromatique !"
+	quest.3FC42A252443B85B.title: "Rayquaza chromatique"
+	quest.3FECD45A6A5760AC.quest_subtitle: "Collecte 50 Éclats Téracristal de n’importe quel type !"
+	quest.3FECD45A6A5760AC.title: "50 Éclats Téracristal"
+	quest.40A113596F2AF8A9.quest_desc: [
+		"Place-le dans l’emplacement d’objet tenu d’Arceus afin de changer son type en &4Combat&r."
+		""
+		"Une fois retiré, il redeviendra de type Normal."
+	]
+	quest.40A113596F2AF8A9.quest_subtitle: "Trouvable dans les Mines abandonnées, les Cités antiques, les coffres aléatoires ou certaines tours/structures !"
+	quest.41101779BA40981A.quest_subtitle: "Récolte des Feuilles de menthe sur les plants de menthe trouvés dans la nature !"
+	quest.412EC842AB9BEB38.quest_subtitle: "Apparition rare dans le biome Forêt sombre, la nuit !"
+	quest.412EC842AB9BEB38.title: "Roc-de-Fer"
+	quest.4160EE7C1D79584B.quest_subtitle: "Trouve le Cimetière de la Couronne dans une Vieille taïga de pins géants !"
+	quest.4160EE7C1D79584B.title: "Cimetière de la Couronne"
+	quest.41655B1667C9F2DD.quest_subtitle: "Obtiens une Baie Figuy via la mutation de baies !"
+	quest.41E636911F1E38A9.quest_desc: ["Fabrique le Radar Calyrex Cavalier du Froid, puis combine-le avec une Carte vide sur une Table de cartographie de l’&#8B4C33Overworld&r afin d’obtenir une Carte indiquant l’emplacement de la Flèche Couronne !"]
+	quest.41E636911F1E38A9.quest_subtitle: "Fabrique un Radar Calyrex Cavalier du Froid !"
+	quest.422AB5AF7E0973A9.quest_desc: ["Fabrique le Radar Duo Éon, puis combine-le avec une Carte vide sur une Table de cartographie de l’&#8B4C33Overworld&r afin d’obtenir une Carte indiquant l’emplacement du Jardin Secret !"]
+	quest.422AB5AF7E0973A9.quest_subtitle: "Fabrique un Radar Duo Éon !"
+	quest.4248FFB81408706C.quest_desc: [
+		"Bravo, tu as vaincu le Champion de Kanto !"
+		""
+		"Ton prochain défi : les Arènes de Johto. Bats les 8 Champions et récupère leurs Badges."
+		""
+		"Merci de redémarrer ton monde après avoir battu Blue pour que les Arènes de &#106CFFJohto&r commencent à se générer."
+		"(Désolé, c’est comme ça que fonctionne le modpack !)"
+		""
+		"&#106CFFCartes des Arènes \\& de la Ligue&r :"
+		"[ { \"text\": \"Clique ici !\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"5DA3EBD97480D3C4\" } } ]"
+	]
+	quest.4248FFB81408706C.quest_subtitle: "Trouve la première Arène de Johto et commence à collectionner les Badges !"
+	quest.4248FFB81408706C.title: "Arènes de Johto"
+	quest.42554D80C823C7FE.quest_desc: [
+		"1. Fais un clic droit sur ton Greninja en tenant la Casquette de Sacha."
+		""
+		"2. En combat : Greninja se transformera après avoir vaincu un Pokémon !"
+	]
+	quest.42554D80C823C7FE.quest_subtitle: "Obtiens Sachanobi !"
+	quest.42554D80C823C7FE.title: "Sachanobi"
+	quest.428065F9206DA3E9.title: "Échanger 100 pièces contre 100 PokéDollars !"
+	quest.429743D39B484A9D.quest_subtitle: "Apparition ultra-rare dans tous les biomes d’Océan !"
+	quest.429743D39B484A9D.title: "Manaphy"
+	quest.42D1FF7788C331F6.quest_desc: [""]
+	quest.42D1FF7788C331F6.quest_subtitle: "Réanime Carapagos en utilisant le &#8385FFFossile Plaque&r dans la Machine de restauration !"
+	quest.42D1FF7788C331F6.title: "Réanimer Carapagos"
+	quest.42DBF92696D438AE.quest_desc: [
+		"Place-le dans l’emplacement d’objet tenu d’Arceus afin de changer son type en &#FFC961Électrik&r."
+		""
+		"Une fois retiré, il redeviendra de type Normal."
+	]
+	quest.42DBF92696D438AE.quest_subtitle: "Trouvable dans les Mines abandonnées, les Cités antiques, les coffres aléatoires ou certaines tours/structures !"
+	quest.42F08207FC9BA20F.quest_subtitle: "Déterre tous les Cristaux Magma cachés dans le Volcan et fabrique le Noyau Terre pour invoquer Groudon !"
+	quest.42F2A7BB476EB34E.quest_desc: [
+		"Bats Aaron en combat pour progresser dans le Conseil 4 de Sinnoh !"
+		""
+		"Les Pokémon de type &#719D4BInsecte&r d’Aaron attaquent vite et submergent sous une pression constante. Affronte son essaim avec sang-froid et surpasse son défi !"
+	]
+	quest.42F2A7BB476EB34E.quest_subtitle: "Bats Aaron en combat !"
+	quest.42F2A7BB476EB34E.title: "Sinnoh Premier du Conseil 4"
+	quest.42F5F26E94AF2E70.title: "Échanger 10 pièces contre 100 PokéDollars !"
+	quest.430BED5C1DBABF11.quest_desc: [
+		"Bats Lance en combat pour décrocher le titre de « &#034DFFMaître&r&#FFC260 des&r &#034DFFDeux Régions&r » !"
+		""
+		"Lance règne sur les cieux avec la puissance des &#0337FFDragons&r et l’âme d’un héros. Affronte sa force sans trembler et deviens la nouvelle légende de Johto !"
+		""
+		"&#106CFFCartes des Arènes \\& de la Ligue&r :"
+		"[ { \"text\": \"Clique ici !\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"5DA3EBD97480D3C4\" } } ]"
+	]
+	quest.430BED5C1DBABF11.quest_subtitle: "Bats Lance en combat !"
+	quest.430BED5C1DBABF11.title: "&#034DFFChamp&r&#FFC260ion&r &#034DFFLance&r"
+	quest.433BB294AA1FF468.quest_desc: [
+		"Place-le dans l’emplacement d’objet tenu de Silvallié afin de changer son type en &#B25AFFPoison&r."
+		""
+		"Une fois retiré, il redeviendra de type Normal."
+	]
+	quest.433BB294AA1FF468.quest_subtitle: "Butin aléatoire des Soutes d’épreuve sinistres. Obtiens des Clés d’épreuve sinistres en battant le boss de la Tour de la Team Rocket !"
+	quest.4341B175E0DE3908.title: "Acheter une Master Ball !"
+	quest.43505B1CAEBCDC82.quest_desc: [
+		"Place-le dans l’emplacement d’objet tenu de Silvallié afin de changer son type en &#3BA545Plante&r."
+		""
+		"Une fois retiré, il redeviendra de type Normal."
+	]
+	quest.43505B1CAEBCDC82.quest_subtitle: "Butin aléatoire des Soutes d’épreuve sinistres. Obtiens des Clés d’épreuve sinistres en battant le boss de la Tour de la Team Rocket !"
+	quest.439031E526E3FF10.quest_desc: [""]
+	quest.439031E526E3FF10.quest_subtitle: "Trouve une Baie Prine dans n’importe quel biome !"
+	quest.43CD16A376EBA017.quest_desc: [
+		"Bats Pino en combat pour progresser dans le Conseil 4 de Johto !"
+		""
+		"Les Pokémon de type &#8F316BPsy&r de Pino tordent la réalité et la perception. Garde l’esprit clair, perce ses illusions, et prouve que la vraie puissance vient d’une concentration à toute épreuve !"
+	]
+	quest.43CD16A376EBA017.quest_subtitle: "Bats Pino en combat !"
+	quest.43CD16A376EBA017.title: "Johto Premier du Conseil 4"
+	quest.43ED5448C5EE38D9.quest_desc: ["Fabrique une Carte du magasin, puis combine-la avec une Carte vide sur une Table de cartographie de l’&#8B4C33Overworld&r afin d’obtenir une Carte indiquant l’emplacement du Grand Magasin !"]
+	quest.43ED5448C5EE38D9.quest_subtitle: "Fabrique une Carte du magasin !"
+	quest.4415A9D186D4FDEB.quest_desc: [
+		"- La Forme 10% nécessite 9 Cellules de Zygarde."
+		""
+		"- La Forme 50% nécessite 49 Cellules de Zygarde."
+		""
+		"- La Forme parfaite nécessite 95 Cellules de Zygarde."
+	]
+	quest.4415A9D186D4FDEB.quest_subtitle: "Trouve une Cellule de Zygarde dans la Clairière des Vœux ou le Site archéologique, dans les coffres !"
+	quest.44736382F275CD3C.quest_subtitle: "Trouve les Ruines de Luna Henge !"
+	quest.44736382F275CD3C.title: "Ruines de Sol Henge"
+	quest.44756E38D55AFF0B.quest_desc: [""]
+	quest.44756E38D55AFF0B.quest_subtitle: "Apparition ultra-rare dans la Jungle, tous les biomes de Rivière sauf Rivière gelée, Marais et Marais mangrove. Aussi possible via la pêche ou en étant submergé !"
+	quest.44756E38D55AFF0B.title: "Grenousse"
+	quest.44AF0215FB0C67B4.quest_desc: [
+		"Place-le dans l’emplacement d’objet tenu de Palkia pour le transformer en Forme Originelle."
+		""
+		"Une fois retiré, il reprendra sa forme normale."
+	]
+	quest.44AF0215FB0C67B4.quest_subtitle: "Trouve le Miroir sacré dans une Ruine océanique chaude en utilisant une brosse sur du sable ou du gravier suspect !"
+	quest.44FD24EC72184047.quest_desc: [""]
+	quest.44FD24EC72184047.quest_subtitle: "Fabrique les Gants de Korrian !"
+	quest.44FD24EC72184047.title: "Gants de Korrian"
+	quest.45520BABAFFF5E83.quest_desc: [
+		"Bats Ondine en combat pour obtenir le Badge &#6197FFCascade&r !"
+		""
+		"Ondine contrôle les marées avec un calme chirurgical. Adapte-toi comme l’&#66A9FFEau — Flue&r autour de ses défenses et frappe quand le courant est de ton côté !"
+	]
+	quest.45520BABAFFF5E83.quest_subtitle: "Bats Ondine en combat !"
+	quest.45520BABAFFF5E83.title: "Badge &#6197FFCascade&r (Ondine)"
+	quest.4559C392BBF4616B.quest_subtitle: "Apparition ultra-rare dans tous les biomes d’Océan !"
+	quest.4559C392BBF4616B.title: "Phione"
+	quest.458240AFB97A8A45.quest_subtitle: "Fabrique un Gabarit de forge TM !"
+	quest.458240AFB97A8A45.title: "Gabarit de forge TM"
+	quest.45834ACBBC0E0FD9.quest_subtitle: "Collecte des Graines de menthe en récoltant des plants de menthe !"
+	quest.45B2CEABBB6F843C.quest_subtitle: "Apparition rare dans les biomes Prairie, Bosquet, Pente enneigée, Pics déchiquetés, Pics gelés et Pics rocheux, la nuit !"
+	quest.45B2CEABBB6F843C.title: "Hotte-de-Fer"
+	quest.461EF03301508A00.quest_subtitle: "Obtiens une Baie Egnant via la mutation de baies !"
+	quest.463E582C12C27986.quest_desc: ["Près de : Bloc de redstone, Répéteur, Torche de redstone, Capteur de lumière, Comparateur, Minerai de redstone, Lampe de redstone, Paratonnerre, PC, Moniteur, Machine de soin, Machine de restauration, Analyseur de fossiles."]
+	quest.463E582C12C27986.quest_subtitle: "Apparition commune dans tous les biomes de l’Overworld !"
+	quest.463E582C12C27986.title: "Motisma"
+	quest.464EDB98C6B02B41.quest_desc: [""]
+	quest.464EDB98C6B02B41.quest_subtitle: "Trouve le Temple Originel (Temple de Mew) dans le biome Jungle à Kanto !"
+	quest.464EDB98C6B02B41.title: "Temple Originel"
+	quest.468A24666355269F.quest_subtitle: "Obtiens une Baie Pamtre via la mutation de baies !"
+	quest.46AF61850A606112.quest_subtitle: "Apparition peu commune dans tous les biomes de l’Overworld sauf les biomes d’Océan !"
+	quest.46AF61850A606112.title: "Évoli"
+	quest.470121EB4578767A.quest_desc: ["Le Minerai de roche se trouve dans les biomes Terres arides, Terres arides boisées ou Terres arides érodées, entre 0 et 64 de hauteur !"]
+	quest.470121EB4578767A.quest_subtitle: "Mine la Relique Galet dans le Minerai de roche !"
+	quest.475FBD9533C051A1.quest_subtitle: "Trouve l’une de ces baies et utilise-les pour la mutation de baies !"
+	quest.475FBD9533C051A1.title: "Parents pour Baie Egnant !"
+	quest.47919B89016A46AE.quest_subtitle: "Collecte des Graines de menthe en récoltant des plants de menthe !"
+	quest.4794402E0455A8F5.quest_desc: [""]
+	quest.4794402E0455A8F5.quest_subtitle: "Obtiens un Éclat Téracristal Normal en battant un Pokémon de type Normal !"
+	quest.47F40A14BF09BD12.quest_subtitle: "Invoque et attrape Lugia !"
+	quest.47F40A14BF09BD12.title: "Lugia"
+	quest.4846731695C684D6.quest_subtitle: "Apparition ultra-rare dans le biome Deltas de basalte !"
+	quest.4846731695C684D6.title: "Yuyu"
+	quest.4858F655261CE9C9.quest_subtitle: "Apparition ultra-rare dans tous les biomes de Forêt !"
+	quest.4858F655261CE9C9.title: "Zacian"
+	quest.4874494DF630F862.quest_desc: [
+		"1. Fais un clic droit sur Spectrier avec les Rênes du Pacte pour les charger."
+		""
+		"2. Fais un clic droit sur Sylveroy avec les Rênes chargées pour le transformer en Sylveroy Cavalier d’Effroi."
+		""
+		"(Tu peux &nundo&r la fusion en faisant un clic droit sur Sylveroy Cavalier d’Effroi avec les Rênes du Pacte)"
+	]
+	quest.4874494DF630F862.quest_subtitle: "Fusionnez Sylveroy avec Spectreval pour obtenir Sylveroy Cavalier d’Effroi !"
+	quest.4874494DF630F862.title: "Fusion Sylveroy Cavalier d’Effroi"
+	quest.48754C845085257D.quest_desc: [""]
+	quest.48754C845085257D.quest_subtitle: "Brisez du minerai de Clé de Voûte pour obtenir une Clé de Voûte !"
+	quest.48754C845085257D.title: "Clé de Voûte"
+	quest.4876B97D80390646.quest_desc: ["Fabriquez un Radar Sylveroy Cavalier d’Effroi, puis combinez-le avec une Carte vierge dans une Table de cartographie de l&#8B4C33Overworld&r pour obtenir une carte indiquant l’emplacement du Cimetière de la Couronne !"]
+	quest.4876B97D80390646.quest_subtitle: "Fabriquez un Radar Sylveroy Cavalier d’Effroi !"
+	quest.488F1229085CD951.quest_desc: [
+		"Placez-le dans l’emplacement d’objet tenu d’Ogerpon pour la transformer en Forme Puits."
+		""
+		"Une fois retiré, elle reviendra à sa forme normale."
+	]
+	quest.488F1229085CD951.quest_subtitle: "Trouvez le Masque du Puits dans une Tour Gimmi glacée en utilisant une brosse sur du Sable suspect ou du Gravier suspect !"
+	quest.48B2DFD9162C3F5C.quest_subtitle: "Invoquez et capturez le Pokémon légendaire chromatique Latias !"
+	quest.48B2DFD9162C3F5C.title: "&zChromatique&r Latias"
+	quest.491447D80DE3F5A7.quest_desc: [
+		"- La Forme 10% nécessite 1 Noyau de Zygarde."
+		""
+		"- La Forme 50% nécessite 1 Noyau de Zygarde."
+		""
+		"- La Forme Parfaite nécessite 5 Noyaux de Zygarde."
+	]
+	quest.491447D80DE3F5A7.quest_subtitle: "Trouvez un Noyau de Zygarde dans des coffres au Donjon de l’Oubli moussu et aux Ruines de l’Arche en ruine, en utilisant une brosse sur du Sable suspect ou du Gravier suspect !"
+	quest.49B0732D27567A51.quest_desc: [""]
+	quest.49B0732D27567A51.quest_subtitle: "Trouvez une Baie Chople dans les biomes Montagne, Bambou ou Taïga !"
+	quest.4A4AD38C0AACA676.quest_desc: [""]
+	quest.4A4AD38C0AACA676.quest_subtitle: "Ressuscitez Hydragon en utilisant &#A0FF4AFossile Drake&r et &#3AA5FFFossile Poisson&r dans la Machine de restauration !"
+	quest.4A4AD38C0AACA676.title: "Ressusciter Hydragon"
+	quest.4A545C169A6AC333.quest_subtitle: "Invoquez et capturez le Pokémon légendaire chromatique Groudon !"
+	quest.4A545C169A6AC333.title: "&zChromatique&r Groudon"
+	quest.4A75D2279DAFF7EF.quest_desc: [""]
+	quest.4A75D2279DAFF7EF.quest_subtitle: "Trouvez une Baie Wepear dans les biomes Plaine !"
+	quest.4AA3DF8563E733D1.quest_subtitle: "Obtenez l’Aile Arc-en-ciel en battant le Vieux Sage à la Tour Cendrée pour invoquer Ho-Oh !"
+	quest.4ACB92DE9BA0BF8B.quest_desc: ["Fabriquez une Canne Eau, puis combinez-la avec une Carte vierge dans une Table de cartographie de l&#8B4C33Overworld&r pour obtenir une carte indiquant l’emplacement de l’Arène d’Adriano !"]
+	quest.4ACB92DE9BA0BF8B.quest_subtitle: "Fabriquez une Canne Eau !"
+	quest.4AD1F4687AFB7236.quest_subtitle: "Apparition ultra-rare dans tous les biomes Rivière, et les biomes Jungle !"
+	quest.4AD1F4687AFB7236.title: "Tokotoro"
+	quest.4AE01A2E82B1DA29.quest_desc: ["Fabriquez un Grimoire Roche, puis combinez-le avec une Carte vierge dans une Table de cartographie de l&#8B4C33Overworld&r pour obtenir une carte indiquant l’emplacement de l’Arène de Petra !"]
+	quest.4AE01A2E82B1DA29.quest_subtitle: "Fabriquez un Grimoire Roche !"
+	quest.4B065CE217D80FA3.quest_subtitle: "Apparition ultra-rare dans le biome Plage !"
+	quest.4B065CE217D80FA3.title: "Koraidon"
+	quest.4B306C1AD156A0F1.quest_desc: [""]
+	quest.4B306C1AD156A0F1.quest_subtitle: "Fabriquez n’importe quelle Table de cartographie régionale !"
+	quest.4B306C1AD156A0F1.title: "Tables de cartographie de l’Overworld"
+	quest.4B46D4DCDE85A946.quest_subtitle: "Trouvez des Grains copieux dans les biomes Marais, poussant dans l’eau !"
+	quest.4B61EF60B5526554.quest_desc: [""]
+	quest.4B61EF60B5526554.quest_subtitle: "Obtenez un Éclat Téra Insecte en battant un Pokémon de type Insecte !"
+	quest.4B84DE7B507CFC4C.quest_subtitle: "Apparition ultra-rare sous l’Arbre Dyna pendant la nuit !"
+	quest.4B84DE7B507CFC4C.title: "Artikodin de Galar"
+	quest.4B85674247ECBD95.quest_subtitle: "Apparition ultra-rare dans les biomes Savane et Plateau de savane !"
+	quest.4B85674247ECBD95.title: "Terrakium"
+	quest.4B9985FE32E37675.quest_subtitle: "Fabriquez les Rênes de l’Unité pour fusionner Sylveroy avec Spectreval ou Blizzeval !"
+	quest.4B9985FE32E37675.title: "Rênes de l’Unité"
+	quest.4BA05B905DCF0450.quest_desc: [
+		"Battez Drake en combat pour atteindre le Champion de Hoenn !"
+		""
+		"Les Pokémon &#0337FFDragon&r de Drake sont puissants et féroces. Seule une bonne préparation et de solides stratégies pourront les vaincre !"
+	]
+	quest.4BA05B905DCF0450.quest_subtitle: "Battez Drake en combat !"
+	quest.4BA05B905DCF0450.title: "Quatrième du Conseil 4 de Hoenn"
+	quest.4BCD0D4DE8D80C71.quest_subtitle: "Utiliser des Cisailles sur un Ramoloss fera toujours tomber une Queue Moelleuse, en lui coupant la queue au passage !"
+	quest.4C2DFB9312C60300.quest_desc: [
+		"Battez Chiara en combat pour obtenir l’Insigne P&#FFCC5Dlai&rn !"
+		""
+		"Ne vous laissez pas berner par son charme, les Pokémon &#A3A1A5Normal&r de Chiara peuvent faire mal au moral ! Gardez votre sang-froid, résistez aux larmes, et prouvez que la vraie force vient du calme !"
+	]
+	quest.4C2DFB9312C60300.quest_subtitle: "Battez Chiara en combat !"
+	quest.4C2DFB9312C60300.title: "Insigne P&#FFCC5Dlai&rn (Chiara)"
+	quest.4C4C4003E821CDBB.quest_subtitle: "Obtenez une Baie Pomeg grâce à la Mutation de Baies !"
+	quest.4C9C15098404C778.quest_desc: ["Fabriquez un Remède secret, puis combinez-le avec une Carte vierge dans une Table de cartographie de l&#8B4C33Overworld&r pour obtenir une carte indiquant l’emplacement de l’Arène de Jasmine !"]
+	quest.4C9C15098404C778.quest_subtitle: "Fabriquez un Remède secret !"
+	quest.4D1460A49AC68F57.quest_subtitle: "Obtenez une Baie Grepa grâce à la Mutation de Baies !"
+	quest.4D7D49B848BC8A1D.quest_subtitle: "Fabriquez un Cœur Océan pour invoquer Kyogre !"
+	quest.4E39214A94701EEF.quest_subtitle: "Collectez des Apricornes et des Jeunes pousses d’Apricorne sur les arbres à Apricornes trouvés dans la nature !"
+	quest.4EB0F4E451270A2A.quest_subtitle: "Fabriquez l’Omni Anneau pour pouvoir utiliser n’importe quel gimmick de Mega Showdown !"
+	quest.4EB0F4E451270A2A.title: "Omni Anneau"
+	quest.4EE8ADFEC5D4036F.quest_desc: ["Fabriquez un Radar Registeel, puis combinez-le avec une Carte vierge dans une Table de cartographie de l&#8B4C33Overworld&r pour obtenir une carte indiquant l’emplacement du Temple de Registeel !"]
+	quest.4EE8ADFEC5D4036F.quest_subtitle: "Fabriquez un Radar Registeel !"
+	quest.4F1069C7BBDD436D.quest_subtitle: "Obtenez une Baie Aguav grâce à la Mutation de Baies !"
+	quest.4F8B993E55749CC1.quest_desc: [""]
+	quest.4F8B993E55749CC1.quest_subtitle: "Utilisez n’importe quelle Poké Ball pour capturer votre premier Pokémon !"
+	quest.4F8B993E55749CC1.title: "Votre première capture"
+	quest.4F906D5B0C3695B4.quest_subtitle: "Apparition ultra-rare dans tous les biomes Forêt !"
+	quest.4F906D5B0C3695B4.title: "Amovénus"
+	quest.4FBDE77BB66E5380.quest_desc: ["Fabriquez un Connecteur électrique, puis combinez-le avec une Carte vierge dans une Table de cartographie de l&#8B4C33Overworld&r pour obtenir une carte indiquant l’emplacement de l’Arène de Walter !"]
+	quest.4FBDE77BB66E5380.quest_subtitle: "Fabriquez un Connecteur électrique !"
+	quest.4FDD467AF4AC2154.title: "Échangez 3 diamants contre 1 pièce !"
+	quest.500DF1D5DE83C619.quest_desc: ["Fabriquez un Radar Méga-Rayquaza, puis combinez-le avec une Carte vierge dans une Table de cartographie de l&#8B4C33Overworld&r pour obtenir une carte indiquant l’emplacement du Pilier Céleste !"]
+	quest.500DF1D5DE83C619.quest_subtitle: "Fabriquez un Radar Méga-Rayquaza !"
+	quest.503020CFA1A31E9E.title: "Placez une marmite sur un feu de camp"
+	quest.5054736C2E99076C.quest_subtitle: "Apparition ultra-rare dans les biomes Bosquet Sakura et Vallée Sakura !"
+	quest.5054736C2E99076C.title: "Keldeo"
+	quest.5061B77A641D8C96.quest_desc: ["Fabriquez un Poison Ninja, puis combinez-le avec une Carte vierge dans une Table de cartographie de l&#8B4C33Overworld&r pour obtenir une carte indiquant l’emplacement de l’Arène de Koga !"]
+	quest.5061B77A641D8C96.quest_subtitle: "Fabriquez un Poison Ninja !"
+	quest.508536B54BEC5056.quest_desc: [""]
+	quest.508536B54BEC5056.quest_subtitle: "Trouvez une Baie Wacan dans les biomes Prairie, Collines ou Ciel !"
+	quest.512024848E5EF49B.quest_desc: [
+		"Placez-le dans l’emplacement d’objet tenu d’Arceus pour changer son type en &#FF783AFeu&r."
+		""
+		"Une fois retiré, il reviendra au type Normal."
+	]
+	quest.512024848E5EF49B.quest_subtitle: "Se trouve dans les Mines abandonnées, les Cités antiques, des coffres aléatoires, ou des tours/structures !"
+	quest.5171CAB9596EF011.quest_subtitle: "Utilisez une brosse sur du Sable suspect sur le Site archéologique pour obtenir une Pierre étincelante claire !"
+	quest.5174FDDF82ED5C9A.quest_subtitle: "Apparition ultra-rare sous l’Arbre Dyna pendant un orage !"
+	quest.5174FDDF82ED5C9A.title: "Électhor de Galar"
+	quest.51A1DA8EEAC5BAC4.quest_desc: ["Fabriquez la Médaille du lieutenant, puis combinez-la avec une Carte vierge dans une Table de cartographie de l&#8B4C33Overworld&r pour obtenir une carte indiquant l’emplacement de l’Arène de Morgane !"]
+	quest.51A1DA8EEAC5BAC4.quest_subtitle: "Fabriquez la Médaille du lieutenant !"
+	quest.51AB823889B9CDAF.quest_desc: [
+		"Placez-le dans l’emplacement d’objet tenu d’Arceus pour changer son type en &#0337FFDragon&r."
+		""
+		"Une fois retiré, il reviendra au type Normal."
+	]
+	quest.51AB823889B9CDAF.quest_subtitle: "Se trouve dans les Mines abandonnées, les Cités antiques, des coffres aléatoires, ou des tours/structures !"
+	quest.51BF615744006CFC.quest_desc: [""]
+	quest.51BF615744006CFC.quest_subtitle: "Collectez toutes les &#034DFFBaies&r pour obtenir une Master Ball !"
+	quest.51BF615744006CFC.title: "Attrape-les toutes... les baies !!"
+	quest.51F1EC954C60D8AD.quest_subtitle: "Apparition ultra-rare dans les biomes Bosquet de cerisiers, Forêt fleurie, Prairie, Plaine de tournesols, Plage !"
+	quest.51F1EC954C60D8AD.title: "Tokopisco"
+	quest.5211E76EA3B1D523.quest_desc: [""]
+	quest.5211E76EA3B1D523.quest_subtitle: "Trouvez la Tour Gimmi luxuriante !"
+	quest.5211E76EA3B1D523.title: "Tour Gimmi luxuriante"
+	quest.521B1FFE6E6B38F2.quest_subtitle: "Trouvez le Temple de Regice dans le biome Badlands enneigé à Hoenn !"
+	quest.521B1FFE6E6B38F2.title: "Temple de Regice"
+	quest.524CE7E6765F6FD5.quest_subtitle: "Apparition ultra-rare dans les biomes Prairie, Pics rocheux, Pentes rocheuses, Pics déchiquetés, Bosquet, Pics gelés, quand le temps est dégagé !"
+	quest.524CE7E6765F6FD5.title: "Reshiram"
+	quest.527816EE61F8BA7D.quest_subtitle: "Obtenez une Baie Touga grâce à la Mutation de Baies !"
+	quest.527D8DB71E449C50.quest_desc: [
+		"Placez-le dans l’emplacement d’objet tenu d’Arceus pour changer son type en &#83BFFFFVol&r."
+		""
+		"Une fois retiré, il reviendra au type Normal."
+	]
+	quest.527D8DB71E449C50.quest_subtitle: "Se trouve dans les Mines abandonnées, les Cités antiques, des coffres aléatoires, ou des tours/structures !"
+	quest.52ACAF22D08CCD11.quest_desc: ["Fabriquez l’Écharpe esprit, puis combinez-la avec une Carte vierge dans une Table de cartographie de l&#8B4C33Overworld&r pour obtenir une carte indiquant l’emplacement de l’Arène d’Angelo !"]
+	quest.52ACAF22D08CCD11.quest_subtitle: "Fabriquez l’Écharpe esprit !"
+	quest.52E771715C3A8FA4.quest_desc: [
+		"Battez Norman en combat pour obtenir l’Insigne &#AEA7FFB&r&#A3A1A5alanc&r&#AEA7FFe&r !"
+		""
+		"Les Pokémon &#A3A1A5Normal&r de Norman sont polyvalents et imprévisibles. Adaptez vos tactiques pour briser son équilibre des forces ! "
+	]
+	quest.52E771715C3A8FA4.quest_subtitle: "Battez Norman en combat !"
+	quest.52E771715C3A8FA4.title: "Insigne &#AEA7FFB&r&#A3A1A5alanc&r&#AEA7FFe&r (Norman)"
+	quest.52F69985DDF53CB2.quest_subtitle: "Apparition rare dans les biomes Jungle et Forêt carmin !"
+	quest.52F69985DDF53CB2.title: "Rampe-Ailes"
+	quest.53187A1CDF392AA2.quest_desc: [""]
+	quest.53187A1CDF392AA2.quest_subtitle: "Trouvez une Baie Willia dans les biomes Montagne !"
+	quest.5338C9265D8C54AB.quest_subtitle: "Obtenez une Baie Grena grâce à la Mutation de Baies !"
+	quest.534FBD7084B569D1.quest_desc: [
+		"Battez Luciano en combat pour atteindre le Champion de Sinnoh !"
+		""
+		"Les Pokémon &#8F316BPsychic&r de Luciano mettent à l’épreuve l’esprit comme la détermination. Restez lucide, anticipez ses actions, et surmontez sa maîtrise mentale !"
+	]
+	quest.534FBD7084B569D1.quest_subtitle: "Battez Luciano en combat !"
+	quest.534FBD7084B569D1.title: "Quatrième du Conseil 4 de Sinnoh"
+	quest.5374EB577D364121.quest_desc: ["Fabriquez un Radar Ho-Oh, puis combinez-le avec une Carte vierge dans une Table de cartographie de l&#8B4C33Overworld&r pour obtenir une carte indiquant l’emplacement de la Tour Carillon de Ho-Oh !"]
+	quest.5374EB577D364121.quest_subtitle: "Fabriquez un Radar Ho-Oh !"
+	quest.538A9B0BC6CAEA6D.quest_desc: [
+		"Placez-le dans l’emplacement d’objet tenu de Zacian pour le transformer en Zacian Forme Épée Suprême."
+		""
+		"Une fois retiré, il reviendra à sa forme normale."
+	]
+	quest.538A9B0BC6CAEA6D.quest_subtitle: "Trouvez l’Épée Rouillée dans les Ruines de Luna Henge en utilisant une brosse sur du Sable suspect ou du Gravier suspect !"
+	quest.53BC6608F831BD71.quest_subtitle: "Apparition rare dans tous les biomes Plaine près d’un paratonnerre !"
+	quest.53BC6608F831BD71.title: "Garde-de-Fer"
+	quest.53E7928EE0B9B970.quest_subtitle: "Trouvez n’importe laquelle de ces Baies et utilisez-les pour la Mutation de Baies !"
+	quest.53E7928EE0B9B970.title: "Parents de Baie Étoile"
+	quest.53F245619B3B44F2.quest_desc: [
+		"1. Équipez l’un des Z-Rings en faisant un clic droit en le tenant en main."
+		""
+		"2. Équipez l’Ultranécrozium Z sur Necrozma Ailes de l’Aurore ou Necrozma Crinière du Couchant."
+		""
+		"3. En combat : cliquez sur le bouton Capacité Z pour déclencher l’Ultra-Burst, puis choisissez une capacité."
+		""
+		"4. Hors combat : regardez votre Pokémon, faites Maj + clic droit et choisissez « Ultra-Burst ». "
+	]
+	quest.53F245619B3B44F2.quest_subtitle: "Obtenez Ultra-Necrozma en déclenchant l’Ultra-Burst !"
+	quest.53F245619B3B44F2.title: "La lumière qui consume le ciel"
+	quest.53FADEC9E1C2ED2D.quest_subtitle: "Apparition ultra-rare dans le biome Forêt sombre !"
+	quest.53FADEC9E1C2ED2D.title: "Pécharunt"
+	quest.54612F2E44423D9F.quest_desc: [
+		"Battez Fosco en combat pour progresser dans le Conseil 4 de Hoenn !"
+		""
+		"Les Pokémon &#0F1218Ténèbres&r de Fosco frappent depuis l’ombre, mettant à l’épreuve votre stratégie et votre sang-froid. Mettez ses tactiques en pleine lumière pour le vaincre !"
+	]
+	quest.54612F2E44423D9F.quest_subtitle: "Battez Fosco en combat !"
+	quest.54612F2E44423D9F.title: "Premier du Conseil 4 de Hoenn"
+	quest.54CAE124E890F3F7.quest_subtitle: "Fabriquez l’Unité Tonte pour transformer Motisma en Forme Tonte !"
+	quest.54CAE124E890F3F7.title: "Unité Tonte"
+	quest.54CAED172FD57906.quest_subtitle: "Fabriquez une Canne à pêche !"
+	quest.54F4335AF6E44891.quest_desc: ["Fabriquez le Radar Necrozma Ailes de l’Aurore, puis combinez-le avec une Carte vierge dans une Table de cartographie de l&l&#F7FFC6End&r&r pour obtenir une carte indiquant l’emplacement de la Tour de l’Aurore !"]
+	quest.54F4335AF6E44891.quest_subtitle: "Fabriquez le Radar Necrozma Ailes de l’Aurore !"
+	quest.55003C6458ADE099.quest_desc: ["3× plus de chances d’apparaître en journée !"]
+	quest.55003C6458ADE099.quest_subtitle: "Attrapez Entei près de la Tour Cendrée !"
+	quest.55003C6458ADE099.title: "Entei"
+	quest.5551B93A4D34567E.quest_subtitle: "Trouvez la Tour Carillon dans un biome Forêt à Johto !"
+	quest.5551B93A4D34567E.title: "Tour Carillon"
+	quest.556733907AEC013F.quest_subtitle: "Fabriquez le N-Lunariseur pour fusionner Necrozma avec Lunala !"
+	quest.556733907AEC013F.title: "N-Lunariseur"
+	quest.55B4534197FA3343.quest_subtitle: "Plantez des graines de haricot et récoltez des haricots !"
+	quest.55CA6B69314C17AA.quest_subtitle: "Trouvez l’Observatoire abandonné dans les biomes Jungle ou Plaine !"
+	quest.55CA6B69314C17AA.title: "Observatoire abandonné"
+	quest.560AC5F538588BE3.quest_subtitle: "Invoquez et capturez Latios chromatique !"
+	quest.560AC5F538588BE3.title: "&zChromatique&r Latios"
+	quest.56765A55E1776820.quest_desc: ["Obtenez de l’ADN ancien en battant Giovanni ou en visitant le Temple Originel !"]
+	quest.56765A55E1776820.quest_subtitle: "Obtenez de l’ADN ancien !"
+	quest.56BA323EBC322347.quest_desc: ["Utilisé dans la recette de fabrication du PokéNav !"]
+	quest.56BA323EBC322347.quest_subtitle: "Trouvez un vieux PokéNav !"
+	quest.56BA323EBC322347.title: "Vieux PokéNav"
+	quest.56BC185856A00906.quest_desc: [
+		"Placez-le dans l’emplacement d’objet tenu d’Ogerpon pour le transformer en Forme Pierre d’Angle."
+		""
+		"Une fois retiré, il reviendra à sa forme normale."
+	]
+	quest.56BC185856A00906.quest_subtitle: "Trouvez le Masque Pierre d’Angle dans la Tour Gimmi luxuriante en utilisant une brosse sur du Sable suspect ou du Gravier suspect !"
+	quest.56FEB210F7B8086E.quest_desc: [
+		"Placez-le dans l’emplacement d’objet tenu d’Arceus pour changer son type en &#FFB7E2Fée&r."
+		""
+		"Une fois retiré, il reviendra au type Normal."
+	]
+	quest.56FEB210F7B8086E.quest_subtitle: "Se trouve dans les Mines abandonnées, les Cités antiques, des coffres aléatoires, ou des tours/structures !"
+	quest.57401DDE6A08A5CB.quest_subtitle: "Trouvez la Tour d’Artikodin dans le biome Plaines enneigées à Kanto !"
+	quest.57401DDE6A08A5CB.title: "Tour d’Artikodin"
+	quest.57482A59E7B70BA5.quest_desc: [
+		"Battez Brock en combat pour obtenir le badge &#A1A1A1Roche&r !"
+		""
+		"Brock est aussi solide que la montagne. Brisez sa défense &#FFC8A9Roche Dure&r et prouvez que même les remparts les plus coriaces finissent par céder !"
+	]
+	quest.57482A59E7B70BA5.quest_subtitle: "Battez Brock en combat !"
+	quest.57482A59E7B70BA5.title: "Badge &#A1A1A1Roche&r (Brock)"
+	quest.57644F9D5D425090.quest_subtitle: "Invoquez et capturez Artikodin !"
+	quest.57644F9D5D425090.title: "Artikodin"
+	quest.576EF42CB41E231A.quest_desc: ["Fabriquez le Fouet hypnotique, puis combinez-le avec une Carte vierge dans une Table de cartographie de l&#8B4C33Overworld&r pour obtenir une carte indiquant l’emplacement de l’Arène de Sabrina !"]
+	quest.576EF42CB41E231A.quest_subtitle: "Fabriquez un Fouet hypnotique !"
+	quest.5789AC3E0FEC0716.quest_desc: [""]
+	quest.5789AC3E0FEC0716.quest_subtitle: "Trouvez une Baie Shuca dans les biomes Aride ou Prairie !"
+	quest.57A9EC6A63B26566.quest_desc: [
+		"Battez Rocco en combat pour décrocher le titre de « &6Maître&r &4ulti&r&0m&rate &8de Hoenn&r » !"
+		""
+		"Les Pokémon &#565D70Acier&r de Rocco sont puissants et inébranlables. Affrontez sa force de fer sans trembler, et triomphez pour prouver votre véritable talent !"
+		""
+		"&#82FF05Cartes Arènes \\& Ligue&r :"
+		"[ { \"text\": \"Cliquez ici !\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0A8C3CC12E167F8B\" } } ]"
+	]
+	quest.57A9EC6A63B26566.quest_subtitle: "Battez Rocco en combat !"
+	quest.57A9EC6A63B26566.title: "Champion Rocco"
+	quest.57EB44EA217D009F.quest_desc: [""]
+	quest.57EB44EA217D009F.quest_subtitle: "Trouvez la Tour Gimmi gelée !"
+	quest.57EB44EA217D009F.title: "Tour Gimmi gelée"
+	quest.57F6DBF0AB777133.quest_subtitle: "Apparition ultra-rare dans tous les biomes Forêt la nuit !"
+	quest.57F6DBF0AB777133.title: "Feuillage-Fer"
+	quest.582A86BC367CEF90.quest_desc: [""]
+	quest.582A86BC367CEF90.quest_subtitle: "Ressuscitez Ptyranidur en utilisant le &#52AB93Fossile Nageoire&r dans la Machine de restauration !"
+	quest.582A86BC367CEF90.title: "Ressusciter Ptyranidur"
+	quest.5837BFBA39A2912A.quest_desc: [
+		"Placez-le dans l’emplacement d’objet tenu d’Arceus pour changer son type en &#FFC8A9Roche&r."
+		""
+		"Une fois retiré, il reviendra au type Normal."
+	]
+	quest.5837BFBA39A2912A.quest_subtitle: "Se trouve dans les Mines abandonnées, les Cités antiques, des coffres aléatoires, ou des tours/structures !"
+	quest.5888AE797F4529B7.quest_subtitle: "Apparition ultra-rare dans les Cavernes luxuriantes !"
+	quest.5888AE797F4529B7.title: "Diancie"
+	quest.590FE492158D2A37.quest_desc: [
+		"Battez Fiammetta en combat pour obtenir le badge &#FFC16AH&r&ceat&r !"
+		""
+		"Les Pokémon &#FF7749Feu&r de Fiammetta brûlent d’intensité. Gardez la tête froide et faites fondre son équipe !"
+	]
+	quest.590FE492158D2A37.quest_subtitle: "Battez Fiammetta en combat !"
+	quest.590FE492158D2A37.title: "Badge &#FFC16AH&r&ceat&r (Fiammetta)"
+	quest.5949CA954F1F4FD8.quest_desc: [""]
+	quest.5949CA954F1F4FD8.quest_subtitle: "Trouvez une Baie Chilan dans les biomes Tempéré ou Prairie !"
+	quest.59938E5EE6D4EB45.quest_subtitle: "Collectez des Noigrumes et des jeunes pousses de Noigrume sur les Noigrumiers que vous trouvez dans la nature !"
+	quest.5994F82E4460AC72.quest_desc: [
+		"Placez-le dans l’emplacement d’objet tenu de Silvallié pour changer son type en &#FFC961Électrik&r."
+		""
+		"Une fois retiré, il reviendra au type Normal."
+	]
+	quest.5994F82E4460AC72.quest_subtitle: "Butin aléatoire des Coffres d’épreuve sinistres. Obtenez des Clés d’épreuve sinistres en battant le boss de la Tour de la Team Rocket !"
+	quest.599FEE353E8E4EC1.quest_desc: [
+		"1. Équipez le Bracelet Dynamax en faisant un clic droit tout en le tenant dans la main droite."
+		""
+		"2. Vous devez être à moins de 20 blocs d’un Point Énergie."
+		""
+		"3. Pour Dynamaxer en combat : cliquez sur le bouton Dynamax, puis choisissez une capacité."
+	]
+	quest.599FEE353E8E4EC1.quest_subtitle: "Dynamaxez un Pokémon !"
+	quest.599FEE353E8E4EC1.title: "Dynamax"
+	quest.59A907D75C51F503.quest_subtitle: "Battez Blue, le Champion de Kanto, ou un autre dresseur puissant pour obtenir l’Ancienne Ball Originelle !"
+	quest.59C8B62D9F7BCB48.quest_subtitle: "Trouvez un Dyna-Arbre dans le biome Bois de sakura !"
+	quest.59C8B62D9F7BCB48.title: "Dyna-Arbre"
+	quest.59D22899D889518E.quest_subtitle: "Obtenez une Baie Micle via la mutation de Baies !"
+	quest.59DB38DEE5C2338D.quest_desc: ["Vous pouvez acheter un PokéNav de couleurs uniques auprès d’un Marchand ambulant !"]
+	quest.59DB38DEE5C2338D.quest_subtitle: "Obtenez un PokéNav du voyageur !"
+	quest.59DB38DEE5C2338D.title: "PokéNav du voyageur"
+	quest.5A202A73EE743996.quest_subtitle: "Trouvez des Noix Galanoix dans les biomes Plage !"
+	quest.5A57F949AF757A2E.title: "Fabriquer une marmite de feu de camp"
+	quest.5A7D0F68E3232932.quest_desc: [""]
+	quest.5A7D0F68E3232932.quest_subtitle: "Trouvez une Baie Tanga dans les biomes Forêt, Jungle ou Marais !"
+	quest.5AC36993477AA2FA.quest_desc: [
+		"1. Équipez l’un des Anneaux Z en faisant un clic droit tout en le tenant en main."
+		""
+		"2. Votre Pokémon doit tenir un Cristal Z. Tout en tenant l’objet dans votre main droite, regardez votre Pokémon, puis faites Maj + clic droit et choisissez « Changer l’objet tenu »."
+		""
+		"3. En combat : cliquez sur le bouton Capacité Z, puis choisissez la capacité nouvellement mise en surbrillance."
+		""
+		"4. Vous ne pourrez pas Dynamaxer ou Méga-Évoluer votre Pokémon s’il tient un Cristal Z, car il s’agit d’un autre gimmick de combat."
+	]
+	quest.5AC36993477AA2FA.quest_subtitle: "Utilisez une Capacité Z en combat !"
+	quest.5AC36993477AA2FA.title: "Z-Power"
+	quest.5ACBF606DD9F152F.quest_subtitle: "Invoquez et capturez Jirachi chromatique !"
+	quest.5ACBF606DD9F152F.title: "&zChromatique&r Jirachi"
+	quest.5ADFF3B45FD11618.quest_desc: [""]
+	quest.5ADFF3B45FD11618.quest_subtitle: "Obtenez un Éclat Téracristal Électrik en battant un Pokémon de type Électrik !"
+	quest.5B706A3D5F4078A9.quest_subtitle: "Trouvez le Cristal de météorite caché dans la Météorite pour invoquer Deoxys !"
+	quest.5B959C31FB5D0983.quest_subtitle: "Obtenez la Rosée Rubis en battant Rocco, le Champion de Hoenn, pour invoquer Latias !"
+	quest.5BC2F48F8260306E.quest_subtitle: "Fabriquez le N-Solariseur pour fusionner Necrozma avec Solgaleo !"
+	quest.5BC2F48F8260306E.title: "N-Solariseur"
+	quest.5BDC746EF37B78EB.quest_desc: [""]
+	quest.5BDC746EF37B78EB.quest_subtitle: "Trouvez une Baie Framby dans les biomes Forêt !"
+	quest.5C2B765D6061DE9B.quest_desc: [
+		"Placez-le dans l’emplacement d’objet tenu de Silvallié pour changer son type en &#8F316BPsy&r."
+		""
+		"Une fois retiré, il reviendra au type Normal."
+	]
+	quest.5C2B765D6061DE9B.quest_subtitle: "Butin aléatoire des Coffres d’épreuve sinistres. Obtenez des Clés d’épreuve sinistres en battant le boss de la Tour de la Team Rocket !"
+	quest.5C38E663AF730969.quest_desc: ["Placez-le dans l’emplacement d’objet tenu de Genesect pour changer son Techno-Buster en type &#FFC961Électrik&r."]
+	quest.5C38E663AF730969.quest_subtitle: "Fabriquez le Module Choc !"
+	quest.5C3A4DB41252390B.quest_desc: [
+		"Battez Valerio en combat pour obtenir le badge &#7AADFFZéphyr&r !"
+		""
+		"Valerio plane haut, porté par la fierté de ses Pokémon &#9AB6FFVol&r. Coupez-lui les ailes avec une stratégie solide et prouvez qu’aucune altitude n’est hors de portée !"
+	]
+	quest.5C3A4DB41252390B.quest_subtitle: "Battez Valerio en combat !"
+	quest.5C3A4DB41252390B.title: "Badge &#7AADFFZéphyr&r (Valerio)"
+	quest.5C5D6D9F056AC58C.quest_subtitle: "Invoquez et capturez Deoxys !"
+	quest.5C5D6D9F056AC58C.title: "Deoxys"
+	quest.5CBE1AB363FD8F6F.quest_subtitle: "Apparition ultra-rare dans tous les biomes Rivière et les biomes Plage !"
+	quest.5CBE1AB363FD8F6F.title: "Tokopisco"
+	quest.5CE9A579D4BB2E14.quest_desc: ["Permet de soigner complètement vos Pokémon après un combat difficile !"]
+	quest.5CE9A579D4BB2E14.quest_subtitle: "Fabriquez une Machine de soin !"
+	quest.5CE9A579D4BB2E14.title: "Machine de soin"
+	quest.5D0D6A06E3527D59.quest_desc: [
+		"Placez-le dans l’emplacement d’objet tenu d’Arceus pour changer son type en &#4E9FFFEau&r."
+		""
+		"Une fois retiré, il reviendra au type Normal."
+	]
+	quest.5D0D6A06E3527D59.quest_subtitle: "Se trouve dans les Mines abandonnées, les Cités antiques, des coffres aléatoires, ou des tours/structures !"
+	quest.5D105B8B1B613103.quest_subtitle: "Invoquez et capturez Celebi !"
+	quest.5D105B8B1B613103.title: "Celebi"
+	quest.5D25CBBF0FC05003.quest_subtitle: "Trouvez la Cassette mélodique cachée près du sommet de la Grotte Souhait pour invoquer Jirachi !"
+	quest.5D41B6DCA0F110E0.quest_subtitle: "Apparition ultra-rare dans les biomes Savane, Plateau de savane, Désert, Badlands pendant un orage ou sous la pluie !"
+	quest.5D41B6DCA0F110E0.title: "Ire-Foudre"
+	quest.5DA3EBD97480D3C4.quest_subtitle: "Cartes de Johto !"
+	quest.5DC9554891253A1C.quest_subtitle: "Collectez des graines de menthe en récoltant des plants de menthe !"
+	quest.5DE3626B0D30FCFF.quest_desc: [
+		"Placez-le dans l’emplacement d’objet tenu d’Arceus pour changer son type en &#3BA545Plante&r."
+		""
+		"Une fois retiré, il reviendra au type Normal."
+	]
+	quest.5DE3626B0D30FCFF.quest_subtitle: "Se trouve dans les Mines abandonnées, les Cités antiques, des coffres aléatoires, ou des tours/structures !"
+	quest.5DEDAD3D42CD6F5E.quest_subtitle: "Collectez des graines de menthe en récoltant des plants de menthe !"
+	quest.5E1D04CE58394AD7.quest_subtitle: "Plantez des graines de haricot et récoltez des haricots !"
+	quest.5E2DCF4788367C5B.quest_desc: [
+		"Battez Camilla en combat pour décrocher le titre de « &#FFA013Le Gambit de la Reine&r » !"
+		""
+		"Camilla dirige une équipe redoutable de &ztypes multiples&r, capable de s’adapter à n’importe quelle stratégie. Affrontez son talent sans hésiter… et devenez la nouvelle légende de Sinnoh !"
+		""
+		"&#FF2EAACartes Arènes \\& Ligue&r :"
+		"[ { \"text\": \"Cliquez ici !\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0D47E527E6F73D28\" } } ]"
+	]
+	quest.5E2DCF4788367C5B.quest_subtitle: "Battez Camilla en combat !"
+	quest.5E2DCF4788367C5B.title: "&#FFA013Championne Camilla&r"
+	quest.5E8AD454A0FD2A21.quest_desc: [
+		"Battez Angelo en combat pour obtenir le badge &#31018FFBrouillard&r !"
+		""
+		"Angelo flotte entre le visible et l’invisible, guidé par des esprits &9spectraux&r. Dissipez l’ombre de ses illusions et montrez que votre détermination brûle plus fort que n’importe quel fantôme !"
+	]
+	quest.5E8AD454A0FD2A21.quest_subtitle: "Battez Angelo en combat !"
+	quest.5E8AD454A0FD2A21.title: "Badge &#31018FFBrouillard&r (Angelo)"
+	quest.5EF398EDD82D0094.quest_subtitle: "Trouvez le Temple de Registeel dans le biome Hautes Terres alpines à Hoenn !"
+	quest.5EF398EDD82D0094.title: "Temple de Registeel"
+	quest.5F1F02E77E580267.quest_desc: [""]
+	quest.5F1F02E77E580267.quest_subtitle: "&#604D32Ressuscitez&r tous les Pokémon fossiles pour obtenir une Master Ball !"
+	quest.5F1F02E77E580267.title: "Ressuscite-les tous !"
+	quest.5F4E6B8138053B92.quest_desc: [
+		"Placez-le dans l’emplacement d’objet tenu de Silvallié pour changer son type en &#0337FFDragon&r."
+		""
+		"Une fois retiré, il reviendra au type Normal."
+	]
+	quest.5F4E6B8138053B92.quest_subtitle: "Butin aléatoire des Coffres d’épreuve sinistres. Obtenez des Clés d’épreuve sinistres en battant le boss de la Tour de la Team Rocket !"
+	quest.5F6B6659DB90DDFF.quest_subtitle: "Cherchez un tonneau sous des champignons ou sous de la glace compactée !"
+	quest.5F7F2EEB375C0C11.quest_desc: [
+		"Placez-le dans l’emplacement d’objet tenu de Dialga pour le transformer en Forme Originelle."
+		""
+		"Une fois retiré, il reviendra à sa forme normale."
+	]
+	quest.5F7F2EEB375C0C11.quest_subtitle: "Trouvez le Miroir sacré dans une Ruine océane froide en utilisant une brosse sur du sable ou du gravier suspects !"
+	quest.5F811EED2AB27E23.quest_desc: [""]
+	quest.5F811EED2AB27E23.quest_subtitle: "Collectez tous les &9Objets à tenir&r pour obtenir deux Master Balls !"
+	quest.5F811EED2AB27E23.title: "Tiens-les tous !"
+	quest.5F9F04B4DAFAD2EC.quest_desc: ["Fabriquez l’Éventail nature, puis combinez-le avec une Carte vierge dans n’importe quelle Table de cartographie &#8B4C33Overworld&r afin d’obtenir une carte menant à l’Arène d’Erika !"]
+	quest.5F9F04B4DAFAD2EC.quest_subtitle: "Fabriquez un Éventail nature !"
+	quest.5FC16B575C97C26C.quest_desc: [
+		"Battez Blaine en combat pour obtenir le badge &#FF050FVolcan&r !"
+		""
+		"Les &#FF7749flammes&r de Blaine brûlent autant de sagesse que de chaos. Affrontez la chaleur de ses épreuves et ressortez trempé dans le feu, prêt pour la suite !"
+	]
+	quest.5FC16B575C97C26C.quest_subtitle: "Battez Blaine en combat !"
+	quest.5FC16B575C97C26C.title: "Badge &#FF050FVolcan&r (Blaine)"
+	quest.60218BB20C603FD5.quest_desc: [
+		"Placez-le dans l’emplacement d’objet tenu d’Arceus pour changer son type en &#719D4BInsecte&r."
+		""
+		"Une fois retiré, il reviendra au type Normal."
+	]
+	quest.60218BB20C603FD5.quest_subtitle: "Se trouve dans les Mines abandonnées, les Cités antiques, des coffres aléatoires, ou des tours/structures !"
+	quest.607202BD97521172.quest_subtitle: "Trouvez le Bois aux Souhaits dans le biome Forêt sombre !"
+	quest.607202BD97521172.title: "Bois aux Souhaits"
+	quest.60818FF865F50099.quest_desc: [
+		"Battez Koga en combat pour progresser au sein du Conseil 4 de Johto !"
+		""
+		"Les toxines de Koga mettent à l’épreuve bien plus que vos Pokémon : elles testent votre sang-froid. Gardez le souffle régulier dans la brume et montrez que la stratégie, pas le &#622670Poison&r, fait la victoire !"
+	]
+	quest.60818FF865F50099.quest_subtitle: "Battez Koga en combat !"
+	quest.60818FF865F50099.title: "Johto Deuxième du Conseil 4"
+	quest.60994214FA72A276.quest_subtitle: "Obtenez une Baie Rabuta via la mutation de Baies !"
+	quest.60A0E7B3EE51147B.quest_subtitle: "Apparition ultra-rare dans les biomes Prairie, Pics rocheux, Pentes rocheuses, Pics déchiquetés, Bosquet et Pics gelés pendant un orage !"
+	quest.60A0E7B3EE51147B.title: "Zekrom"
+	quest.60A63A3BD6E9470E.quest_desc: [
+		"Battez Furio en combat pour obtenir le badge &#854424Tempête&r !"
+		""
+		"Les &#FF050Fpoings&r de Furio frappent comme des vagues déchaînées, mettant à l’épreuve votre endurance et votre puissance. Tenez bon dans la tempête et prouvez que votre volonté est plus forte que la marée !"
+	]
+	quest.60A63A3BD6E9470E.quest_subtitle: "Battez Furio en combat !"
+	quest.60A63A3BD6E9470E.title: "Badge &#854424Tempête&r (Furio)"
+	quest.60E2711B769DBA32.quest_subtitle: "Trouvez les Îles Tourbillon dans le biome Océan froid profond !"
+	quest.60E2711B769DBA32.title: "Îles Tourbillon"
+	quest.611F696A263435B6.quest_desc: ["Utilisez certaines Baies, attrapez-le avec une Friend Ball ou baladez-vous simplement avec lui pour monter l’amitié de Type: Null au maximum et le faire évoluer en Silvallié !"]
+	quest.611F696A263435B6.quest_subtitle: "Faites évoluer Type: Null en Silvallié !"
+	quest.611F696A263435B6.title: "Silvallié"
+	quest.611FA09FBFF3A10D.quest_subtitle: "Fabriquez l’Unité Lavage pour transformer Motisma en Forme Lavage !"
+	quest.611FA09FBFF3A10D.title: "Unité Lavage"
+	quest.612EFC3CF52F6DA2.quest_subtitle: "Apparition ultra-rare dans le biome Jungle !"
+	quest.612EFC3CF52F6DA2.title: "Fortusimia"
+	quest.61384D60137F2882.quest_desc: ["Fabriquez l’Arôme d’herbe, puis combinez-le avec une Carte vierge dans n’importe quelle Table de cartographie &#8B4C33Overworld&r afin d’obtenir une carte menant à l’Arène de Gardenia !"]
+	quest.61384D60137F2882.quest_subtitle: "Fabriquez un Arôme d’herbe !"
+	quest.61528B25DD398C57.quest_desc: [""]
+	quest.61528B25DD398C57.quest_subtitle: "Trouvez une Baie Ceriz dans les biomes Plaines !"
+	quest.61578682D958D89B.quest_desc: [
+		"Placez-le dans l’emplacement d’objet tenu de Silvallié pour changer son type en &#4E9FFFEau&r."
+		""
+		"Une fois retiré, il reviendra au type Normal."
+	]
+	quest.61578682D958D89B.quest_subtitle: "Butin aléatoire des Coffres d’épreuve sinistres. Obtenez des Clés d’épreuve sinistres en battant le boss de la Tour de la Team Rocket !"
+	quest.6165FBAE1DB401CE.quest_desc: ["Le Minerai d’acier se trouve dans le biome Deep Dark entre -60 et -1 de hauteur !"]
+	quest.6165FBAE1DB401CE.quest_subtitle: "Minez une Relique de métal dans le Minerai d’acier !"
+	quest.61770E75C9709FCC.quest_desc: ["Fabriquez le Brassard rapace, puis combinez-le avec une Carte vierge dans n’importe quelle Table de cartographie &#8B4C33Overworld&r afin d’obtenir une carte menant à l’Arène de Valerio !"]
+	quest.61770E75C9709FCC.quest_subtitle: "Fabriquez un Brassard rapace !"
+	quest.6184EA6319A35D71.quest_subtitle: "Apparition ultra-rare sous le Dyna-Arbre en journée !"
+	quest.6184EA6319A35D71.title: "Sulfura de Galar"
+	quest.61A49F4B74018F38.quest_subtitle: "Apparition rare dans les biomes Bois de sakura, Forêt fleurie, Prairie et Plaines de tournesols !"
+	quest.61A49F4B74018F38.title: "Hurle-Queue"
+	quest.6224E8D42D331EFE.quest_desc: [""]
+	quest.6224E8D42D331EFE.quest_subtitle: "Trouvez une Baie Remu dans les biomes Montagne ou Taïga !"
+	quest.6229D6CFF331EEA2.quest_desc: [""]
+	quest.6229D6CFF331EEA2.quest_subtitle: "Trouvez une Baie Kébia dans les biomes Forêt, Champignons, Spooky ou Marais !"
+	quest.62427FBC65211340.quest_subtitle: "Faites évoluer Évoli en utilisant une Pierre Eau !"
+	quest.62427FBC65211340.title: "Aquali"
+	quest.6252D1C2144154E0.quest_subtitle: "Trouvez l’Orbe Bleu caché dans le Temple pour libérer Primo-Kyogre !"
+	quest.6263CF17A44DD5A5.quest_subtitle: "Invoquez et capturez Sulfura chromatique !"
+	quest.6263CF17A44DD5A5.title: "&zChromatique&r Sulfura"
+	quest.626448D57A0D02C5.quest_subtitle: "Fabriquez le Fossile originel pour invoquer Mew !"
+	quest.626E9BB1B8A372FF.quest_desc: [""]
+	quest.626E9BB1B8A372FF.quest_subtitle: "Obtenez un Éclat Téracristal Roche en battant un Pokémon de type Roche !"
+	quest.62DD247E716E73B1.quest_desc: [""]
+	quest.62DD247E716E73B1.quest_subtitle: "Invoquez et capturez Mew chromatique !"
+	quest.62DD247E716E73B1.title: "&zChromatique&r Mew"
+	quest.631DE1C9C0D688EB.quest_desc: [""]
+	quest.631DE1C9C0D688EB.quest_subtitle: "Obtenez un Éclat Téracristal Sol en battant un Pokémon de type Sol !"
+	quest.63324A400A88BDC8.quest_desc: [
+		"Battez Erika en combat pour obtenir le badge &4R&r&#FF904Co&r&#FFE04As&r&#256E2Fe&r&#5284FFc&r&#2B31FFé&r&#FF5E8Cw&r !"
+		""
+		"Le calme d’Erika dissimule la force sauvage de la nature. Affrontez ses Pokémon de type &#386A48Plante&r, ses illusions florales, et montrez que l’équilibre, pas la beauté, définit la vraie maîtrise !"
+	]
+	quest.63324A400A88BDC8.quest_subtitle: "Battez Erika en combat !"
+	quest.63324A400A88BDC8.title: "&4R&r&#FF904Co&r&#FFE04As&r&#256E2Fe&r&#5284FFc&r&#2B31FFé&r&#FF5E8Cw&r Badge (Erika)"
+	quest.63A04956089298EC.quest_desc: [
+		"Placez-le dans l’emplacement d’objet tenu d’Arceus pour changer son type en &0Ténèbres&r."
+		""
+		"Une fois retiré, il reviendra au type Normal."
+	]
+	quest.63A04956089298EC.quest_subtitle: "Se trouve dans les Mines abandonnées, les Cités antiques, des coffres aléatoires, ou des tours/structures !"
+	quest.63E82094EE64A2DB.quest_desc: ["Fabriquez la Bandelette de combat, puis combinez-la avec une Carte vierge dans n’importe quelle Table de cartographie &#8B4C33Overworld&r afin d’obtenir une carte menant à l’Arène de Marzia !"]
+	quest.63E82094EE64A2DB.quest_subtitle: "Fabriquez une Bandelette de combat !"
+	quest.63F9D004F7CA2513.quest_desc: ["Fabriquez le Médaillon psy, puis combinez-le avec une Carte vierge dans n’importe quelle Table de cartographie &#8B4C33Overworld&r afin d’obtenir une carte menant à l’Arène de Tell \\& Pat !"]
+	quest.63F9D004F7CA2513.quest_subtitle: "Fabriquez un Médaillon psy !"
+	quest.6434E069D0AAD322.quest_desc: [
+		"[ \"Le Poké Snack préparé dans la \", { \"text\": \"marmite de feu de camp\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"5A57F949AF757A2E\" } }, \" est un objet que vous pouvez poser pour attirer des Pokémon sauvages.\" ]"
+		""
+		"Le type de Pokémon attiré par le Poké Snack dépend des ingrédients d’assaisonnement utilisés pour le cuisiner."
+	]
+	quest.6434E069D0AAD322.quest_subtitle: "Préparez un Poké Snack !"
+	quest.6434E069D0AAD322.title: "Poké Snack"
+	quest.64D52F01D79A1516.quest_subtitle: "Plantez des graines de haricot et récoltez des haricots !"
+	quest.6550E727B9032883.quest_subtitle: "Obtenez une Baie Lichii via la mutation de Baies !"
+	quest.65567009D401C3B2.quest_desc: [
+		"Battez Terrie en combat pour progresser au sein du Conseil 4 de Sinnoh !"
+		""
+		"Les Pokémon &#6A3629Sol&r de Terrie sont robustes et impitoyables. Tenez bon face à sa puissance et brisez ses défenses inébranlables !"
+	]
+	quest.65567009D401C3B2.quest_subtitle: "Battez Terrie en combat !"
+	quest.65567009D401C3B2.title: "Sinnoh Deuxième du Conseil 4"
+	quest.655BBC1A286D27F8.quest_desc: [
+		"Battez Karen en combat pour atteindre la Championne de Johto !"
+		""
+		"Les Pokémon &#0F1218Ténèbres&r de Karen prospèrent dans l’ombre, se nourrissant du doute et de la peur. Laissez votre confiance briller et rappelez-lui que la vraie force vient du cœur !"
+	]
+	quest.655BBC1A286D27F8.quest_subtitle: "Battez Karen en combat !"
+	quest.655BBC1A286D27F8.title: "Johto Quatrième du Conseil 4"
+	quest.65650936ABCA8113.quest_desc: [
+		"Battez le Champion Blue en combat pour décrocher le titre de \"&#FFC272Champion de Kanto&r\" !"
+		""
+		"Confiant et tranchant, Blue est l’épreuve ultime&z multi-type&r. Chacun de ses choix te pousse à prouver ton talent et ton mental. Dépasse sa fierté et montre le vrai cœur d’un Champion !"
+		""
+		"&#FF0514Cartes des Arènes \\& Ligue&r :"
+		"[ { \"text\": \"Clique ici !\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"7C0DA6EC2DD8CD24\" } } ]"
+	]
+	quest.65650936ABCA8113.quest_subtitle: "Battez Blue en combat !"
+	quest.65650936ABCA8113.title: "&#FFC272Champion Blue&r"
+	quest.657A8C119E2CF089.quest_subtitle: "Déterrez des blocs de Météorite de Deoxys cachés dans la météorite pour passer d’une forme de Deoxys à une autre !"
+	quest.6585AE70F0D36234.quest_subtitle: "Invoquez et capturez Regice !"
+	quest.6585AE70F0D36234.title: "Regice"
+	quest.658D290BF45D2BAC.quest_subtitle: "Apparition ultra-rare dans le biome Forêt fleurie en journée !"
+	quest.658D290BF45D2BAC.title: "Xerneas"
+	quest.65939782BBD8D866.quest_subtitle: "Trouvez le Pilier Céleste dans le biome Océan profond à Hoenn !"
+	quest.65939782BBD8D866.title: "Pilier Céleste"
+	quest.65D6EAC610F007B2.quest_desc: [
+		"Placez-le dans l’emplacement d’objet tenu de Silvallié pour changer son type en &#565D70Acier&r."
+		""
+		"Une fois retiré, il reviendra au type Normal."
+	]
+	quest.65D6EAC610F007B2.quest_subtitle: "Butin aléatoire des Coffres d’épreuve sinistres. Obtenez des Clés d’épreuve sinistres en battant le boss de la Tour de la Team Rocket !"
+	quest.65F5C22F94686446.quest_subtitle: "Apparition ultra-rare dans le biome Jungle !"
+	quest.65F5C22F94686446.title: "Zarude"
+	quest.662821677D70E1AB.quest_desc: [""]
+	quest.662821677D70E1AB.quest_subtitle: "Obtenez une Baie Roseli en butin sur ces Pokémon : Absol, Ténéfix, Solochi, Baggiguane, Zorua, Pancham, Griknot... (Impidimp), Morpeko, Nickit !"
+	quest.66398F545180979F.quest_subtitle: "Récoltez la Carotte Ombre-racine plantée au Cimetière Couronne !"
+	quest.664F8E36AE0E335E.quest_subtitle: "Trouvez la Tour Cendrée dans le biome Forêt de bouleaux à Johto !"
+	quest.664F8E36AE0E335E.title: "Tour Cendrée"
+	quest.664FA788FF9C5670.title: "Échange 1 Diamant contre 1 Pièce !"
+	quest.67159D699FF628FE.quest_subtitle: "Apparition ultra-rare dans tous les biomes Océan quand il pleut !"
+	quest.67159D699FF628FE.title: "Boréas"
+	quest.672B6AF5403F8B78.quest_subtitle: "Obtenez une Baie Iapapa via la mutation de Baies !"
+	quest.677132478CC94AF8.quest_desc: ["Fabriquez le Ras-du-cou perlé, puis combinez-le avec une Carte vierge dans une Table de cartographie &l&#952430Nether&r&r afin d’obtenir une carte menant à l’Arène de Sandra !"]
+	quest.677132478CC94AF8.quest_subtitle: "Fabriquez un Ras-du-cou perlé !"
+	quest.67CDB0E984FF17C6.quest_desc: [""]
+	quest.67CDB0E984FF17C6.quest_subtitle: "Utilisez 50 Éclats Téracristal Stellaires pour changer le type Téra de votre Pokémon en &zStellaire&r !"
+	quest.67CDB0E984FF17C6.title: "Type Téra Stellaire"
+	quest.681B265CBF6E37A9.quest_subtitle: "Obtenez l’Aile d’Argent en battant le boss Giovanni dans la Tour Radio Rocket pour invoquer Lugia !"
+	quest.681D892C724D7A8E.quest_desc: [
+		"Placez-le dans l’emplacement d’objet tenu de Giratina pour le changer en Forme Originelle."
+		""
+		"Une fois retiré, il reviendra à sa forme d’origine."
+	]
+	quest.681D892C724D7A8E.quest_subtitle: "Butin après avoir battu Camilla !"
+	quest.6843029E8684E923.quest_subtitle: "Invoquez et capturez Sulfura !"
+	quest.6843029E8684E923.title: "Sulfura"
+	quest.6893FA8E1AB4E169.quest_desc: [""]
+	quest.6893FA8E1AB4E169.quest_subtitle: "Fabriquez un Méga-Anneau !"
+	quest.6893FA8E1AB4E169.title: "Méga-Anneau"
+	quest.68B15C9BBFED8C6D.title: "Achetez 12 Portails de l’End !"
+	quest.68F1636948045034.quest_subtitle: "Obtenez une Baie Kelpsy via la mutation de Baies !"
+	quest.69341AF36BC5352F.quest_desc: [""]
+	quest.69341AF36BC5352F.quest_subtitle: "Trouvez une Baie Fraive dans les biomes arides !"
+	quest.6993B716D1DAF9FB.quest_desc: [
+		"Placez-le dans l’emplacement d’objet tenu d’Arceus pour changer son type en &9Spectre&r."
+		""
+		"Une fois retiré, il reviendra au type Normal."
+	]
+	quest.6993B716D1DAF9FB.quest_subtitle: "Se trouve dans les Mines abandonnées, les Cités antiques, des coffres aléatoires, ou des tours/structures !"
+	quest.6994593D9EC154BE.quest_desc: ["Fabriquez le Radar Sulfura, puis combinez-le avec une Carte vierge dans une Table de cartographie &l&#952430Nether&r&r afin d’obtenir une carte menant à la Tour de Sulfura !"]
+	quest.6994593D9EC154BE.quest_subtitle: "Fabriquez un Radar Sulfura !"
+	quest.69B7480B652E9BB1.quest_desc: [""]
+	quest.69B7480B652E9BB1.quest_subtitle: "Obtenez un Éclat Téracristal Eau en battant un Pokémon de type Eau !"
+	quest.69B8B6275C0AB51D.quest_desc: [
+		"Vous avez récupéré les 8 badges de &#82FF05Hoenn&r, direction le Conseil 4 !"
+		""
+		"Rendez-vous à la Ligue de Hoenn (Steppe) pour commencer votre défi. Battez les 4 membres pour gagner le droit d’affronter le Champion de Hoenn !"
+		""
+		"&#82FF05Cartes des Arènes \\& Ligue&r :"
+		"[ { \"text\": \"Clique ici !\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0A8C3CC12E167F8B\" } } ]"
+	]
+	quest.69B8B6275C0AB51D.quest_subtitle: "Trouvez la Ligue Pokémon de Hoenn !"
+	quest.69B8B6275C0AB51D.title: "Hoenn Conseil 4"
+	quest.69C6D708010EB6AD.quest_subtitle: "Collectez des Apricorns et des pousses d’Apricorn sur les Apricorns sauvages !"
+	quest.69E754DB4A1119F0.quest_desc: ["Fabriquez le Radar Groudon, puis combinez-le avec une Carte vierge dans n’importe quelle Table de cartographie &#8B4C33Overworld&r afin d’obtenir une carte menant au Volcan !"]
+	quest.69E754DB4A1119F0.quest_subtitle: "Fabriquez un Radar Groudon !"
+	quest.69F14BA9B10AE31C.quest_desc: [
+		"Battez Raffaello en combat pour obtenir le badge &#FF0B0BH&r&0iv&r&#FF0A05e&r !"
+		""
+		"La maîtrise de Raffaello sur les Pokémon de type &#719D4BInsecte&r tisse une toile de tactiques malignes. Fendez son essaim avec sang-froid et prouvez que l’adaptation est la vraie marque de l’évolution !"
+	]
+	quest.69F14BA9B10AE31C.quest_subtitle: "Vaincre Raffaello en combat !"
+	quest.69F14BA9B10AE31C.title: "&#FF0B0BH&r&0iv&r&#FF0A05e&r Badge (Raffaello)"
+	quest.6A170D72D6CDA3D0.quest_subtitle: "Faire évoluer Évoli avec une Pierre Plante !"
+	quest.6A170D72D6CDA3D0.title: "Phyllali"
+	quest.6A2770243FDE9E56.quest_subtitle: "Obtenir une Baie Mago via la mutation de baies !"
+	quest.6AA5D3F4F0EE5833.quest_subtitle: "Faire évoluer Évoli avec une Pierre Foudre !"
+	quest.6AA5D3F4F0EE5833.title: "Voltali"
+	quest.6AE160F476570C4A.quest_subtitle: "Fabriquer des Bonbons Dynamax pour augmenter le niveau Dynamax de ton Pokémon !"
+	quest.6AE160F476570C4A.title: "Bonbon Dynamax"
+	quest.6B5A90DA2AA73DEF.quest_desc: ["Permet d’héberger et d’exposer des Pokémon hors de ton équipe afin qu’ils se déplacent librement et interagissent avec toi. Ils peuvent même te laisser une surprise !"]
+	quest.6B5A90DA2AA73DEF.quest_subtitle: "Fabriquer un Pasture Block !"
+	quest.6B5A90DA2AA73DEF.title: "Pasture Block"
+	quest.6B98504D833D9B37.quest_desc: ["Fabriquer une Tablette Normale, puis la combiner avec une Carte Vide dans une Table de Cartographie de l’&#8B4C33Overworld&r pour obtenir une Carte de l’Arène de Norman !"]
+	quest.6B98504D833D9B37.quest_subtitle: "Fabriquer une Tablette Normale !"
+	quest.6C0C1243C016F915.quest_desc: ["Fabriquer un Radar Lugia, puis le combiner avec une Carte Vide dans une Table de Cartographie de l’&#8B4C33Overworld&r pour obtenir une carte menant à l’Île Tourbillon de Lugia !"]
+	quest.6C0C1243C016F915.quest_subtitle: "Fabriquer un Radar Lugia !"
+	quest.6C1E3EF5D7B66CDE.quest_subtitle: "Apparition ultra-rare dans le biome Deep Dark, au sein d’une Cité Antique !"
+	quest.6C1E3EF5D7B66CDE.title: "Giratina"
+	quest.6C1F62B3F4D313FB.quest_desc: [""]
+	quest.6C1F62B3F4D313FB.quest_subtitle: "Obtenir un Éclat Téracristal Feu en vainquant un Pokémon de type Feu !"
+	quest.6C6D5D42AD0C0A3B.quest_desc: ["Fabriquer une Cape du Maître, puis la combiner avec une Carte Vide dans une Table de Cartographie de l’&l&#F7FFC6End&r&r pour obtenir une Carte de la Ligue de Johto !"]
+	quest.6C6D5D42AD0C0A3B.quest_subtitle: "Fabriquer une Cape du Maître !"
+	quest.6C9D318BBBFB71CC.quest_desc: ["Permet de trouver des Pokémon en exploration. Tu peux saisir le nom de n’importe quel Pokémon pour savoir où et quand il apparaît !"]
+	quest.6C9D318BBBFB71CC.quest_subtitle: "Fabriquer un PokéFinder !"
+	quest.6C9D318BBBFB71CC.title: "PokéFinder"
+	quest.6CFF41376AB37C01.quest_subtitle: "Invoquer et capturer Latias !"
+	quest.6CFF41376AB37C01.title: "Latias"
+	quest.6DA1F6622EA8B2C9.quest_subtitle: "Obtenir une Baie Hopo via la mutation de baies !"
+	quest.6DDE648965DA85F3.quest_subtitle: "Chercher un Cristal Z-Vierge dans l’Observatoire !"
+	quest.6E4B9435A23DD309.quest_desc: [
+		"Vaincre Koga en combat pour obtenir le badge &#FF93CESoul&r !"
+		""
+		"Koga se déplace sans être vu, frappant depuis l’ombre. Résiste à ses pièges &#622670Toxiques&r et prouve que ta concentration peut percer la brume la plus dense !"
+	]
+	quest.6E4B9435A23DD309.quest_subtitle: "Vaincre Koga en combat !"
+	quest.6E4B9435A23DD309.title: "&#FF93CESoul&r Badge (Koga)"
+	quest.6E68323B58AC1CEF.quest_desc: [""]
+	quest.6E68323B58AC1CEF.quest_subtitle: "Obtenir un Éclat Téracristal Dragon en vainquant un Pokémon de type Dragon !"
+	quest.6EF78E8EADAECAD0.quest_subtitle: "Fabriquer n’importe quel Anneau Z-Power pour pouvoir utiliser les Capacité Z !"
+	quest.6EFDBB6DBE212809.quest_desc: [""]
+	quest.6EFDBB6DBE212809.quest_subtitle: "Trouver la Tour Gimmi Abandonnée !"
+	quest.6EFDBB6DBE212809.title: "Tour Gimmi Abandonnée"
+	quest.6F006887B5DD8E0B.quest_subtitle: "Apparition rare dans le biome Jungle !"
+	quest.6F006887B5DD8E0B.title: "Fongus-Furie"
+	quest.6F5FDB290DFD0418.quest_subtitle: "Obtenir une Baie Belue via la mutation de baies !"
+	quest.6FF87B71101C853A.quest_desc: [
+		"Vaincre Alfredo en combat pour obtenir le badge &#30A6FFGlacier&r !"
+		""
+		"Le calme glacial d’Alfredo cache des décennies de sagesse et de discipline. Endure ses tactiques gelées et prouve que le feu de ta jeunesse peut faire fondre même l’expérience la plus froide !"
+	]
+	quest.6FF87B71101C853A.quest_subtitle: "Vaincre Alfredo en combat !"
+	quest.6FF87B71101C853A.title: "&#30A6FFGlacier&r Badge (Alfredo)"
+	quest.6FF930DB71CC93F8.quest_subtitle: "Fabriquer l’Unité Ventilateur pour transformer Motisma en forme Ventilateur !"
+	quest.6FF930DB71CC93F8.title: "Unité Ventilateur"
+	quest.700F5892EC342A3D.quest_subtitle: "Apparition ultra-rare dans le biome Plage !"
+	quest.700F5892EC342A3D.title: "Miraidon"
+	quest.7011C6E2DBBA7D76.quest_desc: [""]
+	quest.7011C6E2DBBA7D76.quest_subtitle: "Obtenir un Éclat Téracristal Acier en vainquant un Pokémon de type Acier !"
+	quest.7031EDDEB769A2D4.quest_desc: [""]
+	quest.7031EDDEB769A2D4.quest_subtitle: "Obtenir un Éclat Téracristal Spectre en vainquant un Pokémon de type Spectre !"
+	quest.7051DB3A302B7D2D.quest_desc: ["Briser n’importe quel type de racine fait toujours tomber une seule Racine Énergétique."]
+	quest.7051DB3A302B7D2D.quest_subtitle: "Suspendue au plafond des grottes au-dessus de la couche de deepslate !"
+	quest.709D857B1D2AD7C1.quest_desc: [""]
+	quest.709D857B1D2AD7C1.quest_subtitle: "Attrape ton premier Pokémon chromatique !"
+	quest.709D857B1D2AD7C1.title: "Ton Premier Pokémon &zShiny&r"
+	quest.70A366DA87716259.quest_subtitle: "Briser le dernier stade d’une Herbe Rappel fait tomber 1 à 2 Fleurs Pep-Up"
+	quest.70DD4A0DFD0984BE.quest_desc: [""]
+	quest.70DD4A0DFD0984BE.quest_subtitle: "Trouver une Baie Papaya dans les biomes Désert, Floral, Magique, Savane ou Effrayant !"
+	quest.70EDC63DC2496E0E.quest_desc: ["Fabriquer un Radar Necrozma Ailes Aurore, puis le combiner avec une Carte Vide dans une Table de Cartographie de l’&l&#F7FFC6End&r&r pour obtenir une carte menant à la Tour du Crépuscule !"]
+	quest.70EDC63DC2496E0E.quest_subtitle: "Fabriquer un Radar Necrozma Ailes Aurore !"
+	quest.70F4748FDC3B9C61.quest_subtitle: "Invoquer et capturer Regirock Chromatique !"
+	quest.70F4748FDC3B9C61.title: "&zShiny&r Regirock"
+	quest.711B4BCD90278EA5.title: "Fabriquer un Feu de Camp"
+	quest.71FB90B108B1D2E0.quest_desc: ["Fabriquer une Plume Volante, puis la combiner avec une Carte Vide dans une Table de Cartographie de l’&#8B4C33Overworld&r pour obtenir une Carte de l’Arène d’Alice !"]
+	quest.71FB90B108B1D2E0.quest_subtitle: "Fabriquer une Plume Volante !"
+	quest.722085FB745C80FD.quest_subtitle: "Collecter 50 Éclats Téracristal Stellaire !"
+	quest.722085FB745C80FD.title: "50 Éclats Téracristal Stellaire"
+	quest.7225563FDE10A7A4.quest_subtitle: "Apparition ultra-rare dans l’End !"
+	quest.7225563FDE10A7A4.title: "Ethernatos"
+	quest.72DD1356F26C51BB.quest_desc: [""]
+	quest.72DD1356F26C51BB.quest_subtitle: "Obtenir un Éclat Téracristal Vol en vainquant un Pokémon de type Vol !"
+	quest.7347687D138BC30C.quest_desc: [""]
+	quest.7347687D138BC30C.quest_subtitle: "Trouver la Maison de Sacha dans le biome Plaines !"
+	quest.7347687D138BC30C.title: "Maison de Sacha"
+	quest.737EE014577C5F2D.quest_desc: [""]
+	quest.737EE014577C5F2D.quest_subtitle: "Ressusciter Anorith en utilisant le &#EBFF45Fossile Griffe&r dans la Machine de Restauration !"
+	quest.737EE014577C5F2D.title: "Ressusciter Anorith"
+	quest.74621726B38004DD.quest_desc: ["3× chances d’apparition en journée !"]
+	quest.74621726B38004DD.quest_subtitle: "Attraper Entei Chromatique près de la Tour Cendrée !"
+	quest.74621726B38004DD.title: "&zShiny&r Entei"
+	quest.74A93472D684FA8F.quest_subtitle: "Invoquer et capturer Registeel !"
+	quest.74A93472D684FA8F.title: "Registeel"
+	quest.74C4DAB9D2B0BBFC.quest_subtitle: "Invoquer et capturer Celebi Chromatique !"
+	quest.74C4DAB9D2B0BBFC.title: "&zShiny&r Celebi"
+	quest.74C8481122DEEA64.quest_subtitle: "Trouver l’Herbe Rappel dans les Grottes Luxuriantes !"
+	quest.752B11EB6EA415B7.quest_desc: [
+		"Placer l’objet dans l’emplacement d’objet tenu de Silvallié pour changer son type en &#FF783AFire&r."
+		""
+		"Une fois retiré, il redevient de type Normal."
+	]
+	quest.752B11EB6EA415B7.quest_subtitle: "Butin aléatoire des Coffres d’Épreuves Ominous, obtenez des Clés d’Épreuve Ominous en vainquant le boss de la Tour de la Team Rocket !"
+	quest.7530755917865FBD.quest_desc: ["Utilisé pour exposer des objets rares, des Poké Balls ou des objets de collection à des fins décoratives ou de référence !"]
+	quest.7530755917865FBD.quest_subtitle: "Fabriquer un Piédestal !"
+	quest.7530755917865FBD.title: "Piédestal"
+	quest.757C3429CBBDE124.quest_subtitle: "Fabriquer l’Unité Four pour transformer Motisma en forme Four !"
+	quest.757C3429CBBDE124.title: "Unité Four"
+	quest.75969455148170AC.quest_desc: [""]
+	quest.75969455148170AC.quest_subtitle: "Cuisiner tous les plats &6CobbleCuisine&r pour obtenir deux Master Balls !"
+	quest.75969455148170AC.title: "Tous les manger !"
+	quest.75F978B1E39C1091.quest_subtitle: "Cherche une grande tombe, puis jette une Carotte Shaderoot dedans pour invoquer Spectrier !"
+	quest.75F978B1E39C1091.title: "Spectrier"
+	quest.761A63864834610F.quest_subtitle: "Utiliser une brosse sur du Sable Suspect dans un Site Archéologique pour obtenir une Pierre Scintillante Sombre !"
+	quest.764E9FD93FFE1C1A.quest_subtitle: "Attrape davantage de Pokémon et complète ton équipe de 6 !"
+	quest.764E9FD93FFE1C1A.title: "Équipe Complète"
+	quest.765971F12F119CEB.quest_desc: [""]
+	quest.765971F12F119CEB.quest_subtitle: "Trouver une Baie Nanab dans les biomes Jungle ou Marais !"
+	quest.765D5611DA57D109.quest_subtitle: "Maximiser toutes les statistiques de monture d’un Pokémon en lui donnant de l’Aprijus issu de différentes saveurs !"
+	quest.765D5611DA57D109.title: "Stats Maximales"
+	quest.768B1CFF89837E48.quest_desc: [
+		"Tu as collecté les 8 Badges de &#106CFFJohto&r — il est temps d’affronter le Conseil 4 !"
+		""
+		"Rends-toi à la Tour du Conseil 4 dans &#772AB7The End&r pour commencer ton défi. Vaincs les 4 membres pour gagner le droit d’affronter le Champion de Johto !"
+		""
+		"&#106CFFArènes \\& Ligue&r :"
+		"[ { \"text\": \"Clique ici !\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"5DA3EBD97480D3C4\" } } ]"
+	]
+	quest.768B1CFF89837E48.quest_subtitle: "Trouver la Ligue Pokémon de Johto !"
+	quest.768B1CFF89837E48.title: "Conseil 4 de Johto"
+	quest.76DAFAD122916CCC.quest_desc: [
+		"Placer l’objet dans l’emplacement d’objet tenu de Silvallié pour changer son type en &#719D4BBug&r."
+		""
+		"Une fois retiré, il redevient de type Normal."
+	]
+	quest.76DAFAD122916CCC.quest_subtitle: "Butin aléatoire des Coffres d’Épreuves Ominous, obtenez des Clés d’Épreuve Ominous en vainquant le boss de la Tour de la Team Rocket !"
+	quest.77931A451F72C283.quest_subtitle: "Collecter des Graines de Haricot en cassant de l’herbe courte !"
+	quest.77931A451F72C283.title: "Graines de Haricot"
+	quest.7797AB848553F05A.quest_subtitle: "Collecter des Feuilles de Menthe sur des plants de menthe trouvés dans la nature !"
+	quest.77D9071D420969FE.quest_desc: ["Fabriquer un Masque Eau, puis le combiner avec une Carte Vide dans une Table de Cartographie de l’&#8B4C33Overworld&r pour obtenir une Carte de l’Arène d’Omar !"]
+	quest.77D9071D420969FE.quest_subtitle: "Fabriquer un Masque Eau !"
+	quest.78020A754F4F01F4.quest_desc: [
+		"Vaincre Morgane en combat pour obtenir le badge &#FFCD6FMarsh&r !"
+		""
+		"Morgane plie la réalité grâce à ses pouvoirs &#8F316BPsychiques&r. Garde une volonté inébranlable — un seul doute, et tes pensées deviendront ta prison !"
+	]
+	quest.78020A754F4F01F4.quest_subtitle: "Vaincre Morgane en combat !"
+	quest.78020A754F4F01F4.title: "&#FFCD6FMarsh&r Badge (Morgane)"
+	quest.7824482E9ADF775B.quest_subtitle: "Trouver le Temple de Regirock dans le biome Désert Luxuriant à Hoenn !"
+	quest.7824482E9ADF775B.title: "Temple de Regirock"
+	quest.78292FA77022653F.quest_desc: ["Fabriquer un Bâton Hivernal, puis le combiner avec une Carte Vide dans une Table de Cartographie de l’&#8B4C33Overworld&r pour obtenir une Carte de l’Arène d’Alfredo !"]
+	quest.78292FA77022653F.quest_subtitle: "Fabriquer un Bâton Hivernal !"
+	quest.788498BFCE9DE33B.quest_desc: ["Le Poké Appât est un objet pouvant être attaché à une Canne à Pêche comme appât, avec divers effets selon l’assaisonnement utilisé !"]
+	quest.788498BFCE9DE33B.title: "Fabriquer un Poké Appât"
+	quest.78B384641F20D91A.quest_desc: [""]
+	quest.78B384641F20D91A.quest_subtitle: "Trouver une Baie Passho dans les biomes Côtier, Eau Douce, Île ou Océan !"
+	quest.794CF1D3743688FE.quest_desc: [""]
+	quest.794CF1D3743688FE.quest_subtitle: "Ressusciter Arkéapti en utilisant le &#8385FFFossile Plume&r dans la Machine de Restauration !"
+	quest.794CF1D3743688FE.title: "Ressusciter Arkéapti"
+	quest.7A0B40134A198B80.quest_desc: [
+		"Félicitations pour avoir vaincu le Champion de Hoenn !"
+		""
+		"Ton prochain défi est celui des Arènes de Sinnoh. Vaincs les 8 Champions et collecte leurs Badges."
+		""
+		"Merci de redémarrer ton monde après avoir vaincu le Champion Rocco afin que les Arènes de &#FF2EAASinnoh&r puissent se générer."
+		"(Désolé, c’est ainsi que fonctionne le modpack !)"
+		""
+		"&#FF2EAAGyms \\& Ligue&r :"
+		"[ { \"text\": \"Clique ici !\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0D47E527E6F73D28\" } } ]"
+	]
+	quest.7A0B40134A198B80.quest_subtitle: "Trouver la première Arène de Sinnoh et commencer à collecter les Badges !"
+	quest.7A0B40134A198B80.title: "Arènes de Sinnoh"
+	quest.7A5A532DF0F25D75.quest_subtitle: "Apparition ultra-rare dans le biome Plaines de Tournesols !"
+	quest.7A9463500B98755C.quest_subtitle: "Obtenir une Baie Lansat via la mutation de baies !"
+	quest.7AE1C303AD95628D.quest_subtitle: "Fabriquer l’Unité Réfrigérateur pour transformer Motisma en forme Réfrigérateur !"
+	quest.7AE1C303AD95628D.title: "Unité Réfrigérateur"
+	quest.7AEA525DC0F5B697.quest_desc: ["Clic droit sur Oricorio avec un Nectar Violet pour changer sa forme en Style Sensu."]
+	quest.7AEA525DC0F5B697.quest_subtitle: "Fabriquer un Nectar Violet !"
+	quest.7B1E0D44B64C1E36.quest_desc: [""]
+	quest.7B1E0D44B64C1E36.quest_subtitle: "Ressusciter Arctozolt en utilisant &6Oiseau Fossilisé&r et &#5E4FFFFossile Dino&r dans la Machine de Restauration !"
+	quest.7B1E0D44B64C1E36.title: "Ressusciter Arctozolt"
+	quest.7B5263F8392BE6F0.quest_desc: [
+		"Placer l’objet dans l’emplacement d’objet tenu de Silvallié pour changer son type en &#6A3629Sol&r."
+		""
+		"Une fois retiré, il redevient de type Normal."
+	]
+	quest.7B5263F8392BE6F0.quest_subtitle: "Butin aléatoire des Coffres d’Épreuves Ominous, obtenez des Clés d’Épreuve Ominous en vainquant le boss de la Tour de la Team Rocket !"
+	quest.7BC6F724F1E393EE.quest_desc: [""]
+	quest.7BC6F724F1E393EE.quest_subtitle: "Trouver une Baie Nanana dans les biomes Arides !"
+	quest.7BEB926070B840EF.quest_subtitle: "Vaincre l’Admin Apollo dans la Tour Radio pour obtenir le Cœur Obscur !"
+	quest.7CB77BFBCF7C93A8.quest_subtitle: "Faire évoluer Meltan en Melmetal en le montant au niveau 70 tout en tenant une Enclume !"
+	quest.7CB77BFBCF7C93A8.title: "Melmetal"
+	quest.7CF8D81142353BAD.quest_desc: [""]
+	quest.7CF8D81142353BAD.quest_subtitle: "Trouver une Baie Haban dans les biomes Jungle, Magique, Montagne, Ciel ou Volcanique !"
+	quest.7D0DE721F3E31E34.quest_desc: [""]
+	quest.7D0DE721F3E31E34.quest_subtitle: "Ressusciter Arctovish en utilisant &#A0FF4AFossile Drake&r et &#5E4FFFFossile Dino&r dans la Machine de Restauration !"
+	quest.7D0DE721F3E31E34.title: "Ressusciter Arctovish"
+	quest.7D287680D90D613C.quest_subtitle: "Obtenir la Rosée Saphir en vainquant le Champion de Hoenn Rocco pour invoquer Latios !"
+	quest.7D3311A23B29FB40.quest_desc: [""]
+	quest.7D3311A23B29FB40.quest_subtitle: "Faire évoluer &#874C31Évoli&r en toutes ses formes !"
+	quest.7D3311A23B29FB40.title: "Fais évoluer-les tous : Évoli !"
+	quest.7D7201E2E6EBA14C.quest_subtitle: "Collecter des Graines de Menthe en récoltant des plants de menthe !"
+	quest.7D758383E4774587.quest_subtitle: "Obtenir une Baie Maranga via la mutation de baies !"
+	quest.7D9F61E8956B2B6B.quest_desc: ["Fabriquer une Fronde du Rival, puis la combiner avec une Carte Vide dans une Table de Cartographie de &l&#F7FFC6l’End&r&r pour obtenir une Carte de la Ligue de Kanto !"]
+	quest.7D9F61E8956B2B6B.quest_subtitle: "Fabriquer une Fronde du Rival !"
+	quest.7E1480583CEBA4C6.quest_subtitle: "Obtenir une Baie Qualot via la mutation de baies !"
+	quest.7EA216363C997225.quest_desc: [
+		"1. Équipe l’un des Accessoires Méga en faisant un clic droit tout en le tenant en main."
+		""
+		"2. Ton Pokémon doit tenir sa Méga-Gemme correspondante. Avec la Méga-Gemme en main droite, vise ton Pokémon, puis fais Maj + clic droit et choisis \"Changer l’objet tenu\"."
+		""
+		"3. En combat : clique sur le bouton de Méga-Évolution, puis choisis une attaque."
+		""
+		"4. Hors combat : vise ton Pokémon, fais Maj + clic droit et choisis \"Méga-Évolution\"."
+	]
+	quest.7EA216363C997225.quest_subtitle: "Méga-évoluer un Pokémon !"
+	quest.7EA216363C997225.title: "Méga-Évolution"
+	quest.7F3B6D439DACE855.quest_subtitle: "Collecter des Apricorns et des Pousses d’Apricorn sur les arbres à Apricorns trouvés dans la nature !"
+	quest.7F44752FAEDC9581.quest_desc: ["Utilisé pour exposer des objets rares, des Poké Balls ou des objets de collection à des fins décoratives ou de référence !"]
+	quest.7F44752FAEDC9581.quest_subtitle: "Fabriquer une Vitrine !"
+	quest.7F44752FAEDC9581.title: "Vitrine"
+	quest.7FFA1234E5E6111C.quest_desc: ["Fabriquer une Clé Rocket, puis la combiner avec une Carte Vide dans une Table de Cartographie de l’&#8B4C33Overworld&r pour obtenir une Carte de la Tour de la Team Rocket !"]
+	quest.7FFA1234E5E6111C.quest_subtitle: "Fabriquer une Clé Rocket !"
+	reward.2B703510B61EC385.title: "10 PokéDollars"
+	reward.35E5B438E2BA74DA.title: "1000 PokéDollars"
+	reward.6A28038E4E1FAC07.title: "100 PokéDollars"
+	reward.740122F35A10896F.title: "1000 PokéDollars"
+	reward_table.03691623482CA61F.title: "PokéNavs"
+	reward_table.0974FEEBF2892AD5.title: "Pokédex"
+	reward_table.229A212FD1958900.title: "Bonbons"
+	reward_table.25A699FF246D3DFD.title: "Z-Rings"
+	reward_table.47C9C4284F205D61.title: "PokéFinders"
+	reward_table.4C78724E05769FA8.title: "Boosts"
+	reward_table.5E93FA892A1F238F.title: "Médicaments"
+	reward_table.640A47595391B71F.title: "Pièces"
+	task.02AD93416028096D.title: "Attrape-les toutes… les baies !"
+	task.06BB541F22BCCF86.title: "Attraper Raikou"
+	task.07CFB99DEC9B3E31.title: "Attrape-les toutes… les plantes !"
+	task.09A9181EF9437635.title: "Fusion"
+	task.0E7CEB252F5CCC9F.title: "Fusion !"
+	task.0F19BA27730971C2.title: "Attraper Évoli"
+	task.0FB26D3F9204043E.title: "Fais évoluer-les tous : Évoli !"
+	task.11986DAC5345187D.title: "Tous les manger !"
+	task.142E50A6E9FD2CCB.title: "Badge Roche"
+	task.14D82A9FBE422C7F.title: "Noctali"
+	task.17F9426F19366228.title: "Arènes de Kanto !"
+	task.1B10787679400D9A.title: "Cartes de Johto !"
+	task.1CAA310D4E8A5CDA.title: "Tu as des Balls, gamin !"
+	task.206D46E2557CAF0C.title: "Attraper Celebi Shiny"
+	task.20915F3F70059AE0.title: "Attrape-les toutes… les plantes !"
+	task.271439E2FC25E344.title: "Givrali"
+	task.2AE1D33F61786C31.title: "Comment Dynamax !"
+	task.2DDEB71994D8D1F4.title: "Lieux du Cobbleverse !"
+	task.331F7FFB66CA3CF2.title: "Attraper Raikou Shiny"
+	task.35C1B040867AE34E.title: "Ressuscite-les tous !"
+	task.3920985533B3B53A.title: "Bienvenue dans le Cobbleverse !"
+	task.3B13B9FDD6B8BA54.title: "Cartes de Kanto !"
+	task.3D59DA5339EEB1D5.title: "Pyroli"
+	task.41E494809F121B33.title: "Cartes de Hoenn !"
+	task.4813C2A1AB01480E.title: "Méga-Évoluer !"
+	task.489E3B0156EFDAC2.title: "Phyllali"
+	task.4C73C0B23FD793CA.title: "Hameçonne-les tous !"
+	task.4D4B5968BDC17C9D.title: "Attraper Suicune Shiny"
+	task.4F9D1C178A11ADBC.title: "Comment Gigamaxer Urshifu !"
+	task.501344F40B022A6E.title: "Un d’entre eux !"
+	task.50533185418B0CD9.title: "Aquali"
+	task.54E806F12C5C5432.title: "Fais évoluer-les tous !"
+	task.55E9406641CF64DD.title: "Arène de Pierre"
+	task.5978CC780EEE32A7.title: "Soigne-les tous !"
+	task.59958CF1F951AFA6.title: "Attraper Entei Shiny"
+	task.611045E2B57FD7CE.title: "Attraper Rayquaza Shiny"
+	task.67FB424D3A8B9149.title: "Attraper un Pokémon"
+	task.6F7A491AA5FD4248.title: "Nymphali"
+	task.703C02E08C0B3DAA.title: "Attraper Suicune"
+	task.7148BE5EA879941C.title: "Comment utiliser les Z-Moves ?"
+	task.724C162CCAF3B7E6.title: "Attraper Entei"
+	task.7675D102177EDE26.title: "Attraper un Pokémon Shiny"
+	task.771333CC48B19678.title: "Attrape-les tous !"
+	task.7A56191B63B44F31.title: "Mentali"
+	task.7AAA74F84D81BE29.title: "Tiens les tous !"
+	task.7B3E23254ACCC979.title: "Cartes de Sinnoh !"
+	task.7C847ACCAEAB5E39.title: "Comment Gigamaxer !"
+	task.7D044A4844DFF261.title: "Trouver une Mégasite !"
+	task.7F3F5555EE829D1F.title: "Voltali"
+	task.7F496645F7F7EE8A.title: "Gotta Power 'em All!"
+}

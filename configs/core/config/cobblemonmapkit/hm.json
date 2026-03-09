@@ -1,0 +1,50 @@
+{
+  "respawn_time_seconds": {
+    "rocksmash": 60,
+    "cut": 60,
+    "strength": 60
+  },
+  "flash_duration_seconds": 60,
+  "required_items": {
+    "rocksmash": {
+      "item": "mapkit:steel_badge",
+      "message": "❌ You need the Steel Badge to use Rock Smash!"
+    },
+    "fly": {
+      "item": null,
+      "message": "❌ You need a special item to use Fly!"
+    },
+    "cut": {
+      "item": null,
+      "message": "❌ You need a knife or machete to use Cut!"
+    },
+    "strength": {
+      "item": null,
+      "message": "❌ You need a heavy item to use Strength!"
+    },
+    "flash": {
+      "item": null,
+      "message": "❌ You need a Flash Item to use Flash!"
+    },
+    "teleport": {
+      "item": null,
+      "message": "❌ You need a Teleport Item to use Teleport!"
+    },
+    "rockclimb": {
+      "item": null,
+      "message": "❌ You need climbing gear to use Rock Climb!"
+    },
+    "ultrahole": {
+      "item": null,
+      "message": "❌ You need Ultrabeast to summon a Ultra Hole!"
+    }
+  },
+  "ultrahole_settings": {
+    "destinationDimension": "minecraft:the_end",
+    "x": 0.0,
+    "y": 64.0,
+    "z": 0.0,
+    "durationTicks": 800
+  },
+  "flyAcrossDim": false
+}

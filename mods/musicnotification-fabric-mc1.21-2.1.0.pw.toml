@@ -1,6 +1,7 @@
 name = "Music Notification"
 filename = "MusicNotification-fabric-mc1.21-2.1.0.jar"
 side = "client"
+tier = "base"
 
 [download]
 url = "https://cdn.modrinth.com/data/A4YQgwzz/versions/Bmx4tcaK/MusicNotification-fabric-mc1.21-2.1.0.jar"

@@ -1,6 +1,7 @@
 name = "Default Options"
 filename = "defaultoptions-fabric-1.21.1-21.1.5.jar"
 side = "client"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/WEg59z5b/versions/LxHdpgVy/defaultoptions-fabric-1.21.1-21.1.5.jar"

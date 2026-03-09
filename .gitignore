@@ -2,3 +2,19 @@ index_mods.py
 index_resourcepacks.py
 index_report.json
 fix_custom_urls.py
+fix_server_side.py
+fix_server_side_v2.py
+fix_tiers.py
+sync_configs.py
+
+# Generated pack outputs (built by build_packs.py / GH Actions)
+low/
+base/
+ultra/
+_site/
+
+# Python cache
+__pycache__/
+
+# Agent trash
+.agenttrash/

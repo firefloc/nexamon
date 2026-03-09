@@ -1,6 +1,7 @@
 name = "Puff Radio"
 filename = "JigglyRadio.zip"
 side = "client"
+tier = "base"
 
 [download]
 url = "https://cdn.modrinth.com/data/YLcccJCk/versions/tcx4Tjc6/JigglyRadio1.4.zip"

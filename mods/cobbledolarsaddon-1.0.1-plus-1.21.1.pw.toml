@@ -1,6 +1,7 @@
 name = "cobbledollars addon"
 filename = "Cobbledolarsaddon-1.0.1+1.21.1.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/U9CQIPCV/versions/qe0La8V5/Cobbledolarsaddon-1.0.1%2B1.21.1.jar"

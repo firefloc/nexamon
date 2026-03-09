@@ -1,6 +1,7 @@
 name = "CavsCobbleMons RP.zip"
 filename = "CavsCobbleMons RP.zip"
 side = "client"
+tier = "core"
 
 [download]
 url = "https://github.com/firefloc/nexamon/releases/download/v1.0.0-custom/CavsCobbleMons.RP.zip"

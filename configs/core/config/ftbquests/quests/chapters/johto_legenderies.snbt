@@ -1,0 +1,1013 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "johto_legenderies"
+	group: "4827DCA20016B109"
+	id: "43ABEC1E8C7AB131"
+	images: [
+		{
+			height: 2.0d
+			image: "cobblemon_quests:item/lugia"
+			rotation: 0.0d
+			width: 2.0d
+			x: -4.0d
+			y: 2.5d
+		}
+		{
+			height: 2.0d
+			image: "cobblemon_quests:item/lugia-shiny"
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.0d
+			y: 2.5d
+		}
+		{
+			height: 2.0d
+			image: "cobblemon_quests:item/ho-oh"
+			rotation: 0.0d
+			width: 2.0d
+			x: -13.0d
+			y: -6.0d
+		}
+		{
+			height: 2.0d
+			image: "cobblemon_quests:item/ho-oh-shiny"
+			rotation: 0.0d
+			width: 2.0d
+			x: -8.0d
+			y: -6.0d
+		}
+		{
+			height: 4.0d
+			image: "cobblemon_quests:item/celebi"
+			rotation: 0.0d
+			width: 4.0d
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			height: 1.5d
+			image: "ftbquests:block/barrier_open"
+			rotation: 0.0d
+			width: 1.5d
+			x: -1.5d
+			y: -5.5d
+		}
+		{
+			click: "https://www.lumyverse.com/cobbleverse/how-to-catch-all-legendary-mythical-pokemon/"
+			height: 0.75d
+			hover: ["Need more details on how to Catch Legendaries? This will open the wiki page!"]
+			image: "cobblemon:textures/gui/pokedex/scan/scan_unknown.png"
+			rotation: 0.0d
+			width: 0.75d
+			x: -1.5d
+			y: -5.5d
+		}
+		{
+			height: 4.0d
+			image: "cobblemon_quests:item/celebi-shiny"
+			rotation: 0.0d
+			width: 4.0d
+			x: 7.0d
+			y: 3.0d
+		}
+		{
+			height: 1.5d
+			image: "cobblemon_quests:item/entei-shiny"
+			rotation: 0.0d
+			width: 1.5d
+			x: -14.0d
+			y: 2.0d
+		}
+		{
+			height: 1.5d
+			image: "cobblemon_quests:item/entei"
+			rotation: 0.0d
+			width: 1.5d
+			x: -14.0d
+			y: -1.0d
+		}
+		{
+			height: 1.5d
+			image: "cobblemon_quests:item/suicune"
+			rotation: 0.0d
+			width: 1.5d
+			x: -12.0d
+			y: 4.5d
+		}
+		{
+			height: 1.5d
+			image: "cobblemon_quests:item/suicune-shiny"
+			rotation: 0.0d
+			width: 1.5d
+			x: -9.5d
+			y: 4.5d
+		}
+		{
+			height: 1.5d
+			image: "cobblemon_quests:item/raikou-shiny"
+			rotation: 0.0d
+			width: 1.5d
+			x: -7.0d
+			y: -1.0d
+		}
+		{
+			height: 1.5d
+			image: "cobblemon_quests:item/raikou"
+			rotation: 0.0d
+			width: 1.5d
+			x: -7.0d
+			y: 2.5d
+		}
+		{
+			color: 1579032
+			height: 10.0d
+			image: "sophisticatedstorage:block/barrel_side_packed"
+			rotation: 0.0d
+			width: 0.2d
+			x: -5.5d
+			y: 0.0d
+		}
+		{
+			color: 1579032
+			height: 10.0d
+			image: "sophisticatedstorage:block/barrel_side_packed"
+			rotation: 0.0d
+			width: 0.2d
+			x: 2.5d
+			y: 0.0d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["60E2711B769DBA32"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/silver_wing"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "47F40A14BF09BD12"
+			rewards: [
+				{
+					count: 5
+					id: "182404E0446294BE"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1BF8D8FF133CB00C"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				advancement: "cobbleverse:pokemon/catch_lugia"
+				criterion: ""
+				id: "2361E46965C655B5"
+				type: "advancement"
+			}]
+			x: -3.75d
+			y: 0.75d
+		}
+		{
+			dependencies: ["60E2711B769DBA32"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/silver_wing_shiny"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "20FC08360393822F"
+			rewards: [
+				{
+					count: 8
+					id: "33860C9A62568DFF"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "639F68DF868679B7"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				advancement: "cobbleverse:pokemon/catch_lugia_shiny"
+				criterion: ""
+				id: "15EB2F9CEE9C286F"
+				type: "advancement"
+			}]
+			x: 0.75d
+			y: 0.75d
+		}
+		{
+			dependencies: [
+				"2A3C737A6FADD814"
+				"5551B93A4D34567E"
+			]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/rainbow_wing"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "133B933693414CB0"
+			rewards: [
+				{
+					count: 5
+					id: "51FD37E022167075"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3B6540C6F523790A"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				advancement: "cobbleverse:pokemon/catch_hooh"
+				criterion: ""
+				id: "7BDA28244FADD47E"
+				type: "advancement"
+			}]
+			x: -12.0d
+			y: -4.5d
+		}
+		{
+			dependencies: [
+				"2A3C737A6FADD814"
+				"5551B93A4D34567E"
+			]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/rainbow_wing_shiny"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "0A89AC156A3989E7"
+			rewards: [
+				{
+					count: 8
+					id: "7F8D6DF742E74F7F"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "012ACA8106A9AF1D"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				advancement: "cobbleverse:pokemon/catch_hooh_shiny"
+				criterion: ""
+				id: "27803B3F2BD31C85"
+				type: "advancement"
+			}]
+			x: -9.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:textures/map/decorations/celebi.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "121C07E7FE81E2E1"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2539D9C78A46CD8F"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					count: 3
+					id: "0614536EE6D8716F"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				icon: {
+					id: "minecraft:filled_map"
+				}
+				id: "73164138131963A6"
+				structure: "cobbleverse:celebi_shrine"
+				type: "structure"
+			}]
+			x: 5.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["121C07E7FE81E2E1"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/gs_ball"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "17AC515A82A97FCC"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "48F6841BB3871E25"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					count: 3
+					id: "10367D9DC55042A4"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3F93467077E2C4C7"
+				item: { count: 1, id: "lumymon:gs_ball" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["17AC515A82A97FCC"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/gs_ball"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5D105B8B1B613103"
+			rewards: [
+				{
+					count: 5
+					id: "3780BB9671625CF7"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "50E98D9203B7DE97"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				advancement: "cobbleverse:pokemon/catch_celebi"
+				criterion: ""
+				id: "45E0DEF8A11BD3FC"
+				type: "advancement"
+			}]
+			x: 4.25d
+			y: 1.5d
+		}
+		{
+			dependencies: ["17AC515A82A97FCC"]
+			icon: {
+				components: {
+					"ftbquests:icon": "minecraft:genomons/gs_ball"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "74C4DAB9D2B0BBFC"
+			rewards: [
+				{
+					count: 8
+					id: "64B80D7D0971EDA6"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0697D1FB259BE9C5"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				action: "catch"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "206D46E2557CAF0C"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:celebi"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 6.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0D97117805AD175E"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/silver_wing"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "681B265CBF6E37A9"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2F970152DA586D12"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "5E28051989E6BC38"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7E33AE597751CECA"
+				item: { count: 1, id: "lumymon:silver_wing" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["681B265CBF6E37A9"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:textures/map/decorations/lugia.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 0.9d
+			id: "60E2711B769DBA32"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "37626E9053409B88"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					count: 3
+					id: "2B93A0242E691F0A"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				id: "10B940F2A04A134F"
+				structure: "cobbleverse:whirl_island"
+				type: "structure"
+			}]
+			x: -1.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:textures/map/decorations/rocket_radio_tower.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "0D97117805AD175E"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6D58524D7F6CFA16"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					count: 3
+					id: "234C0CBB6EE3218F"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				icon: {
+					id: "minecraft:filled_map"
+				}
+				id: "722AEDE169D53691"
+				structure: "cobbleverse:rocket_radio_tower"
+				type: "structure"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:textures/map/decorations/burned_tower.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "664F8E36AE0E335E"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7E868F9E9885727A"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					count: 3
+					id: "0F90C1A3AAB8BC31"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				icon: {
+					id: "minecraft:filled_map"
+				}
+				id: "080068AC1EE562E2"
+				structure: "cobbleverse:burned_tower"
+				type: "structure"
+			}]
+			x: -10.5d
+			y: 0.75d
+		}
+		{
+			dependencies: ["664F8E36AE0E335E"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/rainbow_wing"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "4AA3DF8563E733D1"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "094A3FC9B870121E"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "5D1B89F16922E0E9"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "15398A3DF84EDF92"
+				item: { count: 1, id: "lumymon:rainbow_wing" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["4AA3DF8563E733D1"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:textures/map/decorations/bell_tower.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5551B93A4D34567E"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0B721587AC451EF3"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					count: 3
+					id: "0C9A544EDF8EC3C8"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				id: "4EAEC2B7088F8808"
+				structure: "cobbleverse:bell_tower"
+				type: "structure"
+			}]
+			x: -10.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["664F8E36AE0E335E"]
+			id: "03C9EB5A54EFE4B8"
+			rewards: [
+				{
+					count: 5
+					id: "4DABB55C1C431A52"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "78E620CE15681C76"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				action: "catch"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "06BB541F22BCCF86"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:raikou"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -8.25d
+			y: 1.5d
+		}
+		{
+			dependencies: ["664F8E36AE0E335E"]
+			id: "334459244F006053"
+			rewards: [
+				{
+					count: 8
+					id: "68F012A0E0166E71"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1651BBAE0E26EF7A"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				action: "catch"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "331F7FFB66CA3CF2"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:raikou"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -8.25d
+			y: 0.0d
+		}
+		{
+			dependencies: ["664F8E36AE0E335E"]
+			id: "2DB5AD09C2F41A96"
+			rewards: [
+				{
+					count: 5
+					id: "30C06BF4D60C3FC9"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "22490F4FA67B4C4B"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				action: "catch"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "703C02E08C0B3DAA"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:suicune"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -11.25d
+			y: 3.0d
+		}
+		{
+			dependencies: ["664F8E36AE0E335E"]
+			id: "2DAD8D2916082EB6"
+			rewards: [
+				{
+					count: 8
+					id: "6306A96A98F0D03C"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3EE406EEDA09B960"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				action: "catch"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "4D4B5968BDC17C9D"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:suicune"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -9.75d
+			y: 3.0d
+		}
+		{
+			dependencies: ["664F8E36AE0E335E"]
+			id: "74621726B38004DD"
+			rewards: [
+				{
+					count: 8
+					id: "5C1FD151B33EC79F"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "483D163D73F31330"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				action: "catch"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "59958CF1F951AFA6"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:entei"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -12.75d
+			y: 1.5d
+		}
+		{
+			dependencies: ["664F8E36AE0E335E"]
+			id: "55003C6458ADE099"
+			rewards: [
+				{
+					count: 5
+					id: "24DECE353D29CFEC"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4A15F318E4F72661"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				action: "catch"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "724C162CCAF3B7E6"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:entei"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -12.75d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0D97117805AD175E"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/corrupted_shard"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "078AD18833E69135"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5BBABE2637E5CE4F"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				count: 8L
+				id: "7093207C4B572786"
+				item: { count: 1, id: "lumymon:corrupted_shard" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["0D97117805AD175E"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/shadow_heart"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "7BEB926070B840EF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2DE82E5F9C1A0E22"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6508EAD5615362E2"
+				item: { count: 1, id: "lumymon:shadow_heart" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"078AD18833E69135"
+				"7BEB926070B840EF"
+			]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/shadow_soul_stone"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "3137EBD2241E3768"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "139CAF0EE829528D"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6767B54B6BCFAF3E"
+				item: { count: 1, id: "lumymon:shadow_soul_stone" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -3.5d
+		}
+	]
+}

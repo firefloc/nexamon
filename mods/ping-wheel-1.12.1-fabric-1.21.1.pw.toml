@@ -1,6 +1,7 @@
 name = "Ping Wheel"
 filename = "Ping-Wheel-1.12.1-fabric-1.21.1.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/QQXAdCzh/versions/KGV5bulZ/Ping-Wheel-1.12.1-fabric-1.21.1.jar"

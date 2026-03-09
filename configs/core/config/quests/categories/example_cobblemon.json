@@ -1,0 +1,40 @@
+{
+  "id": "example_cobblemon",
+  "title": "Example: Cobblemon",
+  "order": 1000,
+  "quests": [
+    {
+      "id": "ultra_20",
+      "label": "Catch 20 Pokémon with Ultra Balls",
+      "type": "COUNT_CAPTURES_WITH_BALL",
+      "params": { "ballId": "cobblemon:ultra_ball" },
+      "target": 20,
+      "reward": {
+        "items": [
+          { "itemId": "cobblemon:ultra_ball", "count": 10 }
+        ],
+        "commands": [
+          "say {player} completed Ultra Ball challenge!"
+        ]
+      }
+    },
+    {
+      "id": "evo_5",
+      "label": "Evolve 5 Pokémon",
+      "type": "COUNT_EVOLUTIONS",
+      "target": 5,
+      "reward": {
+        "money": 2000,
+        "commands": [
+          "say {player} evolved 5 Pokémon!"
+        ]
+      }
+    },
+    {
+      "id": "berries_10",
+      "label": "Harvest berries 10 times",
+      "type": "COUNT_BERRY_HARVESTS",
+      "target": 10
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	default_quest_size: 2.0d
+	filename: "hoenn_elite_four"
+	group: "272513F47AC86E00"
+	icon: {
+		components: {
+			"ftbquests:icon": "cobblemon:item/advancements/cobblemon_logo_green"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "1020220ECBA88704"
+	images: [
+		{
+			height: 3.0d
+			image: "cobblemon_quests:item/sidney"
+			rotation: 0.0d
+			width: 3.0d
+			x: -4.0d
+			y: -2.0d
+		}
+		{
+			height: 2.5d
+			image: "cobblemon_quests:item/phoebe-masters"
+			rotation: 0.0d
+			width: 2.5d
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			height: 2.5d
+			image: "cobblemon_quests:item/glacia"
+			rotation: 0.0d
+			width: 2.5d
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			height: 3.0d
+			image: "cobblemon_quests:item/drake-gen3"
+			rotation: 0.0d
+			width: 3.0d
+			x: 5.0d
+			y: -2.0d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["69B8B6275C0AB51D"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/dark_bass"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "54612F2E44423D9F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "77E6D58EA5AEEC02"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2FEE4146B1472E7B"
+					table_id: 6815066128165839759L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2261D0BF1A4EC749"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "cobbleverse:trainer/hoenn/defeat_elite_fosco"
+				criterion: ""
+				id: "47546DF1A3567160"
+				type: "advancement"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["54612F2E44423D9F"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/ghost_bloom"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "3ADC0E6772867AE0"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "68D130434BB2C0A9"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "10820973B5259FF9"
+					table_id: 6815066128165839759L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "45289A802AC7B449"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "cobbleverse:trainer/hoenn/defeat_elite_ester"
+				criterion: ""
+				id: "4590DB28ACBF28E8"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3ADC0E6772867AE0"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/ice_necklace"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "153B42AFEB5F9670"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1086B51740489FE1"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "51B988419605ED21"
+					table_id: 6815066128165839759L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "29ACA0069E44D52E"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "cobbleverse:trainer/hoenn/defeat_elite_frida"
+				criterion: ""
+				id: "5AAC54EA5894C473"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["153B42AFEB5F9670"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/dragon_cap"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "4BA05B905DCF0450"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1BCEBDAA550AE2B1"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2551806BB2FACB1B"
+					table_id: 5510279823512477608L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5BF7302A948932E3"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "cobbleverse:trainer/hoenn/defeat_elite_drake"
+				criterion: ""
+				id: "30BAF0F357F0C750"
+				type: "advancement"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3638994A7F17AFED"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:block/hoenn_cartography_table_front"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 0.9d
+			id: "69B8B6275C0AB51D"
+			shape: "rsquare"
+			tasks: [{
+				id: "1695E27F0928EA0A"
+				structure: "cobbleverse:hoenn_league"
+				type: "structure"
+			}]
+			x: -7.0d
+			y: -3.0d
+		}
+	]
+}

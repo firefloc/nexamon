@@ -1,0 +1,67 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	default_quest_size: 3.0d
+	filename: "hoenn_champion"
+	group: "272513F47AC86E00"
+	icon: {
+		components: {
+			"ftbquests:icon": "cobbleversebadges:item/hoenn_league_trophy"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "0D0B0716EC45C880"
+	images: [{
+		height: 4.0d
+		image: "cobblemon_quests:item/steven"
+		rotation: 0.0d
+		width: 4.0d
+		x: 1.5d
+		y: -3.5d
+	}]
+	order_index: 2
+	quest_links: [ ]
+	quests: [{
+		dependencies: ["4BA05B905DCF0450"]
+		icon: {
+			components: {
+				"ftbquests:icon": "cobbleversebadges:item/hoenn_league_trophy"
+			}
+			id: "ftbquests:custom_icon"
+		}
+		id: "57A9EC6A63B26566"
+		rewards: [
+			{
+				id: "550F85E739300CC7"
+				item: {
+					count: 1
+					id: "cobblemon:rare_candy"
+				}
+				type: "item"
+			}
+			{
+				exclude_from_claim_all: true
+				id: "33EE8E4CC2FF36E3"
+				table_id: 5510279823512477608L
+				type: "random"
+			}
+			{
+				id: "2B95894E74E1B171"
+				item: {
+					count: 1
+					id: "cobblemon:relic_coin_pouch"
+				}
+				type: "item"
+			}
+		]
+		shape: "octagon"
+		tasks: [{
+			advancement: "cobbleverse:trainer/hoenn/defeat_champion_rocco"
+			criterion: ""
+			id: "721E93DA1149B9BE"
+			type: "advancement"
+		}]
+		x: 1.5d
+		y: 0.0d
+	}]
+}

@@ -1,6 +1,7 @@
 name = "Biome Replacer"
 filename = "biomereplacer-2.1-hippo-fabric.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/DAXbR0Wj/versions/IeQCQzcl/biomereplacer-2.1-hippo-fabric.jar"

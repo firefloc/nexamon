@@ -1,6 +1,7 @@
 name = "Cobblemon Map Kit"
 filename = "CobblemonMapKitMod-1.0.8-SNAPSHOT.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/88rQFbH3/versions/qRw60VFE/CobblemonMapKitMod-1.0.8-SNAPSHOT.jar"

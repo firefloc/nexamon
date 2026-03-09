@@ -1,6 +1,7 @@
 name = "Fresh Animations"
 filename = "Fresh Animations.zip"
 side = "client"
+tier = "base"
 
 [download]
 url = "https://cdn.modrinth.com/data/50dA9Sha/versions/F9QwVhGH/FreshAnimations_v1.10.3.zip"

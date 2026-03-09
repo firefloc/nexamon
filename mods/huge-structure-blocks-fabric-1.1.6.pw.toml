@@ -1,6 +1,7 @@
 name = "Huge Structure Blocks"
 filename = "huge-structure-blocks-fabric-1.1.6.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/AMLtKGdJ/versions/jZrAT0D5/huge-structure-blocks-fabric-1.1.6.jar"

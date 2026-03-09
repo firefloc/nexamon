@@ -1,0 +1,2039 @@
+{
+	chapter.008CC261F35A7805.title: "Generation VI (6)"
+	chapter.066158EB9A2DAF26.title: "Generation V (5)"
+	chapter.0BF415E12AA9ABE0.title: "Poké Rods !"
+	chapter.0D0B0716EC45C880.title: "Champion !"
+	chapter.1020220ECBA88704.title: "Elite Four !"
+	chapter.1472E6AC3EE66D62.title: "Dynamax \\& Gigantamax !"
+	chapter.1839394B9F452169.title: "Generation VIII (8)"
+	chapter.18B1DEB31A23C049.title: "Poké Balls !"
+	chapter.1B0E5D0CED5C600C.title: "Locations !"
+	chapter.1D8CB429DA2243D2.title: "Evolution Items !"
+	chapter.211FCB576565CD4B.title: "The Beginning !"
+	chapter.2623C5AC186BB224.title: "Generation IX (9)"
+	chapter.29B5FF4288515F44.title: "Z-Moves !"
+	chapter.2F5466DB63F8D674.title: "Champion !"
+	chapter.30C2B0346B02F577.title: "Generation VII (7)"
+	chapter.362FC2E7698D11DD.title: "Champion !"
+	chapter.39839EF1B134613B.title: "Badges !"
+	chapter.3B8391675D6DC885.title: "Foodie !"
+	chapter.3BEABD607533CFCF.title: "Badges !"
+	chapter.3D61312671719F0E.title: "Champion !"
+	chapter.3FAAF64134E794CB.title: "Generation I (1)"
+	chapter.3FCFFB7956A3D182.title: "Fossils !"
+	chapter.41AFF2DA138387A8.title: "Omni Ring !"
+	chapter.430284DBA72F6FCD.title: "Holding Items !"
+	chapter.43ABEC1E8C7AB131.title: "Generation II (2)"
+	chapter.456A7B79EC4BE573.title: "Medicine \\& PowerUps !"
+	chapter.45A5E7C50E557319.title: "Mega Evolution !"
+	chapter.486AB1E2FCF6AF59.title: "Eeveelutions !"
+	chapter.545C06ECACEEAC49.title: "Elite Four !"
+	chapter.58ECBF286AB860B8.title: "Elite Four !"
+	chapter.59517BC7C17AD9CD.title: "Plants !"
+	chapter.5A9E6A212D1026BB.title: "Paradox"
+	chapter.5BC3200F9B07DFB0.title: "Other Unique Forms !"
+	chapter.5E24587AC936477D.title: "Elite Four !"
+	chapter.5EBA1DE7FEE41287.title: "Berries !"
+	chapter.6187957A8895DBF9.title: "Generation IV (4)"
+	chapter.633DF32822519C20.title: "Badges !"
+	chapter.634EE64E777B6BE0.title: "Generation III (3)"
+	chapter.68FC3BCD45EACCD0.title: "Badges !"
+	chapter.7CFF3563420B8C92.title: "Terastalization !"
+	chapter.7D81F917A36C958B.title: "Fusions !"
+	chapter_group.0D71855D01B1484A.title: "&#568553Mega Showdown&r !"
+	chapter_group.11BEA68691B3DB4C.title: "Chapter 2: &#0736FFJohto&r"
+	chapter_group.272513F47AC86E00.title: "Chapter 3: &2Hoenn&r"
+	chapter_group.4827DCA20016B109.title: "&#B95FFFLegendary&r, &#FFBF74Mythical&r, &#8F2536Paradox&r !"
+	chapter_group.5A414AC1BCA19975.title: "&#FFF974Collector&r !"
+	chapter_group.5D79B3BD438A8363.title: "Chapter 4: &#FF5DA7Sinnoh&r"
+	chapter_group.7A3B25ABFD04C294.title: "Chapter 1: &4Kanto&r"
+	quest.005F4760EFCB952E.quest_subtitle: "Ultra-Rare spawn in Meadow, Grove, Snowy Slopes,Jagged Peaks, Frozen Peaks, Stony Peaks biomes!"
+	quest.005F4760EFCB952E.title: "Volcanion"
+	quest.009D6B0704C825EE.quest_desc: [""]
+	quest.009D6B0704C825EE.quest_subtitle: "Find Coba Berry in Peak, Temperate or Sky Biomes!"
+	quest.00D105BB8339C3B9.quest_subtitle: "Summon and catch Legendary Rayquaza!"
+	quest.00D105BB8339C3B9.title: "Rayquaza"
+	quest.0112832716E8727F.quest_desc: [
+		"Defeat Alice in Battle to get the &#69AFFFFeather&r Badge!"
+		""
+		"Alice’s &#9AB6FFFlying-type&r Pokémon soar with pride. Ground her plans with clever strategy and reach new heights!"
+	]
+	quest.0112832716E8727F.quest_subtitle: "Defeat Alice in Battle!"
+	quest.0112832716E8727F.title: "&#69AFFFFeather&r Badge (Alice)"
+	quest.01B0251080F4C765.quest_desc: [""]
+	quest.01B0251080F4C765.quest_subtitle: "Obtain Dark Tera Shard by defeating a Dark-type Pokémon!"
+	quest.01B459E62D92659D.quest_subtitle: "Ultra-Rare spawn in Dark Forest biome when at night!"
+	quest.01B459E62D92659D.title: "Yveltal"
+	quest.01B9BD934F0FD87C.quest_desc: [""]
+	quest.01B9BD934F0FD87C.quest_subtitle: "Craft Tera Orb, then use Right Click to equip it!"
+	quest.01B9BD934F0FD87C.title: "Tera Orb"
+	quest.01EAC47694E9247A.quest_subtitle: "Ultra-Rare spawn in Stony Peaks, Jagged Peaks, Frozen Peaks, Snowy Slopes biomes at night when the weather is clear!"
+	quest.01EAC47694E9247A.title: "Dialga"
+	quest.023BA60FD6212391.quest_subtitle: "Ultra-Rare spawn in Beach biome!"
+	quest.023BA60FD6212391.title: "Mesprit"
+	quest.02A428333C13CCEB.quest_subtitle: "Evolve Eevee with high friendship with it knowing a Fairy-Type move!"
+	quest.02A428333C13CCEB.title: "Sylveon"
+	quest.02FD55D3061FB0DE.quest_desc: [
+		"Welcome to &#3588FFCOB&rBLE&#FFD64EVERSE&r, Start your adventure and just have fun!"
+		""
+		"&#A8FF65&lNote: Each rounded square means the start of a quest line!&r&r"
+	]
+	quest.02FD55D3061FB0DE.quest_subtitle: "Click on the check mark to complete this quest!"
+	quest.02FD55D3061FB0DE.title: "Welcome to Cobbleverse !"
+	quest.034CF2F3A7BD2E38.quest_desc: ["Craft Ghost Pendant, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a Map of Fannie’s Gym Location!"]
+	quest.034CF2F3A7BD2E38.quest_subtitle: "Craft Ghost Pendant!"
+	quest.037F17A48E12CDF1.title: "Buy 12 Ender Eyes !"
+	quest.0398DE49A8C41B14.quest_subtitle: "Find Volcano in Deep Warm Ocean Biome in Hoenn!"
+	quest.0398DE49A8C41B14.title: "Volcano"
+	quest.03C9EB5A54EFE4B8.quest_desc: ["3× Chance to spawn during thunder!"]
+	quest.03C9EB5A54EFE4B8.quest_subtitle: "Catch Raikou near Burned Tower!"
+	quest.03C9EB5A54EFE4B8.title: "Raikou"
+	quest.03FF0E36D82B9ED1.quest_subtitle: "Craft a Reassembly Unit!"
+	quest.040853A6CB2BB70A.quest_desc: [
+		"Place it in Silvally's Held Item slot to change its type to &#83BFFFFlying&r-type."
+		""
+		"Once removed it will change back to Normal-type."
+	]
+	quest.040853A6CB2BB70A.quest_subtitle: "Random drop from Ominous Trial Vaults, Get Ominous Trial Keys by defeating team rocket tower boss!"
+	quest.0412555EDD02C321.quest_desc: [""]
+	quest.0412555EDD02C321.quest_subtitle: "Obtain Wishing Star by breaking Wishing Star Crystal!"
+	quest.0412555EDD02C321.title: "Wishing Star"
+	quest.042C93A9650C2F9A.quest_desc: [""]
+	quest.042C93A9650C2F9A.quest_subtitle: "Revive Shieldon by using &#FF8F6BArmor Fossil&r in Restoration Machine!"
+	quest.042C93A9650C2F9A.title: "Revive Shieldon"
+	quest.044CEBE36ABD4C6E.quest_subtitle: "Ultra-Rare spawn in The End!"
+	quest.044CEBE36ABD4C6E.title: "Cosmoem"
+	quest.04835FCA0F96EFAF.quest_subtitle: "Summon and catch Legendary Kyogre!"
+	quest.04835FCA0F96EFAF.title: "Kyogre"
+	quest.04979E3541CCF29F.quest_subtitle: "Get Custap Berry through Berry Mutating!"
+	quest.04ED3B92B305C3D2.quest_desc: [""]
+	quest.04ED3B92B305C3D2.quest_subtitle: "Prepare Max Sweet Soup and give it to Urshifu!"
+	quest.04ED3B92B305C3D2.title: "Max Sweet Soup"
+	quest.0548F85BD3E8AAB1.quest_desc: [""]
+	quest.0548F85BD3E8AAB1.quest_subtitle: "Obtain Fairy Tera Shard by defeating a Fairy-type Pokémon!"
+	quest.056CCE8AEC55AA7D.quest_desc: ["Craft Cinnabar Glasses, then combine it with an Empty Map in &l&#952430Nether&r&r Cartography Table to obtain a Map of Blaine’s Gym Location!"]
+	quest.056CCE8AEC55AA7D.quest_subtitle: "Craft Cinnabar Glasses!"
+	quest.056CEC5FDCB3921D.quest_desc: ["Craft Magnifying Glass, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a Map of Raffaello’s Gym Location!"]
+	quest.056CEC5FDCB3921D.quest_subtitle: "Craft Magnifying Glass!"
+	quest.05CD90796AD241A0.quest_subtitle: "Summon and catch Shiny Legendary Regice!"
+	quest.05CD90796AD241A0.title: "&zShiny&r Regice"
+	quest.05DD48CCC386EC3F.quest_subtitle: "Ultra-Rare spawn in The End!"
+	quest.05DD48CCC386EC3F.title: "Necrozma"
+	quest.05E58B21B7AB848C.quest_subtitle: "Obtain both Kyurem Fusion Forms!"
+	quest.05E58B21B7AB848C.title: "Black and White"
+	quest.060A335AB9769087.quest_subtitle: "Locate Gyms, Leagues, and Legendary Pokémon structures!"
+	quest.06225330AE907264.quest_desc: ["Used to see who you can catch while fishing!"]
+	quest.06225330AE907264.quest_subtitle: "Craft a FishingNav!"
+	quest.06225330AE907264.title: "FishingNav"
+	quest.06A54B8A3EEF0632.quest_subtitle: "Ultra-Rare spawn in all Forest biomes!"
+	quest.06A54B8A3EEF0632.title: "Regieleki"
+	quest.06A91D098D66DF74.quest_desc: [
+		"Defeat Corrado in Battle to get the &#FFC776Bea&rc&#8D8D8Don&r Badge!"
+		""
+		"Corrado’s &#FFD861Electric-type&r Pokémon spark with energy. Stay alert and prove that no current can stop your power!"
+	]
+	quest.06A91D098D66DF74.quest_subtitle: "Defeat Corrado in Battle!"
+	quest.06A91D098D66DF74.title: "&#FFC776Bea&rc&#8D8D8Don&r Badge (Corrado)"
+	quest.0728A7D663A17F6F.quest_subtitle: "Obtain Ash Cap by defeating him in battle or collecting it in his room!"
+	quest.0728A7D663A17F6F.title: "Ash Cap"
+	quest.074628B32F22A35F.quest_desc: ["Right Click Kubfu with Scroll of Darkness."]
+	quest.074628B32F22A35F.quest_subtitle: "Find Scroll of Darkness in a Desert Pyramid by using a brush on Suspicious Sand or Gravel!"
+	quest.078AD18833E69135.quest_subtitle: "Find 8 Corrupted Shards hidden inside Radio Tower!"
+	quest.079C0EAB9972CC43.quest_subtitle: "Find Emerald Emblem hidden in Sky Pillar!"
+	quest.085C0A07D4764981.quest_desc: ["Right Click Oricorio with Pink Nectar to change its form to Pa'u Style."]
+	quest.085C0A07D4764981.quest_subtitle: "Craft a Pink Nectar!"
+	quest.087B7D2C2FCCD5B4.quest_desc: [
+		"Defeat Vulcano in Battle to advance through the Elite Four of Sinnoh!"
+		""
+		"Vulcano’s &#FF7749Fire&r Pokémon blaze with intensity and force. Face the heat without fear and push through his scorching strength!"
+	]
+	quest.087B7D2C2FCCD5B4.quest_subtitle: "Defeat Vulcano in Battle!"
+	quest.087B7D2C2FCCD5B4.title: "Sinnoh Third Elite"
+	quest.08AD363504827E24.quest_subtitle: "Place the Crown on Calyrex’s statue to summon it!"
+	quest.08AD363504827E24.title: "Calyrex"
+	quest.093699C4947C82D2.quest_subtitle: "Rare spawn in Dark Forest, Deep Dark biomes!"
+	quest.093699C4947C82D2.title: "Flutter Mane"
+	quest.099C322568AFB6F9.quest_desc: [""]
+	quest.099C322568AFB6F9.quest_subtitle: "Find Vivichoke Seeds through wandering traders, village houses, and certain structure's chests!"
+	quest.09A3D8BF648FD961.quest_subtitle: "Prepare Max Soup and give it to your Pokémon!"
+	quest.09A3D8BF648FD961.title: "Max Soup"
+	quest.0A0EB70368A61DCC.quest_desc: [""]
+	quest.0A0EB70368A61DCC.quest_subtitle: "Found in Plains (Ultra-Rare), or can be revived with a Fossilized Helmet (dropped by the Team Rocket Scientist in Team Rocket Tower) in Restoration Machine!"
+	quest.0A0EB70368A61DCC.title: "Type: Null"
+	quest.0A22300BEB394EFA.quest_subtitle: "Ultra-Rare spawn in Deep Dark!"
+	quest.0A22300BEB394EFA.title: "Marshadow"
+	quest.0A479909202B2559.quest_subtitle: "Ultra-Rare spawn in Beach biome!"
+	quest.0A479909202B2559.title: "Uxie"
+	quest.0A89AC156A3989E7.quest_subtitle: "Summon and catch Shiny Legendary Ho-Oh!"
+	quest.0A89AC156A3989E7.title: "&zShiny&r Ho-Oh"
+	quest.0AFB7782EE044EAD.quest_desc: ["Craft Electric Fuse, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a Map of Corrado’s Gym Location!"]
+	quest.0AFB7782EE044EAD.quest_subtitle: "Craft Electric Fuse!"
+	quest.0B1DBB5AB3845AB2.quest_desc: [""]
+	quest.0B1DBB5AB3845AB2.quest_subtitle: "Find Oran Berry in any Biome!"
+	quest.0B22EECE3C094194.quest_subtitle: "Get Tamato Berry through Berry Mutating!"
+	quest.0B502AB5A7358516.quest_subtitle: "Ultra-Rare spawn in Dripstone Caves!"
+	quest.0B502AB5A7358516.title: "Genesect"
+	quest.0B595C77E6EA2E84.quest_subtitle: "Harvest the Iceroot Carrot planted at the Crown Spire!"
+	quest.0B91219C515B33FC.quest_desc: [
+		"1. Equip Dynamax Band by using Right Click while holding it in your right hand."
+		""
+		"2. Feed your Pokemon Max Soup (or Max Sweet Soup if it's Urshifu)."
+		""
+		"3. You need to to be within 20 blocks of a Power Spot."
+		""
+		"4. To Gigantamax in battle: Click the Dynamax button, then choose any move."
+	]
+	quest.0B91219C515B33FC.quest_subtitle: "Gigantamax a Pokémon!"
+	quest.0B91219C515B33FC.title: "Gigantamax"
+	quest.0BADB2706119833A.quest_subtitle: "Find any of these Berries and use them for Berry Mutating!"
+	quest.0BADB2706119833A.title: "Lum Berry Parents"
+	quest.0BCD6868379707C9.quest_subtitle: "Ultra-Rare spawn in Dark Forest biome at night!"
+	quest.0BCD6868379707C9.title: "Darkrai"
+	quest.0BD1133509008A8D.quest_subtitle: "Evolve Kubfu into Rapid Strike Style Urshifu by using Scroll of Waters!"
+	quest.0BD1133509008A8D.title: "Rapid Strike Style Urshifu"
+	quest.0C0B95617B4A289A.quest_subtitle: "Ultra-Rare spawn in Ice Spikes biome when it is raining!"
+	quest.0C0B95617B4A289A.title: "Kyurem"
+	quest.0C208229F620CD40.quest_desc: [
+		"Place it in Silvally's Held Item slot to change its type to &#FFB7E2Fairy&r-type."
+		""
+		"Once removed it will change back to Normal-type."
+	]
+	quest.0C208229F620CD40.quest_subtitle: "Random drop from Ominous Trial Vaults, Get Ominous Trial Keys by defeating team rocket tower boss!"
+	quest.0C40FE0242F0A093.quest_subtitle: "Ultra-Rare spawn in Meadow, Grove, Snowy Slopes,Jagged Peaks, Frozen Peaks, Stony Peaks biomes at night!"
+	quest.0C40FE0242F0A093.title: "Roaring Moon"
+	quest.0CC1FBC4C4D49392.quest_desc: [""]
+	quest.0CC1FBC4C4D49392.quest_subtitle: "Craft all &#020202Poké Rods&r to get a Master Ball!"
+	quest.0CC1FBC4C4D49392.title: "Gotta Hook 'em All!"
+	quest.0D4F83C70CE87C29.quest_desc: [""]
+	quest.0D4F83C70CE87C29.quest_subtitle: "Prepare yourself for your first Terastalization!"
+	quest.0D4F83C70CE87C29.title: "Tera-iffic Creation!"
+	quest.0D7F0660CBC00FFE.quest_subtitle: "Get Micle Berry through Berry Mutating!"
+	quest.0D97117805AD175E.quest_subtitle: "Find Rocket Radio Tower in Savanna Biome in Johto!"
+	quest.0D97117805AD175E.title: "Rocket Radio Tower"
+	quest.0D97C5344EE8CE8F.quest_subtitle: "Ultra-Rare spawn in Mangrove Swamp biome!"
+	quest.0D97C5344EE8CE8F.title: "Wo-Chien"
+	quest.0DB909B0FD28B9A5.quest_desc: [
+		"1. Right‑Click on Zekrom with the DNA Splicers to charge them."
+		""
+		"2. Right‑Click on Kyurem with the charged Splicers to transform it into Black Kyurem."
+		""
+		"(You can &nundo&r the fusion by using Right-Click on Black Kyurem with DNA Splicers)"
+	]
+	quest.0DB909B0FD28B9A5.quest_subtitle: "Fuse Kyurem with Zekrom to get Black Kyurem!"
+	quest.0DB909B0FD28B9A5.title: "Black Kyurem Fusion"
+	quest.0DE4DBAB33452111.quest_subtitle: "Summon and catch Shiny Legendary Kyogre!"
+	quest.0DE4DBAB33452111.title: "&zShiny&r Kyogre"
+	quest.0DFEEFAA88CEAB48.quest_desc: [""]
+	quest.0DFEEFAA88CEAB48.quest_subtitle: "Find Colbur Berry in Badlands, Spooky or Taiga Biomes!"
+	quest.0E06E3498F158291.quest_subtitle: "Summon and catch Shiny Legendary Zapdos!"
+	quest.0E06E3498F158291.title: "&zShiny&r Zapdos"
+	quest.0E33E095CBC95FA7.quest_subtitle: "Evolve Eevee using an Ice Stone!"
+	quest.0E33E095CBC95FA7.title: "Glaceon"
+	quest.0E35F70DB36D4052.quest_desc: ["Right Click Oricorio with Yellow Nectar to change its form to Pom-Pom Style."]
+	quest.0E35F70DB36D4052.quest_subtitle: "Craft a Yellow Nectar!"
+	quest.0E71F3652D4EA2F7.quest_desc: ["Craft an Steel Hat, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a Map of Hoenn League Location!"]
+	quest.0E71F3652D4EA2F7.quest_subtitle: "Craft Steel Hat!"
+	quest.0E7510E524B2BDEC.quest_desc: ["Craft Sweet Milk, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a Map of Chiara’s Gym Location!"]
+	quest.0E7510E524B2BDEC.quest_subtitle: "Craft Sweet Milk!"
+	quest.0E787685D592AFFC.quest_desc: [
+		"You’ve collected all 8 &#FF0514Kanto&r Badges — it’s time for the Elite Four!"
+		""
+		"Go to the Elite Four Tower in &#772AB7The End&r to begin your challenge. Defeat all 4 members to earn the right to face the Kanto Champion!"
+		""
+		"&#FF0514Gyms \\& League Maps&r :"
+		"[ { \"text\": \"Click Here!\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"7C0DA6EC2DD8CD24\" } } ]"
+	]
+	quest.0E787685D592AFFC.quest_subtitle: "Find the Kanto Pokémon League!"
+	quest.0E787685D592AFFC.title: "Kanto Elite 4"
+	quest.0E88A7F1D07438BD.quest_subtitle: "Get Spelon Berry through Berry Mutating!"
+	quest.0EEAB8742DFC89A7.quest_subtitle: "Find Secret Garden in Deep Lukewarm Ocean Biome in Hoenn!"
+	quest.0EEAB8742DFC89A7.title: "Secret Garden"
+	quest.0EF2E98AE8867002.quest_desc: [
+		"Congrats on beating Johto’s Champion!"
+		""
+		"Your next challenge is the Hoenn Gyms. Defeat all 8 Leaders and collect their Badges."
+		""
+		"Please restart your world after beating Lance for &#82FF05Hoenn&r Gyms to start generation."
+		"(Sorry, that’s just how the modpack works!)"
+		""
+		"&#82FF05Gyms \\& League Maps&r :"
+		"[ { \"text\": \"Click Here!\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0A8C3CC12E167F8B\" } } ]"
+	]
+	quest.0EF2E98AE8867002.quest_subtitle: "Find the first Hoenn Gym and start collecting Badges!"
+	quest.0EF2E98AE8867002.title: "Hoenn Gyms"
+	quest.0F7B4BA231DA2AC4.quest_desc: ["Breaking either type of root will always drop a single Big Root."]
+	quest.0F7B4BA231DA2AC4.quest_subtitle: "Found hanging from the ceilings of caves above the deepslate layer!"
+	quest.0FAF5C154E4CC224.quest_subtitle: "Summon and catch Legendary Latios!"
+	quest.0FAF5C154E4CC224.title: "Latios"
+	quest.0FF89F37E6141C8D.quest_subtitle: "Obtain both Calyrex Fusion Forms!"
+	quest.0FF89F37E6141C8D.title: "Ice and Shadow"
+	quest.102FA36986394529.quest_desc: [""]
+	quest.102FA36986394529.quest_subtitle: "Summon and catch Mew!"
+	quest.102FA36986394529.title: "Mew"
+	quest.1073536FDB271B25.quest_desc: [""]
+	quest.1073536FDB271B25.quest_subtitle: "Find a Team Rocket Tower in Badlands Biome in Kanto!"
+	quest.1073536FDB271B25.title: "Team Rocket Tower"
+	quest.10E7617929623D39.quest_desc: [""]
+	quest.10E7617929623D39.quest_subtitle: "Craft any Z-Ring to be able to use Z-Moves!"
+	quest.11615D7CD0C5EFE0.quest_desc: ["Craft Fighting Glove, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a Map of Rudi’s Gym Location!"]
+	quest.11615D7CD0C5EFE0.quest_subtitle: "Craft Fighting Glove!"
+	quest.121C07E7FE81E2E1.quest_subtitle: "Find Ilex Shrine in Taiga Biome in Johto!"
+	quest.121C07E7FE81E2E1.title: "Ilex Shrine"
+	quest.12EA4F70C04D5CED.quest_subtitle: "Find Smithing Template from fishing or loot chests!"
+	quest.1311FD98E021E9AF.quest_subtitle: "Evolve Eevee with high friendship during the night!"
+	quest.1311FD98E021E9AF.title: "Umbreon"
+	quest.13130CA03346A08F.quest_desc: [
+		"Defeat Giovanni in Battle to get the &#05721BEar&r&#AEFFB0th&r badge!"
+		""
+		"Giovanni commands power, control, and ambition. Defeat his &#7C371EGround-type&r forces to claim the Earth Badge — the final proof that strength without honor means nothing!"
+	]
+	quest.13130CA03346A08F.quest_subtitle: "Defeat Giovanni in Battle!"
+	quest.13130CA03346A08F.title: "&#05721BEar&r&#AEFFB0th&r Badge (Giovanni)"
+	quest.133805E6A31D3E4D.quest_subtitle: "Find Deoxys Meteorite in Small End Islands Biome in Hoenn!"
+	quest.133805E6A31D3E4D.title: "Deoxys Meteorite"
+	quest.133B933693414CB0.quest_subtitle: "Summon and catch Legendary Ho-Oh!"
+	quest.133B933693414CB0.title: "Ho-Oh"
+	quest.136E581D1BB5FF4E.quest_desc: ["Craft Onyx Stone, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a Map of Brock’s Gym Location!"]
+	quest.136E581D1BB5FF4E.quest_subtitle: "Craft an Onyx Stone!"
+	quest.137867AE57F06215.quest_subtitle: "Plant Bean Seeds and harvest Beans!"
+	quest.13BBEADA7EED5527.quest_desc: [""]
+	quest.13BBEADA7EED5527.quest_subtitle: "Obtain Poison Tera Shard by defeating a Poison-type Pokémon!"
+	quest.13CC7133283FD572.quest_desc: ["Craft Regirock Radar, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a map of Temple of Regirock location!"]
+	quest.13CC7133283FD572.quest_subtitle: "Craft Regirock Radar!"
+	quest.13F27E26C674F4A5.quest_desc: [
+		"Defeat Omar in Battle to get the &#838383F&re&#539EFFn&r Badge!"
+		""
+		"Omar’s &#66A9FFWater-type&r Pokémon flow with speed and power. Ride the waves of battle and show your mastery!"
+	]
+	quest.13F27E26C674F4A5.quest_subtitle: "Defeat Omar in Battle!"
+	quest.13F27E26C674F4A5.title: "&#838383F&re&#539EFFn&r Badge (Omar)"
+	quest.142E3870762DF970.quest_desc: ["Craft Fire Lighter, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a Map of Fiammetta’s Gym Location!"]
+	quest.142E3870762DF970.quest_subtitle: "Craft Fire Lighter!"
+	quest.145986C6F62725EF.quest_subtitle: "Summon and catch Shiny Deoxys!"
+	quest.145986C6F62725EF.title: "&zShiny&r Deoxys"
+	quest.145CF266951A966D.quest_subtitle: "Get Jaboca Berry through Berry Mutating!"
+	quest.14BAB68C888A9078.quest_subtitle: "Collect Apricorns and Apricorn Sprouts from Apricorn trees found in the wild!"
+	quest.14D615E06A5D0E95.quest_desc: [""]
+	quest.14D615E06A5D0E95.quest_subtitle: "Revive Cranidos by using &#FF904CSkull Fossil&r in Restoration Machine!"
+	quest.14D615E06A5D0E95.title: "Revive Cranidos"
+	quest.14D70E7DD8855D2B.quest_subtitle: "Get Nomel Berry through Berry Mutating!"
+	quest.153B42AFEB5F9670.quest_desc: [
+		"Defeat Frida in Battle to advance through the Elite Four of Hoenn!"
+		""
+		"Frida’s &bIce&r Pokémon are cold and relentless. Stay sharp and warm up your strategy to break through!"
+	]
+	quest.153B42AFEB5F9670.quest_subtitle: "Defeat Frida in Battle!"
+	quest.153B42AFEB5F9670.title: "Hoenn Third Elite"
+	quest.1565E74BD3A3B19D.quest_subtitle: "Collect Apricorns and Apricorn Sprouts from Apricorn trees found in the wild!"
+	quest.15668E539D9A6E2A.quest_desc: [""]
+	quest.15668E539D9A6E2A.quest_subtitle: "Craft May's Bracelet!"
+	quest.15668E539D9A6E2A.title: "May's Bracelet"
+	quest.15D6F07686F779D9.quest_desc: [
+		"Defeat Petra in Battle to get the &#FF5C7BS&r&#FAFF81t&r&#663D20o&r&#FAFF81n&r&#FF5C7Be&r Badge!"
+		""
+		"Petra’s &#FFC8A9Rock-type&r Pokémon are as unyielding as the mountains themselves. Break through her defense with strategy and prove your strength!"
+	]
+	quest.15D6F07686F779D9.quest_subtitle: "Defeat Petra in Battle!"
+	quest.15D6F07686F779D9.title: "&#FF5C7BS&r&#FAFF81t&r&#663D20o&r&#FAFF81n&r&#FF5C7Be&r Badge (Petra)"
+	quest.15E60D47860894E0.quest_subtitle: "Ultra-Rare spawn in Basalt Deltas biome!"
+	quest.15E60D47860894E0.title: "Gouging Fire"
+	quest.1645AC6DD2C8973B.quest_desc: [""]
+	quest.1645AC6DD2C8973B.quest_subtitle: "Collect all &#7C4B2APower Ups&r, &#574DFFExp-Candies&r, &#8FFFFFFeathers&r, &#FF50B6Medicines&r, and &2Mints&r!"
+	quest.1645AC6DD2C8973B.title: "Gotta Power 'em All!"
+	quest.1684675033C55992.quest_subtitle: "Rare spawn in all Hills biomes during the day!"
+	quest.1684675033C55992.title: "Iron Moth"
+	quest.16A283F649D91A0B.quest_desc: [""]
+	quest.16A283F649D91A0B.quest_subtitle: "Find Charti Berry in Dripstone, Mountain, Sandy or Volcanic Biomes!"
+	quest.16D73EF092FC97B7.quest_subtitle: "Rare spawn in Lush Caves, Underground Jungle biome at night!"
+	quest.16D73EF092FC97B7.title: "Iron Crown"
+	quest.16E1B0F3ABE60992.quest_subtitle: "Craft Power Spot and place it down!"
+	quest.16E1B0F3ABE60992.title: "Power Spot"
+	quest.16E9750BD81BD081.quest_desc: [""]
+	quest.16F3E452E7C64018.quest_subtitle: "Ultra-Rare spawn in Flower Forest, Cherry Grove biomes at night!"
+	quest.16F3E452E7C64018.title: "Cresselia"
+	quest.178FCF0F712E434B.quest_subtitle: "Rare spawn in Meadow, Grove, Snowy Slopes,Jagged Peaks, Frozen Peaks, Stony Peaks biomes!"
+	quest.178FCF0F712E434B.title: "Iron Thorns"
+	quest.17AC515A82A97FCC.quest_subtitle: "Obtain GS Ball by defeating your legendary rival Red near Ilex Shrine to summon Celebi!"
+	quest.17AC515A82A97FCC.title: "GS Ball"
+	quest.17D2EA4227096498.quest_desc: ["Collect all &#034DFFBerries&r to unlock this and get the Master Ball !"]
+	quest.17D2EA4227096498.quest_subtitle: "Collect all Berries !"
+	quest.17D2EA4227096498.title: "Gotta Pick 'em All !"
+	quest.18157C94D57A4E1A.quest_desc: ["Craft Cerulean Star, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a Map of Misty’s Gym Location!"]
+	quest.18157C94D57A4E1A.quest_subtitle: "Craft a Cerulean Star!"
+	quest.183E9B3AA9615CF4.quest_desc: [
+		"Place it in Zamazenta's Held Item slot to change Zamazenta into Crowned Shield form."
+		""
+		"Once removed it will change back."
+	]
+	quest.183E9B3AA9615CF4.quest_subtitle: "Find Rusted Shield in a Sol Henge Ruins by using a brush on Suspicious Sand or Gravel!"
+	quest.18510690A7718B13.quest_desc: ["Craft Dyna Tree Radar, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a map of Dyna Tree Location!"]
+	quest.18510690A7718B13.quest_subtitle: "Craft Dyna Tree Radar!"
+	quest.18B332460F9F7AE8.quest_desc: ["Craft Radio Card, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a Map of Rocket Radio Tower Location!"]
+	quest.18B332460F9F7AE8.quest_subtitle: "Craft Radio Card!"
+	quest.1940451320E830C2.quest_desc: [
+		"Place it in Ogerpon's Held Item slot to change Ogerpon into its Hearthflame Form."
+		""
+		"Once removed it will change back."
+	]
+	quest.1940451320E830C2.quest_subtitle: "Find Hearthflame Mask in Desert Gimmi Tower by using a brush on Suspicious Sand or Gravel!"
+	quest.1946D7F2E54C7697.quest_desc: [""]
+	quest.1946D7F2E54C7697.quest_subtitle: "Craft Maxie's Glasses!"
+	quest.1946D7F2E54C7697.title: "Maxie's Glasses"
+	quest.19B1F4543974F94D.quest_subtitle: "Summon and catch Shiny Legendary Registeel!"
+	quest.19B1F4543974F94D.title: "&zShiny&r Registeel"
+	quest.19EEA6C0A2E4B241.quest_subtitle: "Ultra-Rare spawn in Beach biome!"
+	quest.19EEA6C0A2E4B241.title: "Azelf"
+	quest.1A22C0265F596665.quest_subtitle: "Ultra-Rare spawn in Frozen Peaks, Jagged Peaks, Snowy Slopes biomes!"
+	quest.1A22C0265F596665.title: "Fezandipiti"
+	quest.1A37CB653D69484B.quest_subtitle: "Ride a Pokémon for the first time!"
+	quest.1A37CB653D69484B.title: "Yor First Ride"
+	quest.1A3B86F549A2BE75.quest_subtitle: "Collect all Z-Crystals!"
+	quest.1A3B86F549A2BE75.title: "Z-Collector"
+	quest.1A47CBEE47FDB7F0.quest_desc: [""]
+	quest.1A47CBEE47FDB7F0.quest_subtitle: "Craft a Mega Bracelet!"
+	quest.1A47CBEE47FDB7F0.title: "Mega Bracelet"
+	quest.1A904A8302DAC6E0.quest_desc: ["Craft Regice Radar, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a map of Temple of Regice location!"]
+	quest.1A904A8302DAC6E0.quest_subtitle: "Craft Regice Radar!"
+	quest.1AA585D72EF932DD.quest_subtitle: "Ultra-Rare spawn in all Forest biomes!"
+	quest.1AA585D72EF932DD.title: "Virizion"
+	quest.1AED63D262B3D056.quest_desc: ["Ice Ore is found in Frozen Peaks, Frozen Ocean or Ice Spikes Biomes between 65 and 120 height!"]
+	quest.1AED63D262B3D056.quest_subtitle: "Mine Cryo Relic from Ice Ore!"
+	quest.1B1D1C845691BC1A.quest_subtitle: "Evolve Eevee with high friendship during the day!"
+	quest.1B1D1C845691BC1A.title: "Espeon"
+	quest.1BCC799EBCA45304.quest_desc: [
+		"Place it in Arceus's Held Item slot to change its type to &#6A3629Ground&r-type."
+		""
+		"Once removed it will change back to Normal-type."
+	]
+	quest.1BCC799EBCA45304.quest_subtitle: "Found in Mineshafts, Ancient Cities, Random Chests, or Towers/Structures!"
+	quest.1BDC96685054FE77.quest_subtitle: "Get Sitrus Berry through Berry Mutating!"
+	quest.1BE056394BC0A556.quest_subtitle: "Craft Sky Core to summon Rayquaza!"
+	quest.1C14120A3C29F973.quest_desc: ["PokéNav will tell you which Pokémon can be spotted in your current location!"]
+	quest.1C14120A3C29F973.quest_subtitle: "Craft a PokéNav!"
+	quest.1C14120A3C29F973.title: "PokéNav"
+	quest.1C35FC8CD94EDB4C.quest_desc: [
+		"1. Right‑Click on Glastrier with the Reins of Unity to charge them."
+		""
+		"2. Right‑Click on Calyrex with the charged Reins to transform it into Ice Rider Calyrex."
+		""
+		"(You can &nundo&r the fusion by using Right-Click on Ice Rider Calyrex with Reins of Unity)"
+	]
+	quest.1C35FC8CD94EDB4C.quest_subtitle: "Fuse Calyrex with Glastrier to get Ice Rider Calyrex!"
+	quest.1C35FC8CD94EDB4C.title: "Ice Rider Calyrex Fusion"
+	quest.1C40D1BB8C3A8271.quest_subtitle: "Collect Apricorns and Apricorn Sprouts from Apricorn trees found in the wild!"
+	quest.1C5FE0369441717E.quest_subtitle: "Get Lum Berry through Berry Mutating!"
+	quest.1C63B6BC11B4F97E.quest_desc: [
+		"Place it in Silvally's Held Item slot to change its type to &bIce&r-type."
+		""
+		"Once removed it will change back to Normal-type."
+	]
+	quest.1C63B6BC11B4F97E.quest_subtitle: "Random drop from Ominous Trial Vaults, Get Ominous Trial Keys by defeating team rocket tower boss!"
+	quest.1C6A069FA07598E4.quest_subtitle: "Ultra-Rare spawn in all Forest biomes!"
+	quest.1C6A069FA07598E4.title: "Regidrago"
+	quest.1C7BE17A2DAA5A24.title: "Trade 1 Coin for 10 PokéDollar !"
+	quest.1CC53F5E30BC1AED.quest_subtitle: "Transform Mewtwo into Armored Mewtwo using Rocket Armor!"
+	quest.1CC53F5E30BC1AED.title: "Armored Mewtwo"
+	quest.1CFDF9BD60692770.quest_desc: [""]
+	quest.1CFDF9BD60692770.quest_subtitle: "Craft Lisia Mega Tiara!"
+	quest.1CFDF9BD60692770.title: "Lisia Mega Tiara"
+	quest.1D1841D0B0670308.quest_subtitle: "Find Archeological Site in Desert Biome!"
+	quest.1D1841D0B0670308.title: "Archeological Site"
+	quest.1D62FB37D9900444.quest_desc: [
+		"Defeat Marzia in Battle to get the &#FF7D69C&ro&#FF7D69b&rb&#FF7D69l&re Badge!"
+		""
+		"Marzia’s &#FF050AFighting-type&r Pokémon strike with precision and force. Dodge, counter, and prove that your skill cannot be beaten!"
+	]
+	quest.1D62FB37D9900444.quest_subtitle: "Defeat Marzia in Battle!"
+	quest.1D62FB37D9900444.title: "&#FF7D69C&ro&#FF7D69b&rb&#FF7D69l&re Badge (Marzia)"
+	quest.1DBA10FF3D34DA70.quest_desc: [""]
+	quest.1DBA10FF3D34DA70.quest_subtitle: "Find Yache Berry in Freezing or Taiga Biomes!"
+	quest.1DD429BDDB99CF55.quest_subtitle: "Get Starf Berry through Berry Mutating!"
+	quest.1EC387AB9779CCC0.quest_subtitle: "Ultra-Rare spawn in Snowy Taiga biome in Snowpoint Temple!"
+	quest.1EC387AB9779CCC0.title: "Regigigas"
+	quest.1EC66A1A525A2700.quest_subtitle: "Ultra-Rare spawn in Lush Caves biome!"
+	quest.1EC66A1A525A2700.title: "Ogerpon"
+	quest.1F02EBBF8516864B.quest_desc: [""]
+	quest.1F02EBBF8516864B.quest_subtitle: "Craft Lysandre's Ring!"
+	quest.1F02EBBF8516864B.title: "Lysandre's Ring"
+	quest.1F14066FF412651B.quest_desc: [
+		"Defeat Lance in Battle to reach the Champion of Kanto!"
+		""
+		"Wings of legend thunder through the skies. Lance’s &#0337FFDragons&r embody both fury and freedom — only a true champion can soar above their storm!"
+	]
+	quest.1F14066FF412651B.quest_subtitle: "Defeat Lance in Battle!"
+	quest.1F14066FF412651B.title: "Kanto Fourth Elite"
+	quest.1F850DF8E2377EBB.quest_desc: [
+		"Place it in Arceus's Held Item slot to change its type to &#B25AFFPoison&r-type."
+		""
+		"Once removed it will change back to Normal-type."
+	]
+	quest.1F850DF8E2377EBB.quest_subtitle: "Found in Mineshafts, Ancient Cities, Random Chests, or Towers/Structures!"
+	quest.1F8E91037AFB1968.quest_desc: [
+		"Place it in Silvally's Held Item slot to change its type to &#FFC8A9Rock&r-type."
+		""
+		"Once removed it will change back to Normal-type."
+	]
+	quest.1F8E91037AFB1968.quest_subtitle: "Random drop from Ominous Trial Vaults, Get Ominous Trial Keys by defeating team rocket tower boss!"
+	quest.1FAEC39AEBE3ED15.quest_desc: [""]
+	quest.1FAEC39AEBE3ED15.quest_subtitle: "Obtain Grass Tera Shard by defeating a Grass-type Pokémon!"
+	quest.1FCB04828260D948.quest_desc: [
+		"1. Right‑Click on Solgaleo with the N Solarizer to charge it."
+		""
+		"2. Right‑Click on Necrozma with the charged N Solarizer to transform it into Dusk Mane Necrozma."
+		""
+		"(You can &nundo&r the fusion by using Right-Click on Dusk Mane Necrozma with N Solarizer)"
+	]
+	quest.1FCB04828260D948.quest_subtitle: "Fuse Necrozma with Solgaleo to get Dusk Mane Necrozma!"
+	quest.1FCB04828260D948.title: "Dusk Mane Necrozma Fusion"
+	quest.1FEFABC2F67C9F9B.quest_subtitle: "Ultra-Rare spawn in Nether Wastes biome!"
+	quest.1FEFABC2F67C9F9B.title: "Heatran"
+	quest.1FFCF567DCBDBE58.quest_subtitle: "Collect Mint Leaves from Mint plants found in the wild!"
+	quest.202F96DD38F1493B.quest_subtitle: "Ultra-Rare spawn in Cherry Grove, Flower Forest Meadow, Sunflower Plains biomes during the day nad weather clear!"
+	quest.202F96DD38F1493B.title: "Shaymin"
+	quest.204729931C21B30C.quest_subtitle: "Craft an End Cartography Table!"
+	quest.20927CA7A8A07DB8.quest_subtitle: "Look a feeding spot, then throw Iceroot Carrot into it to summon Glastrier!"
+	quest.20927CA7A8A07DB8.title: "Glastrier"
+	quest.20930D42AB0E8AC8.quest_subtitle: "Craft a Nether Cartography Table!"
+	quest.20A447AA417BA690.quest_desc: [""]
+	quest.20A447AA417BA690.quest_subtitle: "Obtain Stellar Tera Shard with a small chance by defeating any Pokémon!"
+	quest.20FC08360393822F.quest_subtitle: "Summon and catch Shiny Legendary Lugia!"
+	quest.20FC08360393822F.title: "&zShiny&r Lugia"
+	quest.214CB99D28FDD8E9.quest_subtitle: "Ultra-Rare spawn in The End!"
+	quest.214CB99D28FDD8E9.title: "Hoopa"
+	quest.21C1045078017179.quest_desc: [""]
+	quest.21C1045078017179.quest_subtitle: "Find Pecha Berry in Jungle or Swamp Biomes!"
+	quest.21D1F9211EB00606.quest_desc: ["Craft Rock Casque, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a Map of Pedro’s Gym Location!"]
+	quest.21D1F9211EB00606.quest_subtitle: "Craft Rock Casque!"
+	quest.2224196CE7342C1C.quest_desc: [
+		"You’ve chosen your first Pokémon — your journey starts now!"
+		""
+		"Explore the region, battle all 8 Gym Leaders, earn their Badges, and work your way toward the Kanto Pokémon League!"
+		""
+		"&#FF0514Gyms \\& League Maps&r :"
+		"[ { \"text\": \"Click Here!\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"7C0DA6EC2DD8CD24\" } } ]"
+	]
+	quest.2224196CE7342C1C.quest_subtitle: "Find the first Kanto Gym and start collecting Badges!"
+	quest.2224196CE7342C1C.title: "Kanto Gyms"
+	quest.222994D96CE12AD6.quest_subtitle: "Craft Rotom Catalogue using all Units above to switch between different Rotom forms!"
+	quest.222994D96CE12AD6.title: "Rotom Catalogue"
+	quest.223BC3A3F166D181.quest_subtitle: "Obtain both Necrozma Fusion Forms!"
+	quest.223BC3A3F166D181.title: "Sun and Moon"
+	quest.226EB6102A8B1BEC.quest_subtitle: "Summon and catch Legendary Zapdos!"
+	quest.226EB6102A8B1BEC.title: "Zapdos"
+	quest.237F3FFDE1DC4BD3.quest_subtitle: "Get Enigma Berry through Berry Mutating!"
+	quest.23903D381303B616.quest_subtitle: "Use certain Berries, catch it with a Friend Ball, and walk around to max Greninja’s friendship!"
+	quest.23903D381303B616.title: "Raise Greninja Friendship"
+	quest.23C6FEC855031A99.quest_desc: [""]
+	quest.23C6FEC855031A99.quest_subtitle: "Obtain Ice Tera Shard by defeating a Ice-type Pokémon!"
+	quest.240D0D361DCFDC51.quest_desc: [
+		"You’ve collected all 8 &#FF2EAASinnoh&r Badges — it’s time for the Elite Four!"
+		""
+		"Go to the Sinnoh League (Desert Oasis) to begin your challenge. Defeat all 4 members to earn the right to face the Sinnoh Champion!"
+		""
+		"&#FF2EAAGyms \\& League Maps&r :"
+		"[ { \"text\": \"Click Here!\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0D47E527E6F73D28\" } } ]"
+	]
+	quest.240D0D361DCFDC51.quest_subtitle: "Find the Sinnoh Pokémon League!"
+	quest.240D0D361DCFDC51.title: "Sinnoh Elite 4"
+	quest.2424867704D491EC.quest_subtitle: "Find Crown Spire in Snowy Taiga!"
+	quest.2424867704D491EC.title: "Crown Spire"
+	quest.243BF5E241A0A0E9.quest_desc: ["Craft Zapdos Radar, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a map of Zapdos's Tower location!"]
+	quest.243BF5E241A0A0E9.quest_subtitle: "Craft Zapdos Radar!"
+	quest.243BF5E241A0A0E9.title: "Zapdos Radar"
+	quest.24608003F59BFAAD.quest_desc: ["Craft Burned Tower Radar, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain Burned Tower Map!"]
+	quest.24608003F59BFAAD.quest_subtitle: "Craft Burned Tower Radar!"
+	quest.247178E01879A603.quest_desc: [
+		"1. Equip Tera Orb by using Right Click while holding it in your right hand."
+		""
+		"2. You can only Terastallize in battle: Click the Terastalization button, then choose any move!"
+	]
+	quest.247178E01879A603.quest_subtitle: "Terastallize a Pokémon!"
+	quest.247178E01879A603.title: "Terastallize"
+	quest.2499570694EF60AF.quest_subtitle: "Find any of these Berries and use them for Berry Mutating!"
+	quest.2499570694EF60AF.title: "Enigma Berry Parents"
+	quest.24B57B2D00FAEBD0.quest_subtitle: "Get Hondew Berry through Berry Mutating!"
+	quest.24D62E8C78821D15.quest_desc: [
+		"Defeat Ferruccio in Battle to get the &#85672AM&r&#9D9D9Di&r&#85672An&r&#9D9D9De&r Badge!"
+		""
+		"Ferruccio’s &#565D70Steel-type&r Pokémon are as unyielding as metal. Strike with strategy and show your resilience!"
+	]
+	quest.24D62E8C78821D15.quest_subtitle: "Defeat Ferruccio in Battle!"
+	quest.24D62E8C78821D15.title: "&#85672AM&r&#9D9D9Di&r&#85672An&r&#9D9D9De&r Badge (Ferruccio)"
+	quest.24EC4F676DEC3112.quest_desc: ["Right Click Kubfu with Scroll of Water!"]
+	quest.24EC4F676DEC3112.quest_subtitle: "Find Scroll of Waters in a Ocean Ruin Warm by using a brush on Suspicious Sand or Gravel!"
+	quest.250F71452B2E90A1.quest_desc: ["By adding a Battle Seeker during map creation, you can extend structure search range and be sure, that crafted map will point to a structure that has never been mapped before."]
+	quest.250F71452B2E90A1.quest_subtitle: "Craft a Battle Seeker!"
+	quest.251BFE853F54C109.quest_subtitle: "Ultra-Rare spawn in Savanna, Savanna Plateau biomes!"
+	quest.251BFE853F54C109.title: "Okidogi"
+	quest.253CEEA6CD8AF135.quest_subtitle: "Collect Mint Leaves from Mint plants found in the wild!"
+	quest.25A0273D06F317A4.quest_desc: [
+		"1. Right‑Click on Lunala with the N Lunarizer to charge it."
+		""
+		"2. Right‑Click on Necrozma with the charged N Lunarizer to transform it into Dawn Wings Necrozma."
+		""
+		"(You can &nundo&r the fusion by using Right-Click on Dawn Wings Necrozma with N Lunalizer)"
+	]
+	quest.25A0273D06F317A4.quest_subtitle: "Fuse Necrozma with Lunala to get Dawn Wings Necrozma!"
+	quest.25A0273D06F317A4.title: "Dawn Wings Necrozma Fusion"
+	quest.25A3CC04D92FCDCF.quest_subtitle: "Get Magost Berry through Berry Mutating!"
+	quest.2620FDF70D9DDDB1.quest_desc: [
+		"Place it in Silvally's Held Item slot to change its type to &9Ghost&r-type."
+		""
+		"Once removed it will change back to Normal-type."
+	]
+	quest.2620FDF70D9DDDB1.quest_subtitle: "Random drop from Ominous Trial Vaults, Get Ominous Trial Keys by defeating team rocket tower boss!"
+	quest.262421074DA89C77.quest_subtitle: "Plant Vivichoke Seeds and harvest Vivichoke!"
+	quest.263FA2DC0869870C.quest_desc: [""]
+	quest.263FA2DC0869870C.quest_subtitle: "Evolve Kubfu into Single Strike Style Urshifu by using Scroll of Darkness!"
+	quest.263FA2DC0869870C.title: "Single Strike Style Urshifu"
+	quest.264F1FEF03E9ACBC.quest_subtitle: "Ultra-Rare spawn in Lush Caves biome near Amethyst Bud!"
+	quest.264F1FEF03E9ACBC.title: "Terapagos"
+	quest.265BF838C3D8E351.quest_desc: [
+		"Place it in Arceus's Held Item slot to change its type to &bIce&r-type."
+		""
+		"Once removed it will change back to Normal-type."
+	]
+	quest.265BF838C3D8E351.quest_subtitle: "Found in Mineshafts, Ancient Cities, Random Chests, or Towers/Structures!"
+	quest.2682C0514501D6F3.quest_subtitle: "Craft Rocket Armor!"
+	quest.2682C0514501D6F3.title: "Rocket Armor"
+	quest.268606FA070169BD.title: "Evolve into Frogadier"
+	quest.26B69F36C306857A.quest_subtitle: "Collect Mint Seeds by harvestong Mint plants!"
+	quest.271867977D0D18B1.quest_desc: [
+		"Place it in Silvally's Held Item slot to change its type to &0Dark&r-type."
+		""
+		"Once removed it will change back to Normal-type."
+	]
+	quest.271867977D0D18B1.quest_subtitle: "Random drop from Ominous Trial Vaults, Get Ominous Trial Keys by defeating team rocket tower boss!"
+	quest.273FD269DFCF1BA2.quest_desc: [""]
+	quest.273FD269DFCF1BA2.quest_subtitle: "Revive Omanyte by using &#93642DHelix Fossil&r in Restoration Machine!"
+	quest.273FD269DFCF1BA2.title: "Revive Omanyte"
+	quest.277EA1CF5BC5C012.quest_subtitle: "Defeat Lyris in Sky Pillar to obtain Aether Gem!"
+	quest.27872BA4AB3614A9.quest_subtitle: "Rare spawn in all Overworld biomes or Beach near Iron Block!"
+	quest.27872BA4AB3614A9.title: "Meltan"
+	quest.27901C6B55463F9F.quest_subtitle: "Get Wiki Berry through Berry Mutating!"
+	quest.2791B6E3D2370A22.quest_desc: ["Craft Ice Ribbon, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a Map of Bianca’s Gym Location!"]
+	quest.2791B6E3D2370A22.quest_subtitle: "Craft Ice Ribbon!"
+	quest.27A08743FA9FC83C.quest_subtitle: "Ultra-Rare spawn in Windswept Forest biome!"
+	quest.27A08743FA9FC83C.title: "Cobalion"
+	quest.2816FB2751FADB21.quest_desc: [
+		"Defeat Gardenia in Battle to get the &2F&ro&2r&re&2s&rt Badge!"
+		""
+		"Gardenia’s &#386A48Grass-type&r Pokémon are rooted in nature’s power. Outsmart her tactics and grow stronger with each move!"
+	]
+	quest.2816FB2751FADB21.quest_subtitle: "Defeat Gardenia in Battle!"
+	quest.2816FB2751FADB21.title: "&2F&ro&2r&re&2s&rt Badge (Gardenia)"
+	quest.283B4243B6B3A6A6.quest_desc: ["Craft Articuno Radar, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a map of Articuno's Tower location!"]
+	quest.283B4243B6B3A6A6.quest_subtitle: "Craft Articuno Radar!"
+	quest.285042710E3529BB.quest_subtitle: "Make a Restoration Machine using Data Monitor, Fossil Analyzer and Restoration Tank!"
+	quest.285042710E3529BB.title: "Restoration Machine"
+	quest.286112A95927CD9B.quest_desc: ["Craft an Ash Key, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a Map of Ash's House Location!"]
+	quest.286112A95927CD9B.quest_subtitle: "Craft Ash Key!"
+	quest.28AC8F93C0222129.quest_desc: ["Craft Kyogre Radar, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a map Temple of the Sea location!"]
+	quest.28AC8F93C0222129.quest_subtitle: "Craft Kyogre Radar!"
+	quest.28C4C6BEB823747E.quest_desc: [
+		"Defeat Lorelei in Battle to advance through the Elite Four of Kanto!"
+		""
+		"Calm, focused, and colder than &bIce&r itself. Lorelei’s chill tests not just your strength — but your endurance. Melt her frozen resolve and show that warmth of spirit can break any frost!"
+	]
+	quest.28C4C6BEB823747E.quest_subtitle: "Defeat Lorelei in Battle!"
+	quest.28C4C6BEB823747E.title: "Kanto First Elite"
+	quest.28DB92A970FE1FAF.quest_desc: [
+		"Right Click Tornadus, Thundurus, or Landorus to change between their Incarnate and Therian Formes."
+		""
+		"Right Clicking again will change them back."
+	]
+	quest.28DB92A970FE1FAF.quest_subtitle: "Find Reveal Glass in a Desert Pyramid by using a brush on Suspicious Sand or Gravel!"
+	quest.2906F0F05F902938.quest_desc: ["Right Click Oricorio with Yellow Nectar to change its form to Baile Style."]
+	quest.2906F0F05F902938.quest_subtitle: "Craft Red Nectar!"
+	quest.2977241474116251.quest_desc: [
+		"Defeat Lt. Surge in Battle to get the &#FFC84EThu&r&#FF6142nder&r badge!"
+		""
+		"Lt. Surge channels &#FFD861Lightning&r like a weapon. Keep your feet on solid ground and show that true power doesn’t always come from voltage alone"
+	]
+	quest.2977241474116251.quest_subtitle: "Defeat Lt. Surge in Battle!"
+	quest.2977241474116251.title: "&#FFC84EThu&r&#FF6142nder&r Badge (Lt. Surge)"
+	quest.2A13BBA8B0CB64C7.quest_desc: [
+		"Defeat Bruno in Battle to advance through the Elite Four of Kanto!"
+		""
+		"Power is nothing without discipline. Bruno’s &#FF050AFighting&r strength shakes the earth, but only those with balance in mind and body can withstand his might. Stand firm — and strike true!"
+	]
+	quest.2A13BBA8B0CB64C7.quest_subtitle: "Defeat Bruno in Battle!"
+	quest.2A13BBA8B0CB64C7.title: "Kanto Second Elite"
+	quest.2A3C737A6FADD814.quest_desc: [
+		"Defeat Clair in Battle to get the &4R&r&#010E40ising&r Badge!"
+		""
+		"Sandra commands &#0337FFDragon-types&r with unmatched pride and ferocity. Face her ancient power head-on and show that you have the heart of a true Dragon Master!"
+	]
+	quest.2A3C737A6FADD814.quest_subtitle: "Defeat Sandra in Battle!"
+	quest.2A3C737A6FADD814.title: "&4R&r&#010E40ising&r Badge (Sandra)"
+	quest.2AB22FBCCBE616CF.quest_desc: [
+		"Place it in Silvally's Held Item slot to change its type to &4Fighting&r-type."
+		""
+		"Once removed it will change back to Normal-type."
+	]
+	quest.2AB22FBCCBE616CF.quest_subtitle: "Random drop from Ominous Trial Vaults, Get Ominous Trial Keys by defeating team rocket tower boss!"
+	quest.2ACF5CDFD9CBEFB9.quest_desc: [""]
+	quest.2ACF5CDFD9CBEFB9.quest_subtitle: "Craft Archie's Anchor!"
+	quest.2ACF5CDFD9CBEFB9.title: "Archie's Anchor"
+	quest.2AE6E5549700EC75.quest_subtitle: "Ultra-Rare spawn in Badlands biome when the weather is clear!"
+	quest.2AE6E5549700EC75.title: "Landorus"
+	quest.2AF4D27B114E23C8.quest_desc: ["Place it in Genesect's Held Item slot to change its Techno Blast to &#4E9FFFWater&r-type."]
+	quest.2AF4D27B114E23C8.quest_subtitle: "Craft Douse Drive!"
+	quest.2B5A28ED76680107.quest_subtitle: "Collect Mint Leaves from Mint plants found in the wild!"
+	quest.2BE64797938C8D59.quest_subtitle: "Uncommon spawn in All Overworld biomes!"
+	quest.2BE64797938C8D59.title: "Catch an Oricorio"
+	quest.2BF6DD924F845A8E.quest_desc: [
+		"Defeat Bianca in Battle to get the I&bc&ri&bc&rl&be&r Badge!"
+		""
+		"Bianca’s &bIce-type&r Pokémon chill the battlefield with precision. Warm up your strategy and break through the frost!"
+	]
+	quest.2BF6DD924F845A8E.quest_subtitle: "Defeat Bianca in Battle!"
+	quest.2BF6DD924F845A8E.title: "I&bc&ri&bc&rl&be&r Badge (Bianca)"
+	quest.2C65BDD42AD0C2B6.quest_subtitle: "Ultra-Rare spawn in Cherry Grove biome!"
+	quest.2C65BDD42AD0C2B6.title: "Kubfu"
+	quest.2CA4B6D2F3014C50.quest_desc: [""]
+	quest.2CA4B6D2F3014C50.quest_subtitle: "Collect all Cobblemon &#CAFF63Plants&r!"
+	quest.2CA4B6D2F3014C50.title: "Gotta Plant 'em All!"
+	quest.2CCCECBF03448AD1.quest_desc: ["Craft Heavy Dumbbell, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a Map of Furio’s Gym Location!"]
+	quest.2CCCECBF03448AD1.quest_subtitle: "Craft Heavy Dumbbell!"
+	quest.2CD572C995D20DFC.quest_subtitle: "Get Rowap Berry through Berry Mutating!"
+	quest.2D3BF583B8B93EDA.quest_subtitle: "Find Moltres' Tower in Nether Wastes Biome in Kanto!"
+	quest.2D3BF583B8B93EDA.title: "Moltres' Tower"
+	quest.2D52E8CCBB38730C.quest_subtitle: "Craft a Zygarde Cube!"
+	quest.2D547F08DB303F02.quest_subtitle: "Summon and catch Legendary Regirock!"
+	quest.2D547F08DB303F02.title: "Regirock"
+	quest.2D5997E5AEE170C5.quest_subtitle: "Find a Megasite between Y level of -5 to -19!"
+	quest.2D5997E5AEE170C5.title: "Megasite"
+	quest.2D8B2A8806CCDB1F.quest_subtitle: "Use the Catalogue on your Rotom to transform it into any form!"
+	quest.2D8B2A8806CCDB1F.title: "Use the Catalogue"
+	quest.2D8E89E7C2432F4D.quest_subtitle: "Ultra-Rare spawn in Mushroom Fields, Winter Mirage Isles biomes!"
+	quest.2D8E89E7C2432F4D.title: "Victini"
+	quest.2DAD8D2916082EB6.quest_desc: ["3× Chance to spawn during rain!"]
+	quest.2DAD8D2916082EB6.quest_subtitle: "Catch Shiny Suicune near Burned Tower!"
+	quest.2DAD8D2916082EB6.title: "&zShiny&r Suicune"
+	quest.2DB5AD09C2F41A96.quest_desc: ["3× Chance to spawn during rain!"]
+	quest.2DB5AD09C2F41A96.quest_subtitle: "Catch Suicune near Burned Tower!"
+	quest.2DB5AD09C2F41A96.title: "Suicune"
+	quest.2DCB40C7A6DD0273.quest_subtitle: "Rare spawn in Badlands, Desert, Savanna,Meadow, Grove, Snowy Slopes,Jagged Peaks, Frozen Peaks, Stony Peaks biomes!"
+	quest.2DCB40C7A6DD0273.title: "Iron Treads"
+	quest.2DE259C0F3243EB7.quest_desc: [
+		"Defeat Tell \\& Pat in Battle to get the &#FF85F6M&r&#8F316Bin&r&#FDFF67d&r Badge!"
+		""
+		"The &#8F316BPsychic&r duo’s powers challenge both mind and strategy. Outsmart them to prove your mental strength! "
+	]
+	quest.2DE259C0F3243EB7.quest_subtitle: "Defeat Tell \\& Pat in Battle!"
+	quest.2DE259C0F3243EB7.title: "&#FF85F6M&r&#8F316Bin&r&#FDFF67d&r Badge (Tell \\& Pat)"
+	quest.2E00F71F43D7D6B8.quest_subtitle: "Get Salac Berry through Berry Mutating!"
+	quest.2ECD210FE1AE199A.quest_subtitle: "Find any of these Berries and use them for Berry Mutating!"
+	quest.2ECD210FE1AE199A.title: "Leppa Berry Parents"
+	quest.2ECDCAFC38B1B39D.quest_desc: [""]
+	quest.2ECDCAFC38B1B39D.quest_subtitle: "Craft Brendan's Mega Cuff!"
+	quest.2ECDCAFC38B1B39D.title: "Brendan's Mega Cuff"
+	quest.2ED47CB2DE44934C.quest_subtitle: "Ultra-Rare spawn in Svanna, Savanna Plateau, Jungle biomes!"
+	quest.2ED47CB2DE44934C.title: "Tapu Koko"
+	quest.2F2D46FF0813472E.quest_desc: [""]
+	quest.2F2D46FF0813472E.quest_subtitle: "Craft a Dynamax Band and press Right Click to equip it!"
+	quest.2F2D46FF0813472E.title: "Dynamax Band"
+	quest.2F839A37AE569CB0.quest_subtitle: "Ultra-Rare spawn in Frozen River, Jagged Peaks, Snowy Beach, Snowy Plains biomes!"
+	quest.2F839A37AE569CB0.title: "Chien-Pao"
+	quest.2FECCE4B4398F959.quest_desc: [""]
+	quest.2FECCE4B4398F959.quest_subtitle: "Defeat Atena inside Team Rocket Tower to obtain the Cloning Catalyst!"
+	quest.2FECCE4B4398F959.title: "Cloning Catalyst"
+	quest.302EE1407782DA2D.quest_subtitle: "Ultra-Rare spawn in Meadow, Grove, Snowy Slopes,Jagged Peaks, Frozen Peaks, Stony Peaks biomes when it is raining!"
+	quest.302EE1407782DA2D.title: "Walking Wake"
+	quest.303B99B8CF539610.quest_subtitle: "Find any of these Berries and use them for Berry Mutating!"
+	quest.303B99B8CF539610.title: "Sitrus Berry Parents"
+	quest.30701FA179E7A9B8.quest_subtitle: "Rare spawn in Badlands, Desert, Savanna biomes!"
+	quest.30701FA179E7A9B8.title: "Sandy Shocks"
+	quest.30968294F1D8DC44.quest_desc: [""]
+	quest.30968294F1D8DC44.quest_subtitle: "Craft a Golden PokéNav!"
+	quest.30968294F1D8DC44.title: "Golden PokéNav"
+	quest.30A8BC03A77783FB.quest_subtitle: "Get Kee Berry through Berry Mutating!"
+	quest.30C47CEC596E11F7.quest_subtitle: "Collect Mint Leaves from Mint plants found in the wild!"
+	quest.30EC943C398AD3D4.quest_subtitle: "Collect these items to craft a PokéNav!"
+	quest.30EC943C398AD3D4.title: "Crafting Items for PokéNav"
+	quest.30F6A0BB697E49FD.quest_desc: [
+		"&#66994B1.&r Put the required number of Zygarde Cells and Cores into the Zygarde Cube."
+		""
+		"&#66994B2.&r Right-click the Reassembly Unit while holding the Zygarde Cube."
+		""
+		"&#66994B3.&r Assembly time:"
+		""
+		"   - 10% Forme: 2 minutes."
+		""
+		"   - 50% Forme: 5 minutes."
+		""
+		"   - Complete Forme: 10 minutes."
+		""
+		"&#66994B4.&r When the screen turns green, right-click the Reassembly Unit with any Poké Ball to obtain Zygarde."
+		""
+		"&#66994B5.&r Complete Forme triggers only in battle when Zygarde’s HP drops to 50% or lower."
+	]
+	quest.30F6A0BB697E49FD.title: "Zygarde"
+	quest.30F9E05BD7CB7F1B.quest_desc: [
+		"Defeat Fannie in Battle to get the &#B57FFFR&r&#979797eli&r&#B57FFFc&r Badge!"
+		""
+		"Fannie’s &9Ghost-type&r Pokémon haunt the battlefield with cunning. Face the shadows and prove your courage!"
+	]
+	quest.30F9E05BD7CB7F1B.quest_subtitle: "Defeat Fannie in Battle!"
+	quest.30F9E05BD7CB7F1B.title: "&#B57FFFR&r&#979797eli&r&#B57FFFc&r Badge (Fannie)"
+	quest.3137EBD2241E3768.quest_subtitle: "Craft Shadow Soul Stone to turn Lugia into Shadow Form!"
+	quest.319866CDE3C64773.quest_desc: [""]
+	quest.319866CDE3C64773.quest_subtitle: "Revive Mewtwo by using Ancient DNA and Cloning Catalyst in the Fossil Machine!"
+	quest.319866CDE3C64773.title: "Mewtwo"
+	quest.31ACB00AA6935B90.quest_subtitle: "Summon and catch Legendary Groudon!"
+	quest.31ACB00AA6935B90.title: "Groudon"
+	quest.31FDA9EA436CB998.quest_subtitle: "Ultra-Rare spawn in The End!"
+	quest.31FDA9EA436CB998.title: "Arceus"
+	quest.32EB64ED2BE6760A.quest_desc: [""]
+	quest.32EB64ED2BE6760A.quest_subtitle: "Obtain Psychic Tera Shard by defeating a Psychic-type Pokémon!"
+	quest.32FB5CC9A6106BF0.quest_subtitle: "Find Wish Cave in Blooming Plateau Biome in Hoenn!"
+	quest.32FB5CC9A6106BF0.title: "Wish Cave"
+	quest.333F585F874B36D2.quest_desc: [""]
+	quest.333F585F874B36D2.quest_subtitle: "Find Babiri Berry in Bamboo, Mountain or Taiga Biomes!"
+	quest.33414DA21AA2E0C6.quest_subtitle: "Ultra-Rare spawn in Dark Forest biome!"
+	quest.33414DA21AA2E0C6.title: "Ting-Lu"
+	quest.3342C958DD79F9DC.quest_subtitle: "Get Apicot Berry through Berry Mutating!"
+	quest.334459244F006053.quest_desc: ["3× Chance to spawn during thunder!"]
+	quest.334459244F006053.quest_subtitle: "Catch Shiny Raikou near Burned Tower!"
+	quest.334459244F006053.title: "&zShiny&r Raikou"
+	quest.335402653A555691.quest_desc: [
+		"1. Right‑Click on Reshiram with the DNA Splicers to charge them."
+		""
+		"2. Right‑Click on Kyurem with the charged Splicers to transform it into White Kyurem."
+		""
+		"(You can &nundo&r the fusion by using Right-Click on White Kyurem with DNA Splicers)"
+	]
+	quest.335402653A555691.quest_subtitle: "Fuse Kyurem with Reshiram to get White Kyurem!"
+	quest.335402653A555691.title: "White Kyurem Fusion"
+	quest.338CAF0A4F898F95.quest_subtitle: "Make Max Honey to prepare Max Sweet Soup!"
+	quest.338CAF0A4F898F95.title: "Max Honey"
+	quest.3393A14A85A1E4A0.quest_subtitle: "Ultra-Rare spawn in Badlands, all Forest biomes!"
+	quest.3393A14A85A1E4A0.title: "Zeraora"
+	quest.339A8CC6D311E474.quest_subtitle: "Rare spawn in Frozen Peaks, Ice Spikes, Ice Spikes, Snowy Plains, Frozen River, Jagged Peaks, Snowy Beach, Snowy Plains, Snowy Slopes biomes!"
+	quest.339A8CC6D311E474.title: "Iron Bundle"
+	quest.33EDF5C423E850DA.quest_subtitle: "Ultra-Rare spawn in Dark Forest, The End biomes at night!"
+	quest.33EDF5C423E850DA.title: "Lunala"
+	quest.33EEC20142FBF5E8.quest_desc: [
+		"Defeat Rudi in Battle to get the &#46ABFFKnuc&r&#FF8E55kl&r&#FFD156e&r Badge!"
+		""
+		"Rudi’s &#FF050AFighting-type&r Pokémon hit hard and fast. Use your wits to outmaneuver him and claim victory!"
+	]
+	quest.33EEC20142FBF5E8.quest_subtitle: "Defeat Rudi in Battle!"
+	quest.33EEC20142FBF5E8.title: "&#46ABFFKnuc&r&#FF8E55kl&r&#FFD156e&r Badge (Rudi)"
+	quest.34144BB3D56283D4.quest_desc: [""]
+	quest.34144BB3D56283D4.quest_subtitle: "Find Kasib Berry in Dripstone, Lush, Spooky, Swamp or Taiga Biomes!"
+	quest.34830EF8CA75A8B8.quest_subtitle: "Ultra-Rare spawn in Windswept Hills, Windswept Savanna biomes during Thunderstorm!"
+	quest.34830EF8CA75A8B8.title: "Thundurus"
+	quest.348DCA4DE302CEF8.quest_desc: ["Used to craft maps of Legendary Structures."]
+	quest.348DCA4DE302CEF8.quest_subtitle: "Craft a Poké Radar!"
+	quest.34ED97CB94A2C48E.quest_desc: ["Press C (or the key you’ve set for \"Show Summary\") to choose your first &#1772FFP&r&#FFC534o&r&#FFC534k&r&#FFC534é&r&#FFC534m&r&#FFC534o&r&#1772FFn&r!"]
+	quest.34ED97CB94A2C48E.quest_subtitle: "Choose your first Pokémon!"
+	quest.34ED97CB94A2C48E.title: "Choose a Starter"
+	quest.34FF76951665936A.quest_desc: ["Craft Draconic Fin, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a Map of Sinnoh League Location!"]
+	quest.34FF76951665936A.quest_subtitle: "Craft Draconic Fin!"
+	quest.35693050C289BDBB.quest_subtitle: "Ultra-Rare spawn in Stony Peaks, Jagged Peaks, Frozen Peaks, Snowy Slopes biomes when it is raining in the day!"
+	quest.35693050C289BDBB.title: "Palkia"
+	quest.35861957E0DB31E6.quest_desc: ["Radiant Cloning Catalyst can be found in the rare Rocket Tower variant with Meowth Balloon!"]
+	quest.35861957E0DB31E6.quest_subtitle: "Revive Shiny Mewtwo by using Radiant Ancient DNA and Cloning Catalyst in the Fossil Machine!"
+	quest.35861957E0DB31E6.title: "&zShiny&r Mewtwo"
+	quest.35D7BD22E3177EB9.quest_desc: [""]
+	quest.35D7BD22E3177EB9.quest_subtitle: "Collect all &2Evolution Items&r to get a Master Ball!"
+	quest.35D7BD22E3177EB9.title: "Gotta Evolve 'em All!"
+	quest.3638994A7F17AFED.quest_desc: [
+		"Defeat Adriano in Battle to get the &#0560FFR&r&#66A9FFain&r Badge!"
+		""
+		"Adriano’s &#66A9FFWater-type&r Pokémon flow with force and precision. Navigate the tides of battle to secure your victory!"
+	]
+	quest.3638994A7F17AFED.quest_subtitle: "Defeat Adriano in Battle!"
+	quest.3638994A7F17AFED.title: "&#0560FFR&r&#66A9FFain&r Badge (Adriano)"
+	quest.3686738AFEA5C4D8.quest_subtitle: "Find Luna Henge Ruins!"
+	quest.3686738AFEA5C4D8.title: "Luna Henge Ruins"
+	quest.36A0DF7E5E26BF36.quest_subtitle: "Defeat Team Aqua Ivan in Sky Pillar to obtain Primordial Gem!"
+	quest.36B24DE8AA40DC42.quest_subtitle: "Ultra-Rare spawn in Savanna, Savanna Plateau, The End biomes during the day!"
+	quest.36B24DE8AA40DC42.title: "Solgaleo"
+	quest.36EFDB701FDBBDA8.quest_desc: [""]
+	quest.36EFDB701FDBBDA8.quest_subtitle: "Break Mega Crystal to get a raw Mega Stone!"
+	quest.36EFDB701FDBBDA8.title: "Mega Stone"
+	quest.370185762ECC6693.quest_subtitle: "Defeat Team Magma Max in Sky Pillar to obtain Desolate Gem!"
+	quest.3702E45E52CAC978.quest_subtitle: "Get Leppa Berry through Berry Mutating!"
+	quest.371AC9855026DC52.quest_desc: [
+		"Defeat Walter in Battle to get the &#5EFFD1Dyn&r&#FFDE43amo&r Badge!"
+		""
+		"Walter’s &#FFD861Electric-type&r Pokémon strike with shocking speed. Stay alert and strike at the right moment!"
+	]
+	quest.371AC9855026DC52.quest_subtitle: "Defeat Walter in Battle!"
+	quest.371AC9855026DC52.title: "&#5EFFD1Dyn&r&#FFDE43amo&r Badge (Walter)"
+	quest.372621CC96F62BC8.quest_desc: ["Right Click Hoopa with Prison Bottle to change between Confined and Unbound forms."]
+	quest.372621CC96F62BC8.quest_subtitle: "Find Prison Bottle in a Desert Pyramid by using a brush on Suspicious Sand or Gravel!"
+	quest.372E0C9F6FA9F616.quest_desc: ["Used to store, take out, and organize your Pokémon when your party is full!"]
+	quest.372E0C9F6FA9F616.quest_subtitle: "Craft a PC!"
+	quest.372E0C9F6FA9F616.title: "PC"
+	quest.372FB6769B427C4F.quest_subtitle: "Find Red Orb hidden inside the Volcano to unleash Primal Groudon!"
+	quest.3735B0EF06CACBA5.quest_subtitle: "Evolve Eevee using a Fire Stone!"
+	quest.3735B0EF06CACBA5.title: "Flareon"
+	quest.37C314264039C307.quest_desc: [
+		"Defeat Bruno in Battle to advance through the Elite Four of Johto!"
+		""
+		"Bruno’s strength is forged in relentless discipline. Face his &#FF050AFighting-types&r head-on and prove that determination can strike harder than any fist!"
+	]
+	quest.37C314264039C307.quest_subtitle: "Defeat Bruno in Battle!"
+	quest.37C314264039C307.title: "Johto Third Elite"
+	quest.382C44153E94B2B3.quest_desc: [""]
+	quest.382C44153E94B2B3.quest_subtitle: "Revive Tyrunt by using &#AFB8FFJaw Fossil&r in Restoration Machine!"
+	quest.382C44153E94B2B3.title: "Revive Tyrunt"
+	quest.3892A3835F8A5B21.quest_subtitle: "Get Watmel Berry through Berry Mutating!"
+	quest.38A5DC525C3E058B.quest_subtitle: "Find a Megaroid between Y level of -20 to -32!"
+	quest.38A5DC525C3E058B.title: "Megaroid"
+	quest.38EA125092BA648A.quest_subtitle: "Look for Synthetic Matrix in the Radio Tower!"
+	quest.38EA125092BA648A.title: "Synthetic Matrix"
+	quest.3914EBF6677C4087.quest_desc: [
+		"Defeat Agatha in Battle to advance through the Elite Four of Kanto!"
+		""
+		"Agatha commands shadows older than time. Face her &9Ghostly&r trials and prove that courage is the only light that never fades in darkness!"
+	]
+	quest.3914EBF6677C4087.quest_subtitle: "Defeat Agatha in Battle!"
+	quest.3914EBF6677C4087.title: "Kanto Third Elite"
+	quest.39541AEF900E4E67.quest_desc: ["Place it in Genesect's Held Item slot to change its Techno Blast to &bIce&r-type."]
+	quest.39541AEF900E4E67.quest_subtitle: "Craft Chill Drive!"
+	quest.3988D3D04D4D8C1C.quest_subtitle: "Craft DNA Splicers to fuse Kyurem with Zekrom or Reshiram!"
+	quest.3988D3D04D4D8C1C.title: "DNA Splicers"
+	quest.3990C767657CBBB2.quest_subtitle: "Ultra-Rare spawn in all Forest biomes!"
+	quest.3990C767657CBBB2.title: "Zamazenta"
+	quest.399FE206D33FF43C.quest_subtitle: "Ultra-Rare spawn in all Taiga biomes!"
+	quest.399FE206D33FF43C.title: "Magearna"
+	quest.39B1CF061B735BA7.quest_desc: [
+		"Defeat Jasmine in Battle to get the M&#7FA6FFinera&rl Badge!"
+		""
+		"Jasmine’s &#565D70Steel-types&r shine with quiet strength and unshakable defense. Break through her iron resolve with courage and show that even metal can bend before true heart!"
+	]
+	quest.39B1CF061B735BA7.quest_subtitle: "Defeat Jasmine in Battle!"
+	quest.39B1CF061B735BA7.title: "M&#7FA6FFinera&rl Badge (Jasmine)"
+	quest.39C0487D95E8D001.quest_desc: ["Craft Steel Spade, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a Map of Ferruccio’s Gym Location!"]
+	quest.39C0487D95E8D001.quest_subtitle: "Craft Steel Spade!"
+	quest.39CA3E8FE27D5EB3.quest_subtitle: "Rare spawn in Desert biome at night!"
+	quest.39CA3E8FE27D5EB3.title: "Iron Hands"
+	quest.3A3EF6A3704F2057.quest_desc: [""]
+	quest.3A3EF6A3704F2057.quest_subtitle: "Use 50 Tera Shards to change Pokémon Tera Type!"
+	quest.3A3EF6A3704F2057.title: "Change Tera Type"
+	quest.3A53AFD2DDCA465C.quest_subtitle: "Get Petaya Berry through Berry Mutating!"
+	quest.3A5DDBE47841AD25.quest_desc: [""]
+	quest.3A5DDBE47841AD25.quest_subtitle: "Find Max Mushroom in Lush Caves!"
+	quest.3A5DDBE47841AD25.title: "Max Mushroom"
+	quest.3AABAE3F1725ED6A.quest_desc: [""]
+	quest.3AABAE3F1725ED6A.quest_subtitle: "Obtain Fighting Tera Shard by defeating a Fighting-type Pokémon!"
+	quest.3AD8315E4A9E02DA.quest_subtitle: "Summon and catch Shiny Legendary Articuno!"
+	quest.3AD8315E4A9E02DA.title: "&zShiny&r Articuno"
+	quest.3ADC0E6772867AE0.quest_desc: [
+		"Defeat Ester in Battle to advance through the Elite Four of Hoenn!"
+		""
+		"Ester’s &9Ghost&r Pokémon are elusive and tricky. Stay focused and anticipate her moves to claim victory!"
+	]
+	quest.3ADC0E6772867AE0.quest_subtitle: "Defeat Ester in Battle!"
+	quest.3ADC0E6772867AE0.title: "Hoenn Second Elite"
+	quest.3B2DBFFAFC4D3E0C.quest_subtitle: "Plant Bean Seeds and harvest Beans!"
+	quest.3B9D8B88C5831C97.quest_desc: ["Craft Boss Ring, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a Map of Giovanni’s Gym Location!"]
+	quest.3B9D8B88C5831C97.quest_subtitle: "Craft Boss Ring!"
+	quest.3BDDD63911C262AB.quest_desc: ["Place it in Genesect's Held Item slot to change its Techno Blast to &cFire&r-type."]
+	quest.3BDDD63911C262AB.quest_subtitle: "Craft Burn Drive!"
+	quest.3BDFE1B5955FCF42.quest_subtitle: "Obtain Locator Chip as a reward from Ominous Vaults in Trial Chambers or Loot Chests in End Cities or Nether Bastions!"
+	quest.3C38E3482344D27A.quest_desc: [""]
+	quest.3C38E3482344D27A.quest_subtitle: "Revive Aerodactyl by using &#FF8920Old Amber&r in Restoration Machine!"
+	quest.3C38E3482344D27A.title: "Revive Aerodactyl"
+	quest.3C5CFFEFA814D04D.quest_desc: [""]
+	quest.3C5CFFEFA814D04D.quest_subtitle: "Revive Dracozolt by using &6Fosslized Bird&r and &#A0FF4AFosslized Drake&r in Restoration Machine!"
+	quest.3C5CFFEFA814D04D.title: "Revive Dracozolt"
+	quest.3CBC785359409B0B.quest_desc: [
+		"Place it in Arceus's Held Item slot to change its type to &#565D70Steel&r-type."
+		""
+		"Once removed it will change back to Normal-type."
+	]
+	quest.3CBC785359409B0B.quest_subtitle: "Found in Mineshafts, Ancient Cities, Random Chests, or Towers/Structures!"
+	quest.3D12FE3FB19938AE.quest_subtitle: "Make a Custom Bait in Campfire Pot!"
+	quest.3D12FE3FB19938AE.title: "Custom Bait"
+	quest.3D18C1AE2B0B18DF.quest_subtitle: "Find Temple of the Sea in Deep Cold Ocean Biome in Hoenn!"
+	quest.3D18C1AE2B0B18DF.title: "Temple of the Sea"
+	quest.3D1F9AC747146ACD.quest_desc: [""]
+	quest.3D1F9AC747146ACD.quest_subtitle: "Revive Kabuto by using &#FF9F4ADome Fossil&r in Restoration Machine!"
+	quest.3D1F9AC747146ACD.title: "Revive Kabuto"
+	quest.3D2093FE7CC91D7F.quest_desc: [""]
+	quest.3D2093FE7CC91D7F.quest_subtitle: "Find Chesto Berry in Forest Biomes!"
+	quest.3D7A81D94BF8F839.quest_subtitle: "Summon and catch Jirachi!"
+	quest.3D7A81D94BF8F839.title: "Jirachi"
+	quest.3E2361944AE27CD8.quest_subtitle: "Rare spawn in Savanna, Savanna Plateau, Badlands, Desert biomes!"
+	quest.3E2361944AE27CD8.title: "Great Tusk"
+	quest.3E6E1E380560209B.quest_desc: [""]
+	quest.3E6E1E380560209B.quest_subtitle: "Revive Lileep by using &#DFFF57Root Fossil&r in Restoration Machine!"
+	quest.3E6E1E380560209B.title: "Revive Lileep"
+	quest.3E87F3E2327574AA.quest_desc: [""]
+	quest.3E87F3E2327574AA.quest_subtitle: "Find Occa Berry in Jungle, Sandy, Thermal or Volcanic Biomes!"
+	quest.3E8F71EBCC332087.quest_desc: [""]
+	quest.3E8F71EBCC332087.quest_subtitle: "Collect all &#FF050FPoké&r Balls to get a Master Ball!"
+	quest.3E8F71EBCC332087.title: "You got Balls Kid !"
+	quest.3E919DDD395ECAD3.quest_subtitle: "Find Zapdos' Tower in Stony Shore Biome in Kanto!"
+	quest.3E919DDD395ECAD3.title: "Zapdos' Tower"
+	quest.3EA045F31152B159.quest_desc: [
+		"Defeat Pedro in Battle to get the &#583011C&ro&#583011a&rl Badge!"
+		""
+		"Pedro’s &#FFC8A9Rock-type&r Pokémon stand as solid as the peaks themselves. Crack their defenses with strategy and prove your strength!"
+	]
+	quest.3EA045F31152B159.quest_subtitle: "Defeat Pedro in Battle!"
+	quest.3EA045F31152B159.title: "&#583011C&ro&#583011a&rl Badge (Pedro)"
+	quest.3EA22637BA8D419F.quest_subtitle: "Get Durin Berry through Berry Mutating!"
+	quest.3ECCCDF9B5D6E550.quest_subtitle: "Ultra-Rare spawn in The End!"
+	quest.3ECCCDF9B5D6E550.title: "Cosmog"
+	quest.3ED45E727496B99E.quest_subtitle: "Reach the End and a surprise will wait for you near the portal!"
+	quest.3F1738FC061C4D93.title: "Evolve into Greninja"
+	quest.3F3D6090AC478ADF.quest_desc: [""]
+	quest.3F3D6090AC478ADF.quest_subtitle: "Find Rindo Berry in Jungle, Temperate or Lush Biomes!"
+	quest.3F8751801E83C84F.quest_desc: [
+		"Place it in Arceus's Held Item slot to change its type to &#8F316BPsychic&r-type."
+		""
+		"Once removed it will change back to Normal-type."
+	]
+	quest.3F8751801E83C84F.quest_subtitle: "Found in Mineshafts, Ancient Cities, Random Chests, or Towers/Structures!"
+	quest.3F8ED7008A06D835.quest_subtitle: "Craft a Brush to start looking for Fossils!"
+	quest.3FC42A252443B85B.quest_subtitle: "Summon and catch Shiny Legendary Rayquaza!"
+	quest.3FC42A252443B85B.title: "Shiny Rayquaza"
+	quest.3FECD45A6A5760AC.quest_subtitle: "Collect 50 Tera Shard of any type!"
+	quest.3FECD45A6A5760AC.title: "50 Tera Shards"
+	quest.40A113596F2AF8A9.quest_desc: [
+		"Place it in Arceus's Held Item slot to change its type to &4Fighting&r-type."
+		""
+		"Once removed it will change back to Normal-type."
+	]
+	quest.40A113596F2AF8A9.quest_subtitle: "Found in Mineshafts, Ancient Cities, Random Chests, or Towers/Structures!"
+	quest.41101779BA40981A.quest_subtitle: "Collect Mint Leaves from Mint plants found in the wild!"
+	quest.412EC842AB9BEB38.quest_subtitle: "Rare spawn in Dark Forest biome at night!"
+	quest.412EC842AB9BEB38.title: "Iron Boulder"
+	quest.4160EE7C1D79584B.quest_subtitle: "Find Crown Cemetery in Old Growth Pine Taiga!"
+	quest.4160EE7C1D79584B.title: "Crown Cemetery"
+	quest.41655B1667C9F2DD.quest_subtitle: "Get Figy Berry through Berry Mutating!"
+	quest.41E636911F1E38A9.quest_desc: ["Craft Clayrex Ice Rider Radar, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a map of Crown Spire location!"]
+	quest.41E636911F1E38A9.quest_subtitle: "Craft Calyrex Ice Rider Radar!"
+	quest.422AB5AF7E0973A9.quest_desc: ["Craft Eon Duo Radar, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a map of Secret Garden location!"]
+	quest.422AB5AF7E0973A9.quest_subtitle: "Craft Eon Duo Radar!"
+	quest.4248FFB81408706C.quest_desc: [
+		"Congrats on beating Kanto’s Champion!"
+		""
+		"Your next challenge is the Johto Gyms. Defeat all 8 Leaders and collect their Badges."
+		""
+		"Please restart your world after beating Blue for &#106CFFJohto&r Gyms to start generating."
+		"(Sorry, that’s just how the modpack works!)"
+		""
+		"&#106CFFGyms \\& League Maps&r :"
+		"[ { \"text\": \"Click Here!\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"5DA3EBD97480D3C4\" } } ]"
+	]
+	quest.4248FFB81408706C.quest_subtitle: "Find the first Johto Gym and start collecting Badges!"
+	quest.4248FFB81408706C.title: "Johto Gyms"
+	quest.42554D80C823C7FE.quest_desc: [
+		"1. Right Click on your Greninja while holding Ash Cap."
+		""
+		"2. In battle: Greninja will transform after defeating a Pokemon!"
+	]
+	quest.42554D80C823C7FE.quest_subtitle: "Obtain Ash Greninja!"
+	quest.42554D80C823C7FE.title: "Ash Greninja"
+	quest.428065F9206DA3E9.title: "Trade 100 Coin for 100 PokéDollar !"
+	quest.429743D39B484A9D.quest_subtitle: "Ultra-Rare spawn in all Ocean biomes!"
+	quest.429743D39B484A9D.title: "Manaphy"
+	quest.42D1FF7788C331F6.quest_desc: [""]
+	quest.42D1FF7788C331F6.quest_subtitle: "Revive Tirtouga by using &#8385FFCover Fossil&r in Restoration Machine!"
+	quest.42D1FF7788C331F6.title: "Revive Tirtouga"
+	quest.42DBF92696D438AE.quest_desc: [
+		"Place it in Arceus's Held Item slot to change its type to &#FFC961Electric&r-type."
+		""
+		"Once removed it will change back to Normal-type."
+	]
+	quest.42DBF92696D438AE.quest_subtitle: "Found in Mineshafts, Ancient Cities, Random Chests, or Towers/Structures!"
+	quest.42F08207FC9BA20F.quest_subtitle: "Dig all hidden Magma Crystals inside the Volcano and craft Earth Core to summon Groudon!"
+	quest.42F2A7BB476EB34E.quest_desc: [
+		"Defeat Aaron in Battle to advance through the Elite Four of Sinnoh!"
+		""
+		"Aaron’s &#719D4BBug&r Pokémon strike fast and overwhelm with relentless pressure. Face his swarm with focus and rise above his challenge!"
+	]
+	quest.42F2A7BB476EB34E.quest_subtitle: "Defeat Aaron in Battle!"
+	quest.42F2A7BB476EB34E.title: "Sinnoh First Elite"
+	quest.42F5F26E94AF2E70.title: "Trade 10 Coin for 100 PokéDollar !"
+	quest.430BED5C1DBABF11.quest_desc: [
+		"Defeat Lance in Battle to claim the title of \"&#034DFFMaster of &r&#FFC260the&r &#034DFFTwin Regions&r\"!"
+		""
+		"Lance commands the skies with the might of &#0337FFDragons&r and the soul of a hero. Face his soaring power without fear — and rise as the new legend of Johto!"
+		""
+		"&#106CFFGyms \\& League Maps&r :"
+		"[ { \"text\": \"Click Here!\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"5DA3EBD97480D3C4\" } } ]"
+	]
+	quest.430BED5C1DBABF11.quest_subtitle: "Defeat Lance in Battle!"
+	quest.430BED5C1DBABF11.title: "&#034DFFChamp&r&#FFC260ion&r &#034DFFLance&r"
+	quest.433BB294AA1FF468.quest_desc: [
+		"Place it in Silvally's Held Item slot to change its type to &#B25AFFPoison&r-type."
+		""
+		"Once removed it will change back to Normal-type."
+	]
+	quest.433BB294AA1FF468.quest_subtitle: "Random drop from Ominous Trial Vaults, Get Ominous Trial Keys by defeating team rocket tower boss!"
+	quest.4341B175E0DE3908.title: "Buy a Master Ball !"
+	quest.43505B1CAEBCDC82.quest_desc: [
+		"Place it in Silvally's Held Item slot to change its type to &#3BA545Grass&r-type."
+		""
+		"Once removed it will change back to Normal-type."
+	]
+	quest.43505B1CAEBCDC82.quest_subtitle: "Random drop from Ominous Trial Vaults, Get Ominous Trial Keys by defeating team rocket tower boss!"
+	quest.439031E526E3FF10.quest_desc: [""]
+	quest.439031E526E3FF10.quest_subtitle: "Find Persim Berry in any Biome!"
+	quest.43CD16A376EBA017.quest_desc: [
+		"Defeat Pino in Battle to advance through the Elite Four of Johto!"
+		""
+		"Pino’s &#8F316BPsychic-types&r twist reality and perception alike. Keep your mind clear, see through his illusions, and prove that true power comes from unshakable focus!"
+	]
+	quest.43CD16A376EBA017.quest_subtitle: "Defeat Pino in Battle!"
+	quest.43CD16A376EBA017.title: "Johto First Elite"
+	quest.43ED5448C5EE38D9.quest_desc: ["Craft Store Card, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a Map of Department Store's Location!"]
+	quest.43ED5448C5EE38D9.quest_subtitle: "Craft Store Card!"
+	quest.4415A9D186D4FDEB.quest_desc: [
+		"- 10% Forme needs 9 Zygarde Cells."
+		""
+		"- 50% Forme needs 49 Zygarde Cells."
+		""
+		"- Complete Forme needs 95 Zygarde Cells."
+	]
+	quest.4415A9D186D4FDEB.quest_subtitle: "Find Zygarde Cell at Wishing Weald, Archeological Site in chests!"
+	quest.44736382F275CD3C.quest_subtitle: "Find Luna Henge Ruins!"
+	quest.44736382F275CD3C.title: "Sol Henge Ruins"
+	quest.44756E38D55AFF0B.quest_desc: [""]
+	quest.44756E38D55AFF0B.quest_subtitle: "Ultra-Rare spawn in Jungle, All River biomes except Frozen River, Swamp,Mangrove Swamp. Also by Also Fishing or Submerged!"
+	quest.44756E38D55AFF0B.title: "Froakie"
+	quest.44AF0215FB0C67B4.quest_desc: [
+		"Place it Palkia's Held Item slot to change Palkia into its Origin Form."
+		""
+		"Once removed it will change back."
+	]
+	quest.44AF0215FB0C67B4.quest_subtitle: "Find Reveal Glass in a Ocean Ruin Warm by using a brush on Suspicious Sand or Gravel!"
+	quest.44FD24EC72184047.quest_desc: [""]
+	quest.44FD24EC72184047.quest_subtitle: "Craft Korrian's Gloves!"
+	quest.44FD24EC72184047.title: "Korrian's Gloves"
+	quest.45520BABAFFF5E83.quest_desc: [
+		"Defeat Misty in Battle to get the &#6197FFCascade&r badge!"
+		""
+		"Misty commands the tides with calm precision. Adapt like &#66A9FFWater — Flow&r around her defenses and strike when the current is in your favor!"
+	]
+	quest.45520BABAFFF5E83.quest_subtitle: "Defeat Misty in Battle!"
+	quest.45520BABAFFF5E83.title: "&#6197FFCascade&r Badge (Misty)"
+	quest.4559C392BBF4616B.quest_subtitle: "Ultra-Rare spawn in all Ocean biomes!"
+	quest.4559C392BBF4616B.title: "Phione"
+	quest.458240AFB97A8A45.quest_subtitle: "Craft a TM Smithing Template!"
+	quest.458240AFB97A8A45.title: "TM Smithing Template"
+	quest.45834ACBBC0E0FD9.quest_subtitle: "Collect Mint Seeds by harvesting Mint plants!"
+	quest.45B2CEABBB6F843C.quest_subtitle: "Rare spawn in Meadow, Grove, Snowy Slopes,Jagged Peaks, Frozen Peaks, Stony Peaks biomes at night!"
+	quest.45B2CEABBB6F843C.title: "Iron Jugulis"
+	quest.461EF03301508A00.quest_subtitle: "Get Eggant Berry through Berry Mutating!"
+	quest.463E582C12C27986.quest_desc: ["Near: Redstone Block, Repeater, Redstone Torch, Daylight Detector, Comparator, Redstone Ore, Redstone Lamp, Lightining Rod, PC, Monitor, Healing Machine, Restoration Tank, Fossyl Analyzer."]
+	quest.463E582C12C27986.quest_subtitle: "Common spawn all Overworld biomes!"
+	quest.463E582C12C27986.title: "Rotom"
+	quest.464EDB98C6B02B41.quest_desc: [""]
+	quest.464EDB98C6B02B41.quest_subtitle: "Find Origin Temple (Mew Temple) in Jungle Biome in Kanto!"
+	quest.464EDB98C6B02B41.title: "Origin Temple"
+	quest.468A24666355269F.quest_subtitle: "Get Pamtre Berry through Berry Mutating!"
+	quest.46AF61850A606112.quest_subtitle: "Uncommon spawn in all Overworld biomes except Ocean biomes!"
+	quest.46AF61850A606112.title: "Eevee"
+	quest.470121EB4578767A.quest_desc: ["Rock Ore is found in Badlands, Wooded Badlands or Eroded Badlands Biomes between 0 and 64 height!"]
+	quest.470121EB4578767A.quest_subtitle: "Mine Pebble Relic from Rock Ore!"
+	quest.475FBD9533C051A1.quest_subtitle: "Find any of these Berries and use them for Berry Mutating!"
+	quest.475FBD9533C051A1.title: "Eggant Berry Parents!"
+	quest.47919B89016A46AE.quest_subtitle: "Collect Mint Seeds by harvesting Mint plants!"
+	quest.4794402E0455A8F5.quest_desc: [""]
+	quest.4794402E0455A8F5.quest_subtitle: "Obtain Normal Tera Shard by defeating a Normal-type Pokémon!"
+	quest.47F40A14BF09BD12.quest_subtitle: "Summon and catch Legendary Lugia!"
+	quest.47F40A14BF09BD12.title: "Lugia"
+	quest.4846731695C684D6.quest_subtitle: "Ultra-Rare spawn in Basalt Deltas biome!"
+	quest.4846731695C684D6.title: "Chi-Yu"
+	quest.4858F655261CE9C9.quest_subtitle: "Ultra-Rare spawn in all Forest biomes!"
+	quest.4858F655261CE9C9.title: "Zacian"
+	quest.4874494DF630F862.quest_desc: [
+		"1. Right‑Click on Spectrier with the Reins of Unity to charge them."
+		""
+		"2. Right‑Click on Calyrex with the charged Reins to transform it into Shadow Rider Calyrex."
+		""
+		"(You can &nundo&r the fusion by using Right-Click on Shadow Rider Calyrex with Reins of Unity)"
+	]
+	quest.4874494DF630F862.quest_subtitle: "Fuse Calyrex with Spectrier to get Shadow Rider Calyrex!"
+	quest.4874494DF630F862.title: "Shadow Rider Calyrex Fusion"
+	quest.48754C845085257D.quest_desc: [""]
+	quest.48754C845085257D.quest_subtitle: "Break Keystone Ore to get a Keystone!"
+	quest.48754C845085257D.title: "Keystone"
+	quest.4876B97D80390646.quest_desc: ["Craft Clayrex Shadow Rider Radar, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a map of Crown Cemetery location!"]
+	quest.4876B97D80390646.quest_subtitle: "Craft Calyrex Shadow Rider Radar!"
+	quest.488F1229085CD951.quest_desc: [
+		"Place it in Ogerpon's Held Item slot to change Ogerpon into its Wellspring Form."
+		""
+		"Once removed it will change back."
+	]
+	quest.488F1229085CD951.quest_subtitle: "Find Wellspring mask in Frozen Gimmi Tower by using a brush on Suspicious Sand or Gravel!"
+	quest.48B2DFD9162C3F5C.quest_subtitle: "Summon and catch Shiny Legendary Latias!"
+	quest.48B2DFD9162C3F5C.title: "&zShiny&r Latias"
+	quest.491447D80DE3F5A7.quest_desc: [
+		"- 10% Forme needs 1 Zygarde Core."
+		""
+		"- 50% Forme needs 1 Zygarde Core."
+		""
+		"- Complete Forme needs 5 Zygarde Cores."
+	]
+	quest.491447D80DE3F5A7.quest_subtitle: "Find Zygarde Core at Mossy Oubiliette Ruins, Crumbling Arch Ruins by using a brush on Suspicious Sand or Gravel!"
+	quest.49B0732D27567A51.quest_desc: [""]
+	quest.49B0732D27567A51.quest_subtitle: "Find Chople Berry in Mountain, Bamboo or Taiga Biomes!"
+	quest.4A4AD38C0AACA676.quest_desc: [""]
+	quest.4A4AD38C0AACA676.quest_subtitle: "Revive Dracovish by using &#A0FF4AFosslized Drake&r and &#3AA5FFFosslized Fish&r in Restoration Machine!"
+	quest.4A4AD38C0AACA676.title: "Revive Dracovish"
+	quest.4A545C169A6AC333.quest_subtitle: "Summon and catch Shiny Legendary Groudon!"
+	quest.4A545C169A6AC333.title: "&zShiny&r Groudon"
+	quest.4A75D2279DAFF7EF.quest_desc: [""]
+	quest.4A75D2279DAFF7EF.quest_subtitle: "Find Wepear Berry in Plains Biomes!"
+	quest.4AA3DF8563E733D1.quest_subtitle: "Obtain Rainbow Wing by defeating Old Sage in Burned Tower to summon Ho-Oh!"
+	quest.4ACB92DE9BA0BF8B.quest_desc: ["Craft Water Rod, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a Map of Adriano’s Gym Location!"]
+	quest.4ACB92DE9BA0BF8B.quest_subtitle: "Craft Water Rod!"
+	quest.4AD1F4687AFB7236.quest_subtitle: "Ultra-Rare spawn in all River biomes, Jungle biomes!"
+	quest.4AD1F4687AFB7236.title: "Tapu Bulu"
+	quest.4AE01A2E82B1DA29.quest_desc: ["Craft Rock Tome, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a Map of Petra's Gym Location!"]
+	quest.4AE01A2E82B1DA29.quest_subtitle: "Craft Rock Tome!"
+	quest.4B065CE217D80FA3.quest_subtitle: "Ultra-Rare spawn in Beach biome!"
+	quest.4B065CE217D80FA3.title: "Koraidon"
+	quest.4B306C1AD156A0F1.quest_desc: [""]
+	quest.4B306C1AD156A0F1.quest_subtitle: "Craft any regional Cartography Table!"
+	quest.4B306C1AD156A0F1.title: "Overworld Cartography Tables"
+	quest.4B46D4DCDE85A946.quest_subtitle: "Find Hearty Grains in Swamp biomes growing in water!"
+	quest.4B61EF60B5526554.quest_desc: [""]
+	quest.4B61EF60B5526554.quest_subtitle: "Obtain Bug Tera Shard by defeating a Bug-type Pokémon!"
+	quest.4B84DE7B507CFC4C.quest_subtitle: "Ultra-Rare spawn under Dyna Tree during the night!"
+	quest.4B84DE7B507CFC4C.title: "Galarian Articuno"
+	quest.4B85674247ECBD95.quest_subtitle: "Ultra-Rare spawn in Savanna, Savanna Plateau biomes!"
+	quest.4B85674247ECBD95.title: "Terrakion"
+	quest.4B9985FE32E37675.quest_subtitle: "Craft Reins of Unity to fuse Clayrex with Spectrier or Glastrier!"
+	quest.4B9985FE32E37675.title: "Reins of Unity"
+	quest.4BA05B905DCF0450.quest_desc: [
+		"Defeat Drake in Battle to reach the Champion of Hoenn!"
+		""
+		"Drake’s &#0337FFDragon&r Pokémon are powerful and fierce. Only careful planning and strong tactics can bring them down!"
+	]
+	quest.4BA05B905DCF0450.quest_subtitle: "Defeat Drake in Battle!"
+	quest.4BA05B905DCF0450.title: "Hoenn Fourth Elite"
+	quest.4BCD0D4DE8D80C71.quest_subtitle: "Using Shears on a Slowpoke will drop a Tasty Tail, cutting their tail in the proces!"
+	quest.4C2DFB9312C60300.quest_desc: [
+		"Defeat Chiara in Battle to get the P&#FFCC5Dlai&rn Badge!"
+		""
+		"Don’t be fooled by her charm — Chiara’s &#A3A1A5Normal-types&r pack an emotional punch! Stay steady, overcome the tears, and prove that true strength comes from composure!"
+	]
+	quest.4C2DFB9312C60300.quest_subtitle: "Defeat Chiara in Battle!"
+	quest.4C2DFB9312C60300.title: "P&#FFCC5Dlai&rn Badge (Chiara)"
+	quest.4C4C4003E821CDBB.quest_subtitle: "Get Pomeg Berry through Berry Mutating!"
+	quest.4C9C15098404C778.quest_desc: ["Craft Secret Medicine, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a Map of Jasmine’s Gym Location!"]
+	quest.4C9C15098404C778.quest_subtitle: "Craft Secret Medicine!"
+	quest.4D1460A49AC68F57.quest_subtitle: "Get Grepa Berry through Berry Mutating!"
+	quest.4D7D49B848BC8A1D.quest_subtitle: "Craft Ocean Core to summon Kyogre!"
+	quest.4E39214A94701EEF.quest_subtitle: "Collect Apricorns and Apricorn Sprouts from Apricorn trees found in the wild!"
+	quest.4EB0F4E451270A2A.quest_subtitle: "Craft Omni Ring to be able to use any Mega Showdown Gimmick!"
+	quest.4EB0F4E451270A2A.title: "Omni Ring"
+	quest.4EE8ADFEC5D4036F.quest_desc: ["Craft Registeel Radar, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a map Temple of Registeel location!"]
+	quest.4EE8ADFEC5D4036F.quest_subtitle: "Craft Registeel Radar!"
+	quest.4F1069C7BBDD436D.quest_subtitle: "Get Aguav Berry through Berry Mutating!"
+	quest.4F8B993E55749CC1.quest_desc: [""]
+	quest.4F8B993E55749CC1.quest_subtitle: "Use any Pokéball to catch your first Pokémon!"
+	quest.4F8B993E55749CC1.title: "Your First Catch"
+	quest.4F906D5B0C3695B4.quest_subtitle: "Ultra-Rare spawn in all Forest biomes!"
+	quest.4F906D5B0C3695B4.title: "Enamorus"
+	quest.4FBDE77BB66E5380.quest_desc: ["Craft Electric Connector, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a Map of Walter’s Gym Location!"]
+	quest.4FBDE77BB66E5380.quest_subtitle: "Craft Electric Connector!"
+	quest.4FDD467AF4AC2154.title: "Trade 3 Diamond for 1 Coins !"
+	quest.500DF1D5DE83C619.quest_desc: ["Craft Mega Rayquaza Radar, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a map Sky Pillar location!"]
+	quest.500DF1D5DE83C619.quest_subtitle: "Craft Mega Rayquaza Radar!"
+	quest.503020CFA1A31E9E.title: "Place Pot on Campfire"
+	quest.5054736C2E99076C.quest_subtitle: "Ultra-Rare spawn in Sakura Grove, Sakura Valley biomes!"
+	quest.5054736C2E99076C.title: "Keldeo"
+	quest.5061B77A641D8C96.quest_desc: ["Craft Ninja Poison, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a Map of Koga’s Gym Location!"]
+	quest.5061B77A641D8C96.quest_subtitle: "Craft an Ninja Poison!"
+	quest.508536B54BEC5056.quest_desc: [""]
+	quest.508536B54BEC5056.quest_subtitle: "Find Wacan Berry in Grassland, Hills or Sky Biomes!"
+	quest.512024848E5EF49B.quest_desc: [
+		"Place it in Arceus's Held Item slot to change its type to &#FF783AFire&r-type."
+		""
+		"Once removed it will change back to Normal-type."
+	]
+	quest.512024848E5EF49B.quest_subtitle: "Found in Mineshafts, Ancient Cities, Random Chests, or Towers/Structures!"
+	quest.5171CAB9596EF011.quest_subtitle: "Use brush on Suspicious Sand in Archaeological Site to get Light Sparkling Stone!"
+	quest.5174FDDF82ED5C9A.quest_subtitle: "Ultra-Rare spawn under Dyna Tree during a thunderstorm!"
+	quest.5174FDDF82ED5C9A.title: "Galarian Zapdos"
+	quest.51A1DA8EEAC5BAC4.quest_desc: ["Craft Lieutenant Medal, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a Map of Lt.Surge’s Gym Location!"]
+	quest.51A1DA8EEAC5BAC4.quest_subtitle: "Craft Lieutenant Medal!"
+	quest.51AB823889B9CDAF.quest_desc: [
+		"Place it in Arceus's Held Item slot to change its type to &#0337FFDragon&rtype."
+		""
+		"Once removed it will change back to Normal-type."
+	]
+	quest.51AB823889B9CDAF.quest_subtitle: "Found in Mineshafts, Ancient Cities, Random Chests, or Towers/Structures!"
+	quest.51BF615744006CFC.quest_desc: [""]
+	quest.51BF615744006CFC.quest_subtitle: "Collect all &#034DFFBerries&r to get a Master Ball!"
+	quest.51BF615744006CFC.title: "Gotta Pick 'em All!"
+	quest.51F1EC954C60D8AD.quest_subtitle: "Ultra-Rare spawn in Cherry Grove, Flower Forest, Meadow, Sunflower Plains, Beach biomes!"
+	quest.51F1EC954C60D8AD.title: "Tapu Lele"
+	quest.5211E76EA3B1D523.quest_desc: [""]
+	quest.5211E76EA3B1D523.quest_subtitle: "Find Lush Gimmi Tower!"
+	quest.5211E76EA3B1D523.title: "Lush Gimmi Tower"
+	quest.521B1FFE6E6B38F2.quest_subtitle: "Find Temple of Regice in Snowy Badlands Biome in Hoenn!"
+	quest.521B1FFE6E6B38F2.title: "Temple of Regice"
+	quest.524CE7E6765F6FD5.quest_subtitle: "Ultra-Rare spawn in Meadow, Stony Peaks, Stony Slopes, Jagged Peaks, Grove, Frozen Peaks, biomes when the weather is clear!"
+	quest.524CE7E6765F6FD5.title: "Reshiram"
+	quest.527816EE61F8BA7D.quest_subtitle: "Get Touga Berry through Berry Mutating!"
+	quest.527D8DB71E449C50.quest_desc: [
+		"Place it in Arceus's Held Item slot to change its type to &#83BFFFFlying&r-type."
+		""
+		"Once removed it will change back to Normal-type."
+	]
+	quest.527D8DB71E449C50.quest_subtitle: "Found in Mineshafts, Ancient Cities, Random Chests, or Towers/Structures!"
+	quest.52ACAF22D08CCD11.quest_desc: ["Craft Spirit Scarf, then combine it with an Empty Map in any &#8B4C33Overworld&rCartography Table to obtain a Map of Angelo’s Gym Location!"]
+	quest.52ACAF22D08CCD11.quest_subtitle: "Craft Spirit Scarf!"
+	quest.52E771715C3A8FA4.quest_desc: [
+		"Defeat Norman in Battle to get the &#AEA7FFB&r&#A3A1A5alanc&r&#AEA7FFe&r Badge!"
+		""
+		"Norman’s &#A3A1A5Normal-types&r Pokémon are versatile and unpredictable. Adapt your tactics to overcome his balance of power! "
+	]
+	quest.52E771715C3A8FA4.quest_subtitle: "Defeat Norman in Battle!"
+	quest.52E771715C3A8FA4.title: "&#AEA7FFB&r&#A3A1A5alanc&r&#AEA7FFe&r Badge (Norman)"
+	quest.52F69985DDF53CB2.quest_subtitle: "Rare spawn in Jungle, Crimson Forest biomes!"
+	quest.52F69985DDF53CB2.title: "Slither Wing"
+	quest.53187A1CDF392AA2.quest_desc: [""]
+	quest.53187A1CDF392AA2.quest_subtitle: "Find Aspear Berry in Mountain Biomes!"
+	quest.5338C9265D8C54AB.quest_subtitle: "Get Ganlon Berry through Berry Mutating!"
+	quest.534FBD7084B569D1.quest_desc: [
+		"Defeat Luciano in Battle to reach the Champion of Sinnoh!"
+		""
+		"Luciano’s &#8F316BPsychic&r Pokémon test both mind and resolve. Stay sharp, read his moves, and overcome his mental mastery!"
+	]
+	quest.534FBD7084B569D1.quest_subtitle: "Defeat Luciano in Battle!"
+	quest.534FBD7084B569D1.title: "Sinnoh Fourth Elite"
+	quest.5374EB577D364121.quest_desc: ["Craft Ho-Oh Radar, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a map of Ho-Oh's Bell Tower location!"]
+	quest.5374EB577D364121.quest_subtitle: "Craft Ho-Oh Radar!"
+	quest.538A9B0BC6CAEA6D.quest_desc: [
+		"Place it in Zacian's Held Item slot to change Zacian into Crowned Sword form."
+		""
+		"Once removed it will change back."
+	]
+	quest.538A9B0BC6CAEA6D.quest_subtitle: "Find Rusted Sword in a Luna Henge Ruins by using a brush on Suspicious Sand or Gravel!"
+	quest.53BC6608F831BD71.quest_subtitle: "Rare spawn in all Plains biomes near a lightining Rod!"
+	quest.53BC6608F831BD71.title: "Iron Valiant"
+	quest.53E7928EE0B9B970.quest_subtitle: "Find any of these Berries and use them for Berry Mutating!"
+	quest.53E7928EE0B9B970.title: "Starf Berry Parents"
+	quest.53F245619B3B44F2.quest_desc: [
+		"1. Equip one of Z-Rings by right clicking while holding it in your hand."
+		""
+		"2. Equip Ultranecrozium-Z on either Dawn Wings or Dusk Mane Necrozma."
+		""
+		"3. In battle: click the Z-Move button to trigger Ultra Burst, then choose any move."
+		""
+		"4. Outside of battle: look at your Pokémon, press Shift + Right-click and choose \"Ultra Burst\". "
+	]
+	quest.53F245619B3B44F2.quest_subtitle: "Obtain Ultra Necrozma by triggering Ultra Burst!"
+	quest.53F245619B3B44F2.title: "Light That Burns the Sky"
+	quest.53FADEC9E1C2ED2D.quest_subtitle: "Ultra-Rare spawn in Dark Forest biome!"
+	quest.53FADEC9E1C2ED2D.title: "Pecharunt"
+	quest.54612F2E44423D9F.quest_desc: [
+		"Defeat Fosco in Battle to advance through the Elite Four of Hoenn!"
+		""
+		"Fosco’s &#0F1218Dark&r Pokémon strike from the shadows, testing your strategy and resolve. Shine a light on his tactics to overcome him!"
+	]
+	quest.54612F2E44423D9F.quest_subtitle: "Defeat Fosco in Battle!"
+	quest.54612F2E44423D9F.title: "Hoenn First Elite"
+	quest.54CAE124E890F3F7.quest_subtitle: "Craft Mow Unit to transform Rotom into Mow form!"
+	quest.54CAE124E890F3F7.title: "Mow Unit"
+	quest.54CAED172FD57906.quest_subtitle: "Craft a Fishing Rod!"
+	quest.54F4335AF6E44891.quest_desc: ["Craft Necrozma Dawn Radar, then combine it with an Empty Map in any &l&#F7FFC6End&r&r Cartography Table to obtain a map of Dawn Tower location!"]
+	quest.54F4335AF6E44891.quest_subtitle: "Craft Necrozma Dawn Radar!"
+	quest.55003C6458ADE099.quest_desc: ["3× Chance to spawn during daytime!"]
+	quest.55003C6458ADE099.quest_subtitle: "Catch Entei near Burned Tower!"
+	quest.55003C6458ADE099.title: "Entei"
+	quest.5551B93A4D34567E.quest_subtitle: "Find Bell Tower in Forest Biome in Johto!"
+	quest.5551B93A4D34567E.title: "Bell Tower"
+	quest.556733907AEC013F.quest_subtitle: "Craft N Lunarizer to fuse Necrozma with Lunala!"
+	quest.556733907AEC013F.title: "N Lunarizer"
+	quest.55B4534197FA3343.quest_subtitle: "Plant Bean Seeds and harvest Beans!"
+	quest.55CA6B69314C17AA.quest_subtitle: "Find Abandoned Observatory in Jungle or Plains Biomes!"
+	quest.55CA6B69314C17AA.title: "Abandoned Observatory"
+	quest.560AC5F538588BE3.quest_subtitle: "Summon and catch Shiny Legendary Latios!"
+	quest.560AC5F538588BE3.title: "&zShiny&r Latios"
+	quest.56765A55E1776820.quest_desc: ["Obtain Ancient DNA either by defeating Giovanni or by visiting Origin Temple!"]
+	quest.56765A55E1776820.quest_subtitle: "Obtain Ancient DNA!"
+	quest.56BA323EBC322347.quest_desc: ["Used as part of the PokéNav crafting recipe!"]
+	quest.56BA323EBC322347.quest_subtitle: "Find an Old PokéNav!"
+	quest.56BA323EBC322347.title: "Old PokéNav"
+	quest.56BC185856A00906.quest_desc: [
+		"Place it in Ogerpon's Held Item slot to change Ogerpon into its Cornerstone Form."
+		""
+		"Once removed it will change back."
+	]
+	quest.56BC185856A00906.quest_subtitle: "Find Cornerstone Mask in Lush Gimmi Tower by using a brush on Suspicious Sand or Gravel!"
+	quest.56FEB210F7B8086E.quest_desc: [
+		"Place it in Arceus's Held Item slot to change its type to &#FFB7E2Fairy&r-type."
+		""
+		"Once removed it will change back to Normal-type."
+	]
+	quest.56FEB210F7B8086E.quest_subtitle: "Found in Mineshafts, Ancient Cities, Random Chests, or Towers/Structures!"
+	quest.57401DDE6A08A5CB.quest_subtitle: "Find Articuno's Tower in Snowy Plains Biome in Kanto!"
+	quest.57401DDE6A08A5CB.title: "Articuno' Tower"
+	quest.57482A59E7B70BA5.quest_desc: [
+		"Defeat Brock in Battle to get the &#A1A1A1Boulder&r badge!"
+		""
+		"Brock stands as firm as the mountains themselves. Break through his &#FFC8A9Rock-Hard&r defense and prove that even the toughest walls can crumble under your strength!"
+	]
+	quest.57482A59E7B70BA5.quest_subtitle: "Defeat Brock in Battle!"
+	quest.57482A59E7B70BA5.title: "&#A1A1A1Boulder&r Badge (Brock)"
+	quest.57644F9D5D425090.quest_subtitle: "Summon and catch Legendary Articuno!"
+	quest.57644F9D5D425090.title: "Articuno"
+	quest.576EF42CB41E231A.quest_desc: ["Craft Hypnotic Whip, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a Map of Sabrina’s Gym Location!"]
+	quest.576EF42CB41E231A.quest_subtitle: "Craft an Hypnotic Whip!"
+	quest.5789AC3E0FEC0716.quest_desc: [""]
+	quest.5789AC3E0FEC0716.quest_subtitle: "Find Shuca Berry in Arid or Grassland Biomes!"
+	quest.57A9EC6A63B26566.quest_desc: [
+		"Defeat Rocco in Battle to claim the title of \"&6Hoenn's&r &4Ulti&r&0m&rate &8Master&r\"!"
+		""
+		"Rocco’s &#565D70Steel&r Pokémon are strong and unyielding. Face his iron-clad might without fear — and overcome him to prove your true skill!"
+		""
+		"&#82FF05Gyms \\& League Maps&r :"
+		"[ { \"text\": \"Click Here!\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0A8C3CC12E167F8B\" } } ]"
+	]
+	quest.57A9EC6A63B26566.quest_subtitle: "Defeat Rocco in Battle!"
+	quest.57A9EC6A63B26566.title: "Champion Rocco"
+	quest.57EB44EA217D009F.quest_desc: [""]
+	quest.57EB44EA217D009F.quest_subtitle: "Find Frozen Gimmi Tower!"
+	quest.57EB44EA217D009F.title: "Frozen Gimmi Tower"
+	quest.57F6DBF0AB777133.quest_subtitle: "Ultra-Rare spawn in all Forest biomes at night!"
+	quest.57F6DBF0AB777133.title: "Iron Leaves"
+	quest.582A86BC367CEF90.quest_desc: [""]
+	quest.582A86BC367CEF90.quest_subtitle: "Revive Amaura by using &#52AB93Sail Fossil&r in Restoration Machine!"
+	quest.582A86BC367CEF90.title: "Revive Amaura"
+	quest.5837BFBA39A2912A.quest_desc: [
+		"Place it in Arceus's Held Item slot to change its type to &#FFC8A9Rock&r-type."
+		""
+		"Once removed it will change back to Normal-type."
+	]
+	quest.5837BFBA39A2912A.quest_subtitle: "Found in Mineshafts, Ancient Cities, Random Chests, or Towers/Structures!"
+	quest.5888AE797F4529B7.quest_subtitle: "Ultra-Rare spawn in Lush Caves!"
+	quest.5888AE797F4529B7.title: "Diancie"
+	quest.590FE492158D2A37.quest_desc: [
+		"Defeat Fiammetta in Battle to get the &#FFC16AH&r&ceat&r Badge!"
+		""
+		"Fiammetta’s &#FF7749Fire-type&r Pokémon burn with intensity. Cool your strategy and blaze through her team!"
+	]
+	quest.590FE492158D2A37.quest_subtitle: "Defeat Fiammetta in Battle!"
+	quest.590FE492158D2A37.title: "&#FFC16AH&r&ceat&r Badge (Fiammetta)"
+	quest.5949CA954F1F4FD8.quest_desc: [""]
+	quest.5949CA954F1F4FD8.quest_subtitle: "Find Chilan Berry in Temperate or Grassland Biomes!"
+	quest.59938E5EE6D4EB45.quest_subtitle: "Collect Apricorns and Apricorn Sprouts from Apricorn trees found in the wild!"
+	quest.5994F82E4460AC72.quest_desc: [
+		"Place it in Silvally's Held Item slot to change its type to &#FFC961Electric&r-type."
+		""
+		"Once removed it will change back to Normal-type."
+	]
+	quest.5994F82E4460AC72.quest_subtitle: "Random drop from Ominous Trial Vaults, Get Ominous Trial Keys by defeating team rocket tower boss!"
+	quest.599FEE353E8E4EC1.quest_desc: [
+		"1. Equip Dynamax Band by using Right Click while holding it in your right hand."
+		""
+		"2. You need to to be within 20 blocks of a Power Spot."
+		""
+		"3. To Dynamax in battle: Click the Dynamax button, then choose any move."
+	]
+	quest.599FEE353E8E4EC1.quest_subtitle: "Dynamax a Pokémon!"
+	quest.599FEE353E8E4EC1.title: "Dynamax"
+	quest.59A907D75C51F503.quest_subtitle: "Defeat Kanto Champion Blue or other strong trainer to obtain Ancient Origin Ball!"
+	quest.59C8B62D9F7BCB48.quest_subtitle: "Find a Dyna Tree in Sakura Grove Biome!"
+	quest.59C8B62D9F7BCB48.title: "Dyna Tree"
+	quest.59D22899D889518E.quest_subtitle: "Get Cornn Berry through Berry Mutating!"
+	quest.59DB38DEE5C2338D.quest_desc: ["You can buy a PokéNav in unique colors from Wandering Trader!"]
+	quest.59DB38DEE5C2338D.quest_subtitle: "Get a Wanderer PokéNav!"
+	quest.59DB38DEE5C2338D.title: "Wanderer PokéNav"
+	quest.5A202A73EE743996.quest_subtitle: "Find Galarice Nuts in Beach biomes!"
+	quest.5A57F949AF757A2E.title: "Craft a Campfire Pot"
+	quest.5A7D0F68E3232932.quest_desc: [""]
+	quest.5A7D0F68E3232932.quest_subtitle: "Find Tanga Berry in Forest, Jungle or Swamp Biomes!"
+	quest.5AC36993477AA2FA.quest_desc: [
+		"1. Equip one of Z-Rings by right clicking while holding it in your hand."
+		""
+		"2. Your Pokémon must be holding a Z-Crystal. With the it in your right hand look at your Pokémon, press Shift + Right-click and choose \"Change Holding Item\"."
+		""
+		"3. In battle: click the Z-move button, then choose the new highlighted move."
+		""
+		"4. You won't be able to Dynamax or Mega Evolve your Pokémon if it is holding a Z-Crystal, since it is a different battle gimmick."
+	]
+	quest.5AC36993477AA2FA.quest_subtitle: "Use a Z-Move in Battle!"
+	quest.5AC36993477AA2FA.title: "Z-Power"
+	quest.5ACBF606DD9F152F.quest_subtitle: "Summon and catch Shiny Jirachi!"
+	quest.5ACBF606DD9F152F.title: "&zShiny&r Jirachi"
+	quest.5ADFF3B45FD11618.quest_desc: [""]
+	quest.5ADFF3B45FD11618.quest_subtitle: "Obtain Electric Tera Shard by defeating an Electric-type Pokémon!"
+	quest.5B706A3D5F4078A9.quest_subtitle: "Find Meteorite Crystal hidden in Meteorite to summon Deoxys!"
+	quest.5B959C31FB5D0983.quest_subtitle: "Obtain Ruby Dew by defeating Hoenn Champion Rocco to summon Latias!"
+	quest.5BC2F48F8260306E.quest_subtitle: "Craft N Solarizer to fuse Necrozma with Solgaleo!"
+	quest.5BC2F48F8260306E.title: "N Solarizer"
+	quest.5BDC746EF37B78EB.quest_desc: [""]
+	quest.5BDC746EF37B78EB.quest_subtitle: "Find Razz Berry in Forest Biomes!"
+	quest.5C2B765D6061DE9B.quest_desc: [
+		"Place it in Silvally's Held Item slot to change its type to &#8F316BPsychic&r-type."
+		""
+		"Once removed it will change back to Normal-type."
+	]
+	quest.5C2B765D6061DE9B.quest_subtitle: "Random drop from Ominous Trial Vaults, Get Ominous Trial Keys by defeating team rocket tower boss!"
+	quest.5C38E663AF730969.quest_desc: ["Place it in Genesect's Held Item slot to change its Techno Blast to &#FFC961Electric&r-type."]
+	quest.5C38E663AF730969.quest_subtitle: "Craft Shock Drive!"
+	quest.5C3A4DB41252390B.quest_desc: [
+		"Defeat Valerio in Battle to get the &#7AADFFZephyr&r Badge!"
+		""
+		"Valerio soars high with pride in his &#9AB6FFFlying-type&r Pokémon. Clip his wings with strategy and prove that no height is too great for your determination to reach!"
+	]
+	quest.5C3A4DB41252390B.quest_subtitle: "Defeat Valerio in Battle!"
+	quest.5C3A4DB41252390B.title: "&#7AADFFZephyr&r Badge (Valerio)"
+	quest.5C5D6D9F056AC58C.quest_subtitle: "Summon and catch Deoxys!"
+	quest.5C5D6D9F056AC58C.title: "Deoxys"
+	quest.5CBE1AB363FD8F6F.quest_subtitle: "Ultra-Rare spawn in all River biomes, Beach biomes!"
+	quest.5CBE1AB363FD8F6F.title: "Tapu Fini"
+	quest.5CE9A579D4BB2E14.quest_desc: ["Used to fully heal your Pokémon after tough battle!"]
+	quest.5CE9A579D4BB2E14.quest_subtitle: "Craft a Healing Machine!"
+	quest.5CE9A579D4BB2E14.title: "Healing Machine"
+	quest.5D0D6A06E3527D59.quest_desc: [
+		"Place it in Arceus's Held Item slot to change its type to &#4E9FFFWater&r-type."
+		""
+		"Once removed it will change back to Normal-type."
+	]
+	quest.5D0D6A06E3527D59.quest_subtitle: "Found in Mineshafts, Ancient Cities, Random Chests, or Towers/Structures!"
+	quest.5D105B8B1B613103.quest_subtitle: "Summon and catch Celebi!"
+	quest.5D105B8B1B613103.title: "Celebi"
+	quest.5D25CBBF0FC05003.quest_subtitle: "Find Melodic Tape hidden near the peak of Wish Cave to summon Jirachi!"
+	quest.5D41B6DCA0F110E0.quest_subtitle: "Ultra-Rare spawn in Savanna, Savanna Plateau, Desert, Badlands biomes during a thunderstorm or rain!"
+	quest.5D41B6DCA0F110E0.title: "Raging Bolt"
+	quest.5DA3EBD97480D3C4.quest_subtitle: "Johto Maps!"
+	quest.5DC9554891253A1C.quest_subtitle: "Collect Mint Seeds by harvesting Mint plants!"
+	quest.5DE3626B0D30FCFF.quest_desc: [
+		"Place it in Arceus's Held Item slot to change its type to &#3BA545Grass&r-type."
+		""
+		"Once removed it will change back to Normal-type."
+	]
+	quest.5DE3626B0D30FCFF.quest_subtitle: "Found in Mineshafts, Ancient Cities, Random Chests, or Towers/Structures!"
+	quest.5DEDAD3D42CD6F5E.quest_subtitle: "Collect Mint Seeds by harvesting Mint plants!"
+	quest.5E1D04CE58394AD7.quest_subtitle: "Plant Bean Seeds and harvest Beans!"
+	quest.5E2DCF4788367C5B.quest_desc: [
+		"Defeat Camilla in Battle to claim the title of \"&#FFA013The Queen's Gambit&r\"!"
+		""
+		"Camilla commands a powerful team of &zMulti-type&r, adapting to any strategy you throw at her. Face her unmatched skill without hesitation — and rise as the new legend of Sinnoh!"
+		""
+		"&#FF2EAAGyms \\& League Maps&r :"
+		"[ { \"text\": \"Click Here!\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0D47E527E6F73D28\" } } ]"
+	]
+	quest.5E2DCF4788367C5B.quest_subtitle: "Defeat Camilla in Battle!"
+	quest.5E2DCF4788367C5B.title: "&#FFA013Champion Camilla&r"
+	quest.5E8AD454A0FD2A21.quest_desc: [
+		"Defeat Angelo in Battle to get the &#31018FFog&r Badge!"
+		""
+		"Angelo drifts between the seen and unseen, guided by &9Ghostly&r spirits. Illuminate the shadows of his illusions and show that your resolve burns brighter than any specter!"
+	]
+	quest.5E8AD454A0FD2A21.quest_subtitle: "Defeat Angelo in Battle!"
+	quest.5E8AD454A0FD2A21.title: "&#31018FFog&r Badge (Angelo)"
+	quest.5EF398EDD82D0094.quest_subtitle: "Find Temple of Registeel in Alpine Highlands Biome in Hoenn!"
+	quest.5EF398EDD82D0094.title: "Temple of Registeel"
+	quest.5F1F02E77E580267.quest_desc: [""]
+	quest.5F1F02E77E580267.quest_subtitle: "&#604D32Revive&r all Fossil Pokémon to get a Master Ball!"
+	quest.5F1F02E77E580267.title: "Gotta Revive 'em All!"
+	quest.5F4E6B8138053B92.quest_desc: [
+		"Place it in Silvally's Held Item slot to change its type to &#0337FFDragon&rtype."
+		""
+		"Once removed it will change back to Normal-type."
+	]
+	quest.5F4E6B8138053B92.quest_subtitle: "Random drop from Ominous Trial Vaults, Get Ominous Trial Keys by defeating team rocket tower boss!"
+	quest.5F6B6659DB90DDFF.quest_subtitle: "Search for a barrel under mushrooms or under packed ice!"
+	quest.5F7F2EEB375C0C11.quest_desc: [
+		"Place it in Dialga's Held Item slot to change Dialga into its Origin Form."
+		""
+		"Once removed it will change back."
+	]
+	quest.5F7F2EEB375C0C11.quest_subtitle: "Find Reveal Glass in a Ocean Ruin Cold by using a brush on Suspicious Sand or Gravel!"
+	quest.5F811EED2AB27E23.quest_desc: [""]
+	quest.5F811EED2AB27E23.quest_subtitle: "Collect all &9Holding Items&r to get two Master Balls!"
+	quest.5F811EED2AB27E23.title: "Gotta Hold 'em All!"
+	quest.5F9F04B4DAFAD2EC.quest_desc: ["Craft Nature Fan, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a Map of Erika’s Gym Location!"]
+	quest.5F9F04B4DAFAD2EC.quest_subtitle: "Craft an Nature Fan!"
+	quest.5FC16B575C97C26C.quest_desc: [
+		"Defeat Blaine in Battle to get the &#FF050FVolcano&r badge!"
+		""
+		"Blaine’s &#FF7749Flames&r burn with both wisdom and chaos. Face the heat of his trials and emerge forged in fire, ready for any challenge ahead!"
+	]
+	quest.5FC16B575C97C26C.quest_subtitle: "Defeat Blaine in Battle!"
+	quest.5FC16B575C97C26C.title: "&#FF050FVolcano&r Badge (Blaine)"
+	quest.60218BB20C603FD5.quest_desc: [
+		"Place it in Arceus's Held Item slot to change its type to &#719D4BBug&r-type."
+		""
+		"Once removed it will change back to Normal-type."
+	]
+	quest.60218BB20C603FD5.quest_subtitle: "Found in Mineshafts, Ancient Cities, Random Chests, or Towers/Structures!"
+	quest.607202BD97521172.quest_subtitle: "Find Wishing Weald in Dark Forest Biome!"
+	quest.607202BD97521172.title: "Wishing Weald"
+	quest.60818FF865F50099.quest_desc: [
+		"Defeat Koga in Battle to advance through the Elite Four of Johto!"
+		""
+		"Koga’s toxins test not just your Pokémon, but your patience. Breathe steady through the haze and show that strategy — not &#622670Poison&r — determines victory!"
+	]
+	quest.60818FF865F50099.quest_subtitle: "Defeat Koga in Battle!"
+	quest.60818FF865F50099.title: "Johto Second Elite"
+	quest.60994214FA72A276.quest_subtitle: "Get Rabuta Berry through Berry Mutating!"
+	quest.60A0E7B3EE51147B.quest_subtitle: "Ultra-Rare spawn in Meadow, Stony Peaks, Stony Slopes, JaggedPeaks, Grove, Frozen Peaks biomes during Thunderstorm!"
+	quest.60A0E7B3EE51147B.title: "Zekrom"
+	quest.60A63A3BD6E9470E.quest_desc: [
+		"Defeat Furio in Battle to get the &#854424Storm&r Badge!"
+		""
+		"Furio’s &#FF050Afists&r strike like crashing waves, testing your endurance and power. Stand tall through the storm and prove that your will is stronger than the tide!"
+	]
+	quest.60A63A3BD6E9470E.quest_subtitle: "Defeat Furio in Battle!"
+	quest.60A63A3BD6E9470E.title: "&#854424Storm&r Badge (Furio)"
+	quest.60E2711B769DBA32.quest_subtitle: "Find Whirl Island in Deep Cold Ocean Biome!"
+	quest.60E2711B769DBA32.title: "Whirl Island"
+	quest.611F696A263435B6.quest_desc: ["Use certain Berries, catch it with a Friend Ball or simply walk around with it to max Type: Null's friendship and evolve it into Silvally!"]
+	quest.611F696A263435B6.quest_subtitle: "Evolve Type: Null into Silvally!"
+	quest.611F696A263435B6.title: "Silvally"
+	quest.611FA09FBFF3A10D.quest_subtitle: "Craft Wash Unit to transform Rotom into Wash form!"
+	quest.611FA09FBFF3A10D.title: "Wash Unit"
+	quest.612EFC3CF52F6DA2.quest_subtitle: "Ultra-Rare spawn in Jungle biome!"
+	quest.612EFC3CF52F6DA2.title: "Munkidori"
+	quest.61384D60137F2882.quest_desc: ["Craft Grass Aroma, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a Map of Gardenia’s Gym Location!"]
+	quest.61384D60137F2882.quest_subtitle: "Craft Grass Aroma!"
+	quest.61528B25DD398C57.quest_desc: [""]
+	quest.61528B25DD398C57.quest_subtitle: "Find Cheri Berry in Plains Biomes!"
+	quest.61578682D958D89B.quest_desc: [
+		"Place it in Silvally's Held Item slot to change its type to &#4E9FFFWater&r-type."
+		""
+		"Once removed it will change back to Normal-type."
+	]
+	quest.61578682D958D89B.quest_subtitle: "Random drop from Ominous Trial Vaults, Get Ominous Trial Keys by defeating team rocket tower boss!"
+	quest.6165FBAE1DB401CE.quest_desc: ["Steel Ore is found in Deep Dark Biome between -60 and -1 height!"]
+	quest.6165FBAE1DB401CE.quest_subtitle: "Mine Metal Relic from Steel Ore!"
+	quest.61770E75C9709FCC.quest_desc: ["Craft Raptor Bracer, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a Map of Valerio’s Gym Location!"]
+	quest.61770E75C9709FCC.quest_subtitle: "Craft Raptor Bracer!"
+	quest.6184EA6319A35D71.quest_subtitle: "Ultra-Rare spawn under Dyna Tree during the day!"
+	quest.6184EA6319A35D71.title: "Galarian Moltres"
+	quest.61A49F4B74018F38.quest_subtitle: "Rare spawn in Cherry Grove, Flower Forest, Meadow, Sunflower Plains biomes!"
+	quest.61A49F4B74018F38.title: "Scream Tail"
+	quest.6224E8D42D331EFE.quest_desc: [""]
+	quest.6224E8D42D331EFE.quest_subtitle: "Find Bluk Berry in Mountain or Taiga Biomes!"
+	quest.6229D6CFF331EEA2.quest_desc: [""]
+	quest.6229D6CFF331EEA2.quest_subtitle: "Find Kebia Berry in Forest, Mushroom, Spooky or Swamp Biomes!"
+	quest.62427FBC65211340.quest_subtitle: "Evolve Eevee using a Water Stone!"
+	quest.62427FBC65211340.title: "Vaporeon"
+	quest.6252D1C2144154E0.quest_subtitle: "Find Blue Orb hidden inside the Temple to unleash Primal Kyogre!"
+	quest.6263CF17A44DD5A5.quest_subtitle: "Summon and catch Shiny Legendary Moltres!"
+	quest.6263CF17A44DD5A5.title: "&zShiny&r Moltres"
+	quest.626448D57A0D02C5.quest_subtitle: "Craft Origin Fossil to summon Mew!"
+	quest.626E9BB1B8A372FF.quest_desc: [""]
+	quest.626E9BB1B8A372FF.quest_subtitle: "Obtain Rock Tera Shard by defeating a Rock-type Pokémon!"
+	quest.62DD247E716E73B1.quest_desc: [""]
+	quest.62DD247E716E73B1.quest_subtitle: "Summon and catch Shiny Mew!"
+	quest.62DD247E716E73B1.title: "&zShiny&r Mew"
+	quest.631DE1C9C0D688EB.quest_desc: [""]
+	quest.631DE1C9C0D688EB.quest_subtitle: "Obtain Ground Tera Shard by defeating a Ground-type Pokémon!"
+	quest.63324A400A88BDC8.quest_desc: [
+		"Defeat Erika in Battle to get the &4R&r&#FF904Ca&r&#FFE04Ai&r&#256E2Fn&r&#5284FFb&r&#2B31FFo&r&#FF5E8Cw&r badge!"
+		""
+		"Erika’s calm demeanor hides the wild strength of nature. Face her &#386A48Grass-type&r, Flowery illusions and show that balance, not beauty, defines true mastery!"
+	]
+	quest.63324A400A88BDC8.quest_subtitle: "Defeat Erika in Battle!"
+	quest.63324A400A88BDC8.title: "&4R&r&#FF904Ca&r&#FFE04Ai&r&#256E2Fn&r&#5284FFb&r&#2B31FFo&r&#FF5E8Cw&r Badge (Erika)"
+	quest.63A04956089298EC.quest_desc: [
+		"Place it in Arceus's Held Item slot to change its type to &0Dark&r-type."
+		""
+		"Once removed it will change back to Normal-type."
+	]
+	quest.63A04956089298EC.quest_subtitle: "Found in Mineshafts, Ancient Cities, Random Chests, or Towers/Structures!"
+	quest.63E82094EE64A2DB.quest_desc: ["Craft Fighting Bandage, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a Map of Marzia’s Gym Location!"]
+	quest.63E82094EE64A2DB.quest_subtitle: "Craft Fighting Bandage!"
+	quest.63F9D004F7CA2513.quest_desc: ["Craft Psychic Medallion, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a Map of Tell \\& Pat’s Gym Location!"]
+	quest.63F9D004F7CA2513.quest_subtitle: "Craft Psychic Medallion!"
+	quest.6434E069D0AAD322.quest_desc: [
+		"[ \"Poké Snack made in \", { \"text\": \"Campfire Pot\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"5A57F949AF757A2E\" } }, \" is an item that can be placed down to attract wild Pokémon.\" ]"
+		""
+		"The kind of Pokémon that will be attracted by the Poké Snack depends on the Seasoning items used to cook it."
+	]
+	quest.6434E069D0AAD322.quest_subtitle: "Make a Poké Snack!"
+	quest.6434E069D0AAD322.title: "Poké Snack"
+	quest.64D52F01D79A1516.quest_subtitle: "Plant Bean Seeds and harvest Beans!"
+	quest.6550E727B9032883.quest_subtitle: "Get Liechi Berry through Berry Mutating!"
+	quest.65567009D401C3B2.quest_desc: [
+		"Defeat Terrie in Battle to advance through the Elite Four of Sinnoh!"
+		""
+		"Terrie’s &#6A3629Ground&r Pokémon are sturdy and unforgiving. Stand firm against her power and break through her unshakable defenses!"
+	]
+	quest.65567009D401C3B2.quest_subtitle: "Defeat Terrie in Battle!"
+	quest.65567009D401C3B2.title: "Sinnoh Second Elite"
+	quest.655BBC1A286D27F8.quest_desc: [
+		"Defeat Karen in Battle to reach the Champion of Johto!"
+		""
+		"Karen’s &#0F1218Dark-types&r thrive in the shadows, feeding on doubt and fear. Let your confidence shine bright and remind her that true strength comes from the heart!"
+	]
+	quest.655BBC1A286D27F8.quest_subtitle: "Defeat Karen in Battle!"
+	quest.655BBC1A286D27F8.title: "Johto Fourth Elite"
+	quest.65650936ABCA8113.quest_desc: [
+		"Defeat Champion Blue in Battle to claim the title of \"&#FFC272Champion of Kanto&r\"!"
+		""
+		"Confident and sharp, Blue is the ultimate&z Multi-type&r challenge. His every move pushes you to prove your skill and spirit—rise above his pride and show the true heart of a Champion!"
+		""
+		"&#FF0514Gyms \\& League Maps&r :"
+		"[ { \"text\": \"Click Here!\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"7C0DA6EC2DD8CD24\" } } ]"
+	]
+	quest.65650936ABCA8113.quest_subtitle: "Defeat Blue in Battle!"
+	quest.65650936ABCA8113.title: "&#FFC272Champion Blue&r"
+	quest.657A8C119E2CF089.quest_subtitle: "Dig Deoxys Meteorite Blocks hiden in Meteorite to switcht between Deoxys Forms!"
+	quest.6585AE70F0D36234.quest_subtitle: "Summon and catch Legendary Regice!"
+	quest.6585AE70F0D36234.title: "Regice"
+	quest.658D290BF45D2BAC.quest_subtitle: "Ultra-Rare spawn in Flower Forest biome during the day!"
+	quest.658D290BF45D2BAC.title: "Xerneas"
+	quest.65939782BBD8D866.quest_subtitle: "Find Sky Pillar in Deep Ocean Biome in Hoenn!"
+	quest.65939782BBD8D866.title: "Sky Pillar"
+	quest.65D6EAC610F007B2.quest_desc: [
+		"Place it in Silvally's Held Item slot to change its type to &#565D70Steel&r-type."
+		""
+		"Once removed it will change back to Normal-type."
+	]
+	quest.65D6EAC610F007B2.quest_subtitle: "Random drop from Ominous Trial Vaults, Get Ominous Trial Keys by defeating team rocket tower boss!"
+	quest.65F5C22F94686446.quest_subtitle: "Ultra-Rare spawn in Jungle biome!"
+	quest.65F5C22F94686446.title: "Zarude"
+	quest.662821677D70E1AB.quest_desc: [""]
+	quest.662821677D70E1AB.quest_subtitle: "Get Roseli Berry as a drop from these Pokémon: Absol, Sableye, Deino, Scraggy, Zorua, Pancham, Impidimp, Morpeko, Nickit!"
+	quest.66398F545180979F.quest_subtitle: "Harvest Shaderoot Carrot planted at the Crown Cemetery!"
+	quest.664F8E36AE0E335E.quest_subtitle: "Find Burned Tower in Birch Forest Biome in Johto!"
+	quest.664F8E36AE0E335E.title: "Burned Tower"
+	quest.664FA788FF9C5670.title: "Trade 1 Diamond for 1 Coin !"
+	quest.67159D699FF628FE.quest_subtitle: "Ultra-Rare spawn in all Ocean biomes when it is raining!"
+	quest.67159D699FF628FE.title: "Tornadus"
+	quest.672B6AF5403F8B78.quest_subtitle: "Get Iapapa Berry through Berry Mutating!"
+	quest.677132478CC94AF8.quest_desc: ["Craft Pearl Choker, then combine it with an Empty Map in &l&#952430Nether&r&r Cartography Table to obtain a Map of Sandra’s Gym Location!"]
+	quest.677132478CC94AF8.quest_subtitle: "Craft Pearl Choker!"
+	quest.67CDB0E984FF17C6.quest_desc: [""]
+	quest.67CDB0E984FF17C6.quest_subtitle: "Use 50 Stellar Tera Shards to change your Pokémon Tera Type to &zStellar&r!"
+	quest.67CDB0E984FF17C6.title: "Stellar Tera Type"
+	quest.681B265CBF6E37A9.quest_subtitle: "Obtain Silver Wind by defeat Boss Giovanni in Rocket Radio Tower to summon Lugia!"
+	quest.681D892C724D7A8E.quest_desc: [
+		"Place it in Giratina's Held Item slot to change Giratina into its Origin Form."
+		""
+		"Once removed it will change back."
+	]
+	quest.681D892C724D7A8E.quest_subtitle: "Dropped after deafeting Camilla!"
+	quest.6843029E8684E923.quest_subtitle: "Summon and catch Legendary Moltres!"
+	quest.6843029E8684E923.title: "Moltres"
+	quest.6893FA8E1AB4E169.quest_desc: [""]
+	quest.6893FA8E1AB4E169.quest_subtitle: "Craft Megaring!"
+	quest.6893FA8E1AB4E169.title: "Megaring"
+	quest.68B15C9BBFED8C6D.title: "Buy 12 Ender Portals !"
+	quest.68F1636948045034.quest_subtitle: "Get Kelpsy Berry through Berry Mutating!"
+	quest.69341AF36BC5352F.quest_desc: [""]
+	quest.69341AF36BC5352F.quest_subtitle: "Find Rawst Berry in Arid Biomes!"
+	quest.6993B716D1DAF9FB.quest_desc: [
+		"Place it in Arceus's Held Item slot to change its type to &9Ghost&r-type."
+		""
+		"Once removed it will change back to Normal-type."
+	]
+	quest.6993B716D1DAF9FB.quest_subtitle: "Found in Mineshafts, Ancient Cities, Random Chests, or Towers/Structures!"
+	quest.6994593D9EC154BE.quest_desc: ["Craft Moltres Radar, then combine it with an Empty Map in any &l&#952430Nether&r&r Cartography Table to obtain a map of Moltres's Tower location!"]
+	quest.6994593D9EC154BE.quest_subtitle: "Craft Moltres Radar!"
+	quest.69B7480B652E9BB1.quest_desc: [""]
+	quest.69B7480B652E9BB1.quest_subtitle: "Obtain Water Tera Shard by defeating a Water-type Pokémon!"
+	quest.69B8B6275C0AB51D.quest_desc: [
+		"You’ve collected all 8 &#82FF05Hoenn&r Badges — it’s time for the Elite Four!"
+		""
+		"Go to the Hoenn League (Steppe) to begin your challenge. Defeat all 4 members to earn the right to face the Hoenn Champion!"
+		""
+		"&#82FF05Gyms \\& League Maps&r :"
+		"[ { \"text\": \"Click Here!\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0A8C3CC12E167F8B\" } } ]"
+	]
+	quest.69B8B6275C0AB51D.quest_subtitle: "Find the Hoenn Pokémon League!"
+	quest.69B8B6275C0AB51D.title: "Hoenn Elite 4"
+	quest.69C6D708010EB6AD.quest_subtitle: "Collect Apricorns and Apricorn Sprouts from Apricorn trees found in the wild!"
+	quest.69E754DB4A1119F0.quest_desc: ["Craft Groudon Radar, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a map Volcano location!"]
+	quest.69E754DB4A1119F0.quest_subtitle: "Craft Groudon Radar!"
+	quest.69F14BA9B10AE31C.quest_desc: [
+		"Defeat Raffaello in Battle to get the &#FF0B0BH&r&0iv&r&#FF0A05e&r Badge!"
+		""
+		"Raffaello’s mastery of &#719D4BBug-types&r weaves a web of clever tactics. Cut through his swarm with focus and show that adaptability is the true mark of evolution!"
+	]
+	quest.69F14BA9B10AE31C.quest_subtitle: "Defeat Raffaello in Battle!"
+	quest.69F14BA9B10AE31C.title: "&#FF0B0BH&r&0iv&r&#FF0A05e&r Badge (Raffaello)"
+	quest.6A170D72D6CDA3D0.quest_subtitle: "Evolve Eevee using a Leaf Stone!"
+	quest.6A170D72D6CDA3D0.title: "Leafeon"
+	quest.6A2770243FDE9E56.quest_subtitle: "Get Mago Berry through Berry Mutating!"
+	quest.6AA5D3F4F0EE5833.quest_subtitle: "Evolve Eevee using a Thunder Stone!"
+	quest.6AA5D3F4F0EE5833.title: "Jolteon"
+	quest.6AE160F476570C4A.quest_subtitle: "Craft Dynamax Candy to increase your Pokémon's Dynamax Level!"
+	quest.6AE160F476570C4A.title: "Dynamax Candy"
+	quest.6B5A90DA2AA73DEF.quest_desc: ["Used to house and display Pokémon outside your party, letting them wander and be interacted with. They can also leave you a suprise!"]
+	quest.6B5A90DA2AA73DEF.quest_subtitle: "Craft a Pasture Block!"
+	quest.6B5A90DA2AA73DEF.title: "Pasture Block"
+	quest.6B98504D833D9B37.quest_desc: ["Craft Normal Tablet , then combine it with an Empty Map in any &#8B4C33Overworld&rCartography Table to obtain a Map of Norman’s Gym Location!"]
+	quest.6B98504D833D9B37.quest_subtitle: "Craft Normal Tablet!"
+	quest.6C0C1243C016F915.quest_desc: ["Craft Lugia Radar, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a map of Lugia's Whirl Island location!"]
+	quest.6C0C1243C016F915.quest_subtitle: "Craft Lugia Radar!"
+	quest.6C1E3EF5D7B66CDE.quest_subtitle: "Ultra-Rare spawn in Deep Dark biome in an Ancient City!"
+	quest.6C1E3EF5D7B66CDE.title: "Giratina"
+	quest.6C1F62B3F4D313FB.quest_desc: [""]
+	quest.6C1F62B3F4D313FB.quest_subtitle: "Obtain Fire Tera Shard by defeating a Fire-type Pokémon!"
+	quest.6C6D5D42AD0C0A3B.quest_desc: ["Craft Master Cape, then combine it with an Empty Map in &l&#F7FFC6End&r&r Cartography Table to obtain a Map of Johto’s League Location!"]
+	quest.6C6D5D42AD0C0A3B.quest_subtitle: "Craft Master Cape!"
+	quest.6C9D318BBBFB71CC.quest_desc: ["Used to find Pokémon while exploring. You can type any Pokémon’s name to search for it and see where it spawns, when it appears!"]
+	quest.6C9D318BBBFB71CC.quest_subtitle: "Craft a PokéFinder!"
+	quest.6C9D318BBBFB71CC.title: "PokéFinder"
+	quest.6CFF41376AB37C01.quest_subtitle: "Summon and catch Legendary Latias!"
+	quest.6CFF41376AB37C01.title: "Latias"
+	quest.6DA1F6622EA8B2C9.quest_subtitle: "Get Hopo Berry through Berry Mutating!"
+	quest.6DDE648965DA85F3.quest_subtitle: "Look for Blank-Z Crystal in the Observatory!"
+	quest.6E4B9435A23DD309.quest_desc: [
+		"Defeat Koga in Battle to get the &#FF93CESoul&r badge!"
+		""
+		"Koga moves unseen, striking from the shadows. Resist his &#622670Toxic&r traps and prove that your focus can cut through even the thickest haze!"
+	]
+	quest.6E4B9435A23DD309.quest_subtitle: "Defeat Koga in Battle!"
+	quest.6E4B9435A23DD309.title: "&#FF93CESoul&r Badge (Koga)"
+	quest.6E68323B58AC1CEF.quest_desc: [""]
+	quest.6E68323B58AC1CEF.quest_subtitle: "Obtain Dragon Tera Shard by defeating a Dragon-type Pokémon!"
+	quest.6EF78E8EADAECAD0.quest_subtitle: "Craft any Z-Power Ring to be able to use Z-Moves!"
+	quest.6EFDBB6DBE212809.quest_desc: [""]
+	quest.6EFDBB6DBE212809.quest_subtitle: "Find Deserted Gimmi Tower!"
+	quest.6EFDBB6DBE212809.title: "Deserted Gimmi Tower"
+	quest.6F006887B5DD8E0B.quest_subtitle: "Rare spawn in Jungle biome!"
+	quest.6F006887B5DD8E0B.title: "Brute Bonnet"
+	quest.6F5FDB290DFD0418.quest_subtitle: "Get Belue Berry through Berry Mutating!"
+	quest.6FF87B71101C853A.quest_desc: [
+		"Defeat Alfredo in Battle to get the &#30A6FFGlacier&r Badge!"
+		""
+		"Alfredo’s &bicy&r calm hides decades of wisdom and discipline. Endure his chilling tactics and prove that your fire of youth can melt even the coldest experience!"
+	]
+	quest.6FF87B71101C853A.quest_subtitle: "Defeat Alfredo in Battle!"
+	quest.6FF87B71101C853A.title: "&#30A6FFGlacier&r Badge (Alfredo)"
+	quest.6FF930DB71CC93F8.quest_subtitle: "Craft Fan Unit to transform Rotom into Fan form!"
+	quest.6FF930DB71CC93F8.title: "Fan Unit"
+	quest.700F5892EC342A3D.quest_subtitle: "Ultra-Rare spawn in Beach biome!"
+	quest.700F5892EC342A3D.title: "Miraidon"
+	quest.7011C6E2DBBA7D76.quest_desc: [""]
+	quest.7011C6E2DBBA7D76.quest_subtitle: "Obtain Steel Tera Shard by defeating a Steel-type Pokémon!"
+	quest.7031EDDEB769A2D4.quest_desc: [""]
+	quest.7031EDDEB769A2D4.quest_subtitle: "Obtain Ghost Tera Shard by defeating a Ghost-type Pokémon!"
+	quest.7051DB3A302B7D2D.quest_desc: ["Breaking either type of root will always drop a single Energy Root."]
+	quest.7051DB3A302B7D2D.quest_subtitle: "Found hanging from the ceilings of caves above the deepslate layer!"
+	quest.709D857B1D2AD7C1.quest_desc: [""]
+	quest.709D857B1D2AD7C1.quest_subtitle: "Catch your first shiny Pokémon!"
+	quest.709D857B1D2AD7C1.title: "Your First &zShiny&r Pokémon"
+	quest.70A366DA87716259.quest_subtitle: "Breaking the final stage of a Revival Herb drops 1-2 Pep-Up Flowers"
+	quest.70DD4A0DFD0984BE.quest_desc: [""]
+	quest.70DD4A0DFD0984BE.quest_subtitle: "Find Papaya Berry in Desert, Floral, Magical, Savanna or Spooky Biomes!"
+	quest.70EDC63DC2496E0E.quest_desc: ["Craft Necrozma Dusk Radar, then combine it with an Empty Map in any &l&#F7FFC6End&r&r Cartography Table to obtain a map of Dusk Tower location!"]
+	quest.70EDC63DC2496E0E.quest_subtitle: "Craft Necrozma Dusk Radar!"
+	quest.70F4748FDC3B9C61.quest_subtitle: "Summon and catch Shiny Legendary Regirock!"
+	quest.70F4748FDC3B9C61.title: "&zShiny&r Regirock"
+	quest.711B4BCD90278EA5.title: "Craft a Campfire"
+	quest.71FB90B108B1D2E0.quest_desc: ["Craft Flying Feather, then combine it with an Empty Map in any &#8B4C33Overworld&rCartography Table to obtain a Map of Alice’s Gym Location!"]
+	quest.71FB90B108B1D2E0.quest_subtitle: "Craft Flying Feather!"
+	quest.722085FB745C80FD.quest_subtitle: "Collect 50 Stellar Tera Shards!"
+	quest.722085FB745C80FD.title: "50 Stellar Tera Shards"
+	quest.7225563FDE10A7A4.quest_subtitle: "Ultra-Rare spawn in The End!"
+	quest.7225563FDE10A7A4.title: "Eternatus"
+	quest.72DD1356F26C51BB.quest_desc: [""]
+	quest.72DD1356F26C51BB.quest_subtitle: "Obtain Flying Tera Shard by defeating a Flying-type Pokémon!"
+	quest.7347687D138BC30C.quest_desc: [""]
+	quest.7347687D138BC30C.quest_subtitle: "Find Ash's House in Plains Biome!"
+	quest.7347687D138BC30C.title: "Ash's House"
+	quest.737EE014577C5F2D.quest_desc: [""]
+	quest.737EE014577C5F2D.quest_subtitle: "Revive Anorith by using &#EBFF45Claw Fossil&r in Restoration Machine!"
+	quest.737EE014577C5F2D.title: "Revive Anorith"
+	quest.74621726B38004DD.quest_desc: ["3× Chance to spawn during daytime!"]
+	quest.74621726B38004DD.quest_subtitle: "Catch Shiny Entei near Burned Tower!"
+	quest.74621726B38004DD.title: "&zShiny&r Entei"
+	quest.74A93472D684FA8F.quest_subtitle: "Summon and catch Legendary Registeel!"
+	quest.74A93472D684FA8F.title: "Registeel"
+	quest.74C4DAB9D2B0BBFC.quest_subtitle: "Summon and catch Shiny Celebi!"
+	quest.74C4DAB9D2B0BBFC.title: "&zShiny&r Celebi"
+	quest.74C8481122DEEA64.quest_subtitle: "Find Revival Herb in Lush Caves!"
+	quest.752B11EB6EA415B7.quest_desc: [
+		"Place it in Silvally's Held Item slot to change its type to &#FF783AFire&r-type."
+		""
+		"Once removed it will change back to Normal-type."
+	]
+	quest.752B11EB6EA415B7.quest_subtitle: "Random drop from Ominous Trial Vaults, Get Ominous Trial Keys by defeating team rocket tower boss!"
+	quest.7530755917865FBD.quest_desc: ["Used to showcase rare items, PokéBalls or collectibles for decoration or reference!"]
+	quest.7530755917865FBD.quest_subtitle: "Craft a Pedestal!"
+	quest.7530755917865FBD.title: "Pedestal"
+	quest.757C3429CBBDE124.quest_subtitle: "Craft Oven Unit to transform Rotom into Oven form!"
+	quest.757C3429CBBDE124.title: "Oven Unit"
+	quest.75969455148170AC.quest_desc: [""]
+	quest.75969455148170AC.quest_subtitle: "Cook all &6CobbleCuisine Food&r to get two Master Balls!"
+	quest.75969455148170AC.title: "Got Eat 'em All!"
+	quest.75F978B1E39C1091.quest_subtitle: "Look a large Graves, then throw Shaderoot Carrot into it to summon Spectrier!"
+	quest.75F978B1E39C1091.title: "Spectrier"
+	quest.761A63864834610F.quest_subtitle: "Use brush on Suspicious Sand in Archaeological Site to get Dark Sparkling Stone!"
+	quest.764E9FD93FFE1C1A.quest_subtitle: "Catch more Pokémon and complete your party of 6!"
+	quest.764E9FD93FFE1C1A.title: "Full Team"
+	quest.765971F12F119CEB.quest_desc: [""]
+	quest.765971F12F119CEB.quest_subtitle: "Find Nanab Berry in Jungle or Swamp Biomes!"
+	quest.765D5611DA57D109.quest_subtitle: "Max all Pokémon ride stats by feeding it Aprijuice made from different flavors!"
+	quest.765D5611DA57D109.title: "Max all Stats"
+	quest.768B1CFF89837E48.quest_desc: [
+		"You’ve collected all 8 &#106CFFJohto&r Badges — it’s time for the Elite Four!"
+		""
+		"Go to the Elite Four Tower in &#772AB7The End&r to begin your challenge. Defeat all 4 members to earn the right to face the Johto Champion!"
+		""
+		"&#106CFFGyms \\& League Maps&r :"
+		"[ { \"text\": \"Click Here!\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"5DA3EBD97480D3C4\" } } ]"
+	]
+	quest.768B1CFF89837E48.quest_subtitle: "Find the Johto Pokémon League!"
+	quest.768B1CFF89837E48.title: "Johto Elite 4"
+	quest.76DAFAD122916CCC.quest_desc: [
+		"Place it in Silvally's Held Item slot to change its type to &#719D4BBug&r-type."
+		""
+		"Once removed it will change back to Normal-type."
+	]
+	quest.76DAFAD122916CCC.quest_subtitle: "Random drop from Ominous Trial Vaults, Get Ominous Trial Keys by defeating team rocket tower boss!"
+	quest.77931A451F72C283.quest_subtitle: "Collect Bean Seeds by breaking short grass!"
+	quest.77931A451F72C283.title: "Bean Seeds"
+	quest.7797AB848553F05A.quest_subtitle: "Collect Mint Leaves from Mint plants found in the wild!"
+	quest.77D9071D420969FE.quest_desc: ["Craft Water Mask, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a Map of Omar’s Gym Location!"]
+	quest.77D9071D420969FE.quest_subtitle: "Craft Water Mask!"
+	quest.78020A754F4F01F4.quest_desc: [
+		"Defeat Sabrina in Battle to get the &#FFCD6FMarsh&r badge!"
+		""
+		"Sabrina bends reality with her &#8F316BPsychic&r powers. Stay grounded in your will — one moment of doubt, and your thoughts will become your cage!"
+	]
+	quest.78020A754F4F01F4.quest_subtitle: "Defeat Sabrina in Battle!"
+	quest.78020A754F4F01F4.title: "&#FFCD6FMarsh&r Badge (Sabrina)"
+	quest.7824482E9ADF775B.quest_subtitle: "Find Temple of Regirock in Lush Desert Biome in Hoenn!"
+	quest.7824482E9ADF775B.title: "Temple of Regirock"
+	quest.78292FA77022653F.quest_desc: ["Craft Winter Staff, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a Map of Alfredo’s Gym Location!"]
+	quest.78292FA77022653F.quest_subtitle: "Craft Winter Staff!"
+	quest.788498BFCE9DE33B.quest_desc: ["Poké Bait is an item that can be attached to a Poké Rod as bait, which can have varios effects depends on the Seasoning used !"]
+	quest.788498BFCE9DE33B.title: "Make a Poke Bait"
+	quest.78B384641F20D91A.quest_desc: [""]
+	quest.78B384641F20D91A.quest_subtitle: "Find Passho Berry in Coast, Freshwater, Island or Ocean Biomes!"
+	quest.794CF1D3743688FE.quest_desc: [""]
+	quest.794CF1D3743688FE.quest_subtitle: "Revive Archen by using &#8385FFPlume Fossil&r in Restoration Machine!"
+	quest.794CF1D3743688FE.title: "Revive Archen"
+	quest.7A0B40134A198B80.quest_desc: [
+		"Congrats on beating Hoenn’s Champion!"
+		""
+		"Your next challenge is the Sinnoh Gyms. Defeat all 8 Leaders and collect their Badges."
+		""
+		"Please restart your world after beating Champion Rocco for &#FF2EAASinnoh&r Gyms to start generating."
+		"(Sorry, that’s just how the modpack works!)"
+		""
+		"&#FF2EAAGyms \\& League Maps&r :"
+		"[ { \"text\": \"Click Here!\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"0D47E527E6F73D28\" } } ]"
+	]
+	quest.7A0B40134A198B80.quest_subtitle: "Find the first Sinnoh Gym and start collecting Badges!"
+	quest.7A0B40134A198B80.title: "Sinnoh Gyms"
+	quest.7A5A532DF0F25D75.quest_subtitle: "Ultra-Rare spawn in Sunflower Plains biome!"
+	quest.7A9463500B98755C.quest_subtitle: "Get Lansat Berry through Berry Mutating!"
+	quest.7AE1C303AD95628D.quest_subtitle: "Craft Fridge Unit to transform Rotom into Fridge form!"
+	quest.7AE1C303AD95628D.title: "Fridge Unit"
+	quest.7AEA525DC0F5B697.quest_desc: ["Right Click Oricorio with Purple Nectar to change its form to Sensu Style."]
+	quest.7AEA525DC0F5B697.quest_subtitle: "Craft a Purple Nectar!"
+	quest.7B1E0D44B64C1E36.quest_desc: [""]
+	quest.7B1E0D44B64C1E36.quest_subtitle: "Revive Arctozolt by using &6Fosslized Bird&r and &#5E4FFFFosslized Dino&r in Restoration Machine!"
+	quest.7B1E0D44B64C1E36.title: "Revive Arctozolt"
+	quest.7B5263F8392BE6F0.quest_desc: [
+		"Place it in Silvally's Held Item slot to change its type to &#6A3629Ground&r-type."
+		""
+		"Once removed it will change back to Normal-type."
+	]
+	quest.7B5263F8392BE6F0.quest_subtitle: "Random drop from Ominous Trial Vaults, Get Ominous Trial Keys by defeating team rocket tower boss!"
+	quest.7BC6F724F1E393EE.quest_desc: [""]
+	quest.7BC6F724F1E393EE.quest_subtitle: "Find Pinap Berry in Arid Biomes!"
+	quest.7BEB926070B840EF.quest_subtitle: "Defeat Admin Apollo inside Radio Tower to obtain Shadow Heart!"
+	quest.7CB77BFBCF7C93A8.quest_subtitle: "Evolve Meltan into Melmetal by leveling it up to 70 while it is holding an Anvil!"
+	quest.7CB77BFBCF7C93A8.title: "Melmetal"
+	quest.7CF8D81142353BAD.quest_desc: [""]
+	quest.7CF8D81142353BAD.quest_subtitle: "Find Haban Berry in Jungle, Magical, Mountain, Sky or Volcanic Biomes!"
+	quest.7D0DE721F3E31E34.quest_desc: [""]
+	quest.7D0DE721F3E31E34.quest_subtitle: "Revive Arctovish by using &#A0FF4AFosslized Drake&r and &#5E4FFFFosslized Dino&r in Restoration Machine!"
+	quest.7D0DE721F3E31E34.title: "Revive Arctovish"
+	quest.7D287680D90D613C.quest_subtitle: "Obtain Sapphire Dew by defeating Hoenn Champion Rocco to summon Latios!"
+	quest.7D3311A23B29FB40.quest_desc: [""]
+	quest.7D3311A23B29FB40.quest_subtitle: "Evolve &#874C31Eevee&r into all its forms!"
+	quest.7D3311A23B29FB40.title: "Gotta Eeveeolve 'em All!"
+	quest.7D7201E2E6EBA14C.quest_subtitle: "Collect Mint Seeds by harvesting Mint plants!"
+	quest.7D758383E4774587.quest_subtitle: "Get Maranga Berry through Berry Mutating!"
+	quest.7D9F61E8956B2B6B.quest_desc: ["Craft Rival Sling, then combine it with an Empty Map in &l&#F7FFC6End&r&r Cartography Table to obtain a Map of Kanto League Location!"]
+	quest.7D9F61E8956B2B6B.quest_subtitle: "Craft Rival Sling!"
+	quest.7E1480583CEBA4C6.quest_subtitle: "Get Qualot Berry through Berry Mutating!"
+	quest.7EA216363C997225.quest_desc: [
+		"1. Equip one of the Mega Accesories by right clicking while holding it in your hand."
+		""
+		"2. Your Pokémon must be holding its respective Mega Stone. With the Mega Stone in your right hand look at your Pokémon, press Shift + Right-click and choose \"Change Holding Item\"."
+		""
+		"3. In battle: click the Mega Evolution button, then choose any move."
+		""
+		"4. Outside of battle: look at your Pokémon, press Shift + Right-click and choose \"Mega Evolution\"."
+	]
+	quest.7EA216363C997225.quest_subtitle: "Mega Evolve a Pokémon!"
+	quest.7EA216363C997225.title: "Mega Evolution"
+	quest.7F3B6D439DACE855.quest_subtitle: "Collect Apricorns and Apricorn Sprouts from Apricorn trees found in the wild!"
+	quest.7F44752FAEDC9581.quest_desc: ["Used to showcase rare items, PokéBalls or collectibles for decoration or reference!"]
+	quest.7F44752FAEDC9581.quest_subtitle: "Craft a Display Case!"
+	quest.7F44752FAEDC9581.title: "Display Case"
+	quest.7FFA1234E5E6111C.quest_desc: ["Craft Rocket Key, then combine it with an Empty Map in any &#8B4C33Overworld&r Cartography Table to obtain a Map of Team Rocket Tower Location!"]
+	quest.7FFA1234E5E6111C.quest_subtitle: "Craft Rocket Key!"
+	reward.2B703510B61EC385.title: "10 PokéDollar"
+	reward.35E5B438E2BA74DA.title: "1000 PokeDollars"
+	reward.6A28038E4E1FAC07.title: "100 PokéDollars"
+	reward.740122F35A10896F.title: "1000 PokéDollars"
+	reward_table.03691623482CA61F.title: "Pokenavs"
+	reward_table.0974FEEBF2892AD5.title: "Pokedex"
+	reward_table.229A212FD1958900.title: "Candies"
+	reward_table.25A699FF246D3DFD.title: "Z-Rings"
+	reward_table.47C9C4284F205D61.title: "PokeFinders"
+	reward_table.4C78724E05769FA8.title: "Power Ups"
+	reward_table.5E93FA892A1F238F.title: "Medicinces"
+	reward_table.640A47595391B71F.title: "Coins"
+	task.02AD93416028096D.title: "Gotta Pick 'em All!"
+	task.06BB541F22BCCF86.title: "Catch Raikou"
+	task.07CFB99DEC9B3E31.title: "Gotta Plant Them All!"
+	task.09A9181EF9437635.title: "Fusion"
+	task.0E7CEB252F5CCC9F.title: "Fusion !"
+	task.0F19BA27730971C2.title: "Catch Eevee"
+	task.0FB26D3F9204043E.title: "Gotta Eeveeolve 'em All!"
+	task.11986DAC5345187D.title: "Got Eat 'em All!"
+	task.142E50A6E9FD2CCB.title: "Boulder Badge"
+	task.14D82A9FBE422C7F.title: "Umbreon"
+	task.17F9426F19366228.title: "Kanto's Gyms !"
+	task.1B10787679400D9A.title: "Johto Maps!"
+	task.1CAA310D4E8A5CDA.title: "You got Balls Kid!"
+	task.206D46E2557CAF0C.title: "Catch Shiny Celebi"
+	task.20915F3F70059AE0.title: "Gotta Plant 'em All!"
+	task.271439E2FC25E344.title: "Glaceon"
+	task.2AE1D33F61786C31.title: "How to dynamax !"
+	task.2DDEB71994D8D1F4.title: "Cobbleverse Locations!"
+	task.331F7FFB66CA3CF2.title: "Catch Shiny Raikou"
+	task.35C1B040867AE34E.title: "Gotta Revive 'em All!"
+	task.3920985533B3B53A.title: "Welcome to the Cobbleverse!"
+	task.3B13B9FDD6B8BA54.title: "Kanto Maps!"
+	task.3D59DA5339EEB1D5.title: "Flareon"
+	task.41E494809F121B33.title: "Hoenn Maps!"
+	task.4813C2A1AB01480E.title: "Mega Evolve !"
+	task.489E3B0156EFDAC2.title: "Leafeon"
+	task.4C73C0B23FD793CA.title: "Gotta Hook 'em All!"
+	task.4D4B5968BDC17C9D.title: "Catch Shiny Suicune"
+	task.4F9D1C178A11ADBC.title: "How to Gigantamax Urshifu !"
+	task.501344F40B022A6E.title: "One of them !"
+	task.50533185418B0CD9.title: "Vaporeon"
+	task.54E806F12C5C5432.title: "Gotta Evolve 'em All!"
+	task.55E9406641CF64DD.title: "Brock Gym"
+	task.5978CC780EEE32A7.title: "Gotta Heal 'em All !"
+	task.59958CF1F951AFA6.title: "Catch Shiny Entei"
+	task.611045E2B57FD7CE.title: "Catch Shiny Rayquaza"
+	task.67FB424D3A8B9149.title: "Catch a Pokémon"
+	task.6F7A491AA5FD4248.title: "Sylveon"
+	task.703C02E08C0B3DAA.title: "Catch Suicune"
+	task.7148BE5EA879941C.title: "How to use Z-Moves ?"
+	task.724C162CCAF3B7E6.title: "Catch Entei"
+	task.7675D102177EDE26.title: "Catch a Shiny Pokémon"
+	task.771333CC48B19678.title: "Gota Catch 'em All !"
+	task.7A56191B63B44F31.title: "Espeon"
+	task.7AAA74F84D81BE29.title: "Gotta Hold 'em All!"
+	task.7B3E23254ACCC979.title: "Sinnoh Maps!"
+	task.7C847ACCAEAB5E39.title: "How to Gigantamax !"
+	task.7D044A4844DFF261.title: "Find a Megasite !"
+	task.7F3F5555EE829D1F.title: "Jolteon"
+	task.7F496645F7F7EE8A.title: "Gotta Power 'em All!"
+}

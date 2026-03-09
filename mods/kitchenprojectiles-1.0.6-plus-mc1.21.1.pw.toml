@@ -1,6 +1,7 @@
 name = "Kitchen Projectiles"
 filename = "kitchenprojectiles-1.0.6+mc1.21.1.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/BYmvNgRP/versions/QjAxnEqe/kitchenprojectiles-1.0.6%2Bmc1.21.1.jar"

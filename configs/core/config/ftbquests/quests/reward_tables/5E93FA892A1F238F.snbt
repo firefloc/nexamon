@@ -1,0 +1,41 @@
+{
+	id: "5E93FA892A1F238F"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{
+			id: "66D8A46F1123D10B"
+			item: {
+				count: 1
+				id: "cobblemon:potion"
+			}
+			weight: 4.0f
+		}
+		{
+			id: "4460D285BE8C895B"
+			item: {
+				count: 1
+				id: "cobblemon:super_potion"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "7C25235F1FD81ABF"
+			item: {
+				count: 1
+				id: "cobblemon:hyper_potion"
+			}
+			weight: 2.0f
+		}
+		{ id: "6ADD424D529FE060", item: { count: 1, id: "cobblemon:max_potion" } }
+		{
+			id: "5207F53C90D5200B"
+			item: {
+				count: 1
+				id: "cobblemon:revive"
+			}
+			weight: 2.0f
+		}
+		{ id: "598CDB064D2031AD", item: { count: 1, id: "cobblemon:max_revive" } }
+	]
+}

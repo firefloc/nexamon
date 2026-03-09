@@ -1,6 +1,7 @@
 name = "Global Packs"
 filename = "globalpacks-fabric-1.21.1-21.0.6.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/NRLPy2mk/versions/ErTctr3A/globalpacks-fabric-1.21.1-21.0.6.jar"

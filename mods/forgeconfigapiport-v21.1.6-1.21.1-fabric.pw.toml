@@ -1,6 +1,7 @@
 name = "Forge Config API Port"
 filename = "ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/ohNO6lps/versions/N5qzq0XV/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar"

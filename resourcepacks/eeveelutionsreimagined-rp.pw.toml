@@ -1,6 +1,7 @@
 name = "Eeveelutions Reimagined"
 filename = "EeveelutionsReimagined RP.zip"
 side = "client"
+tier = "base"
 
 [download]
 url = "https://cdn.modrinth.com/data/TC6XISro/versions/1IKSorXZ/EeveelutionsReimagined.zip"

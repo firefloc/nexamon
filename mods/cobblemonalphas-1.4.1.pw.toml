@@ -1,6 +1,7 @@
 name = "Cobblemon Alpha Project"
 filename = "cobblemonalphas-1.4.1.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/QnWyhFGf/versions/wVSPSTdd/cobblemonalphas-1.4.1.jar"

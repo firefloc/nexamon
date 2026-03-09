@@ -1,6 +1,7 @@
 name = "MES - Moog's End Structures"
 filename = "MoogsEndStructures-1.21-2.0.1.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/r4PuRGfV/versions/66xhbndk/MoogsEndStructures-1.21-2.0.1.jar"

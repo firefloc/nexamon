@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "message": "These configs were force-updated for server compatibility. Your previous settings are backed up in .config_backup/",
+  "paths": [
+    "paxi/"
+  ]
+}

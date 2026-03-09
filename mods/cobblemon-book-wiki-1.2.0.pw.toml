@@ -1,6 +1,7 @@
 name = "Cobblemon Book Wiki"
 filename = "cobblemon-book-wiki-1.2.0.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/C6BG1xXK/versions/JAc7Vr24/cobblemon-book-wiki-1.2.0.jar"

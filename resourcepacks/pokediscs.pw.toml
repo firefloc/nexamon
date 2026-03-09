@@ -1,6 +1,7 @@
 name = "Poké Discs"
 filename = "PokeDiscs.zip"
 side = "client"
+tier = "base"
 
 [download]
 url = "https://cdn.modrinth.com/data/xk007MaS/versions/De9pY2p7/Poke%20Discs%201.20.x.zip"

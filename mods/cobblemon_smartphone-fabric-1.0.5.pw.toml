@@ -1,6 +1,7 @@
 name = "Cobblemon Smartphone"
 filename = "cobblemon_smartphone-fabric-1.0.5.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/n2f1HbK8/versions/3zK00ysw/cobblemon_smartphone-fabric-1.0.5.jar"

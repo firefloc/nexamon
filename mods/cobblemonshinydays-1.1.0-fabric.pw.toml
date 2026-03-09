@@ -1,6 +1,7 @@
 name = "Cobblemon Shiny Days"
 filename = "CobblemonShinyDays-1.1.0-fabric.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/Gx07Bguy/versions/ZTo2yMf1/CobblemonShinyDays-1.1.0-fabric.jar"

@@ -1,0 +1,1253 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fossils"
+	group: "5A414AC1BCA19975"
+	icon: {
+		id: "cobblemon:fossilized_bird"
+	}
+	id: "3FCFFB7956A3D182"
+	images: [
+		{
+			height: 1.5d
+			image: "ftbquests:block/barrier_open"
+			rotation: 0.0d
+			width: 1.5d
+			x: -7.0d
+			y: -5.5d
+		}
+		{
+			click: "https://wiki.cobblemon.com/index.php/Fossil_Dig_Sites"
+			height: 0.75d
+			hover: ["Need more details on Fossils Dig Sites? This will open the wiki page!"]
+			image: "cobblemon:textures/gui/pokedex/scan/scan_unknown.png"
+			rotation: 0.0d
+			width: 0.75d
+			x: -7.0d
+			y: -5.5d
+		}
+	]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"3C38E3482344D27A"
+				"582A86BC367CEF90"
+				"737EE014577C5F2D"
+				"794CF1D3743688FE"
+				"7D0DE721F3E31E34"
+				"7B1E0D44B64C1E36"
+				"14D615E06A5D0E95"
+				"4A4AD38C0AACA676"
+				"3C5CFFEFA814D04D"
+				"3D1F9AC747146ACD"
+				"3E6E1E380560209B"
+				"273FD269DFCF1BA2"
+				"042C93A9650C2F9A"
+				"42D1FF7788C331F6"
+				"382C44153E94B2B3"
+			]
+			hide_dependency_lines: true
+			icon: {
+				id: "tmcraft:star_ancientpower"
+			}
+			id: "5F1F02E77E580267"
+			rewards: [{
+				id: "1889A9D00ECF1DB9"
+				item: {
+					count: 1
+					id: "cobblemon:master_ball"
+				}
+				type: "item"
+			}]
+			shape: "octagon"
+			size: 3.0d
+			tasks: [{
+				id: "35C1B040867AE34E"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["3F8ED7008A06D835"]
+			id: "2C457DB1D0C52427"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4EBBF8F7F8785AC9"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "1AC5636DB4781B4B"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7F38A003CF5DDF97"
+				item: { count: 1, id: "cobblemon:sail_fossil" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["3F8ED7008A06D835"]
+			id: "324575095235E887"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2D62A45CC49F1CD4"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "660898DE58311BBF"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "063DE4DD25AF9A7F"
+				item: { count: 1, id: "cobblemon:fossilized_bird" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["3F8ED7008A06D835"]
+			id: "3BB8BCE3953051D7"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "05C26C6D72EDE9DA"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "748EDABC5886731A"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "18C9E65B5FD25F41"
+				item: { count: 1, id: "cobblemon:dome_fossil" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3F8ED7008A06D835"]
+			id: "2DCA27570FE5C4E0"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1F149CE8BB796407"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "4B709702B29169FB"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1F103222908FF95B"
+				item: { count: 1, id: "cobblemon:claw_fossil" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3F8ED7008A06D835"]
+			hide_dependency_lines: true
+			id: "7C3B3C3D92EFBF2A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7FBA277903ABD7C2"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "285D82251D5A3128"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2E61072B7C7A45E3"
+				item: { count: 1, id: "cobblemon:fossilized_drake" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["3F8ED7008A06D835"]
+			id: "019CC63EFE622478"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "75AF1E71E305F940"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "2827690F2D69FEC8"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "529EE2E747C37691"
+				item: { count: 1, id: "cobblemon:plume_fossil" }
+				type: "item"
+			}]
+			x: 3.0178571428571743d
+			y: 3.9821428571428683d
+		}
+		{
+			dependencies: ["3F8ED7008A06D835"]
+			id: "2EE69DF0F67C4A50"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "06458A3DF4DDD11E"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "2FBDF52C9F7BA4AA"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0A860FCA666C81D0"
+				item: { count: 1, id: "cobblemon:root_fossil" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["3F8ED7008A06D835"]
+			id: "74BAA265C0FF8DA7"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7D7B17B21DCDC730"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "0EFC8655DE2D01EC"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "52D9634A52BD7891"
+				item: { count: 1, id: "cobblemon:jaw_fossil" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3F8ED7008A06D835"]
+			id: "243DB86F4E1B57EF"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "32EFE900B031985C"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "46FC6DA9E80E1E5F"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "51EAC539CA6AB202"
+				item: { count: 1, id: "cobblemon:fossilized_fish" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["3F8ED7008A06D835"]
+			id: "57C9D277848C8D7A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "69C03D6D50773FA5"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "54F6669958C6C9C9"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5849374F383469DA"
+				item: { count: 1, id: "cobblemon:old_amber_fossil" }
+				type: "item"
+			}]
+			x: -5.982142857142826d
+			y: 3.9821428571428683d
+		}
+		{
+			dependencies: ["3F8ED7008A06D835"]
+			id: "74CD15D2B0EDE6FD"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "42969AD977F1BD3F"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "73190F10A198854F"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6C81E54BC2CAF7AF"
+				item: { count: 1, id: "cobblemon:skull_fossil" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["3F8ED7008A06D835"]
+			id: "735C6EED52F9EC73"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5EEEC301CB33F2E3"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "45A64F13C527DE09"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "45E06CA17711587C"
+				item: { count: 1, id: "cobblemon:cover_fossil" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3F8ED7008A06D835"]
+			id: "4F8E0A306F9668F8"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "559B61DF81621AE5"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "4E2F2F5744540BC6"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2FC80ECB765C07A5"
+				item: { count: 1, id: "cobblemon:armor_fossil" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3F8ED7008A06D835"]
+			id: "055527EE8DC82587"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "532FA789B70AE9DE"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "30C74A565CE03CEF"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7BD27B39FB314049"
+				item: { count: 1, id: "cobblemon:helix_fossil" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3F8ED7008A06D835"]
+			hide_dependency_lines: true
+			id: "3AD002FEABAACD34"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2FCB1BEA01F96DF1"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "3B18CFC68CB16BFF"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0483E3A35E72450A"
+				item: { count: 1, id: "cobblemon:fossilized_dino" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -4.5d
+		}
+		{
+			dependencies: [
+				"2C457DB1D0C52427"
+				"285042710E3529BB"
+			]
+			id: "582A86BC367CEF90"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "43C16F28E04D4601"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "3ABE5F33C599C9E8"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				action: "revive_fossil"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "78DE7C3BCD2C54C5"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:amaura"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -1.5d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"4F8E0A306F9668F8"
+				"285042710E3529BB"
+			]
+			id: "042C93A9650C2F9A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6D622532DA9D0027"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "7A2BCCDDFE0F851A"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				action: "revive_fossil"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "4DB825D84EA875D7"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:shieldon"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -4.5d
+			y: -1.25d
+		}
+		{
+			dependencies: [
+				"2DCA27570FE5C4E0"
+				"285042710E3529BB"
+			]
+			icon_scale: 1.4d
+			id: "737EE014577C5F2D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2EB4BAF777947E4B"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "534B1B676006B9EC"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				action: "revive_fossil"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "3A545CCAF7877363"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:anorith"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 1.5d
+			y: -1.25d
+		}
+		{
+			dependencies: [
+				"735C6EED52F9EC73"
+				"285042710E3529BB"
+			]
+			icon_scale: 1.4d
+			id: "42D1FF7788C331F6"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "24A300115F3DD17C"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "61240081D3462083"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				action: "revive_fossil"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "3030ECE2A23B66E0"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:tirtouga"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -4.5d
+			y: 0.25d
+		}
+		{
+			dependencies: [
+				"3BB8BCE3953051D7"
+				"285042710E3529BB"
+			]
+			id: "3D1F9AC747146ACD"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "510D4D61E3C0DF07"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "4879937A0E930A22"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				action: "revive_fossil"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "327B26EB7E6BBED3"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:kabuto"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 1.5d
+			y: 0.25d
+		}
+		{
+			dependencies: [
+				"055527EE8DC82587"
+				"285042710E3529BB"
+			]
+			id: "273FD269DFCF1BA2"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0DFF0F3E3C1EE61E"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "4B1F4EEBBD1BA141"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				action: "revive_fossil"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "02F2EB6EB71C12B6"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:omanyte"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -4.5d
+			y: 1.75d
+		}
+		{
+			dependencies: [
+				"74BAA265C0FF8DA7"
+				"285042710E3529BB"
+			]
+			id: "382C44153E94B2B3"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3C0AA32195EFEDC6"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "569F1E3591370199"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				action: "revive_fossil"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "04FFD42A95196527"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:tyrunt"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 1.5d
+			y: 1.75d
+		}
+		{
+			dependencies: [
+				"57C9D277848C8D7A"
+				"285042710E3529BB"
+			]
+			id: "3C38E3482344D27A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1FC32F08A69AA3AE"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "2FC5668A12016F80"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				action: "revive_fossil"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "54F884F091FE328E"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:aerodactyl"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -3.9821428571428257d
+			y: 3.2321428571428683d
+		}
+		{
+			dependencies: [
+				"019CC63EFE622478"
+				"285042710E3529BB"
+			]
+			id: "794CF1D3743688FE"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3EFA16AC4DA9E48E"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "48589BB7024510DC"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				action: "revive_fossil"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "6B036CEB12D03CC5"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:archen"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 1.0178571428571743d
+			y: 3.2321428571428683d
+		}
+		{
+			dependencies: [
+				"2EE69DF0F67C4A50"
+				"285042710E3529BB"
+			]
+			id: "3E6E1E380560209B"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0FB6BD5EB492C914"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "27A760F3E4B3A1BC"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				action: "revive_fossil"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "38E0701D958BAE6A"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:lileep"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"74CD15D2B0EDE6FD"
+				"285042710E3529BB"
+			]
+			id: "14D615E06A5D0E95"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1746BCA5CF279AD5"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "1BC5B3C7955F2F22"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				action: "revive_fossil"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "09EB92388DBE400B"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:cranidos"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"324575095235E887"
+				"7C3B3C3D92EFBF2A"
+				"285042710E3529BB"
+			]
+			id: "3C5CFFEFA814D04D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4892FB5B0D51C6CE"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "3C5A7372D1C9D18D"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				action: "revive_fossil"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "34B41CC85C9CDA23"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:dracozolt"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -3.75d
+			y: -2.75d
+		}
+		{
+			dependencies: [
+				"324575095235E887"
+				"3AD002FEABAACD34"
+				"285042710E3529BB"
+			]
+			id: "7B1E0D44B64C1E36"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7D8CCCA366A15237"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "22921FADC3119B3F"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				action: "revive_fossil"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "2035B3A11218929B"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:arctozolt"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -2.25d
+			y: -2.75d
+		}
+		{
+			dependencies: [
+				"243DB86F4E1B57EF"
+				"7C3B3C3D92EFBF2A"
+				"285042710E3529BB"
+			]
+			id: "4A4AD38C0AACA676"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "088B046F90320C4A"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "2E6D49008CA3C7BB"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				action: "revive_fossil"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "154C36CF7DD40070"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:dracovish"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -0.75d
+			y: -2.75d
+		}
+		{
+			dependencies: [
+				"243DB86F4E1B57EF"
+				"3AD002FEABAACD34"
+				"285042710E3529BB"
+			]
+			id: "7D0DE721F3E31E34"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1A79093C5890CBD7"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "5315E90907BC1191"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				action: "revive_fossil"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "434AE90B26D2E373"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:arctovish"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 0.75d
+			y: -2.75d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			hide_dependent_lines: true
+			id: "3F8ED7008A06D835"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "77834006805FB38C"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "252A6A304C22B67D"
+				item: { count: 1, id: "minecraft:brush" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			hide_dependent_lines: true
+			id: "285042710E3529BB"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "27B50359B4ACB544"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					count: 3
+					id: "3956648F8BB56DEB"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "160D413F1D5BC6CE"
+					item: { count: 1, id: "cobblemon:monitor" }
+					type: "item"
+				}
+				{
+					id: "5EEE2B63C08D1808"
+					item: { count: 1, id: "cobblemon:fossil_analyzer" }
+					type: "item"
+				}
+				{
+					id: "07BED5A1AAE703C9"
+					item: { count: 1, id: "cobblemon:restoration_tank" }
+					type: "item"
+				}
+			]
+			x: 0.5d
+			y: -6.5d
+		}
+	]
+}

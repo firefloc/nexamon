@@ -1,6 +1,7 @@
 name = "Aether Addon: Treasure Reforging"
 filename = "aether_treasure_reforging-1.21.1-1.0.1-fabric.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/4qIW8vBb/versions/4aMqNDCa/aether_treasure_reforging-1.21.1-1.0.1-fabric.jar"

@@ -1,0 +1,3297 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "foodie"
+	group: "5A414AC1BCA19975"
+	icon: {
+		id: "cobblecuisine:sour_pickle_sandwich"
+	}
+	id: "3B8391675D6DC885"
+	images: [
+		{
+			height: 1.5d
+			image: "ftbquests:block/barrier_open"
+			rotation: 0.0d
+			width: 1.5d
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			click: "https://wiki.cobblemon.com/index.php/Seasoning#Effect_Seasoning"
+			height: 0.75d
+			hover: ["Need more details on Tea Seasonings? This will open the wiki page!"]
+			image: "cobblemon:textures/gui/pokedex/scan/scan_unknown.png"
+			rotation: 0.0d
+			width: 0.75d
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			height: 1.5d
+			image: "ftbquests:block/barrier_open"
+			rotation: 0.0d
+			width: 1.5d
+			x: 9.5d
+			y: 6.0d
+		}
+		{
+			click: "https://wiki.cobblemon.com/index.php/Seasoning#Nutrition_Seasonings"
+			height: 0.75d
+			hover: ["Need more details on Ponigiri Seasonings? This will open the wiki page!"]
+			image: "cobblemon:textures/gui/pokedex/scan/scan_unknown.png"
+			rotation: 0.0d
+			width: 0.75d
+			x: 9.5d
+			y: 6.0d
+		}
+		{
+			height: 1.5d
+			image: "ftbquests:block/barrier_open"
+			rotation: 0.0d
+			width: 1.5d
+			x: 11.5d
+			y: 3.0d
+		}
+		{
+			click: "https://wiki.cobblemon.com/index.php/Seasoning#Flavor_Seasoning"
+			height: 0.75d
+			hover: ["Need more details on Flavor Seasonings? This will open the wiki page!"]
+			image: "cobblemon:textures/gui/pokedex/scan/scan_unknown.png"
+			rotation: 0.0d
+			width: 0.75d
+			x: 11.5d
+			y: 3.0d
+		}
+	]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"44F215EA58EA97F3"
+				"63D84DAE1C6E4B1A"
+				"578B2F5978418897"
+				"03A1E8C5B1E7F486"
+				"260340F3623A93C0"
+				"634620C5480B9085"
+				"4159FDB30A2C86C9"
+				"73CC7D8D347A5834"
+				"722511A3EE11D586"
+				"2E3B90B112C8FB50"
+				"40B6554C46ECF504"
+				"3A94C229FBA5450E"
+				"70A2B9EB5B5D0503"
+				"5F2A1CC4FAEA9A1C"
+				"251E7888543F1CB6"
+				"63F619CA3A5FA543"
+				"2015AF80DA4A2BFF"
+				"6D31B82FCF592467"
+				"2D79BB0B0C914DC1"
+				"59DD072B2D84CF51"
+				"361657AF335ADBC0"
+				"7FDF5C2A72546282"
+				"74EEAAA2D30A8263"
+				"1AB5DEAF8E3AD405"
+				"069C84382219AD9B"
+				"5C1F3E216EE241FB"
+				"217B18094448841D"
+				"577F8E5741669B66"
+				"513527E68D3183CB"
+				"68CF5F4976874F2A"
+				"248E9503E818EFB8"
+				"1FAAE8CBEB0F5E41"
+				"5FDE490928FF7718"
+				"69974A5D488E2474"
+				"418BE71846EDF04A"
+				"35EADFEB152FEC1A"
+				"1DBB27ED7A65FC07"
+				"6093A1CB5C41522C"
+				"5F5D107659F106E3"
+				"6C7248FC045FA5EA"
+				"72FC84B47D4B8638"
+				"080C2CD6440A99EC"
+				"3052F9F617E9CF70"
+				"4921DC9498AF7924"
+				"4516248D3F279D83"
+				"2A51266846293C2F"
+				"5AFC205FC258A6C4"
+				"0AABC5A2E3A964E0"
+				"09D71075E97F2C9C"
+				"7D39C86930E3A9F1"
+				"65E2AA9F50C23AFD"
+				"5C645D84E57D39DE"
+				"466D15BF215724C6"
+				"0FCD46DC410BA15D"
+				"4F2434DC19A51F14"
+				"58D53038F5FE825A"
+				"1F97DD0B47048ED3"
+				"7C0CDB6AC4CE59E4"
+				"562C85A1BAF02C33"
+				"58CD6CF5DBDE0CB4"
+				"0BDE988FCF250727"
+				"47316755D4DAA2EB"
+				"04D85D3E0B1B36A8"
+				"6A924D063C0BF2C8"
+				"6986FE01C11DFECD"
+				"6C90B008EBA6B966"
+				"537CF4B082DEBA4E"
+				"6DEABEBA94F57CF9"
+				"20F9DC4CC0E8983B"
+				"462B4365205A7173"
+				"05BB4E07907B14A0"
+				"61A5653660227CD8"
+				"5A53FFC0DF4982B3"
+				"059C7D3200538797"
+				"25E1472E2B8F402F"
+				"3DEFA0B118659854"
+				"39B3AC1350C3EA13"
+				"4054CE9B63AEE111"
+				"7B7EBF11AD007E1F"
+				"58AA0D781A3FC89C"
+				"6AC100E3D87FA82C"
+				"54EDE33621E1044B"
+				"031817AAAC0F7ECE"
+				"74C82F820A310E0F"
+				"1985ED6CD3F7F769"
+				"48848B54DF0CADA4"
+				"51853A31EB157EDA"
+				"54945C2C5273BEB6"
+				"70DD6B01CBBE811C"
+				"6CCA2892D51F0A39"
+				"1B77B762B079F1EC"
+				"0F2772D5A028965A"
+				"7DDDD75C4B38F63F"
+				"53433625FA2368C3"
+				"6CBF15974158A5F7"
+				"5131D14854951A64"
+				"5B239AFD10251470"
+				"41D913F2BBDFFC79"
+				"2E6DFFA727BEE8F9"
+				"302D9A51740C17FF"
+				"2E746C423E676BC0"
+				"65E73F93F29CAF7B"
+				"1C7645DD17026D3A"
+				"72C905A33555E1AC"
+				"570FD209C1F75664"
+				"52A1169B433F689F"
+				"3876D559F548D0FA"
+				"28FA99250073D131"
+				"7CB17B9551396F83"
+				"2E2B87161884BA1A"
+				"46AB7F22505F8572"
+				"116BC57E3D60E9D3"
+				"0F78E12139172FE9"
+				"730FB70479F30A50"
+				"17751931D86BD186"
+				"728E41790066CA3F"
+				"6A63C48C40533812"
+				"62EB1492A9CFE418"
+				"0B8B4DE2D884A05F"
+				"24BCA483094F73C2"
+				"0A53698B5E8B7BE5"
+				"6356A5D1FCB4FC84"
+				"620899FC5F28DE64"
+				"708760D1F289D266"
+				"23C6F2FC577BCD81"
+				"6F13314BF8E0B07B"
+				"1C0A6663D6837B22"
+				"15DF025F9354571C"
+				"4EA3D50617093066"
+				"71A0D439433D3B68"
+				"01460159480F4FDD"
+				"3C81E572CC9652AB"
+				"044229BB706C415B"
+				"4ACC0CBC5B9B8A24"
+				"01C9F995BF3EC6B6"
+				"20F9CAFFA7597086"
+				"28A5C220494D5215"
+				"372C509C55C2B692"
+				"4902E82178433880"
+				"1FA39891916813BA"
+				"1983B4107501CB73"
+				"34B40DC4E6035090"
+				"3EFD1A62CFD030AA"
+				"3F1494B7DB207A64"
+				"487997AE80237F1D"
+				"0FC2C8C80F75CA93"
+				"7C671C1C024AE8C2"
+				"21DB01AF3BC66E47"
+				"2B1CBC25C3079FC8"
+				"401E806DFC185B9D"
+				"60040E85068EC2F4"
+				"014E46001AF9184A"
+				"05A6F88251E4243E"
+				"1C4D09BBB0B722BE"
+				"42275F316BDF82ED"
+				"459275515841E787"
+				"1B40A6551EFA71C8"
+				"1072A3CB045E092E"
+				"4B1C256576229BF0"
+				"3517AE50BA9B6010"
+				"54445ACEA85836DF"
+				"63C160730883D761"
+				"16BC6FA4D312B71A"
+				"73056C188A13C95F"
+				"5680B1BC66C914A0"
+				"51ED6304AF5CB500"
+				"67C573367B635CE9"
+				"3353F9C09250A9B9"
+				"527D9DD264D2D623"
+				"65A7F279F8844525"
+				"120855378243E412"
+				"2C1DFD6F16B01FA6"
+			]
+			hide_dependency_lines: true
+			icon: {
+				id: "tmcraft:star_bulldoze"
+			}
+			id: "75969455148170AC"
+			rewards: [{
+				count: 2
+				id: "10169ECC9CD91B4C"
+				item: {
+					count: 1
+					id: "cobblemon:master_ball"
+				}
+				type: "item"
+			}]
+			shape: "octagon"
+			size: 3.0d
+			tasks: [{
+				id: "11986DAC5345187D"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "1983B4107501CB73"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6A5180144ED60B39"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "1A60DEB7757EA222"
+				item: { count: 1, id: "cobblecuisine:spice_mix" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "372C509C55C2B692"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0B7D00E1F0A3D5D9"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "4299957F157DF1E8"
+				item: { count: 1, id: "cobblecuisine:salad_mix" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "4516248D3F279D83"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "37923ECF8A2C5C2D"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "305C4C866893474B"
+				item: { count: 1, id: "cobblecuisine:eclair" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "069C84382219AD9B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4206BE47192D6E6B"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "6B336A338556BF5D"
+				item: { count: 1, id: "cobblecuisine:fruity_flan" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "7D39C86930E3A9F1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3AAAF4C5EEE96171"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "4A7775CDC379962A"
+				item: { count: 1, id: "cobblecuisine:dubious_food" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "513527E68D3183CB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "019CA4A1F32CF9F7"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "6770865EA5FE6960"
+				item: { count: 1, id: "cobblecuisine:candied_razz_berry" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "0A53698B5E8B7BE5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "44CE86ABFD819A25"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "20CB3B1C9F4FF01E"
+				item: { count: 1, id: "cobblecuisine:candied_nanab_berry" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "48848B54DF0CADA4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "49A5CB52165CD3E4"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "6D52318B9D9391C0"
+				item: { count: 1, id: "cobblecuisine:candied_pinap_berry" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "462B4365205A7173"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4AF9619DC18A8E61"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "6CA33825C380EE47"
+				item: { count: 1, id: "cobblecuisine:candied_bluk_berry" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "70A2B9EB5B5D0503"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "630EFAB8018F03F1"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "711BFB64394004A7"
+				item: { count: 1, id: "cobblecuisine:ceviche" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "302D9A51740C17FF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "27410E45575506D4"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "71734328695713C4"
+				item: { count: 1, id: "cobblecuisine:miltank_mix_au_lait" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "4902E82178433880"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "09696C213B464AA4"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "416FB4C12A4C7712"
+				item: { count: 1, id: "cobblecuisine:protein_smoothie" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "61A5653660227CD8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "08C6176B56299193"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "601FAA7B6EC048D0"
+				item: { count: 1, id: "cobblecuisine:coffee" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "2E2B87161884BA1A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5CB29BD63B00AE35"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "1B9ACFC82539941E"
+				item: { count: 1, id: "cobblecuisine:fruit_punch" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "3C81E572CC9652AB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1C4CDE6F920D2266"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "659323901DDB8409"
+				item: { count: 1, id: "cobblecuisine:lilligant_floral_tea" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "5F5D107659F106E3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6C7CFAFD9F24A4CB"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "634015AEC6D05BC2"
+				item: { count: 1, id: "cobblecuisine:lemon_soda" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "20F9DC4CC0E8983B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4BE3316EE85A74EB"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "264CEAD7F88B9F8D"
+				item: { count: 1, id: "cobblecuisine:sweet_apple_curry" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "52A1169B433F689F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "31B8225154652374"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "27C387C4AB101244"
+				item: { count: 1, id: "cobblecuisine:sweet_whipped_cream_curry" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "4921DC9498AF7924"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3F68CE84583CB0BC"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "3109FE7B8475D733"
+				item: { count: 1, id: "cobblecuisine:bitter_herb_medley_curry" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "728E41790066CA3F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "343E779676575C09"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "461EF81D439230F0"
+				item: { count: 1, id: "cobblecuisine:bitter_leek_curry" }
+				type: "item"
+			}]
+			x: -6.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "3876D559F548D0FA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "147D86FFDBB118C0"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "7904455D60842AA9"
+				item: { count: 1, id: "cobblecuisine:dry_curry" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "0B8B4DE2D884A05F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0D0A0830ABC8C247"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "5FE0F132FB22A244"
+				item: { count: 1, id: "cobblecuisine:dry_frozen_curry" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "3052F9F617E9CF70"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2AE3F6BB407946F0"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "73CA6F6EDA72974E"
+				item: { count: 1, id: "cobblecuisine:dry_smoked_tail_curry" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "6A924D063C0BF2C8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7C2F779FCC80BC45"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "0FD26D24FB0E86EE"
+				item: { count: 1, id: "cobblecuisine:spicy_potato_curry" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "537CF4B082DEBA4E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "02F14E3BDEC1EA44"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "225C0304656439CA"
+				item: { count: 1, id: "cobblecuisine:dry_bone_curry" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "39B3AC1350C3EA13"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "61312635CBE98A3A"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "11AA88147A38B26B"
+				item: { count: 1, id: "cobblecuisine:drought_katsu_curry" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "65E2AA9F50C23AFD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "454B0B466FC991EC"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "00712647F97F4790"
+				item: { count: 1, id: "cobblecuisine:dream_eater_butter_curry" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "5B239AFD10251470"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2B3C0FC4AE0629B9"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "45F0F4FF26AA56B1"
+				item: { count: 1, id: "cobblecuisine:ninja_curry" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "7DDDD75C4B38F63F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3C702FC58D23890E"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "4A1644E199C73941"
+				item: { count: 1, id: "cobblecuisine:mild_honey_curry" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "58AA0D781A3FC89C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4B255ABFB9399835"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "5666D397B07B1D2E"
+				item: { count: 1, id: "cobblecuisine:bean_medley_curry" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "5A53FFC0DF4982B3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "29A42E1F843B6B96"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "2BBF0F49696CBCD9"
+				item: { count: 1, id: "cobblecuisine:spicy_mushroom_medley_curry" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "6C7248FC045FA5EA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5EED9BF7560F975B"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "17B84338735890EE"
+				item: { count: 1, id: "cobblecuisine:salty_boiled_egg_curry" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "260340F3623A93C0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "67E1C8370A34E381"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "13A108E3AAD70CD8"
+				item: { count: 1, id: "cobblecuisine:zing_zap_curry" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "23C6F2FC577BCD81"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0B7941F36F10DA2F"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "10CBF82129134144"
+				item: { count: 1, id: "cobblecuisine:beanburger_curry" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "044229BB706C415B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3C8C6D1ACBE03452"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "1969D3EABE62D5AD"
+				item: { count: 1, id: "cobblecuisine:twin_mushroom_cake" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "3EFD1A62CFD030AA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6573DAB0F798B856"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "521780266AD1A887"
+				item: { count: 1, id: "cobblecuisine:red_mushroom_cake" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "34B40DC4E6035090"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6AED40D48AF2B89C"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "6AD24F6FF8026A68"
+				item: { count: 1, id: "cobblecuisine:brown_mushroom_cake" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "059C7D3200538797"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4705D1D4DB6CF46D"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "1774A5AF7515614A"
+				item: { count: 1, id: "cobblecuisine:fruit_honey_cake" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "5C1F3E216EE241FB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1B8232BB0B7A1439"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "70B86DE69A821BD1"
+				item: { count: 1, id: "cobblecuisine:vegetable_honey_cake" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "487997AE80237F1D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "509298197C72F93C"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "65AFE72EA450EB68"
+				item: { count: 1, id: "cobblecuisine:berry_grain_cake" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: -8.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "080C2CD6440A99EC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7ACC1C96DF6BE02F"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "3254F8AC47C3EBF7"
+				item: { count: 1, id: "cobblecuisine:seed_grain_cake" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "6986FE01C11DFECD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "25379C843F988621"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "3F8848CB499AEBB5"
+				item: { count: 1, id: "cobblecuisine:red_bean_cake" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "722511A3EE11D586"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "77B9F2B4A4997AA8"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "0AA7A64195C402F1"
+				item: { count: 1, id: "cobblecuisine:yellow_bean_cake" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "6AC100E3D87FA82C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "15B80E0467F35F8B"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "0A6A5C850CB52AA3"
+				item: { count: 1, id: "cobblecuisine:green_bean_cake" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "0FCD46DC410BA15D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6C8E9C1FE20CC10A"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "4E34F9C0B3DE673E"
+				item: { count: 1, id: "cobblecuisine:orange_bean_cake" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "2E3B90B112C8FB50"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3C619332E16597A0"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "0932FA0F4C958F5F"
+				item: { count: 1, id: "cobblecuisine:blue_bean_cake" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "248E9503E818EFB8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2F2B9660C57D8128"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "5778EC51CD3BFC04"
+				item: { count: 1, id: "cobblecuisine:salt_cake" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "1C4D09BBB0B722BE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "398E872A70249EFB"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "2F4095645E1D673D"
+				item: { count: 1, id: "cobblecuisine:sweet_malasada" }
+				type: "item"
+			}]
+			x: -14.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "562C85A1BAF02C33"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1BEBB760FE6DA269"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "66842DD48E15C056"
+				item: { count: 1, id: "cobblecuisine:spicy_malasada" }
+				type: "item"
+			}]
+			x: -14.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "2E746C423E676BC0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "68E623238723015F"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "794F7F12730A076D"
+				item: { count: 1, id: "cobblecuisine:sour_malasada" }
+				type: "item"
+			}]
+			x: -12.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "5131D14854951A64"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "486D3B2775CBE3C8"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "25AB77F24F1C671C"
+				item: { count: 1, id: "cobblecuisine:bitter_malasada" }
+				type: "item"
+			}]
+			x: -13.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "44F215EA58EA97F3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "57765E479E1B6060"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "375E6A58EE6507CA"
+				item: { count: 1, id: "cobblecuisine:dry_malasada" }
+				type: "item"
+			}]
+			x: -13.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "4054CE9B63AEE111"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "77DEDB10C2A3F25E"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "34CED9EC6ACB644C"
+				item: { count: 1, id: "cobblecuisine:sweet_pokepuff" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "4EA3D50617093066"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0149132875F91E06"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "11B2268AFD1EA6AC"
+				item: { count: 1, id: "cobblecuisine:mint_pokepuff" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "58CD6CF5DBDE0CB4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "42A5CA3AE476D58E"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "4BC629E8D40A1C6C"
+				item: { count: 1, id: "cobblecuisine:citrus_pokepuff" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "20F9CAFFA7597086"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2DEF72C795E4EE17"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "62B442E4363BED52"
+				item: { count: 1, id: "cobblecuisine:mocha_pokepuff" }
+				type: "item"
+			}]
+			x: -9.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "1FA39891916813BA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "476B9BB3F4BA842A"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "347AF01ACB045AF5"
+				item: { count: 1, id: "cobblecuisine:spice_pokepuff" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "09D71075E97F2C9C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "388871C7EE8AADE3"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "4D061A221550D453"
+				item: { count: 1, id: "cobblecuisine:sour_pickle_sandwich" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "7CB17B9551396F83"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1E95B6D5FE891EA8"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "3C9913BE26A9A949"
+				item: { count: 1, id: "cobblecuisine:sour_cheese_sandwich" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "68CF5F4976874F2A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "78F55B69697026CB"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "361E0CDBD994A44B"
+				item: { count: 1, id: "cobblecuisine:sour_zesty_sandwich" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "70DD6B01CBBE811C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1086824610E94FF0"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "0F0344F0F8B1DF52"
+				item: { count: 1, id: "cobblecuisine:sweet_jam_sandwich" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "24BCA483094F73C2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2166FB75647C22F3"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "40926A215493A4DE"
+				item: { count: 1, id: "cobblecuisine:spicy_noodle_sandwich" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "63F619CA3A5FA543"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "35D3F21A3E3A1EAD"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "112FBB3BEE619A47"
+				item: { count: 1, id: "cobblecuisine:salty_vegetable_sandwich" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "2015AF80DA4A2BFF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "222A27963A117DF5"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "0EF201C0265CB210"
+				item: { count: 1, id: "cobblecuisine:spicy_ham_sandwich" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "01C9F995BF3EC6B6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2EF1D05604FC5A09"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "254CDB220268F4BC"
+				item: { count: 1, id: "cobblecuisine:dry_tower_sandwich" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "4159FDB30A2C86C9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "60D105FFDDAED8EE"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "1E5B9ECCF03E0AC1"
+				item: { count: 1, id: "cobblecuisine:spicy_five_alarm_sandwich" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "6093A1CB5C41522C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "70A91D2AD596A933"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "3B96AA6A0CD8CB3B"
+				item: { count: 1, id: "cobblecuisine:spicy_claw_sandwich" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "570FD209C1F75664"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0FC3CEDE879C0368"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "0F49ED1D82CB4C3D"
+				item: { count: 1, id: "cobblecuisine:dry_hefty_sandwich" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "5FDE490928FF7718"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "67F2683D4578EDAC"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "160834A01BF586C0"
+				item: { count: 1, id: "cobblecuisine:spicy_fillet_sandwich" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "59DD072B2D84CF51"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7EFC64C24FCED54D"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "7ADB3F9B2FD3811D"
+				item: { count: 1, id: "cobblecuisine:sweet_fruit_sandwich" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "40B6554C46ECF504"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6424E318998A2884"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "49DB006D685748C4"
+				item: { count: 1, id: "cobblecuisine:salty_tofu_sandwich" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "3F1494B7DB207A64"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "278EE7D7406A1BDB"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "4CA8649A12C2CD2A"
+				item: { count: 1, id: "cobblecuisine:salty_egg_sandwich" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "0F78E12139172FE9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "79CA46B960DC2B00"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "0633702AC96481ED"
+				item: { count: 1, id: "cobblecuisine:sweet_dessert_sandwich" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "730FB70479F30A50"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4DA68131A2C1CBC4"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "5EAE977C91B25909"
+				item: { count: 1, id: "cobblecuisine:dry_smoky_sandwich" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "0BDE988FCF250727"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "24294214955C12C5"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "27B602C11CBC3763"
+				item: { count: 1, id: "cobblecuisine:bitter_potato_sandwich" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "65E73F93F29CAF7B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5041BF5915F320D1"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "3B85358174F834C8"
+				item: { count: 1, id: "cobblecuisine:bitter_jambon_beurre" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "577F8E5741669B66"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "148FE4A6D89E19C3"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "1AEE68959191A558"
+				item: { count: 1, id: "cobblecuisine:mixed_vegetable_salad" }
+				type: "item"
+			}]
+			x: -14.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "251E7888543F1CB6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3577264EC35B6491"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "3A1125BFA68FE693"
+				item: { count: 1, id: "cobblecuisine:pumpkin_pie_salad" }
+				type: "item"
+			}]
+			x: -13.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "6CBF15974158A5F7"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "46BA25BD7143FA0F"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "39DE9A36540FA8F4"
+				item: { count: 1, id: "cobblecuisine:slowpoke_tail_pepper_salad" }
+				type: "item"
+			}]
+			x: -12.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "7C671C1C024AE8C2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6E11BD09F997B5A4"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "2FD57FF1711F7883"
+				item: { count: 1, id: "cobblecuisine:spore_mushroom_salad" }
+				type: "item"
+			}]
+			x: -11.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "418BE71846EDF04A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "763644CEA029B0D8"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "51DD0DB9199A7C4A"
+				item: { count: 1, id: "cobblecuisine:snow_cloak_caesar_salad" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "2B1CBC25C3079FC8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "71DEBF1BA7D207B7"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "6DE2FC36A58F3A8A"
+				item: { count: 1, id: "cobblecuisine:gluttony_potato_salad" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "1B77B762B079F1EC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0068E8FB23884369"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "4DFB1182EAB39116"
+				item: { count: 1, id: "cobblecuisine:water_veil_tofu_salad" }
+				type: "item"
+			}]
+			x: -14.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "1C0A6663D6837B22"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5247F3D8F7AA212E"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "20A98680E8066980"
+				item: { count: 1, id: "cobblecuisine:superpower_extreme_salad" }
+				type: "item"
+			}]
+			x: -13.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "53433625FA2368C3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "084FA8BC2F8E457B"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "5717D395122497B1"
+				item: { count: 1, id: "cobblecuisine:bean_ham_salad" }
+				type: "item"
+			}]
+			x: -12.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "41D913F2BBDFFC79"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "78B73AB6884F56E9"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "43079F568EB73466"
+				item: { count: 1, id: "cobblecuisine:snoozy_tomato_salad" }
+				type: "item"
+			}]
+			x: -11.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "6F13314BF8E0B07B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "55CD4511450F20A6"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "61AF8D933F6566E9"
+				item: { count: 1, id: "cobblecuisine:moomoo_caprese_salad" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "28FA99250073D131"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4DB4394CCDB4EE7E"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "76FB640C2E556C24"
+				item: { count: 1, id: "cobblecuisine:contrary_chocolate_meat_salad" }
+				type: "item"
+			}]
+			x: -9.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "05A6F88251E4243E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5A6F21AB5E5D2651"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "24CE8ABE4277BC4E"
+				item: { count: 1, id: "cobblecuisine:overheat_ginger_salad" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "54945C2C5273BEB6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "32360555AB305BF0"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "2BE7CA9AFEF42098"
+				item: { count: 1, id: "cobblecuisine:fancy_apple_salad" }
+				type: "item"
+			}]
+			x: -14.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "031817AAAC0F7ECE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2B937FC816EF5239"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "2FF9CF811655F7B3"
+				item: { count: 1, id: "cobblecuisine:immunity_leek_salad" }
+				type: "item"
+			}]
+			x: -13.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "5C645D84E57D39DE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5A9C90771F6CF7CB"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "58D59BAB715AC814"
+				item: { count: 1, id: "cobblecuisine:dazzling_apple_cheese_salad" }
+				type: "item"
+			}]
+			x: -12.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "1985ED6CD3F7F769"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7F3D4D3D128F82A1"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "5413EC95767C117E"
+				item: { count: 1, id: "cobblecuisine:ninja_salad" }
+				type: "item"
+			}]
+			x: -11.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "51853A31EB157EDA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "50D7B5FF0F4AA42D"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "2DB33329FCDE7DBF"
+				item: { count: 1, id: "cobblecuisine:heat_wave_tofu_salad" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "47316755D4DAA2EB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "037A0090BC5624E3"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "24E44C7E8FD45AB3"
+				item: { count: 1, id: "cobblecuisine:greengrass_salad" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "72FC84B47D4B8638"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "43E332193EA2356C"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "4B3DA8B52549F835"
+				item: { count: 1, id: "cobblecuisine:calm_mind_fruit_salad" }
+				type: "item"
+			}]
+			x: -13.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "2A51266846293C2F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6682561F16D50E5E"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "5CDFA5844BAB5282"
+				item: { count: 1, id: "cobblecuisine:fury_attack_corn_salad" }
+				type: "item"
+			}]
+			x: -12.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "73CC7D8D347A5834"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "369A28312532D5E6"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "07F939DF8BC0DE0D"
+				item: { count: 1, id: "cobblecuisine:cross_chop_salad" }
+				type: "item"
+			}]
+			x: -11.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "63D84DAE1C6E4B1A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "40E553FC83746C63"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "1D4DE77B5FEC05EB"
+				item: { count: 1, id: "cobblecuisine:defiant_coffee_dressed_salad" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "0FC2C8C80F75CA93"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7919FCC94EF0FDEC"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "63E28EC4C1EEFAAC"
+				item: { count: 1, id: "cobblecuisine:petal_blizzard_layered_salad" }
+				type: "item"
+			}]
+			x: -9.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "1FAAE8CBEB0F5E41"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "076245EADA203D58"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "57EA4532122583C4"
+				item: { count: 1, id: "cobblecuisine:apple_acid_yoghurt_salad" }
+				type: "item"
+			}]
+			x: -11.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "6CCA2892D51F0A39"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0A11A4ACD542A44F"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "3DFB6C0041AB89C6"
+				item: { count: 1, id: "cobblecuisine:low_green_shake" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "74C82F820A310E0F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1ACFF02AF5A2D82D"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "3180CCB8158CDF3D"
+				item: { count: 1, id: "cobblecuisine:low_red_shake" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "05BB4E07907B14A0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0B301719A64E68AF"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "7C70964CAD2A5F22"
+				item: { count: 1, id: "cobblecuisine:low_purple_shake" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "6356A5D1FCB4FC84"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5BCE8DF58798247C"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "6DD5AD208BB41B04"
+				item: { count: 1, id: "cobblecuisine:low_yellow_shake" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "04D85D3E0B1B36A8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4F8743A568D7D1D1"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "12977D3D482F91C0"
+				item: { count: 1, id: "cobblecuisine:low_blue_shake" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "74EEAAA2D30A8263"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "24406F291DEA65CB"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "4B52F83FB8F4AA68"
+				item: { count: 1, id: "cobblecuisine:low_pink_shake" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "4F2434DC19A51F14"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "28C23B1459541A14"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "5261FD989FE4DF6F"
+				item: { count: 1, id: "cobblecuisine:medium_green_shake" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "116BC57E3D60E9D3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0DC6E6632D6A5BDB"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "6B54E4CBD3660FE1"
+				item: { count: 1, id: "cobblecuisine:medium_red_shake" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "71A0D439433D3B68"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "59ACF78C589248A1"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "0D8CD8A0E43ED3A3"
+				item: { count: 1, id: "cobblecuisine:medium_purple_shake" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "4ACC0CBC5B9B8A24"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "488FA763C4058A3B"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "6151715B7A7A4C91"
+				item: { count: 1, id: "cobblecuisine:medium_yellow_shake" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "25E1472E2B8F402F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3DC9AEB734B8F366"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "093AB9320C91E1BA"
+				item: { count: 1, id: "cobblecuisine:medium_blue_shake" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "58D53038F5FE825A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "388F781C3FA3483C"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "5E786718AE618662"
+				item: { count: 1, id: "cobblecuisine:medium_pink_shake" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "466D15BF215724C6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "70A106C15E0176A4"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "3B34C3EBD5EAA68A"
+				item: { count: 1, id: "cobblecuisine:high_green_shake" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "0F2772D5A028965A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2462ABE4EDAC6BE7"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "2A68A693DFF0B6FC"
+				item: { count: 1, id: "cobblecuisine:high_red_shake" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "03A1E8C5B1E7F486"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4626387C31360A5D"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "3FCFF6133D4F7779"
+				item: { count: 1, id: "cobblecuisine:high_purple_shake" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "15DF025F9354571C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "50F2FAEB7D669273"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "32B60BB7D133403B"
+				item: { count: 1, id: "cobblecuisine:high_yellow_shake" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "1F97DD0B47048ED3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0424BB46A609AD0E"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "7954F42AE6627582"
+				item: { count: 1, id: "cobblecuisine:high_blue_shake" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "217B18094448841D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2F73312F4635AFBA"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "3EE298B2C3ABE6EF"
+				item: { count: 1, id: "cobblecuisine:high_pink_shake" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "46AB7F22505F8572"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "439DD5DD22DE7614"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "3EA763CDBDD05C96"
+				item: { count: 1, id: "cobblecuisine:deluxe_jewel_shake" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "1AB5DEAF8E3AD405"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "43C09CDDB690AD30"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "5BBB7A7966FABD5D"
+				item: { count: 1, id: "cobblecuisine:deluxe_earthy_shake" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "60040E85068EC2F4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "051ADE1CB42DDB4F"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "031CC6DCA9DD2CBF"
+				item: { count: 1, id: "cobblecuisine:deluxe_violet_shake" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "634620C5480B9085"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4BAF0FC0B7E49C09"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "1EA21D410D65DDBE"
+				item: { count: 1, id: "cobblecuisine:deluxe_verdant_shake" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "01460159480F4FDD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6EB485A3F3BC2E64"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "7FFAA674F3BDC3E6"
+				item: { count: 1, id: "cobblecuisine:deluxe_coral_shake" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "3A94C229FBA5450E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "25F8AF9239866335"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "2C335104D1CEF4BF"
+				item: { count: 1, id: "cobblecuisine:deluxe_bb_shake" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "0AABC5A2E3A964E0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "37C06B0145350133"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "4FFD639BC6E46E82"
+				item: { count: 1, id: "cobblecuisine:roasted_oran_berry" }
+				type: "item"
+			}]
+			x: -15.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "69974A5D488E2474"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3C3A99C52C9F5BD5"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "29FE7E0581DF9C00"
+				item: { count: 1, id: "cobblecuisine:roasted_babiri_berry" }
+				type: "item"
+			}]
+			x: -13.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "401E806DFC185B9D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "543CFFC41D652B54"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "6C03687ABAAA7BF7"
+				item: { count: 1, id: "cobblecuisine:roasted_charti_berry" }
+				type: "item"
+			}]
+			x: -12.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "6A63C48C40533812"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "783BA7E454E00143"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "38C116B911897B6B"
+				item: { count: 1, id: "cobblecuisine:roasted_chilan_berry" }
+				type: "item"
+			}]
+			x: -11.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "620899FC5F28DE64"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "07FAE82097A78D79"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "05FCFBE4F95AE541"
+				item: { count: 1, id: "cobblecuisine:roasted_chople_berry" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "17751931D86BD186"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6C94EF63F053A9EF"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "54C9090CBB9F7188"
+				item: { count: 1, id: "cobblecuisine:roasted_coba_berry" }
+				type: "item"
+			}]
+			x: -9.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "3DEFA0B118659854"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0AC51005F92CC80F"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "780916389F307451"
+				item: { count: 1, id: "cobblecuisine:roasted_colbur_berry" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "35EADFEB152FEC1A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2442F7FA64F43E76"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "789DE964E8A00254"
+				item: { count: 1, id: "cobblecuisine:roasted_haban_berry" }
+				type: "item"
+			}]
+			x: -14.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "578B2F5978418897"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "000AD73D336FE8D9"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "3684DAE9523A8033"
+				item: { count: 1, id: "cobblecuisine:roasted_kasib_berry" }
+				type: "item"
+			}]
+			x: -13.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "361657AF335ADBC0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "48BB531A721E81FA"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "1A295F61F01CB294"
+				item: { count: 1, id: "cobblecuisine:roasted_kebia_berry" }
+				type: "item"
+			}]
+			x: -12.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "6D31B82FCF592467"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "31F91EDFDBE187EE"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "2BBE809D3945D08F"
+				item: { count: 1, id: "cobblecuisine:roasted_occa_berry" }
+				type: "item"
+			}]
+			x: -11.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "5F2A1CC4FAEA9A1C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1616C794EF254B0B"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "5A262C353231B54E"
+				item: { count: 1, id: "cobblecuisine:roasted_passho_berry" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "54EDE33621E1044B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "274A41B39C888388"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "06F0480D21F0CBDB"
+				item: { count: 1, id: "cobblecuisine:roasted_rindo_berry" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "1C7645DD17026D3A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "110C021304A07B7D"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "6C0D4B41D4C70E00"
+				item: { count: 1, id: "cobblecuisine:roasted_payapa_berry" }
+				type: "item"
+			}]
+			x: -9.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "6DEABEBA94F57CF9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "39CAD58248AAC323"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "2F62EDC151E1DF54"
+				item: { count: 1, id: "cobblecuisine:roasted_roseli_berry" }
+				type: "item"
+			}]
+			x: -14.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "2E6DFFA727BEE8F9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1D93F7C33E83E45D"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "5E8A68E10C072E5D"
+				item: { count: 1, id: "cobblecuisine:roasted_shuca_berry" }
+				type: "item"
+			}]
+			x: -13.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "5AFC205FC258A6C4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "492AA6E2CA927F9F"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "3A0944B3E4CAA091"
+				item: { count: 1, id: "cobblecuisine:roasted_tanga_berry" }
+				type: "item"
+			}]
+			x: -12.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "6C90B008EBA6B966"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "779E513969426C18"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "51F5C3C1BD9ED0DA"
+				item: { count: 1, id: "cobblecuisine:roasted_wacan_berry" }
+				type: "item"
+			}]
+			x: -11.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "28A5C220494D5215"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4D742ADB8E107D30"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "2318A4029ECF1D7A"
+				item: { count: 1, id: "cobblecuisine:roasted_yache_berry" }
+				type: "item"
+			}]
+			x: -10.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "21DB01AF3BC66E47"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "657065FBE55475AF"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "16DEE1B477200DA5"
+				item: { count: 1, id: "cobblecuisine:roasted_cheri_berry" }
+				type: "item"
+			}]
+			x: -9.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "62EB1492A9CFE418"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "335B581A929616D9"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "23B1242E824D816D"
+				item: { count: 1, id: "cobblecuisine:roasted_chesto_berry" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "72C905A33555E1AC"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4CA5106C5C9E0203"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "472EF6D8BD7ABD31"
+				item: { count: 1, id: "cobblecuisine:roasted_pecha_berry" }
+				type: "item"
+			}]
+			x: -15.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "7B7EBF11AD007E1F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "76810969B1F67453"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "7332EE160148A0B5"
+				item: { count: 1, id: "cobblecuisine:roasted_rawst_berry" }
+				type: "item"
+			}]
+			x: -14.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "1DBB27ED7A65FC07"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "55D1E03B30C4D235"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "680F1F8520EAC0AE"
+				item: { count: 1, id: "cobblecuisine:roasted_aspear_berry" }
+				type: "item"
+			}]
+			x: -13.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "014E46001AF9184A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3EB66F81708429F3"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "317F61FC47190D0D"
+				item: { count: 1, id: "cobblecuisine:roasted_persim_berry" }
+				type: "item"
+			}]
+			x: -12.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "708760D1F289D266"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "362214064B33E424"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "7BCE1146B7E2100C"
+				item: { count: 1, id: "cobblecuisine:roasted_leppa_berry" }
+				type: "item"
+			}]
+			x: -11.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "2D79BB0B0C914DC1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4C416C4ECF1A671F"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "17C82E60E0E96E06"
+				item: { count: 1, id: "cobblecuisine:roasted_sitrus_berry" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "7FDF5C2A72546282"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7D95CCC68E2C538E"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "159971144DB7D23A"
+				item: { count: 1, id: "cobblecuisine:roasted_lum_berry" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "7C0CDB6AC4CE59E4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "53C8397EB73B61DB"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "1B5C4C46781EDDB3"
+				item: { count: 1, id: "cobblecuisine:roasted_enigma_berry" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "5A57F949AF757A2E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6B426487E3681B83"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [
+				{
+					id: "14993E388EB8F342"
+					item: { count: 1, id: "cobblemon:campfire_pot_blue" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "068A8B0EC43A9213"
+					item: { count: 1, id: "cobblemon:campfire_pot_white" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "294D4F20105917DA"
+					item: { count: 1, id: "cobblemon:campfire_pot_yellow" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "72E2BC1DB48E7849"
+					item: { count: 1, id: "cobblemon:campfire_pot_black" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "47F58691A4573C0E"
+					item: { count: 1, id: "cobblemon:campfire_pot_green" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "74212490A46D1873"
+					item: { count: 1, id: "cobblemon:campfire_pot_pink" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "189729036228D2D8"
+					item: { count: 1, id: "cobblemon:campfire_pot_red" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"5A57F949AF757A2E"
+				"711B4BCD90278EA5"
+			]
+			id: "503020CFA1A31E9E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2C14CE1C7FEFB070"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				advancement: "cobblemon:place_campfire_pot"
+				criterion: ""
+				id: "651765A03BCAF645"
+				type: "advancement"
+			}]
+			x: 6.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["503020CFA1A31E9E"]
+			id: "65A7F279F8844525"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0ACF9D54BEADBB9A"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "7EB421E1055C5732"
+				item: { count: 1, id: "cobblemon:jubilife_muffin" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "711B4BCD90278EA5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6682257F05598ADB"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "02FC8B94D0A1E15E"
+				item: { count: 1, id: "minecraft:campfire" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["503020CFA1A31E9E"]
+			id: "67C573367B635CE9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "31558311BB3E65DC"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "7BBC36E51E0EBB1A"
+				item: { count: 1, id: "cobblemon:rage_candy_bar" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["503020CFA1A31E9E"]
+			id: "5680B1BC66C914A0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3EF68A713B1C9003"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "328A6C0761A1313A"
+				item: { count: 1, id: "cobblemon:big_malasada" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["503020CFA1A31E9E"]
+			id: "459275515841E787"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7F7B257997234D59"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "354BBE287DC20795"
+				item: { count: 1, id: "cobblemon:candied_apple" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["503020CFA1A31E9E"]
+			id: "51ED6304AF5CB500"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "47A8782961AE1BE9"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5D884650A2E0C5E0"
+				item: { count: 1, id: "cobblemon:candied_berry" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["503020CFA1A31E9E"]
+			id: "527D9DD264D2D623"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "377486692292236D"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6AA792F3EEBF8BA9"
+				item: { count: 1, id: "cobblemon:vivichoke_dip" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["503020CFA1A31E9E"]
+			id: "73056C188A13C95F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3E2ED9CD1AA1CE0F"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "26F007529370BDD6"
+				item: { count: 1, id: "cobblemon:pewter_crunchies" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["503020CFA1A31E9E"]
+			id: "3517AE50BA9B6010"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "093A7BB3A5CC78FC"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "53FEF887B860191E"
+				item: { count: 1, id: "cobblemon:potato_mochi" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["503020CFA1A31E9E"]
+			id: "3353F9C09250A9B9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7D084FCDA5935BCB"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "798A37444B3F2439"
+				item: { count: 1, id: "cobblemon:old_gateau" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["503020CFA1A31E9E"]
+			id: "54445ACEA85836DF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "364449AB8B4938AB"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0EF924D37547F78B"
+				item: { count: 1, id: "cobblemon:lava_cookie" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["503020CFA1A31E9E"]
+			id: "1072A3CB045E092E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1125CA2205B330CE"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "1A59F6EED811B3B7"
+				item: { count: 1, id: "cobblemon:casteliacone" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["503020CFA1A31E9E"]
+			id: "1B40A6551EFA71C8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2AB3EE16ECC8A9F7"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5BDF5B6ED1512066"
+				item: { count: 1, id: "cobblemon:lumiose_galette" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["503020CFA1A31E9E"]
+			id: "4B1C256576229BF0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "79A395DD270D3790"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "23FBD7E8EEB8C21B"
+				item: { count: 1, id: "cobblemon:leek_and_potato_stew" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"503020CFA1A31E9E"
+				"4BCD0D4DE8D80C71"
+			]
+			id: "42275F316BDF82ED"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "487D540B2B6EFB94"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5C55EA338D6A16FF"
+				item: { count: 1, id: "cobblemon:open_faced_sandwich" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			dependencies: [
+				"503020CFA1A31E9E"
+				"4BCD0D4DE8D80C71"
+			]
+			id: "16BC6FA4D312B71A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2A9360232AB00CEF"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0EA3CB5C42E5AB96"
+				item: { count: 1, id: "cobblemon:smoked_tail_curry" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["503020CFA1A31E9E"]
+			id: "63C160730883D761"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "52887D78C8CE0F7F"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4FD6B2039FE9F130"
+				item: { count: 1, id: "cobblemon:ponigiri" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "4BCD0D4DE8D80C71"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "540C2923F0B915DB"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "66A8F61109F60DB2"
+				item: { count: 1, id: "cobblemon:tasty_tail" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["503020CFA1A31E9E"]
+			id: "120855378243E412"
+			tasks: [{
+				id: "50FE1F2FB51501DB"
+				item: { count: 1, id: "cobblemon:sinister_tea" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["503020CFA1A31E9E"]
+			id: "2C1DFD6F16B01FA6"
+			tasks: [{
+				id: "52EF11E9EBCDA328"
+				item: { count: 1, id: "cobblemon:poke_cake" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 3.0d
+		}
+	]
+}

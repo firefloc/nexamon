@@ -1,0 +1,223 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	default_quest_size: 2.0d
+	filename: "johto_elite_four"
+	group: "11BEA68691B3DB4C"
+	icon: {
+		components: {
+			"ftbquests:icon": "cobblemon:item/advancements/cobblemon_logo_blue"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "58ECBF286AB860B8"
+	images: [
+		{
+			height: 2.5d
+			image: "cobblemon_quests:item/will"
+			rotation: 0.0d
+			width: 2.5d
+			x: -4.0d
+			y: -3.0d
+		}
+		{
+			height: 2.5d
+			image: "cobblemon_quests:item/koga-gen3"
+			rotation: 0.0d
+			width: 2.5d
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			height: 2.5d
+			image: "cobblemon_quests:item/bruno"
+			rotation: 0.0d
+			width: 2.5d
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			height: 2.5d
+			image: "cobblemon_quests:item/karen"
+			rotation: 0.0d
+			width: 2.5d
+			x: 5.0d
+			y: -3.0d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["768B1CFF89837E48"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:item/held_items/power_lens"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "43CD16A376EBA017"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "038ABDFCE60F7545"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "758E078CEEDB5FE9"
+					table_id: 6815066128165839759L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3115C20F39F101CE"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "cobbleverse:trainer/johto/defeat_elite_pino"
+				criterion: ""
+				id: "63527A76C9C7724F"
+				type: "advancement"
+			}]
+			x: -4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["43CD16A376EBA017"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:item/held_items/loaded_dice"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "60818FF865F50099"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7CEDFC8F8B54D6CF"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "71E08F9914B2ACD9"
+					table_id: 6815066128165839759L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1B28B1AC245C99A1"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "cobbleverse:trainer/johto/defeat_elite_koga"
+				criterion: ""
+				id: "03E9F8E81284004E"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["60818FF865F50099"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:item/held_items/muscle_band"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "37C314264039C307"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "70694703045194D3"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3BB25C1EB2F3FD83"
+					table_id: 6815066128165839759L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3020305A2AE19536"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "cobbleverse:trainer/johto/defeat_elite_bruno"
+				criterion: ""
+				id: "591B35F16E3CCB87"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["37C314264039C307"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:item/evolution/razor_claw"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "655BBC1A286D27F8"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "17A2899CFD3E30B1"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "26AD4D31BE022026"
+					table_id: 5510279823512477608L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7CDA12382EEDFB1C"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "cobbleverse:trainer/johto/defeat_elite_karen"
+				criterion: ""
+				id: "78E758C9C5569744"
+				type: "advancement"
+			}]
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2A3C737A6FADD814"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:block/johto_cartography_table_front"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 0.9d
+			id: "768B1CFF89837E48"
+			shape: "rsquare"
+			tasks: [{
+				id: "2438BB883B6E0305"
+				structure: "cobbleverse:johto_league"
+				type: "structure"
+			}]
+			x: -7.0d
+			y: -4.0d
+		}
+	]
+}

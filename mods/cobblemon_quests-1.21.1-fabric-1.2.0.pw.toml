@@ -1,6 +1,7 @@
 name = "Cobblemon Quests"
 filename = "cobblemon_quests-[1.21.1]-fabric-1.2.0.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/kZgRPg5R/versions/cZ8toB2d/cobblemon_quests-%5B1.21.1%5D-fabric-1.2.0.jar"

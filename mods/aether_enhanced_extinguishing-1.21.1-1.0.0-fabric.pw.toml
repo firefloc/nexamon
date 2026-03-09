@@ -1,6 +1,7 @@
 name = "Aether Addon: Enhanced Extinguishing"
 filename = "aether_enhanced_extinguishing-1.21.1-1.0.0-fabric.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/FDrEl7QY/versions/zvKKXPY5/aether_enhanced_extinguishing-1.21.1-1.0.0-fabric.jar"

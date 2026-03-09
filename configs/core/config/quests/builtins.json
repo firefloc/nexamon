@@ -1,0 +1,754 @@
+{
+  "overrides": {
+    "reward_generation_gen1": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_generation_gen2": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_generation_gen3": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_generation_gen4": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_generation_gen5": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_generation_gen6": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_generation_gen7": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_generation_gen8": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_generation_gen9": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_hopla_10": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_hopla_100": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_hopla_20": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_hopla_30": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_hopla_40": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_hopla_50": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_hopla_60": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_hopla_70": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_hopla_80": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_hopla_90": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_milestone_12": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_milestone_18": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_milestone_3": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_milestone_6": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_pokeball_cobblemon:great_ball": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_pokeball_cobblemon:master_ball": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_pokeball_cobblemon:poke_ball": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_pokeball_cobblemon:ultra_ball": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_pokedex_100": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_pokedex_1000": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_pokedex_1025": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_pokedex_150": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_pokedex_200": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_pokedex_250": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_pokedex_300": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_pokedex_350": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_pokedex_400": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_pokedex_450": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_pokedex_50": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_pokedex_500": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_pokedex_550": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_pokedex_600": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_pokedex_650": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_pokedex_700": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_pokedex_750": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_pokedex_800": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_pokedex_850": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_pokedex_900": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_pokedex_950": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_rct_fast_10": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_rct_no_faint_10": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_rct_no_item_10": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_rct_series_*": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_rct_victories_10": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_rct_victories_100": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_rct_victories_25": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_rct_victories_5": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_rct_victories_50": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_type_bug": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_type_dark": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_type_dragon": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_type_electric": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_type_fairy": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_type_fighting": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_type_fire": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_type_flying": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_type_ghost": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_type_grass": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_type_ground": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_type_ice": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_type_normal": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_type_poison": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_type_psychic": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_type_rock": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_type_steel": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    },
+    "reward_type_water": {
+      "enabled": true,
+      "baseReward": true,
+      "replaceBaseReward": false,
+      "reward": {
+        "money": 0,
+        "items": [],
+        "commands": []
+      }
+    }
+  }
+}

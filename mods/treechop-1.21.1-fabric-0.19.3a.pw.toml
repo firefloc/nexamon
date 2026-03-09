@@ -1,6 +1,7 @@
 name = "HT's TreeChop"
 filename = "TreeChop-1.21.1-fabric-0.19.3a.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/gHoB7SHO/versions/YK5sxWxT/TreeChop-1.21.1-fabric-0.19.3a.jar"

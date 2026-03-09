@@ -1,0 +1,50 @@
+{
+	id: "640A47595391B71F"
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{
+			id: "3E641037FA69A5F9"
+			item: {
+				count: 1
+				id: "cobblemon:relic_coin"
+			}
+			weight: 5.0f
+		}
+		{
+			count: 2
+			id: "43D90F7BD5ADCEFC"
+			item: {
+				count: 1
+				id: "cobblemon:relic_coin"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 4
+			id: "27D8E22C5FFB5F94"
+			item: {
+				count: 1
+				id: "cobblemon:relic_coin"
+			}
+		}
+		{
+			count: 8
+			id: "739C585CF20DE25D"
+			item: {
+				count: 1
+				id: "cobblemon:relic_coin"
+			}
+			weight: 0.5f
+		}
+		{
+			count: 10
+			id: "2B2FA4638E120FD5"
+			item: {
+				count: 1
+				id: "cobblemon:relic_coin"
+			}
+			weight: 0.1f
+		}
+	]
+}

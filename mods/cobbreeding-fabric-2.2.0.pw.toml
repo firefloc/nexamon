@@ -1,6 +1,7 @@
 name = "Cobbreeding"
 filename = "Cobbreeding-fabric-2.2.0.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/ItmVb4zY/versions/DcOPx56X/Cobbreeding-fabric-2.2.0.jar"

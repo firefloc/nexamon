@@ -1,6 +1,7 @@
 name = "Cobblemon Unchained"
 filename = "unchained-fabric-1.7.3-1.7.1.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/wh0wnzrT/versions/uFACxWHR/unchained-fabric-1.7.3-1.7.1.jar"

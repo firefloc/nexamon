@@ -1,0 +1,15 @@
+{
+	id: "4C78724E05769FA8"
+	loot_size: 1
+	order_index: 3
+	rewards: [
+		{ id: "6B77B8A0A6E5E1DB", item: { count: 1, id: "cobblemon:pp_max" } }
+		{ id: "5FD1A0E9C9D7DADB", item: { count: 1, id: "cobblemon:hp_up" } }
+		{ id: "0AA24862F41A4302", item: { count: 1, id: "cobblemon:carbos" } }
+		{ id: "37141A8692878041", item: { count: 1, id: "cobblemon:zinc" } }
+		{ id: "5C567073FDD82665", item: { count: 1, id: "cobblemon:calcium" } }
+		{ id: "34C179E27A4D1BFC", item: { count: 1, id: "cobblemon:pp_up" } }
+		{ id: "66193477CD4EF9B1", item: { count: 1, id: "cobblemon:iron" } }
+		{ id: "73C46DA6732F6B2C", item: { count: 1, id: "cobblemon:protein" } }
+	]
+}

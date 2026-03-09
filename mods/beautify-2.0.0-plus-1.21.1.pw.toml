@@ -1,6 +1,7 @@
 name = "Beautify: Refabricated"
 filename = "beautify-2.0.0+1.21.1.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/DhSSvaxs/versions/ZyaUkJxq/beautify-2.0.0%2B1.21.1.jar"

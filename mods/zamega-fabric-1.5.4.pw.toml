@@ -1,6 +1,7 @@
 name = "Navas ZA Megas"
 filename = "zamega-fabric-1.5.4.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/2V1Y86sc/versions/vVdlKcht/zamega-fabric-1.5.4.jar"

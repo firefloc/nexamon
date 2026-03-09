@@ -1,6 +1,7 @@
 name = "Highlight"
 filename = "highlight-fabric-1.21-3.0.0.jar"
 side = "client"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/Vz96hXMh/versions/O0nda3pt/highlight-fabric-1.21-3.0.0.jar"

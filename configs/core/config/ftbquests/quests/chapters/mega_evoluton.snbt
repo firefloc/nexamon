@@ -1,0 +1,2659 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "mega_evoluton"
+	group: "0D71855D01B1484A"
+	icon: {
+		components: {
+			"ftbquests:icon": "mega_showdown:block/keystone_block"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "45A5E7C50E557319"
+	images: [{
+		color: 3025965
+		height: 21.0d
+		image: "mega_showdown:block/keystone_block"
+		rotation: 0.0d
+		width: 21.0d
+		x: 4.5d
+		y: 4.5d
+	}]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["2D5997E5AEE170C5"]
+			hide_dependent_lines: true
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:item/mega_stone"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "36EFDB701FDBBDA8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "66B2F9A1E00F6196"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "375375912EB4C274"
+				item: { count: 1, id: "mega_showdown:mega_stone" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["38A5DC525C3E058B"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:item/keystone"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "48754C845085257D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "474259C7B3A6142D"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "08E7933972CB9A7E"
+				item: { count: 1, id: "mega_showdown:keystone" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["48754C845085257D"]
+			hide_dependent_lines: true
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:item/lysandre_ring"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "1F02EBBF8516864B"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "09A78CC23EB10597"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "41BD5944831F3357"
+				item: { count: 1, id: "mega_showdown:lysandre_ring" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["48754C845085257D"]
+			hide_dependent_lines: true
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:item/may_bracelet"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "15668E539D9A6E2A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6F5358DF3DFE025A"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "08F7F4C3FA4E931C"
+				item: { count: 1, id: "mega_showdown:may_bracelet" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["48754C845085257D"]
+			dependency_requirement: "all_started"
+			hide_dependent_lines: true
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:item/brendan_mega_cuff"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "2ECDCAFC38B1B39D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2806F77CB299CEC0"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "72FC57F446E529F6"
+				item: { count: 1, id: "mega_showdown:brendan_mega_cuff" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["48754C845085257D"]
+			hide_dependent_lines: true
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:item/archie_anchor"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "2ACF5CDFD9CBEFB9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4F5C0100BBE51861"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "5DACFAA1C718863B"
+				item: { count: 1, id: "mega_showdown:archie_anchor" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["48754C845085257D"]
+			hide_dependent_lines: true
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:item/lisia_mega_tiara"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "1CFDF9BD60692770"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5CCF9FDABC84422B"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4555C1FBA62B0F7C"
+				item: { count: 1, id: "mega_showdown:lisia_mega_tiara" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["48754C845085257D"]
+			hide_dependent_lines: true
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:item/maxie_glasses"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "1946D7F2E54C7697"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0222686D18D1C3C0"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "57D6BB5AAFD9974C"
+				item: { count: 1, id: "mega_showdown:maxie_glasses" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["48754C845085257D"]
+			hide_dependent_lines: true
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:item/mega_ring"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "6893FA8E1AB4E169"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "326E5FA3F120FBAD"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4DD1D9B0AB152E68"
+				item: { count: 1, id: "mega_showdown:mega_ring" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["48754C845085257D"]
+			hide_dependent_lines: true
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:item/korrina_glove"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "44FD24EC72184047"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1C23F3AA6509D991"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "651040BF7E4BB689"
+				item: { count: 1, id: "mega_showdown:korrina_glove" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["48754C845085257D"]
+			hide_dependent_lines: true
+			id: "1A47CBEE47FDB7F0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "240B92BD8AAB933A"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [
+				{
+					icon: {
+						components: {
+							"ftbquests:icon": "mega_showdown:item/mega_bracelet"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "4CB7507ABB26896B"
+					item: { count: 1, id: "mega_showdown:mega_bracelet" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					icon: {
+						components: {
+							"ftbquests:icon": "mega_showdown:item/mega_bracelet_red"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "16DFEE1F66AB3B76"
+					item: { count: 1, id: "mega_showdown:mega_bracelet_red" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					icon: {
+						components: {
+							"ftbquests:icon": "mega_showdown:item/mega_bracelet_yellow"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "70E1B0933C8137DD"
+					item: { count: 1, id: "mega_showdown:mega_bracelet_yellow" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					icon: {
+						components: {
+							"ftbquests:icon": "mega_showdown:item/mega_bracelet_pink"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "5B3B28166F9140AC"
+					item: { count: 1, id: "mega_showdown:mega_bracelet_pink" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					icon: {
+						components: {
+							"ftbquests:icon": "mega_showdown:item/mega_bracelet_green"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "3C67E7908BE43160"
+					item: { count: 1, id: "mega_showdown:mega_bracelet_green" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					icon: {
+						components: {
+							"ftbquests:icon": "mega_showdown:item/mega_bracelet_blue"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "0C52BCDEAA5DA1AF"
+					item: { count: 1, id: "mega_showdown:mega_bracelet_blue" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					icon: {
+						components: {
+							"ftbquests:icon": "mega_showdown:item/mega_bracelet_black"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "2EF29E89D1FEA78D"
+					item: { count: 1, id: "mega_showdown:mega_bracelet_black" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			dependency_requirement: "one_completed"
+			id: "2B2D49E444029335"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "175F8E17A4F1F044"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "4A46AEEFF52B6EC8"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1086417165EFCB84"
+				item: { count: 1, id: "mega_showdown:abomasite" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "16E9750BD81BD081"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "73FB805504CE7F9E"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "250A27DDACF4B723"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4E58C0E7AE8E7F5A"
+				item: { count: 1, id: "mega_showdown:absolite" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "6075144E6F25E880"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1813C5786ED55A02"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "068AFAD964146F86"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6EB6F9782D8ED559"
+				item: { count: 1, id: "mega_showdown:aerodactylite" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "5236D385B15237B9"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4CC79D4A5F931EC5"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "329030F813040127"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2521E1296363A2FC"
+				item: { count: 1, id: "mega_showdown:aggronite" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "2501F34B05A9FAF6"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2E080805704F95B9"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "0112D15D00F7D4A0"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "07E61962A018E72D"
+				item: { count: 1, id: "mega_showdown:alakazite" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "6F96E51E6A18E9A2"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "139BAD425A5ED5DF"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "11EB2FE2D1CFF40A"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6D826C3041BE4696"
+				item: { count: 1, id: "mega_showdown:blastoisinite" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "2E8281E3F4DDE2E7"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "215BCEAFD3095D64"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "5CD49D329CCE7400"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6D01F6B05B16570E"
+				item: { count: 1, id: "mega_showdown:beedrillite" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "3D1150C10EB37F3D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "737CF4917B20AC49"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "738C868409CFA9B0"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0263D24FB68E5356"
+				item: { count: 1, id: "mega_showdown:banettite" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "0158DDAEB5C197DB"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6AC092ED69D4051B"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "6D7A99D907B2E034"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4AD6A162062F7E58"
+				item: { count: 1, id: "mega_showdown:audinite" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "3AE42E9F4E905CBA"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7246F3111C135112"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "177F93A7C72B8013"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "575DA59A8DBFBFE4"
+				item: { count: 1, id: "mega_showdown:ampharosite" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "226C76484A5183A5"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2A5827DBF9093945"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "21CF74534E172D58"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0A7D80C4D63D6941"
+				item: { count: 1, id: "mega_showdown:altarianite" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "706C4094C072DEF8"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "024F4945C624F626"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "69EE4C905CD996AB"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0E999C58E1CB828D"
+				item: { count: 1, id: "mega_showdown:blazikenite" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "70AE8BE198ACCEA9"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "259A9FB7FC48377C"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "61F0ADD3E5E7AA16"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1FB32C326EEBC85E"
+				item: { count: 1, id: "mega_showdown:cameruptite" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "600C8CC0C5EE2201"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7F24E1066268E044"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "4B7BCAAB6563EA35"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "145CA4412BFE979A"
+				item: { count: 1, id: "mega_showdown:charizardite_y" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "3AC201BBBF754319"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "70C048904C17C427"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "44DC29DACF42F975"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "713EAED0C4B84E30"
+				item: { count: 1, id: "mega_showdown:charizardite_x" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "1182D0D9537C8121"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3572B6670125F154"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "18B5325C63B32798"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "714BF66B6F55C910"
+				item: { count: 1, id: "mega_showdown:diancite" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "3A2F9E6B8E8FD40B"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0AEFACE00F9AA085"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "04CA0E9B21C7BD51"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "74C96BEC66C8AC83"
+				item: { count: 1, id: "mega_showdown:galladite" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "3359F83FA575773B"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "50B322147C7D6ED2"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "332D30B6AD6A6545"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "62A0F29A21C40865"
+				item: { count: 1, id: "mega_showdown:garchompite" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "75040B255C85E002"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "59AA3BB05AAC194C"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "350C0BB98DE71069"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5C250710313F4085"
+				item: { count: 1, id: "mega_showdown:latiasite" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "27595316497EDBD0"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2640A7E3B601D08B"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "75F1667C3303D435"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7F197B6AB294ACB7"
+				item: { count: 1, id: "mega_showdown:kangaskhanite" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "11773704D168E99F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "384425D8BFAD12E5"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "02A5E07C91BCBD1B"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0DBAFF5083336879"
+				item: { count: 1, id: "mega_showdown:houndoominite" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "7AC02F794984DAC8"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4499D59135675813"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "3109F2F8EA304420"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "49051F18EF7EB98E"
+				item: { count: 1, id: "mega_showdown:heracronite" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "0BC98E915EF46791"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "322146D7A61190CF"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "04DAA6F53B0515D1"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "103BF5A789909EE7"
+				item: { count: 1, id: "mega_showdown:gyaradosite" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "38C21D0A2BFFB2CD"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "31D0C13C19CCC45A"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "11D747EADFB6A86B"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "52137AE76E50E8EF"
+				item: { count: 1, id: "mega_showdown:glalitite" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "453E53EC2F754898"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "20F51D2BF4A4B1F4"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "52E641473AB9950D"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2BC855C92F8D0B57"
+				item: { count: 1, id: "mega_showdown:gengarite" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "00C206AEBDF2E6D8"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6BEF0F8B85CA6D63"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "7858298256CE46B3"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3C026F79845BA396"
+				item: { count: 1, id: "mega_showdown:gardevoirite" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "0054741DB59C9D57"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1ED4F93125FB6257"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "5842331C885DCD7D"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6E45E30E2A5B7DB1"
+				item: { count: 1, id: "mega_showdown:latiosite" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "3FE9A709BD4DEDC1"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3D33242E577695EA"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "7990DC56E1C9C743"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "270BEA40235AEE84"
+				item: { count: 1, id: "mega_showdown:lopunnite" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "1ECF569050DAAFFA"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2E448A9466D94975"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "30DC89F6C17FC037"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "613B4BFD056DE9D1"
+				item: { count: 1, id: "mega_showdown:lucarionite" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "41DB3A50FD774B0B"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4FF521A305937D5B"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "491D9C024C85A513"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1525A0B8DB125E9C"
+				item: { count: 1, id: "mega_showdown:manectite" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "40873121C193DDD0"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "69289ACD12F6F12F"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "1EB19D74E5E2F9DC"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "363547452908955C"
+				item: { count: 1, id: "mega_showdown:mawilite" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "51BCB97469B4254C"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2BC1A82FB9EC01D2"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "612B90F3978FD598"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "17F51D4C12E7116D"
+				item: { count: 1, id: "mega_showdown:medichamite" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "53C4814A16D6CCDE"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "54AD2F7623173B64"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "7344293AC01A0CC0"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "36F11F77678F82ED"
+				item: { count: 1, id: "mega_showdown:metagrossite" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "3A6E8B626D9EE579"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4C8E1F33138A2EDB"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "5D1AC8BD50B9423A"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2C058448DC077746"
+				item: { count: 1, id: "mega_showdown:mewtwonite_y" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "1E0E4C39DAEDA241"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "00E0ED52E7F31A94"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "1344F6632C3F6F5F"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "169DE2A3FCCDF23F"
+				item: { count: 1, id: "mega_showdown:mewtwonite_x" }
+				type: "item"
+			}]
+			x: 11.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "026E9C080513B200"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "141F8F76F1D08514"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "7543D6692C5519E5"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "60943A0BD66B5567"
+				item: { count: 1, id: "mega_showdown:slowbronite" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "0ECA10B0F7F47E3A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6CEBF9796E489EF2"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "6F89D17DC5CCEF2E"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5981C982F3530F82"
+				item: { count: 1, id: "mega_showdown:sharpedonite" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "44E28D450079A29A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "76E09595EEE9BC62"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "4E11F98C2AC8DCD0"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "62005F56FE96F8CF"
+				item: { count: 1, id: "mega_showdown:sceptilite" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "241399FBA97342CE"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2E5056F9F38CEB30"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "47B79490C1902DE8"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0313526C3EFD3B3D"
+				item: { count: 1, id: "mega_showdown:scizorite" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "3939E50E1F809448"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1C4A3B0ABAA90324"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "1DAE2AB56EB24DA9"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1B6001FF01F03E1B"
+				item: { count: 1, id: "mega_showdown:salamencite" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "2641B35C13F379EC"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "06B1A625B384CF24"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "07A4969373B15A61"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4D53D4D7F84C3AA3"
+				item: { count: 1, id: "mega_showdown:sablenite" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "4DF1E8B7B5530469"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3B0BFF4D149C2F9A"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "444126F1FE76BBE9"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "007D032FBF56203A"
+				item: { count: 1, id: "mega_showdown:pinsirite" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "544DDE2BF3EAB504"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6770746825899983"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "38B0737FF5EE4E94"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "64183A85751F9139"
+				item: { count: 1, id: "mega_showdown:pidgeotite" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "2FB9C08B06A4D41B"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2D6192271441787E"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "2D3E73F70FC8872E"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "52AEBE950C9BC95C"
+				item: { count: 1, id: "mega_showdown:steelixite" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "733E21F76B156AD7"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6A60F541CE6FBAFC"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "05B2A326356630C7"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "330920D1838242FD"
+				item: { count: 1, id: "mega_showdown:swampertite" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "3EA472BD8CF45DC8"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "06094D028004FCDF"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "763502B8D62DC36A"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4701BAD2B5157B66"
+				item: { count: 1, id: "mega_showdown:tyranitarite" }
+				type: "item"
+			}]
+			x: 11.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "109846B994231ECF"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7A8DAEA8A6B54612"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "50CC1D05BC511629"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "13CB79AD0C4933FD"
+				item: { count: 1, id: "mega_showdown:venusaurite" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: 8.0d
+		}
+		{
+			dependencies: [
+				"0054741DB59C9D57"
+				"2641B35C13F379EC"
+				"11773704D168E99F"
+				"15668E539D9A6E2A"
+				"1182D0D9537C8121"
+				"53C4814A16D6CCDE"
+				"4DDF65BAF8A44547"
+				"741DFE8B43805290"
+				"544DDE2BF3EAB504"
+				"733E21F76B156AD7"
+				"0FE4972924F40232"
+				"2FB9C08B06A4D41B"
+				"095DA4910B4D9D90"
+				"2501F34B05A9FAF6"
+				"3AC201BBBF754319"
+				"3925A1306D7E75F3"
+				"22CCDD45F8ADF33E"
+				"1E0E4C39DAEDA241"
+				"2ECDCAFC38B1B39D"
+				"6075144E6F25E880"
+				"3999DBA1AC3E6426"
+				"600C8CC0C5EE2201"
+				"1A47CBEE47FDB7F0"
+				"3EA472BD8CF45DC8"
+				"75040B255C85E002"
+				"3359F83FA575773B"
+				"41D128B035CF1583"
+				"51BCB97469B4254C"
+				"6F96E51E6A18E9A2"
+				"3853561E33A6CED8"
+				"0ECA10B0F7F47E3A"
+				"45A461D7667158B7"
+				"37BD5D98FDA21530"
+				"78DB07C6EF804D25"
+				"7C19E9925051D760"
+				"0BC98E915EF46791"
+				"229DDCBADA0E7F94"
+				"0475F8961C51938C"
+				"453E53EC2F754898"
+				"3D2FD2204B991D29"
+				"3A2F9E6B8E8FD40B"
+				"6893FA8E1AB4E169"
+				"63EB0992050293B8"
+				"44E28D450079A29A"
+				"00C206AEBDF2E6D8"
+				"6CFDE05B20E3C802"
+				"70AE8BE198ACCEA9"
+				"109846B994231ECF"
+				"7F32AF6150E4187A"
+				"3EE62C34BB2781BB"
+				"44FD24EC72184047"
+				"226C76484A5183A5"
+				"3AE42E9F4E905CBA"
+				"755464A693D7FAF4"
+				"311CFF34F3A56D5E"
+				"53A985E05BB1402B"
+				"4D7CE85825E72217"
+				"241399FBA97342CE"
+				"5236D385B15237B9"
+				"519C4505513F7CFE"
+				"1CFDF9BD60692770"
+				"2E8281E3F4DDE2E7"
+				"6AC379C2226522B8"
+				"3D1150C10EB37F3D"
+				"1F02EBBF8516864B"
+				"27595316497EDBD0"
+				"2ACF5CDFD9CBEFB9"
+				"40873121C193DDD0"
+				"468ACF7A4C64387E"
+				"3A6E8B626D9EE579"
+				"0158DDAEB5C197DB"
+				"3FE9A709BD4DEDC1"
+				"5942FBF472FCAFA5"
+				"1946D7F2E54C7697"
+				"706C4094C072DEF8"
+				"7AC02F794984DAC8"
+				"026E9C080513B200"
+				"41DB3A50FD774B0B"
+				"16E9750BD81BD081"
+				"38C21D0A2BFFB2CD"
+				"4DF1E8B7B5530469"
+				"7C9D326B8E5B9251"
+				"4C38C025B47FCF1F"
+				"10270B0F5EFCDD29"
+				"2B2D49E444029335"
+				"1ECF569050DAAFFA"
+				"3939E50E1F809448"
+			]
+			dependency_requirement: "one_completed"
+			hide_dependency_lines: true
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/interact/mega_evolve_wheel.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "7EA216363C997225"
+			rewards: [
+				{
+					id: "1D893BF9B7A43514"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "46691A948F4E1FD9"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin_pouch"
+					}
+					type: "item"
+				}
+			]
+			shape: "octagon"
+			size: 2.0d
+			tasks: [{
+				advancement: "mega_showdown:mega_showdown/mega/mega_evolve"
+				criterion: ""
+				id: "341595C4361E91A1"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "095DA4910B4D9D90"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3A2E692F56882C3C"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "532F1E30FED4CF0E"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "10E01FBDA947849D"
+				item: { count: 1, id: "lumymon:barbaracite" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "3999DBA1AC3E6426"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4287C785E924D373"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "263659A1716DD03F"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "260D496097AE0D83"
+				item: { count: 1, id: "lumymon:baxcalibrite" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "3925A1306D7E75F3"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7BFE79BEB5E815E6"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "60BA389540A09B36"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4BF44E7E51603545"
+				item: { count: 1, id: "lumymon:chandelurite" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "4D7CE85825E72217"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1A0E711161F539D4"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "2226C415CBD6F8BA"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "007E4D48632D2202"
+				item: { count: 1, id: "lumymon:chesnaughtite" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "45A461D7667158B7"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6A718BF2B6A9DB42"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "4FA0A32788786827"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1C92ACD2D2456B1A"
+				item: { count: 1, id: "lumymon:chimechonite" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "3853561E33A6CED8"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7004C23F36A85E56"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "6D298FBF1F5E8570"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7D8FA73A36497A87"
+				item: { count: 1, id: "lumymon:clefablite" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "6AC379C2226522B8"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7FCB06D4CAE7B65E"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "2E86D0B95ECE4590"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "67753FB5B9779078"
+				item: { count: 1, id: "lumymon:delphoxite" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "519C4505513F7CFE"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5E9C698189892EC9"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "100252BDAEC248EB"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3722FA53EE9E0113"
+				item: { count: 1, id: "lumymon:dragalgite" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "41D128B035CF1583"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "12FE5C292559F26D"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "4CB628D17C76BE92"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3E7A601964B33A08"
+				item: { count: 1, id: "lumymon:dragoninite" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "229DDCBADA0E7F94"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "59640C273AD5613F"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "243391EA3C99B081"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "640E574CCB89A510"
+				item: { count: 1, id: "lumymon:drampanite" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "4DDF65BAF8A44547"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4BAC56AA9A25F0F5"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "14808AEC16C99C7C"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "433B419647485BBF"
+				item: { count: 1, id: "lumymon:eelektrossite" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "468ACF7A4C64387E"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6A613FB65C5327F1"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "1FAF8BA91082372D"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7918F89BA0AF7F59"
+				item: { count: 1, id: "lumymon:emboarite" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "741DFE8B43805290"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "38657FBB15544C05"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "0FFF3B4FD7620AFC"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4A8856149C4F60E3"
+				item: { count: 1, id: "lumymon:excadrite" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "0FE4972924F40232"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4155FDA3C9FD3B7F"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "0CF61291760A1350"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3DC43B30DEC581BF"
+				item: { count: 1, id: "lumymon:falinksite" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "7C9D326B8E5B9251"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "51165FBDA1FECEC7"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "1566AF9EB694682C"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "57325100CBB1347C"
+				item: { count: 1, id: "lumymon:feraligite" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "22CCDD45F8ADF33E"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "718865E1E916A930"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "4D12003ECFA1FDC6"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4E11B15DBFAAA5CC"
+				item: { count: 1, id: "lumymon:floettite" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "78DB07C6EF804D25"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "56C10AC739870410"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "471BF3FD9C464E29"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7FA624F03AF0DC1B"
+				item: { count: 1, id: "lumymon:froslassite" }
+				type: "item"
+			}]
+			x: 9.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "63EB0992050293B8"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "31573BF837E11892"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "4445709D930CAB78"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4E0C59776E1B7307"
+				item: { count: 1, id: "lumymon:greninjite" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "4C38C025B47FCF1F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "257F8B79F3CEE9DB"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "1748EF1EE23301F2"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3BA7E5A193E9B1C4"
+				item: { count: 1, id: "lumymon:hawluchanite" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "37BD5D98FDA21530"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3B8C07D61547811B"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "6B97C44C5791DE2C"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7A647989149D7190"
+				item: { count: 1, id: "lumymon:malamarite" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "311CFF34F3A56D5E"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3B0E5761D482C9EF"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "4684D364D9AF72B7"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "71A3DB101D7D4C0A"
+				item: { count: 1, id: "lumymon:meganiumite" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "3EE62C34BB2781BB"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "140D98667268C268"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "6D808CAA1172C046"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "55B1A5446DE2FEF3"
+				item: { count: 1, id: "lumymon:pyroarite" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "6CFDE05B20E3C802"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7A2881B664213456"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "1FE3602E0E19C2EF"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "07134233455FE975"
+				item: { count: 1, id: "lumymon:raichunite_x" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "7F32AF6150E4187A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "15C2B11F70159686"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "41C96A401A4F14C0"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0B002E753A4C4AB1"
+				item: { count: 1, id: "lumymon:raichunite_y" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "7C19E9925051D760"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "05FDAF8ACCB61819"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "095D8D3DDB64DA27"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1A5A51DBCE24D70D"
+				item: { count: 1, id: "lumymon:scolipite" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "3D2FD2204B991D29"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2D6B2009A71E1779"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "5146EF547CDE5EF1"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1C27A62AA4399944"
+				item: { count: 1, id: "lumymon:scraftinite" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "755464A693D7FAF4"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2320AE8782B61EFB"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "19E8B3CBD84AEA04"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "45F48BA3C1634A58"
+				item: { count: 1, id: "lumymon:skarmorite" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "0475F8961C51938C"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6B101A3DC5FA1CBA"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "48F77D1EC1796A02"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "11B1B1394A61B1FA"
+				item: { count: 1, id: "lumymon:starminite" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "53A985E05BB1402B"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "23551FEEB02EEAEF"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "033E05FCD2FE9E25"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1193BAFC5107A768"
+				item: { count: 1, id: "lumymon:victreebelite" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "10270B0F5EFCDD29"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "62B89DB4733DFEA7"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "3961D38C73C68C24"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5733A3B8B2675341"
+				item: { count: 1, id: "lumymon:zeraorite" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["36EFDB701FDBBDA8"]
+			id: "5942FBF472FCAFA5"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "408FDC2C64D59766"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "3DD2DC41E187D0A5"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "78B24182864FAD39"
+				item: { count: 1, id: "lumymon:zygardite" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			icon: {
+				id: "mega_showdown:mega_meteorid_block"
+			}
+			id: "38A5DC525C3E058B"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "569204F7979854C7"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "02A7C52F15950FC9"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				id: "1C70B45B13331D36"
+				structure: "mega_showdown:megaroid"
+				type: "structure"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "2D5997E5AEE170C5"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0C516A14E0EBF52D"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6F2C23F7CFC3C1DE"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				icon: {
+					id: "mega_showdown:mega_meteorid_radiated_block"
+				}
+				id: "7D044A4844DFF261"
+				structure: "mega_showdown:mega_site"
+				type: "structure"
+			}]
+			x: 7.5d
+			y: -2.5d
+		}
+	]
+}

@@ -1,6 +1,7 @@
 name = "Keybind Sets"
 filename = "CmdKeybindChanger-1.0.2.jar"
 side = "client"
+tier = "base"
 
 [download]
 url = "https://cdn.modrinth.com/data/zmYU64La/versions/uuOxIJzw/CmdKeybindChanger-1.0.2.jar"

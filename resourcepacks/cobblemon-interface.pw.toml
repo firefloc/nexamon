@@ -1,6 +1,7 @@
 name = "Cobblemon Interface"
 filename = "Cobblemon Interface.zip"
 side = "client"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/gfiYlQU0/versions/8SjyMuZO/Cobblemon%20Interface%20v1.6.0.zip"

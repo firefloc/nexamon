@@ -1,6 +1,7 @@
 name = "Cobblemon : Poke Labs"
 filename = "cobblemon_poke_labs-fabric-1.1.1.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/Wk0xZVPQ/versions/l34hOFT3/cobblemon_poke_labs-fabric-1.1.1.jar"

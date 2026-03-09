@@ -1,6 +1,7 @@
 name = "MelloMons"
 filename = "MelloMons RP.zip"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/HFE7B8bM/versions/g8PU5ubT/MelloMons.zip"

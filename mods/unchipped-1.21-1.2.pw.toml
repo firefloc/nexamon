@@ -1,6 +1,7 @@
 name = "UnChipped"
 filename = "unchipped-1.21-1.2.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/RS1svSgj/versions/fMCV0NES/unchipped-1.21-1.2.jar"

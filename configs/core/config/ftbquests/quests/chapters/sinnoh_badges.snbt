@@ -1,0 +1,423 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	default_quest_size: 2.0d
+	filename: "sinnoh_badges"
+	group: "5D79B3BD438A8363"
+	icon: {
+		components: {
+			"ftbquests:icon": "lumymon:block/sinnoh_cartography_table_front"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "633DF32822519C20"
+	images: [
+		{
+			height: 5.0d
+			image: "cobbleversebadges:item/sinnoh_badge_box"
+			rotation: 0.0d
+			width: 5.0d
+			x: -5.0d
+			y: 0.5d
+		}
+		{
+			height: 2.5d
+			image: "cobblemon_quests:item/roark"
+			rotation: 0.0d
+			width: 2.5d
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			height: 2.5d
+			image: "cobblemon_quests:item/gardenia"
+			rotation: 0.0d
+			width: 2.5d
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			height: 3.0d
+			image: "cobblemon_quests:item/maylene"
+			rotation: 0.0d
+			width: 3.0d
+			x: 5.0d
+			y: -3.0d
+		}
+		{
+			height: 2.5d
+			image: "cobblemon_quests:item/crasherwake"
+			rotation: 0.0d
+			width: 2.5d
+			x: 8.0d
+			y: -3.0d
+		}
+		{
+			height: 2.5d
+			image: "cobblemon_quests:item/fantina"
+			rotation: 0.0d
+			width: 2.5d
+			x: -1.0d
+			y: 4.0d
+		}
+		{
+			height: 2.5d
+			image: "cobblemon_quests:item/byron"
+			rotation: 0.0d
+			width: 2.5d
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			height: 2.5d
+			image: "cobblemon_quests:item/candice"
+			rotation: 0.0d
+			width: 2.5d
+			x: 5.0d
+			y: 4.0d
+		}
+		{
+			height: 2.5d
+			image: "cobblemon_quests:item/volkner"
+			rotation: 0.0d
+			width: 2.5d
+			x: 8.0d
+			y: 4.0d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["57A9EC6A63B26566"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:block/sinnoh_cartography_table_front"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 0.9d
+			id: "7A0B40134A198B80"
+			shape: "rsquare"
+			tasks: [{
+				id: "4EBD4466B961CE1C"
+				structure: "cobbleverse:pedro"
+				type: "structure"
+			}]
+			x: -5.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["7A0B40134A198B80"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobbleversebadges:item/sinnoh_coal_badge"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "3EA045F31152B159"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "17D5D4A613DD90F4"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5A840C954F2C2177"
+					table_id: 6815066128165839759L
+					type: "random"
+				}
+				{
+					id: "7A79138C34C0E3D0"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "71D2803C9D1D905B"
+				item: { count: 1, id: "cobbleversebadges:sinnoh_coal_badge" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["3EA045F31152B159"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobbleversebadges:item/sinnoh_forest_badge"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "2816FB2751FADB21"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "69261C0171181B9C"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1B8C36C986945927"
+					table_id: 6815066128165839759L
+					type: "random"
+				}
+				{
+					id: "62375B9C6F408936"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0C7CA97CDB984D2D"
+				item: { count: 1, id: "cobbleversebadges:sinnoh_forest_badge" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2816FB2751FADB21"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobbleversebadges:item/sinnoh_cobble_badge"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "1D62FB37D9900444"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "77FEDFC284CFE16F"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6A43516197D6AF98"
+					table_id: 6815066128165839759L
+					type: "random"
+				}
+				{
+					id: "76B2FD4D3900E3E2"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3A20371A40B6444E"
+				item: { count: 1, id: "cobbleversebadges:sinnoh_cobble_badge" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1D62FB37D9900444"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobbleversebadges:item/sinnoh_fen_badge"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "13F27E26C674F4A5"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1073D3D90FCB62CF"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "60236C12A12BDEAE"
+					table_id: 6815066128165839759L
+					type: "random"
+				}
+				{
+					id: "5356E178F673E380"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5D0E45BF603555EB"
+				item: { count: 1, id: "cobbleversebadges:sinnoh_fen_badge" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["13F27E26C674F4A5"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobbleversebadges:item/sinnoh_relic_badge"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "30F9E05BD7CB7F1B"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "56CAA5DA13CB9A00"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "02482F42B7E74969"
+					table_id: 6815066128165839759L
+					type: "random"
+				}
+				{
+					id: "6B433FD465D7FEDD"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "127D5D07E71FF9EB"
+				item: { count: 1, id: "cobbleversebadges:sinnoh_relic_badge" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["30F9E05BD7CB7F1B"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobbleversebadges:item/sinnoh_mine_badge"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "24D62E8C78821D15"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4D281010210837A6"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2BDABF5A62288C3C"
+					table_id: 6815066128165839759L
+					type: "random"
+				}
+				{
+					id: "2FB4A25418AEE380"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "56D7C1FE3B5C391C"
+				item: { count: 1, id: "cobbleversebadges:sinnoh_mine_badge" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["24D62E8C78821D15"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobbleversebadges:item/sinnoh_icicle_badge"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "2BF6DD924F845A8E"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6814712F98C45046"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "520BCEC2DEE6F38D"
+					table_id: 6815066128165839759L
+					type: "random"
+				}
+				{
+					id: "4F50F308CE4B0CDC"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6E48D9EB8CB1B18F"
+				item: { count: 1, id: "cobbleversebadges:sinnoh_icicle_badge" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2BF6DD924F845A8E"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobbleversebadges:item/sinnoh_beacon_badge"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "06A91D098D66DF74"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "105751985C5C26BD"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0EEBEA1F4ED81E6E"
+					table_id: 5510279823512477608L
+					type: "random"
+				}
+				{
+					id: "1AD6F5F78B610541"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "19B86693F8EBD299"
+				item: { count: 1, id: "cobbleversebadges:sinnoh_beacon_badge" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 2.0d
+		}
+	]
+}

@@ -1,6 +1,7 @@
 name = "LumyREI"
 filename = "LumyREI-1.1.2.jar"
 side = "client"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/FVADf9wU/versions/ClE7Zrf2/LumyREI-1.1.2.jar"

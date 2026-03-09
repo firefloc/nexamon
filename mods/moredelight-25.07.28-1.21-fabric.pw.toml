@@ -1,6 +1,7 @@
 name = "More Delight (for Farmer's Delight)"
 filename = "moredelight-25.07.28-1.21-fabric.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/znHQQtuU/versions/t4YUvHQh/moredelight-25.07.28-1.21-fabric.jar"

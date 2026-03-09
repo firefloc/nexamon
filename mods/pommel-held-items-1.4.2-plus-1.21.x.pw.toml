@@ -1,6 +1,7 @@
 name = "Pommel - Held Item Models"
 filename = "pommel-held-items-1.4.2+1.21.x.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/fsc3VDsD/versions/Peyy1O6c/pommel-held-items-1.4.2%2B1.21.x.jar"

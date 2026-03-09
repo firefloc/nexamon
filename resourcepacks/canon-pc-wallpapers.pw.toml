@@ -1,6 +1,7 @@
 name = "Canon PC Wallpapers [Cobblemon]"
 filename = "Canon PC Wallpapers.zip"
 side = "client"
+tier = "base"
 
 [download]
 url = "https://cdn.modrinth.com/data/chI5vWhB/versions/L55EKlrV/Canon%20PC%20Wallpapers.zip"

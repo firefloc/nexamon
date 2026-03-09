@@ -1,6 +1,7 @@
 name = "Not Enough Animations"
 filename = "notenoughanimations-fabric-1.11.2-mc1.21.1.jar"
 side = "client"
+tier = "base"
 
 [download]
 url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/pznwoEHz/notenoughanimations-fabric-1.11.2-mc1.21.1.jar"

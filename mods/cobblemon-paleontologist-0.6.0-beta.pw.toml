@@ -1,6 +1,7 @@
 name = "Cobblemon Paleontology"
 filename = "cobblemon-paleontologist-0.6.0-Beta.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/tbBs6vYE/versions/l6Q8BHjE/cobblemon-paleontologist-0.6.0-Beta.jar"

@@ -1,6 +1,7 @@
 name = "Structures+"
 filename = "structures+-1.4-all.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/6WwYmxGF/versions/kOO5rcxd/structures%2B-1.4-all.jar"

@@ -1,0 +1,94 @@
+{
+  "stabilityMultiplier": 1.0,
+  "maxSpotsPerPlayer": 2,
+  "spotTimeoutSeconds": 180,
+  "spawnRadius": 30,
+  "spawnChancePerTick": 0.1,
+  "superStableChance": 0.05,
+  "superStableBonus": 1.5,
+  "hugeGridChance": 0.01,
+  "veryLargeGridChance": 0.05,
+  "largeGridChance": 0.1,
+  "baseRarityMultiplier": 1.0,
+  "hugeGridRarityBonus": 2.0,
+  "veryLargeGridRarityBonus": 1.6,
+  "largeGridRarityBonus": 1.3,
+  "layerClearRarityBonus": 1.15,
+  "maxY": 320,
+  "maxNextLevelNormal": 2,
+  "maxNextLevelLarge": 3,
+  "maxNextLevelVeryLarge": 4,
+  "maxNextLevelHuge": 5,
+  "debugMode": false,
+  "pokemonSpawnEnabled": true,
+  "pokemonSpawnChance": 0.15,
+  "pokemonShinyChance": 0.05,
+  "pokemonMinLevel": 10,
+  "pokemonMaxLevel": 50,
+  "pokemonTargetLevel": 30,
+  "pokemonSpawns": [
+    {
+      "pokemon": "geodude",
+      "weight": 20
+    },
+    {
+      "pokemon": "roggenrola",
+      "weight": 20
+    },
+    {
+      "pokemon": "diglett",
+      "weight": 15
+    },
+    {
+      "pokemon": "drilbur",
+      "weight": 15
+    },
+    {
+      "pokemon": "aron",
+      "weight": 12
+    },
+    {
+      "pokemon": "nosepass",
+      "weight": 10
+    },
+    {
+      "pokemon": "onix",
+      "weight": 8,
+      "minGridSize": "LARGE"
+    },
+    {
+      "pokemon": "larvitar",
+      "weight": 5,
+      "minGridSize": "LARGE"
+    },
+    {
+      "pokemon": "beldum",
+      "weight": 3,
+      "minGridSize": "VERY_LARGE"
+    },
+    {
+      "pokemon": "gible",
+      "weight": 3,
+      "minGridSize": "VERY_LARGE"
+    },
+    {
+      "pokemon": "dratini",
+      "weight": 2,
+      "minGridSize": "HUGE"
+    },
+    {
+      "pokemon": "bagon",
+      "weight": 2,
+      "minGridSize": "HUGE"
+    }
+  ],
+  "worldOverrides": {
+    "minecraft:the_nether": {
+      "spawnRadius": 20,
+      "maxY": 128
+    },
+    "minecraft:the_end": {
+      "maxY": 256
+    }
+  }
+}

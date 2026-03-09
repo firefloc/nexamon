@@ -1,6 +1,7 @@
 name = "Cobblemon Extra Data"
 filename = "CobblemonExtraData-fabric-1.1.0+1.21.1.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/97Az7HCf/versions/Lv1s8Ze6/CobblemonExtraData-fabric-1.1.0%2B1.21.1.jar"

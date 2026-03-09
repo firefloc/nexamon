@@ -1,6 +1,7 @@
 name = "CobbledGacha v.3 [Cobblemon 1.7] [Fabric/NeoForge 1.21.1]"
 filename = "cobbledgacha-fabric-1.21.1-2.1.1.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/c1OpnQs3/versions/SIP7HCST/cobbledgacha-fabric-1.21.1-2.1.1.jar"

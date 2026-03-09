@@ -1,0 +1,851 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "terastalization"
+	group: "0D71855D01B1484A"
+	icon: {
+		components: {
+			"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/stellar.png"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "7CFF3563420B8C92"
+	images: [{
+		color: 3289650
+		height: 21.0d
+		image: "mega_showdown:textures/gui/summary/tera_types/stellar.png"
+		rotation: 0.0d
+		width: 21.0d
+		x: 3.0d
+		y: 3.0d
+	}]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "01B9BD934F0FD87C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0A06921354886634"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "32861FC85E79E41A"
+				item: { count: 1, id: "mega_showdown:tera_orb" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "1FAEC39AEBE3ED15"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2880418923E16674"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "5B542074CF9763C0"
+					item: {
+						count: 1
+						id: "mega_showdown:grass_tera_shard"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6850EBAE1DB8346A"
+				item: { count: 1, id: "mega_showdown:grass_tera_shard" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["01B9BD934F0FD87C"]
+			icon_scale: 0.75d
+			id: "0D4F83C70CE87C29"
+			tasks: [{
+				advancement: "mega_showdown:mega_showdown/tera/get_tera_orb"
+				criterion: ""
+				id: "261078B7549E53D9"
+				type: "advancement"
+			}]
+			x: 7.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0D4F83C70CE87C29"]
+			dependency_requirement: "one_completed"
+			id: "247178E01879A603"
+			rewards: [
+				{
+					id: "19C54E5638315331"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "1FE579D2153FFA8F"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin_pouch"
+					}
+					type: "item"
+				}
+			]
+			shape: "octagon"
+			size: 2.0d
+			tasks: [{
+				advancement: "mega_showdown:mega_showdown/tera/terastallized"
+				criterion: ""
+				id: "1DDBE40DE89AE132"
+				type: "advancement"
+			}]
+			x: 7.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "4B61EF60B5526554"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7C7066EDB0565B90"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "2387F8EE6483E958"
+					item: {
+						count: 1
+						id: "mega_showdown:bug_tera_shard"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "67C1CB6FA9213302"
+				item: { count: 1, id: "mega_showdown:bug_tera_shard" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "01B0251080F4C765"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "439EBB6DBF98A06F"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "29F558B90E6C88FA"
+					item: {
+						count: 1
+						id: "mega_showdown:dark_tera_shard"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "247E497B85500756"
+				item: { count: 1, id: "mega_showdown:dark_tera_shard" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "6E68323B58AC1CEF"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "07DC4D1FFBFA775B"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "55C144E45CD97579"
+					item: {
+						count: 1
+						id: "mega_showdown:dragon_tera_shard"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "472CC4273992A98F"
+				item: { count: 1, id: "mega_showdown:dragon_tera_shard" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "5ADFF3B45FD11618"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1F5C45F021A65306"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "76D777AEDED409FB"
+					item: {
+						count: 1
+						id: "mega_showdown:electric_tera_shard"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "564787A4D7D50B18"
+				item: { count: 1, id: "mega_showdown:electric_tera_shard" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "0548F85BD3E8AAB1"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5FB840115DDFEE72"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "77259B89D0AC0DF7"
+					item: {
+						count: 1
+						id: "mega_showdown:fairy_tera_shard"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "31D10A451FDCCE19"
+				item: { count: 1, id: "mega_showdown:fairy_tera_shard" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "72DD1356F26C51BB"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6E4C9337A2790946"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "0EFE526C3EDA4EEF"
+					item: {
+						count: 1
+						id: "mega_showdown:flying_tera_shard"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3EF04D636F9D21B9"
+				item: { count: 1, id: "mega_showdown:flying_tera_shard" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "7031EDDEB769A2D4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0D7C04A5D8F5F7A5"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "735E9E79F308793C"
+				item: { count: 1, id: "mega_showdown:ghost_tera_shard" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "6C1F62B3F4D313FB"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2619ADA523C25A0C"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "049F3505D8DAD599"
+					item: {
+						count: 1
+						id: "mega_showdown:fire_tera_shard"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "744044184B9E1A2C"
+				item: { count: 1, id: "mega_showdown:fire_tera_shard" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "3AABAE3F1725ED6A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1A485E66A7D4B893"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "00F0A051CD623B79"
+				item: { count: 1, id: "mega_showdown:fighting_tera_shard" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "32EB64ED2BE6760A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "33DE9AD6A3C8772E"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "3E95A0A640F2F4F9"
+					item: {
+						count: 1
+						id: "mega_showdown:psychic_tera_shard"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "10BA43D4F0FF4FBC"
+				item: { count: 1, id: "mega_showdown:psychic_tera_shard" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "631DE1C9C0D688EB"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "66B6FE95255DD6A5"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "60E6CDBA2C3A7B7A"
+					item: {
+						count: 1
+						id: "mega_showdown:ground_tera_shard"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "62624C6B4F637238"
+				item: { count: 1, id: "mega_showdown:ground_tera_shard" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "23C6FEC855031A99"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0427341552C79D83"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "429B2ECBEA37D04C"
+					item: {
+						count: 1
+						id: "mega_showdown:ice_tera_shard"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "70EC5C42B6FDDCDC"
+				item: { count: 1, id: "mega_showdown:ice_tera_shard" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "4794402E0455A8F5"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "530E94368F781277"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "1CCECBB6724DEE4C"
+					item: {
+						count: 1
+						id: "mega_showdown:normal_tera_shard"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "660973E24651DB88"
+				item: { count: 1, id: "mega_showdown:normal_tera_shard" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "13BBEADA7EED5527"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "573674E1C1A7CBCD"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "7A46AA43FCBF8DDC"
+					item: {
+						count: 1
+						id: "mega_showdown:poison_tera_shard"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "20F6AC1A6CFE5AB5"
+				item: { count: 1, id: "mega_showdown:poison_tera_shard" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "69B7480B652E9BB1"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4BD1568AFF9E9401"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "698BC349555D82AB"
+					item: {
+						count: 1
+						id: "mega_showdown:water_tera_shard"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7E2D455269B38DD8"
+				item: { count: 1, id: "mega_showdown:water_tera_shard" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "7011C6E2DBBA7D76"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "246BF811B80D0B7D"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "1B7C91DD6930140F"
+					item: {
+						count: 1
+						id: "mega_showdown:steel_tera_shard"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2619EDC84E44F1A6"
+				item: { count: 1, id: "mega_showdown:steel_tera_shard" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "626E9BB1B8A372FF"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2AA3E032905B22A2"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "67991AA36C6E6005"
+					item: {
+						count: 1
+						id: "mega_showdown:rock_tera_shard"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7E263732B8996847"
+				item: { count: 1, id: "mega_showdown:rock_tera_shard" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"5ADFF3B45FD11618"
+				"1FAEC39AEBE3ED15"
+				"626E9BB1B8A372FF"
+				"69B7480B652E9BB1"
+				"6C1F62B3F4D313FB"
+				"4B61EF60B5526554"
+				"631DE1C9C0D688EB"
+				"32EB64ED2BE6760A"
+				"0548F85BD3E8AAB1"
+				"13BBEADA7EED5527"
+				"6E68323B58AC1CEF"
+				"01B0251080F4C765"
+				"7031EDDEB769A2D4"
+				"23C6FEC855031A99"
+				"4794402E0455A8F5"
+				"3AABAE3F1725ED6A"
+				"72DD1356F26C51BB"
+				"7011C6E2DBBA7D76"
+			]
+			dependency_requirement: "one_completed"
+			id: "3FECD45A6A5760AC"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "56087F4176B7E79B"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					count: 5
+					id: "554059078A2B2680"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 50L
+					id: "6B60CE8B7F4658F7"
+					item: { count: 1, id: "mega_showdown:bug_tera_shard" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					count: 50L
+					id: "19662947342BD19B"
+					item: { count: 1, id: "mega_showdown:dark_tera_shard" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					count: 50L
+					id: "04B4485BB1B464D4"
+					item: { count: 1, id: "mega_showdown:dragon_tera_shard" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					count: 50L
+					id: "3ADE49120F3DA3CB"
+					item: { count: 1, id: "mega_showdown:electric_tera_shard" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					count: 50L
+					id: "5F1182B66A005BAA"
+					item: { count: 1, id: "mega_showdown:fairy_tera_shard" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					count: 50L
+					id: "0289655F587F6F8C"
+					item: { count: 1, id: "mega_showdown:fighting_tera_shard" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					count: 50L
+					id: "40789AAD34AC58BE"
+					item: { count: 1, id: "mega_showdown:fire_tera_shard" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					count: 50L
+					id: "092EE6E585FA463B"
+					item: { count: 1, id: "mega_showdown:flying_tera_shard" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					count: 50L
+					id: "116A4F9F59C8CDC8"
+					item: { count: 1, id: "mega_showdown:ghost_tera_shard" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					count: 50L
+					id: "270A056F38A90DCA"
+					item: { count: 1, id: "mega_showdown:grass_tera_shard" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					count: 50L
+					id: "4079B99C352DCAE2"
+					item: { count: 1, id: "mega_showdown:ground_tera_shard" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					count: 50L
+					id: "5845C1EB7B351B08"
+					item: { count: 1, id: "mega_showdown:ice_tera_shard" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					count: 50L
+					id: "30BB80FB459599FC"
+					item: { count: 1, id: "mega_showdown:normal_tera_shard" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					count: 50L
+					id: "1212EA142736C276"
+					item: { count: 1, id: "mega_showdown:poison_tera_shard" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					count: 50L
+					id: "4E1BC749E83AE5FE"
+					item: { count: 1, id: "mega_showdown:psychic_tera_shard" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					count: 50L
+					id: "66ADBAEE14E1A448"
+					item: { count: 1, id: "mega_showdown:rock_tera_shard" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					count: 50L
+					id: "33CA484A50D661E6"
+					item: { count: 1, id: "mega_showdown:steel_tera_shard" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					count: 50L
+					id: "5FE658972A96A893"
+					item: { count: 1, id: "mega_showdown:water_tera_shard" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3FECD45A6A5760AC"]
+			dependency_requirement: "one_completed"
+			id: "3A3EF6A3704F2057"
+			rewards: [
+				{
+					id: "53D7B1358B503DFA"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "4D576AADA5A83649"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin_pouch"
+					}
+					type: "item"
+				}
+			]
+			shape: "octagon"
+			size: 2.0d
+			tasks: [{
+				advancement: "mega_showdown:mega_showdown/tera/change_tera"
+				criterion: ""
+				id: "6B6B297B719BA0B0"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["722085FB745C80FD"]
+			id: "67CDB0E984FF17C6"
+			rewards: [
+				{
+					id: "12E83CF6C1FBA5B5"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "463AB007EE41A8AD"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin_pouch"
+					}
+					type: "item"
+				}
+			]
+			shape: "octagon"
+			size: 2.0d
+			tasks: [{
+				advancement: "mega_showdown:mega_showdown/tera/change_tera_stellar"
+				criterion: ""
+				id: "1CB37566F219C522"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["20A447AA417BA690"]
+			id: "722085FB745C80FD"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1CE21E0ADC78197F"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					count: 5
+					id: "699FE191DA0AD76B"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				count: 50L
+				id: "6A72D3404FD4D446"
+				item: { count: 1, id: "mega_showdown:stellar_tera_shard" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "20A447AA417BA690"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6BE39131C5513554"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "2BB1F52D67B1C471"
+					item: {
+						count: 1
+						id: "mega_showdown:stellar_tera_shard"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0B82892B921BEC44"
+				item: { count: 1, id: "mega_showdown:stellar_tera_shard" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.0d
+		}
+	]
+}

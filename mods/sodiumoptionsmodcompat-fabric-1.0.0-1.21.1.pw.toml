@@ -1,6 +1,7 @@
 name = "Sodium Options Mod Compat"
 filename = "sodiumoptionsmodcompat-fabric-1.0.0-1.21.1.jar"
 side = "client"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/Yg1VT27P/versions/qqv2NY4q/sodiumoptionsmodcompat-fabric-1.0.0-1.21.1.jar"

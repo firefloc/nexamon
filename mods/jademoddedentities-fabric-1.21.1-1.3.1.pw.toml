@@ -1,6 +1,7 @@
 name = "Jade Modded Entities"
 filename = "jademoddedentities-fabric-1.21.1-1.3.1.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/GAJkSU0A/versions/NfLGfYBH/jademoddedentities-fabric-1.21.1-1.3.1.jar"

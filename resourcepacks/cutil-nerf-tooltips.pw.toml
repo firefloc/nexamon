@@ -1,6 +1,7 @@
 name = "cutil-nerf-tooltips (Server Resource Pack)"
 filename = "cutil-nerf-tooltips.zip"
 side = "both"
+tier = "core"
 
 [download]
 url = "http://90.73.30.60:9457/cutil-nerf-tooltips.zip"

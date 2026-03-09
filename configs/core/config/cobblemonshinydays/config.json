@@ -1,0 +1,93 @@
+[
+  {
+    "species": [
+      "Pikachu",
+      "Bulbasaur",
+      "Charmander",
+      "Squirtle"
+    ],
+    "types": [
+      "Fire"
+    ],
+    "labels": [
+      "legendary",
+      "mythical"
+    ],
+    "days": [
+      "Saturday",
+      "Sunday"
+    ],
+    "multiplier": 5.0,
+    "broadcastInterval": 300
+  },
+  {
+    "species": [],
+    "types": [
+      "Water"
+    ],
+    "labels": [
+      "gen1"
+    ],
+    "days": [
+      "Monday"
+    ],
+    "multiplier": 2.0,
+    "broadcastInterval": 300
+  },
+  {
+    "species": [],
+    "types": [
+      "Grass"
+    ],
+    "labels": [
+      "gen2"
+    ],
+    "days": [
+      "Tuesday"
+    ],
+    "multiplier": 2.0,
+    "broadcastInterval": 300
+  },
+  {
+    "species": [],
+    "types": [
+      "Psychic"
+    ],
+    "labels": [
+      "gen3"
+    ],
+    "days": [
+      "Wednesday"
+    ],
+    "multiplier": 2.0,
+    "broadcastInterval": 300
+  },
+  {
+    "species": [],
+    "types": [
+      "Steel"
+    ],
+    "labels": [
+      "gen4"
+    ],
+    "days": [
+      "Thursday"
+    ],
+    "multiplier": 2.0,
+    "broadcastInterval": 300
+  },
+  {
+    "species": [],
+    "types": [
+      "Normal"
+    ],
+    "labels": [
+      "gen5"
+    ],
+    "days": [
+      "Friday"
+    ],
+    "multiplier": 2.0,
+    "broadcastInterval": 300
+  }
+]

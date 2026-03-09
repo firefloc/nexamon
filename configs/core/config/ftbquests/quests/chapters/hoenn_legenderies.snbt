@@ -1,0 +1,1898 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "hoenn_legenderies"
+	group: "4827DCA20016B109"
+	id: "634EE64E777B6BE0"
+	images: [
+		{
+			height: 2.0d
+			image: "cobblemon_quests:item/regirock"
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.5d
+			y: -7.0d
+		}
+		{
+			height: 2.0d
+			image: "cobblemon_quests:item/regirock-shiny"
+			rotation: 0.0d
+			width: 2.0d
+			x: 3.0d
+			y: -7.0d
+		}
+		{
+			height: 2.0d
+			image: "cobblemon_quests:item/regice"
+			rotation: 0.0d
+			width: 2.0d
+			x: -4.5d
+			y: -7.0d
+		}
+		{
+			height: 2.0d
+			image: "cobblemon_quests:item/regice-shiny"
+			rotation: 0.0d
+			width: 2.0d
+			x: -3.0d
+			y: -7.0d
+		}
+		{
+			height: 2.0d
+			image: "cobblemon_quests:item/registeel"
+			rotation: 0.0d
+			width: 2.0d
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			height: 2.0d
+			image: "cobblemon_quests:item/registeel-shiny"
+			rotation: 0.0d
+			width: 2.0d
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			height: 2.0d
+			image: "cobblemon_quests:item/kyogre"
+			rotation: 0.0d
+			width: 2.0d
+			x: 6.0d
+			y: -2.5d
+		}
+		{
+			height: 2.0d
+			image: "cobblemon_quests:item/kyogre-shiny"
+			rotation: 0.0d
+			width: 2.0d
+			x: 9.0d
+			y: -2.5d
+		}
+		{
+			height: 2.0d
+			image: "cobblemon_quests:item/groudon"
+			rotation: 0.0d
+			width: 2.0d
+			x: 16.0d
+			y: -2.0d
+		}
+		{
+			height: 2.0d
+			image: "cobblemon_quests:item/groudon-shiny"
+			rotation: 0.0d
+			width: 2.0d
+			x: 19.0d
+			y: -2.0d
+		}
+		{
+			height: 2.0d
+			image: "cobblemon_quests:item/rayquaza"
+			rotation: 0.0d
+			width: 2.0d
+			x: 11.0d
+			y: -7.0d
+		}
+		{
+			height: 2.0d
+			image: "cobblemon_quests:item/rayquaza-shiny"
+			rotation: 0.0d
+			width: 2.0d
+			x: 14.0d
+			y: -7.0d
+		}
+		{
+			height: 3.0d
+			image: "cobblemon_quests:item/jirachi"
+			rotation: 0.0d
+			width: 3.0d
+			x: 17.5d
+			y: 2.0d
+		}
+		{
+			height: 3.0d
+			image: "cobblemon_quests:item/jirachi-shiny"
+			rotation: 0.0d
+			width: 3.0d
+			x: 17.5d
+			y: 4.5d
+		}
+		{
+			height: 2.0d
+			image: "cobblemon_quests:item/deoxys-normal"
+			rotation: 0.0d
+			width: 2.0d
+			x: -3.0d
+			y: 2.0d
+		}
+		{
+			height: 2.0d
+			image: "cobblemon_quests:item/deoxys-normal-shiny"
+			rotation: 0.0d
+			width: 2.0d
+			x: -3.0d
+			y: 4.5d
+		}
+		{
+			height: 2.0d
+			image: "cobblemon_quests:item/latias"
+			rotation: 0.0d
+			width: 2.0d
+			x: 5.5d
+			y: 1.0d
+		}
+		{
+			height: 2.0d
+			image: "cobblemon_quests:item/latias-shiny"
+			rotation: 0.0d
+			width: 2.0d
+			x: 5.5d
+			y: 5.5d
+		}
+		{
+			height: 2.0d
+			image: "cobblemon_quests:item/latios"
+			rotation: 0.0d
+			width: 2.0d
+			x: 9.5d
+			y: 1.0d
+		}
+		{
+			height: 2.0d
+			image: "cobblemon_quests:item/latios-shiny"
+			rotation: 0.0d
+			width: 2.0d
+			x: 9.5d
+			y: 5.5d
+		}
+		{
+			height: 1.5d
+			image: "ftbquests:block/barrier_open"
+			rotation: 0.0d
+			width: 1.5d
+			x: 7.5d
+			y: -0.5d
+		}
+		{
+			color: 1579032
+			height: 7.0d
+			image: "sophisticatedstorage:block/barrel_side_packed"
+			rotation: 0.0d
+			width: 0.2d
+			x: 4.5d
+			y: -4.5d
+		}
+		{
+			color: 1579032
+			height: 7.0d
+			image: "sophisticatedstorage:block/barrel_side_packed"
+			rotation: 0.0d
+			width: 0.2d
+			x: 11.0d
+			y: 3.0d
+		}
+		{
+			color: 1579032
+			height: 7.0d
+			image: "sophisticatedstorage:block/barrel_side_packed"
+			rotation: 0.0d
+			width: 0.2d
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			click: "https://www.lumyverse.com/cobbleverse/how-to-catch-all-legendary-mythical-pokemon/"
+			height: 0.75d
+			hover: ["Need more details on how to Catch Legendaries? This will open the wiki page!"]
+			image: "cobblemon:textures/gui/pokedex/scan/scan_unknown.png"
+			rotation: 0.0d
+			width: 0.75d
+			x: 7.5d
+			y: -0.5d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["7824482E9ADF775B"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/pebble_relic"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "2D547F08DB303F02"
+			rewards: [
+				{
+					count: 5
+					id: "116A3B9135023186"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "260565D6609F22A4"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				advancement: "cobbleverse:pokemon/catch_regirock"
+				criterion: ""
+				id: "0C5DBBFAB356B923"
+				type: "advancement"
+			}]
+			x: 1.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["521B1FFE6E6B38F2"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/cryo_relic"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "6585AE70F0D36234"
+			rewards: [
+				{
+					count: 5
+					id: "1B6E303832EADD51"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "62850468FEF4363C"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				advancement: "cobbleverse:pokemon/catch_regice"
+				criterion: ""
+				id: "0BDF00BB6E3DA3A6"
+				type: "advancement"
+			}]
+			x: -4.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["5EF398EDD82D0094"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/metal_relic"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "74A93472D684FA8F"
+			rewards: [
+				{
+					count: 5
+					id: "5F3C65789E4D0DCF"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6FDC853567C5361A"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				advancement: "cobbleverse:pokemon/catch_registeel"
+				criterion: ""
+				id: "6697BF0927014696"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: -3.75d
+		}
+		{
+			dependencies: ["7824482E9ADF775B"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:block/rock_ore"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 0.8d
+			id: "70F4748FDC3B9C61"
+			rewards: [
+				{
+					count: 8
+					id: "2DE9CD444FDCF8E2"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "174ABF7065139B08"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				advancement: "cobbleverse:pokemon/catch_regirock_shiny"
+				criterion: ""
+				id: "2579403968FE2259"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["521B1FFE6E6B38F2"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:block/ice_ore"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 0.8d
+			id: "05CD90796AD241A0"
+			rewards: [
+				{
+					count: 8
+					id: "32E11B7491C5BF8D"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2BA48CE957B8CA7F"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				advancement: "cobbleverse:pokemon/catch_regice_shiny"
+				criterion: ""
+				id: "4964C857680AC136"
+				type: "advancement"
+			}]
+			x: -3.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["5EF398EDD82D0094"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:block/steel_ore"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 0.8d
+			id: "19B1F4543974F94D"
+			rewards: [
+				{
+					count: 8
+					id: "2AC01CB907D54D92"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3D134993B8166592"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				advancement: "cobbleverse:pokemon/catch_registeel_shiny"
+				criterion: ""
+				id: "2BB1B3C02BFC7AC3"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: -3.75d
+		}
+		{
+			dependencies: ["3D18C1AE2B0B18DF"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/ocean_core"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "04835FCA0F96EFAF"
+			rewards: [
+				{
+					count: 5
+					id: "3E78A4F68E9D8137"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "571AEC114603984A"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				advancement: "cobbleverse:pokemon/catch_kyogre"
+				criterion: ""
+				id: "46E2527C838D8212"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: -3.75d
+		}
+		{
+			dependencies: ["42F08207FC9BA20F"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/earth_core"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "31ACB00AA6935B90"
+			rewards: [
+				{
+					count: 5
+					id: "3681053CD2951EB3"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6C3B89DBD06378CB"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				advancement: "cobbleverse:pokemon/catch_groudon"
+				criterion: ""
+				id: "1FDD9D6268762A9A"
+				type: "advancement"
+			}]
+			x: 16.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["3D18C1AE2B0B18DF"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/primordial_gem"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "0DE4DBAB33452111"
+			rewards: [
+				{
+					count: 8
+					id: "13FA334A6BE61F05"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1544D7E342B17A2A"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				advancement: "cobbleverse:pokemon/catch_kyogre_shiny"
+				criterion: ""
+				id: "51C9A0EA923E0FE7"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: -3.75d
+		}
+		{
+			dependencies: ["42F08207FC9BA20F"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/desolate_gem"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "4A545C169A6AC333"
+			rewards: [
+				{
+					count: 8
+					id: "48D8D37FB135312E"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7C0592DBFB4A0C4A"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				advancement: "cobbleverse:pokemon/catch_groudon_shiny"
+				criterion: ""
+				id: "070439D099688C01"
+				type: "advancement"
+			}]
+			x: 19.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["1BE056394BC0A556"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/emerald_emblem"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "00D105BB8339C3B9"
+			rewards: [
+				{
+					count: 5
+					id: "53487F2AE2702EA0"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4BA7797274E0ED27"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				advancement: "cobbleverse:pokemon/catch_rayquaza_mega"
+				criterion: ""
+				id: "3E757F6F5BEAA89D"
+				type: "advancement"
+			}]
+			x: 11.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["5B706A3D5F4078A9"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/meteorite_crystal"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5C5D6D9F056AC58C"
+			rewards: [
+				{
+					count: 5
+					id: "5C7076CF8F647C77"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "73D9BD44E52EF791"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				advancement: "cobbleverse:pokemon/catch_deoxys"
+				criterion: ""
+				id: "0750F7D8550F7706"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["5B706A3D5F4078A9"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:block/deoxys_meteorite"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 0.9d
+			id: "145986C6F62725EF"
+			rewards: [
+				{
+					count: 8
+					id: "0CFCE960ABD370D9"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "269D7CCB7B286AF9"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				advancement: "cobbleverse:pokemon/catch_deoxys_shiny"
+				criterion: ""
+				id: "241071B400D27ACA"
+				type: "advancement"
+			}]
+			x: -1.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0EEAB8742DFC89A7"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/ruby_dew"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "6CFF41376AB37C01"
+			rewards: [
+				{
+					count: 5
+					id: "4C06539EA0D47048"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5D3D563B4076A82A"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				advancement: "cobbleverse:pokemon/catch_latias"
+				criterion: ""
+				id: "563AE020B3F96CDC"
+				type: "advancement"
+			}]
+			x: 5.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["0EEAB8742DFC89A7"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:item/soul_dew"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "48B2DFD9162C3F5C"
+			rewards: [
+				{
+					count: 8
+					id: "4E9CD38F03C416B9"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "3E3B510FA7F5F64B"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				advancement: "cobbleverse:pokemon/catch_latias_shiny"
+				criterion: ""
+				id: "0F76AD4135E570D4"
+				type: "advancement"
+			}]
+			x: 5.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["32FB5CC9A6106BF0"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/melodic_tape_vol_1"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5D25CBBF0FC05003"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "51C1890CD7E2342F"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "7ED0FAC442C725ED"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5C7971BDC1471C4B"
+				item: { count: 1, id: "lumymon:melodic_tape_vol_1" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: 3.25d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:textures/map/decorations/jirachi.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 0.9d
+			id: "32FB5CC9A6106BF0"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5A80D8BCEA3D6DD1"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					count: 3
+					id: "46532E9198E0A9E9"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				icon: {
+					id: "minecraft:filled_map"
+				}
+				id: "5BE6A2BB3AD27937"
+				structure: "cobbleverse:mythical/jirachi"
+				type: "structure"
+			}]
+			x: 12.5d
+			y: 3.25d
+		}
+		{
+			dependencies: ["5D25CBBF0FC05003"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/melodic_tape_vol_1"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5ACBF606DD9F152F"
+			rewards: [
+				{
+					count: 8
+					id: "01F8B7D0E7A14F6C"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "34B782986443B8D3"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				advancement: "cobbleverse:pokemon/catch_jirachi_shiny"
+				criterion: ""
+				id: "7233E8BFC00FD090"
+				type: "advancement"
+			}]
+			x: 15.75d
+			y: 4.0d
+		}
+		{
+			dependencies: ["5D25CBBF0FC05003"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/melodic_tape_vol_1"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "3D7A81D94BF8F839"
+			rewards: [
+				{
+					count: 5
+					id: "4C7E2B4DE7B28AB3"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5B2CBD451C1FB24E"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				advancement: "cobbleverse:pokemon/catch_jirachi"
+				criterion: ""
+				id: "0B62A23C69FAB0CB"
+				type: "advancement"
+			}]
+			x: 15.75d
+			y: 2.5d
+		}
+		{
+			dependencies: ["0EEAB8742DFC89A7"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/sapphire_dew"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "0FAF5C154E4CC224"
+			rewards: [{
+				count: 5
+				id: "68307427997711CB"
+				item: {
+					count: 1
+					id: "cobblemon:rare_candy"
+				}
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				advancement: "cobbleverse:pokemon/catch_latios"
+				criterion: ""
+				id: "6F57F18E41B9084A"
+				type: "advancement"
+			}]
+			x: 9.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["0EEAB8742DFC89A7"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:item/soul_dew"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "560AC5F538588BE3"
+			rewards: [
+				{
+					count: 8
+					id: "0C9E080A3982E531"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0060A405D1FC64CA"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				advancement: "cobbleverse:pokemon/catch_latios_shiny"
+				criterion: ""
+				id: "5836F7B2F2B77A6A"
+				type: "advancement"
+			}]
+			x: 9.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:textures/map/decorations/deoxys.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 0.9d
+			id: "133805E6A31D3E4D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6A72CE957F492B7A"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					count: 3
+					id: "289CFDB4DD110D09"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				icon: {
+					id: "minecraft:filled_map"
+				}
+				id: "102C79252A07757D"
+				structure: "cobbleverse:mythical/deoxys"
+				type: "structure"
+			}]
+			x: 1.5d
+			y: 3.25d
+		}
+		{
+			dependencies: [
+				"1BE056394BC0A556"
+				"3ED45E727496B99E"
+			]
+			dependency_requirement: "one_completed"
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/sky_core"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "3FC42A252443B85B"
+			rewards: [
+				{
+					count: 8
+					id: "7BB1CEA87A5729EC"
+					item: {
+						count: 1
+						id: "cobblemon:rare_candy"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "78976C84F6883D93"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				action: "catch"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "611045E2B57FD7CE"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:rayquaza"
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 14.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/cryo_relic"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "1AED63D262B3D056"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "693107E50FF7B4F7"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "67BF160F17B8FE72"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				id: "3A699DB7146602DF"
+				item: { count: 1, id: "lumymon:cryo_relic" }
+				type: "item"
+			}]
+			x: -3.75d
+			y: -2.25d
+		}
+		{
+			dependencies: ["1AED63D262B3D056"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:textures/map/decorations/regice.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 0.9d
+			id: "521B1FFE6E6B38F2"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "43DA9282C2A8608F"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					count: 3
+					id: "240F4AD89E9FAE4C"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				id: "51EF6E7742F1183F"
+				structure: "cobbleverse:legendary/regice"
+				type: "structure"
+			}]
+			x: -3.75d
+			y: -3.75d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/pebble_relic"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "470121EB4578767A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "19968330293A3906"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "6B1433089312A3C6"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				id: "646199E66CA1DD04"
+				item: { count: 1, id: "lumymon:pebble_relic" }
+				type: "item"
+			}]
+			x: 2.25d
+			y: -2.25d
+		}
+		{
+			dependencies: ["470121EB4578767A"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:textures/map/decorations/regirock.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 0.9d
+			id: "7824482E9ADF775B"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "32705107B7D7FEAD"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					count: 3
+					id: "0D66466F82398901"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				id: "0BCD17CD99898270"
+				structure: "cobbleverse:legendary/regirock"
+				type: "structure"
+			}]
+			x: 2.25d
+			y: -3.75d
+		}
+		{
+			dependencies: ["6165FBAE1DB401CE"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:textures/map/decorations/registeel.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 0.9d
+			id: "5EF398EDD82D0094"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1D758096D239CC54"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					count: 3
+					id: "1EEB139A1538B6E6"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				id: "4EF192D432754CE4"
+				structure: "cobbleverse:legendary/registeel"
+				type: "structure"
+			}]
+			x: -0.75d
+			y: -5.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/metal_relic"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "6165FBAE1DB401CE"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2E1F48A979568877"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "7CC844126E8D422C"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				id: "1F702735941AF5CE"
+				item: { count: 1, id: "lumymon:metal_relic" }
+				type: "item"
+			}]
+			x: -0.75d
+			y: -7.0d
+		}
+		{
+			dependencies: [
+				"02FD55D3061FB0DE"
+				"4D7D49B848BC8A1D"
+			]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:textures/map/decorations/kyogre.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 0.9d
+			id: "3D18C1AE2B0B18DF"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "20535174A3BFCD82"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					count: 3
+					id: "3EDD89909365376D"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				id: "13F2CAC4CF4DB74E"
+				structure: "cobbleverse:legendary/kyogre"
+				type: "structure"
+			}]
+			x: 7.5d
+			y: -5.25d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/ocean_core"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "4D7D49B848BC8A1D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3DDECA9EF134CEC7"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "201D62D0D9890099"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				id: "4FB1EF9FEDEA7192"
+				item: { count: 1, id: "lumymon:ocean_core" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["3D18C1AE2B0B18DF"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:item/blue_orb"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "6252D1C2144154E0"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1B40EB005CDF496D"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "78AA6628A16E1C26"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0E37CE67A5F5E46E"
+				item: { count: 1, id: "mega_showdown:blue_orb" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:textures/map/decorations/groudon.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 0.9d
+			id: "0398DE49A8C41B14"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6DCC30925305ACE6"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					count: 3
+					id: "31C9D963DE6ED17D"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "062BBBD40D12E386"
+				structure: "cobbleverse:legendary/groudon"
+				type: "structure"
+			}]
+			x: 17.5d
+			y: -5.25d
+		}
+		{
+			dependencies: ["0398DE49A8C41B14"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:item/red_orb"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "372FB6769B427C4F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5AC7076F3BAE9B99"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "502C9A83D9487461"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4E2F09684741B4A4"
+				item: { count: 1, id: "mega_showdown:red_orb" }
+				type: "item"
+			}]
+			x: 17.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["0398DE49A8C41B14"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/earth_core"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "42F08207FC9BA20F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2D11F85DFFB1860D"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "5FF5449854851850"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "549F08446A5C8ACA"
+				item: { count: 1, id: "lumymon:earth_core" }
+				type: "item"
+			}]
+			x: 17.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon_quests:item/rayquaza"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 0.9d
+			id: "65939782BBD8D866"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0558EF53F2DDCB00"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					count: 3
+					id: "4964F166CC5E4B41"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			size: 1.5d
+			tasks: [{
+				id: "35256047723A2191"
+				structure: "cobbleverse:sky_pillar"
+				type: "structure"
+			}]
+			x: 12.5d
+			y: -2.25d
+		}
+		{
+			dependencies: ["65939782BBD8D866"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/primordial_gem"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "36A0DF7E5E26BF36"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "16D80EB7BF8E50B8"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "412F6BDA87D5AF49"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "49463B6BABD8FAC9"
+				item: { count: 1, id: "lumymon:primordial_gem" }
+				type: "item"
+			}]
+			x: 11.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["65939782BBD8D866"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/desolate_gem"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "370185762ECC6693"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "496A1083D57D8DDA"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "4ECD6AD6EB9E60A2"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6E1F943D97DD67EA"
+				item: { count: 1, id: "lumymon:desolate_gem" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["65939782BBD8D866"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/aether_gem"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "277EA1CF5BC5C012"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5FC503FCABF40E9E"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "567E7C8AF8608527"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0B6E30B9D239AF90"
+				item: { count: 1, id: "lumymon:aether_gem" }
+				type: "item"
+			}]
+			x: 13.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["65939782BBD8D866"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/emerald_emblem"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "079C0EAB9972CC43"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "579BD30A4FAE58CF"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "002EE44D7F57D073"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7076DFDB1F29559E"
+				item: { count: 1, id: "lumymon:emerald_emblem" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"277EA1CF5BC5C012"
+				"079C0EAB9972CC43"
+				"370185762ECC6693"
+				"36A0DF7E5E26BF36"
+			]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/sky_core"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "1BE056394BC0A556"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "27B7F4BB7409E0C9"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "7735BF18382A64B4"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0D75DADF8FC7343A"
+				item: { count: 1, id: "lumymon:sky_core" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			icon: {
+				components: {
+					"ftbquests:icon": "minecraft:block/end_stone"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 0.9d
+			id: "3ED45E727496B99E"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "18A4AEB9368454EF"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "0DD235DDBB199E09"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			size: 1.0d
+			tasks: [{
+				advancement: "minecraft:story/enter_the_end"
+				criterion: ""
+				id: "05CCE63163AED56D"
+				type: "advancement"
+			}]
+			x: 15.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["133805E6A31D3E4D"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/meteorite_crystal"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5B706A3D5F4078A9"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0E49612481C77583"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "49E1E8C790FA444D"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "43CC4BFACD3E4CCE"
+				item: { count: 1, id: "lumymon:meteorite_crystal" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.25d
+		}
+		{
+			dependencies: ["133805E6A31D3E4D"]
+			icon: {
+				id: "mega_showdown:deoxys_meteorite"
+			}
+			icon_scale: 0.9d
+			id: "657A8C119E2CF089"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1F9EF8AD514CCF23"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "79564667B6DD6843"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2CB27CB0B27EE3AA"
+				item: { count: 1, id: "mega_showdown:deoxys_meteorite" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.25d
+		}
+		{
+			dependencies: ["57A9EC6A63B26566"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/sapphire_dew"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "7D287680D90D613C"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2EC8FBA4284274EC"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "71B9BDDF215F7C38"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				id: "47CFB0179BB8A4BE"
+				item: { count: 1, id: "lumymon:sapphire_dew" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["57A9EC6A63B26566"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:item/ruby_dew"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5B959C31FB5D0983"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7C6BCFD8E07E6EFF"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					id: "3E4AB22B457FE0EA"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				id: "4A61F72AB4C78D2D"
+				item: { count: 1, id: "lumymon:ruby_dew" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 1.5d
+		}
+		{
+			dependencies: [
+				"7D287680D90D613C"
+				"5B959C31FB5D0983"
+			]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:textures/map/decorations/latias_latios.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "0EEAB8742DFC89A7"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "07D5D0DC442919D5"
+					table_id: 2493341832966408448L
+					type: "loot"
+				}
+				{
+					count: 3
+					id: "77EB978F42B49BAE"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			size: 1.5d
+			tasks: [{
+				id: "321891DA5128DFD0"
+				structure: "cobbleverse:secret_garden"
+				type: "structure"
+			}]
+			x: 7.5d
+			y: 3.25d
+		}
+	]
+}

@@ -1,6 +1,7 @@
 name = "Platform"
 filename = "Platform-fabric-1.21.1-1.2.11.5.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/i6fiqm5y/versions/gV5SV031/Platform-fabric-1.21.1-1.2.11.5.jar"

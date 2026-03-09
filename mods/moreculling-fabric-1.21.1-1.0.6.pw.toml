@@ -1,6 +1,7 @@
 name = "More Culling"
 filename = "moreculling-fabric-1.21.1-1.0.6.jar"
 side = "client"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/51shyZVL/versions/1V6UtDhN/moreculling-fabric-1.21.1-1.0.6.jar"

@@ -1,0 +1,423 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	default_quest_size: 2.0d
+	filename: "hoenn_badges"
+	group: "272513F47AC86E00"
+	icon: {
+		components: {
+			"ftbquests:icon": "lumymon:block/hoenn_cartography_table_front"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "3BEABD607533CFCF"
+	images: [
+		{
+			height: 5.0d
+			image: "cobbleversebadges:item/hoenn_badge_box"
+			rotation: 0.0d
+			width: 5.0d
+			x: -6.0d
+			y: 0.5d
+		}
+		{
+			height: 2.5d
+			image: "cobblemon_quests:item/roxanne-gen6"
+			rotation: 0.0d
+			width: 2.5d
+			x: -2.0d
+			y: -3.0d
+		}
+		{
+			height: 2.5d
+			image: "cobblemon_quests:item/brawly-gen6"
+			rotation: 0.0d
+			width: 2.5d
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			height: 3.0d
+			image: "cobblemon_quests:item/wattson-gen3"
+			rotation: 0.0d
+			width: 3.0d
+			x: 4.0d
+			y: -3.0d
+		}
+		{
+			height: 2.5d
+			image: "cobblemon_quests:item/flannery-gen6"
+			rotation: 0.0d
+			width: 2.5d
+			x: 7.0d
+			y: -3.0d
+		}
+		{
+			height: 2.5d
+			image: "cobblemon_quests:item/norman-gen6"
+			rotation: 0.0d
+			width: 2.5d
+			x: -2.0d
+			y: 4.0d
+		}
+		{
+			height: 2.5d
+			image: "cobblemon_quests:item/winona"
+			rotation: 0.0d
+			width: 2.5d
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			height: 2.5d
+			image: "cobblemon_quests:item/tateandliza-gen6"
+			rotation: 0.0d
+			width: 2.5d
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			height: 2.5d
+			image: "cobblemon_quests:item/juan"
+			rotation: 0.0d
+			width: 2.5d
+			x: 7.0d
+			y: 4.0d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["430BED5C1DBABF11"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:block/hoenn_cartography_table_front"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 0.9d
+			id: "0EF2E98AE8867002"
+			shape: "rsquare"
+			tasks: [{
+				id: "0EB4C0A8074FE058"
+				structure: "cobbleverse:petra"
+				type: "structure"
+			}]
+			x: -6.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["0EF2E98AE8867002"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobbleversebadges:item/hoenn_stone_badge"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "15D6F07686F779D9"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3E33286BA29E82C6"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1B0DE5F880998347"
+					table_id: 6815066128165839759L
+					type: "random"
+				}
+				{
+					id: "074B9EA181AFAC2E"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "18650312941FE687"
+				item: { count: 1, id: "cobbleversebadges:hoenn_stone_badge" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["15D6F07686F779D9"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobbleversebadges:item/hoenn_knuckle_badge"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "33EEC20142FBF5E8"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "12BF923911C7EB71"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5611FF427C680F11"
+					table_id: 6815066128165839759L
+					type: "random"
+				}
+				{
+					id: "0599779DD827EAF8"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3CA38CE580E6E042"
+				item: { count: 1, id: "cobbleversebadges:hoenn_knuckle_badge" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["33EEC20142FBF5E8"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobbleversebadges:item/hoenn_dynamo_badge"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "371AC9855026DC52"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "046AC11C941D414D"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "26866313FBC3B260"
+					table_id: 6815066128165839759L
+					type: "random"
+				}
+				{
+					id: "4B4789AD79D04557"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "17090C82D127013B"
+				item: { count: 1, id: "cobbleversebadges:hoenn_dynamo_badge" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["371AC9855026DC52"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobbleversebadges:item/hoenn_heat_badge"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "590FE492158D2A37"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "16C4A0CA728A5671"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7BD8796E810D4045"
+					table_id: 6815066128165839759L
+					type: "random"
+				}
+				{
+					id: "4CEF5C1EEDF00672"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "26B6390D83B03F5B"
+				item: { count: 1, id: "cobbleversebadges:hoenn_heat_badge" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["590FE492158D2A37"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobbleversebadges:item/hoenn_balance_badge"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "52E771715C3A8FA4"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7EB052BCECAB161F"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "08C296F04E24EF8C"
+					table_id: 6815066128165839759L
+					type: "random"
+				}
+				{
+					id: "34617A8CE3D0DA79"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "45A172029B7AF2EE"
+				item: { count: 1, id: "cobbleversebadges:hoenn_balance_badge" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["52E771715C3A8FA4"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobbleversebadges:item/hoenn_feather_badge"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "0112832716E8727F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "60EBD2E782EDD60C"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "116F5B09EE69337D"
+					table_id: 6815066128165839759L
+					type: "random"
+				}
+				{
+					id: "06A01E77E326A73C"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1A3215FAB3DE9467"
+				item: { count: 1, id: "cobbleversebadges:hoenn_feather_badge" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0112832716E8727F"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobbleversebadges:item/hoenn_mind_badge"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "2DE259C0F3243EB7"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0A523BC8EEC0DC76"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6B906C7A0E4E5EB6"
+					table_id: 6815066128165839759L
+					type: "random"
+				}
+				{
+					id: "7CA333903DBDAC24"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "12217FF1BD2EF0B0"
+				item: { count: 1, id: "cobbleversebadges:hoenn_mind_badge" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2DE259C0F3243EB7"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobbleversebadges:item/hoenn_rain_badge"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "3638994A7F17AFED"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "499241936D3E9D30"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "685042B1B8AE8161"
+					table_id: 5510279823512477608L
+					type: "random"
+				}
+				{
+					id: "032B589E3DA92C2D"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "38561D056E932EBD"
+				item: { count: 1, id: "cobbleversebadges:hoenn_rain_badge" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 2.0d
+		}
+	]
+}

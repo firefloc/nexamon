@@ -1,6 +1,7 @@
 name = "Moonlight Lib"
 filename = "moonlight-1.21-2.29.16-fabric.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/twkfQtEc/versions/SyIbV8py/moonlight-1.21-2.29.16-fabric.jar"

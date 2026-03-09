@@ -1,6 +1,7 @@
 name = "Trinkets"
 filename = "trinkets-3.10.0.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/5aaWibi9/versions/JagCscwi/trinkets-3.10.0.jar"

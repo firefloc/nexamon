@@ -1,6 +1,7 @@
 name = "Cobblemon Catch Rate Display"
 filename = "catchrate-display-fabric-2.5.9.jar"
 side = "client"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/vADO40xp/versions/jxPrqDr0/catchrate-display-fabric-2.5.9.jar"

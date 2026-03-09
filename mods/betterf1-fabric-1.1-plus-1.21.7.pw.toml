@@ -1,6 +1,7 @@
 name = "Better F1 Reborn"
 filename = "BetterF1-Fabric-1.1+1.21.7.jar"
 side = "client"
+tier = "base"
 
 [download]
 url = "https://cdn.modrinth.com/data/2JIeCmxb/versions/S81P3LsG/BetterF1-Fabric-1.1%2B1.21.7.jar"

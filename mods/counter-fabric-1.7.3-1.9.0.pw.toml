@@ -1,6 +1,7 @@
 name = "Cobblemon Counter"
 filename = "counter-fabric-1.7.3-1.9.0.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/rj8uLYP4/versions/eEfCCFXB/counter-fabric-1.7.3-1.9.0.jar"

@@ -1,6 +1,7 @@
 name = "Keybind Fix Updated"
 filename = "keybind_fix-1.0.2.jar"
 side = "client"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/U1hgptta/versions/jDPZLqkE/keybind_fix-1.0.2.jar"

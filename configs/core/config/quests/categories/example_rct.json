@@ -1,0 +1,26 @@
+{
+  "id": "example_rct",
+  "title": "Example: RCT",
+  "order": 1010,
+  "quests": [
+    {
+      "id": "defeat_total_25",
+      "label": "Defeat 25 trainers (total)",
+      "type": "RCT_DEFEAT_COUNT_TOTAL",
+      "target": 25
+    },
+    {
+      "id": "defeat_distinct_10",
+      "label": "Defeat 10 distinct trainers",
+      "type": "RCT_DEFEAT_COUNT_DISTINCT",
+      "target": 10
+    },
+    {
+      "id": "series_completed_5",
+      "label": "Complete 5 trainers in a series (set seriesId)",
+      "type": "RCT_SERIES_COMPLETED",
+      "params": { "seriesId": "CHANGE_ME" },
+      "target": 5
+    }
+  ]
+}

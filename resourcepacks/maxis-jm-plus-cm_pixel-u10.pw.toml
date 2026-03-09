@@ -1,6 +1,7 @@
 name = "Maxi's JourneyMap Cobblemon Minimap Icons"
 filename = "Maxi's-JM+CM_Pixel-U10.zip"
 side = "client"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/ENCwFpBk/versions/9Nlaz9wg/Maxi%27s-JM%2BCM_Pixel-U10.zip"

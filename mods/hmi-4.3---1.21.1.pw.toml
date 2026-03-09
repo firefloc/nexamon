@@ -1,6 +1,7 @@
 name = "Hold My Items"
 filename = "HMI 4.3 - 1.21.(1).jar"
 side = "client"
+tier = "base"
 
 [download]
 url = "https://cdn.modrinth.com/data/AP8rDDLS/versions/QvoJWaYG/HMI%204.3%20-%201.21.%281%29.jar"

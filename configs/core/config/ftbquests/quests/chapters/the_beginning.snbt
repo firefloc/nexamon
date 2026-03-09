@@ -1,0 +1,684 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	default_quest_size: 1.5d
+	filename: "the_beginning"
+	group: ""
+	icon: {
+		components: {
+			"ftbquests:icon": "cobblemon:item/advancements/cobblemon_logo"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "211FCB576565CD4B"
+	images: [
+		{
+			height: 1.5d
+			image: "ftbquests:block/barrier_open"
+			rotation: 0.0d
+			width: 1.5d
+			x: -7.5d
+			y: -4.0d
+		}
+		{
+			click: "https://wiki.cobblemon.com/index.php/Seasoning#Bait_Seasoning"
+			height: 0.75d
+			hover: ["Need more details on Bait Seasonings? This will open the wiki page!"]
+			image: "cobblemon:textures/gui/pokedex/scan/scan_unknown.png"
+			rotation: 0.0d
+			width: 0.75d
+			x: -7.5d
+			y: -4.0d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			hide_dependent_lines: true
+			icon: {
+				components: {
+					"ftbquests:icon": "musicnotification:textures/gui/sprites/toast/pokeball.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "34ED97CB94A2C48E"
+			rewards: [
+				{
+					count: 5
+					id: "2D3E9704D66BD09F"
+					item: {
+						count: 1
+						id: "cobblemon:poke_ball"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "75D159DFD03A7D1B"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "cobblemon:root"
+				criterion: ""
+				id: "504F8939C3F3CFED"
+				type: "advancement"
+			}]
+			x: -0.75d
+			y: -12.75d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:item/advancements/cobblemon_logo"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "02FD55D3061FB0DE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "602E3BCAB85E9FC4"
+				table_id: 681449732979632853L
+				type: "choice"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "3920985533B3B53A"
+				type: "checkmark"
+			}]
+			x: -0.75d
+			y: -15.75d
+		}
+		{
+			dependencies: ["34ED97CB94A2C48E"]
+			id: "372E0C9F6FA9F616"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2A8059B2BDD62FB7"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "40653AB8A17C23D9"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6670F5BD94CE9D9D"
+				item: { count: 1, id: "cobblemon:pc" }
+				type: "item"
+			}]
+			x: 5.25d
+			y: -9.75d
+		}
+		{
+			dependencies: ["34ED97CB94A2C48E"]
+			id: "5CE9A579D4BB2E14"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "51B24BD46EFA9987"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "562D00D72A53B2D7"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "520D09BA8E33AB6F"
+				item: { count: 1, id: "cobblemon:healing_machine" }
+				type: "item"
+			}]
+			x: 6.75d
+			y: -9.75d
+		}
+		{
+			dependencies: ["34ED97CB94A2C48E"]
+			id: "7F44752FAEDC9581"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3B904D9FA562C315"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "60B7D9899325BE81"
+				item: { count: 1, id: "cobblemon:display_case" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -8.25d
+		}
+		{
+			dependencies: ["34ED97CB94A2C48E"]
+			id: "6B5A90DA2AA73DEF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4BF71BEDB58B9315"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4BE81FFDE8D528DB"
+				item: { count: 1, id: "cobblemon:pasture" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -8.25d
+		}
+		{
+			dependencies: ["34ED97CB94A2C48E"]
+			id: "7530755917865FBD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "12A7CBD49039A254"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0C24A63D3803CA77"
+				item: { count: 1, id: "mega_showdown:pedestal" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -8.25d
+		}
+		{
+			dependencies: [
+				"56BA323EBC322347"
+				"30EC943C398AD3D4"
+			]
+			dependency_requirement: "one_completed"
+			id: "1C14120A3C29F973"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0DE78B927A4FB43E"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "180EFB0BE78BFF20"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "629BD96695E842F1"
+					table_id: 245751995458954783L
+					type: "choice"
+				}
+			]
+			tasks: [{
+				id: "5BC51BC4D5A944D4"
+				item: { count: 1, id: "cobblenav:pokenav_item_base" }
+				type: "item"
+			}]
+			x: -0.75d
+			y: -7.5d
+		}
+		{
+			dependencies: ["34ED97CB94A2C48E"]
+			id: "6C9D318BBBFB71CC"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1E4D03C9267FAE93"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "074A6E511CF90456"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "18DA5956C054851D"
+					table_id: 5172881324416982369L
+					type: "choice"
+				}
+			]
+			tasks: [
+				{
+					id: "0297EA6FA68F2743"
+					item: { count: 1, id: "cobblenav:pokefinder_item_red" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "3AC78BD6D0D8AA2F"
+					item: { count: 1, id: "cobblenav:pokefinder_item_pink" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "6D93B88D93484E38"
+					item: { count: 1, id: "cobblenav:pokefinder_item_green" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "3BFFA617DF8FE6ED"
+					item: { count: 1, id: "cobblenav:pokefinder_item_white" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "697B8B492EF341C4"
+					item: { count: 1, id: "cobblenav:pokefinder_item_black" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "6E1B35A491DD3448"
+					item: { count: 1, id: "cobblenav:pokefinder_item_blue" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "2A6106B08DB9FA53"
+					item: { count: 1, id: "cobblenav:pokefinder_item_yellow" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: -9.75d
+		}
+		{
+			dependencies: ["34ED97CB94A2C48E"]
+			id: "4F8B993E55749CC1"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5D1B33B069591A8C"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "3C4B5350E42B242A"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				action: "catch"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "67FB424D3A8B9149"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -6.0d
+			y: -9.75d
+		}
+		{
+			dependencies: ["34ED97CB94A2C48E"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/gui/summary/icon_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "709D857B1D2AD7C1"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6BD5B29851A22AC0"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					count: 5
+					id: "6BF5DA609F69FE24"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				action: "catch"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "7675D102177EDE26"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -7.5d
+			y: -9.75d
+		}
+		{
+			dependencies: ["1C14120A3C29F973"]
+			id: "30968294F1D8DC44"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "72FD151F06C327CA"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					count: 2
+					id: "0F179CD85484091F"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5B34730BE018D057"
+				item: { count: 1, id: "cobblenav:pokenav_item_gholdengo" }
+				type: "item"
+			}]
+			x: -0.75d
+			y: -5.25d
+		}
+		{
+			dependencies: ["34ED97CB94A2C48E"]
+			id: "59DB38DEE5C2338D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0AFB2E8348538905"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					count: 2
+					id: "3A6002716C436656"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0511FD5B3D7B54A9"
+				item: { count: 1, id: "cobblenav:pokenav_item_wanderer" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["34ED97CB94A2C48E"]
+			id: "56BA323EBC322347"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "474FB7C857D8E1C4"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					count: 2
+					id: "65202899AB12553E"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5A149E8C4F964BC5"
+				item: { count: 1, id: "cobblenav:pokenav_item_old" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -9.75d
+		}
+		{
+			dependencies: ["34ED97CB94A2C48E"]
+			id: "06225330AE907264"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "456565D0D5F375EF"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "1B55F12BD3614FAC"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3B853DB8F3ECAFD6"
+				item: { count: 1, id: "cobblenav:fishingnav_item" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -9.75d
+		}
+		{
+			dependencies: ["34ED97CB94A2C48E"]
+			id: "30EC943C398AD3D4"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "69FDFDE61CD11546"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "34A99B6A6377064C"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					count: 4L
+					id: "0CBC23A1CB98782D"
+					item: { count: 1, id: "minecraft:copper_ingot" }
+					type: "item"
+				}
+				{
+					id: "62759B974EFE80AF"
+					item: { count: 1, id: "minecraft:iron_ingot" }
+					type: "item"
+				}
+				{
+					id: "25E7D67A5CE99583"
+					item: { count: 1, id: "minecraft:redstone" }
+					type: "item"
+				}
+				{
+					id: "04684974ADAFFAB1"
+					item: { count: 1, id: "minecraft:diamond" }
+					type: "item"
+				}
+				{
+					id: "6F640756FEAFF91B"
+					item: { count: 1, id: "cobblemon:electirizer" }
+					type: "item"
+				}
+				{
+					id: "30B5564661EAC5F4"
+					item: { count: 1, id: "cobblemon:upgrade" }
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: -9.75d
+		}
+		{
+			dependencies: ["34ED97CB94A2C48E"]
+			id: "1A37CB653D69484B"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "524875E8D22EC523"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "26029DD8F50D644C"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "cobblemon:ride_pokemon"
+				criterion: ""
+				id: "123D85CE25C9BB6C"
+				type: "advancement"
+			}]
+			x: -9.0d
+			y: -9.75d
+		}
+		{
+			dependencies: ["34ED97CB94A2C48E"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/gui/pokedex/caught_icon.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "764E9FD93FFE1C1A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1FA588045C645B29"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					count: 6
+					id: "5A96EA34ABEA5054"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				advancement: "cobblemon:full_party"
+				criterion: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "cobblemon:textures/gui/pokedex/caught_icon.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "7257780126BFD681"
+				type: "advancement"
+			}]
+			x: -7.5d
+			y: -7.5d
+		}
+		{
+			dependencies: [
+				"34ED97CB94A2C48E"
+				"503020CFA1A31E9E"
+			]
+			id: "6434E069D0AAD322"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4D47EAFDADDE004A"
+				table_id: 2493341832966408448L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "08822983D1213F18"
+				item: { count: 1, id: "cobblemon:poke_snack" }
+				type: "item"
+			}]
+			x: -7.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["1A37CB653D69484B"]
+			id: "765D5611DA57D109"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2150F1028CE0AD58"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "620EFD6F92525D2F"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "cobblemon:max_ride_stats"
+				criterion: ""
+				id: "00229778B7EA02A7"
+				type: "advancement"
+			}]
+			x: -10.5d
+			y: -8.5d
+		}
+	]
+}

@@ -1,6 +1,7 @@
 name = "cobblemon-journey-mounts-1.7.3-cobbleverse.jar"
 filename = "cobblemon-journey-mounts-1.7.3-cobbleverse.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://github.com/firefloc/nexamon/releases/download/v1.0.0-custom/cobblemon-journey-mounts-1.7.3-cobbleverse.jar"

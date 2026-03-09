@@ -1,6 +1,7 @@
 name = "Rechiseled"
 filename = "rechiseled-1.2.3-fabric-mc1.21.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/B0g2vT6l/versions/OwCOXqgz/rechiseled-1.2.3-fabric-mc1.21.jar"

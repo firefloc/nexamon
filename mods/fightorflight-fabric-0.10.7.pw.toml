@@ -1,6 +1,7 @@
 name = "Cobblemon Fight or Flight Reborn"
 filename = "fightorflight-fabric-0.10.7.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/cTdIg5HZ/versions/glCpkfTv/fightorflight-fabric-0.10.7.jar"

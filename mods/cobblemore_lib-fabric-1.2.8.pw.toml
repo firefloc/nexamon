@@ -1,6 +1,7 @@
 name = "Cobblemore Lib"
 filename = "cobblemore_lib-fabric-1.2.8.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/VYP2vmDS/versions/b8DJjXbP/cobblemore_lib-fabric-1.2.8.jar"

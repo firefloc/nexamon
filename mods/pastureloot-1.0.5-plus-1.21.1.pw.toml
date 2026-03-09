@@ -1,6 +1,7 @@
 name = "Cobblemon Pasture Loot"
 filename = "pastureLoot-1.0.5+1.21.1.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/XP2jcAo0/versions/MYJtblOM/pastureLoot-1.0.5%2B1.21.1.jar"

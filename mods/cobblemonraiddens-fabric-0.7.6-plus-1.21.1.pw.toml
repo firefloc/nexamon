@@ -1,6 +1,7 @@
 name = "Cobblemon Raid Dens"
 filename = "cobblemonraiddens-fabric-0.7.6+1.21.1.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/GebWh45l/versions/gBIUjkRF/cobblemonraiddens-fabric-0.7.6%2B1.21.1.jar"

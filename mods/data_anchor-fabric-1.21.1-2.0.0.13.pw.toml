@@ -1,6 +1,7 @@
 name = "Data Anchor"
 filename = "Data_Anchor-fabric-1.21.1-2.0.0.13.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/z2XEADmE/versions/gzeArAYH/Data_Anchor-fabric-1.21.1-2.0.0.13.jar"

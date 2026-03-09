@@ -1,6 +1,7 @@
 name = "Sodium Extras"
 filename = "sodiumextras-fabric-1.0.8-1.21.1.jar"
 side = "client"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/vqqx0QiE/versions/3Smu12Iu/sodiumextras-fabric-1.0.8-1.21.1.jar"

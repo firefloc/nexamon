@@ -1,6 +1,7 @@
 name = "TerraBlender"
 filename = "TerraBlender-fabric-1.21.1-4.1.0.8.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/kkmrDlKT/versions/XNtIBXyQ/TerraBlender-fabric-1.21.1-4.1.0.8.jar"

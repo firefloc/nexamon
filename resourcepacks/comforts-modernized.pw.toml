@@ -1,6 +1,7 @@
 name = "Comforts Modernized"
 filename = "Comforts Modernized.zip"
 side = "client"
+tier = "base"
 
 [download]
 url = "https://cdn.modrinth.com/data/BJoffwm5/versions/uFrHNRj0/Comforts%20Modernized%20-%20V1.1.zip"

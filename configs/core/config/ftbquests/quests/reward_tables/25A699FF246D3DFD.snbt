@@ -1,0 +1,13 @@
+{
+	id: "25A699FF246D3DFD"
+	loot_size: 1
+	order_index: 7
+	rewards: [
+		{ id: "0CD7A0DEF88964D4", item: { components: { "ftbquests:missing_item": "mega_showdown:z-ring_black" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "5FAA779A60082E99", item: { components: { "ftbquests:missing_item": "mega_showdown:z-ring_yellow" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "664D7264FCF51DA2", item: { components: { "ftbquests:missing_item": "mega_showdown:z-ring_green" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "196E0EF19DDEC8B2", item: { components: { "ftbquests:missing_item": "mega_showdown:z-ring_blue" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "43E2C5FC059B86DF", item: { components: { "ftbquests:missing_item": "mega_showdown:z-ring_pink" }, count: 1, id: "ftbquests:missing_item" } }
+		{ id: "5603A7D073FE7404", item: { components: { "ftbquests:missing_item": "mega_showdown:z-ring_red" }, count: 1, id: "ftbquests:missing_item" } }
+	]
+}

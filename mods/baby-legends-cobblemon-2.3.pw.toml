@@ -1,6 +1,7 @@
 name = "Baby Legends (Cobblemon)"
 filename = "baby-legends-cobblemon-2.3.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/88hsodcW/versions/z8KI8Mom/baby-legends-cobblemon-2.3.jar"

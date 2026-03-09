@@ -1,6 +1,7 @@
 name = "Cobblemon Armors"
 filename = "cobblemon-armors-1.6.0+1.7.3.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/WwDbGW1s/versions/HQMFXhaZ/cobblemon-armors-1.6.0%2B1.7.3.jar"

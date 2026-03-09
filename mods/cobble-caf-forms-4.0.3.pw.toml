@@ -1,6 +1,7 @@
 name = "Cobblemon cafe"
 filename = "cobble-caf-forms-4.0.3.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/469QXqgC/versions/4XhFwNeW/cobble-caf-forms-4.0.3.jar"

@@ -1,6 +1,7 @@
 name = "World Weaver"
 filename = "worldweaver-21.0.13.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/RiN8rDVs/versions/mPmeykPR/worldweaver-21.0.13.jar"

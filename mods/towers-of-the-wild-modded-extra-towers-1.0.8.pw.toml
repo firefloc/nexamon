@@ -1,6 +1,7 @@
 name = "Towers of the Wild Modded - Extra Towers"
 filename = "towers-of-the-wild-modded-extra-towers-1.0.8.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/RJcwF5bg/versions/azmCiYpi/towers-of-the-wild-modded-extra-towers-1.0.8.jar"

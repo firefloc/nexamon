@@ -1,0 +1,89 @@
+{
+  "stabilityMultiplier": 1.0,
+  "maxSpotsPerPlayer": 2,
+  "spotTimeoutSeconds": 180,
+  "spawnRadius": 30,
+  "spawnChancePerTick": 0.1,
+  "superStableChance": 0.05,
+  "superStableBonus": 1.5,
+  "hugeGridChance": 0.01,
+  "veryLargeGridChance": 0.05,
+  "largeGridChance": 0.1,
+  "baseRarityMultiplier": 1.0,
+  "hugeGridRarityBonus": 2.0,
+  "veryLargeGridRarityBonus": 1.6,
+  "largeGridRarityBonus": 1.3,
+  "layerClearRarityBonus": 1.15,
+  "maxY": 120,
+  "blockWhitelist": [
+    "minecraft:stone",
+    "minecraft:deepslate",
+    "minecraft:netherrack",
+    "minecraft:end_stone",
+    "minecraft:obsidian",
+    "minecraft:sand",
+    "minecraft:sandstone",
+    "minecraft:red_sand",
+    "minecraft:red_sandstone",
+    "minecraft:dirt",
+    "minecraft:coarse_dirt",
+    "minecraft:grass_block"
+  ],
+  "wallsOnly": true,
+  "minSpotDistance": 4,
+  "breakBlockOnCollapse": false,
+  "breakBlockOnSuccess": false,
+  "clearRewardEnabled": false,
+  "clearRewards": [
+    {
+      "command": "give {player} minecraft:diamond 1",
+      "weight": 10,
+      "enabled": true
+    },
+    {
+      "command": "give {player} minecraft:emerald 1",
+      "weight": 5,
+      "enabled": true
+    },
+    {
+      "command": "give {player} minecraft:gold_ingot 3",
+      "weight": 20,
+      "enabled": true
+    }
+  ],
+  "maxNextLevelNormal": 2,
+  "maxNextLevelLarge": 3,
+  "maxNextLevelVeryLarge": 4,
+  "maxNextLevelHuge": 5,
+  "debugMode": false,
+  "enableBrush": true,
+  "enableTnt": true,
+  "requiresTntFromInventory": true,
+  "brushStabilityCost": 1,
+  "tntStabilityCost": 35,
+  "bedrockStabilityPenalty": 2,
+  "requireToolAchievements": true,
+  "timeLimitedChance": 0.05,
+  "timeLimitedRarityBonus": 1.5,
+  "timeLimitedMinTime": 30,
+  "timeLimitedMaxTime": 90,
+  "deepGridChance": 0.08,
+  "deepGridRarityBonus": 1.4,
+  "deepGridMinExtraLayers": 2,
+  "deepGridMaxExtraLayers": 4,
+  "worldOverrides": {
+    "minecraft:the_nether": {
+      "spawnRadius": 20,
+      "maxY": 128,
+      "blockWhitelist": [
+        "minecraft:netherrack"
+      ]
+    },
+    "minecraft:the_end": {
+      "maxY": 256,
+      "blockWhitelist": [
+        "minecraft:end_stone"
+      ]
+    }
+  }
+}

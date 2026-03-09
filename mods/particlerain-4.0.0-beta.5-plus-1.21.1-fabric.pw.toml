@@ -1,6 +1,7 @@
 name = "Particle Rain"
 filename = "particlerain-4.0.0-beta.5+1.21.1-fabric.jar"
 side = "client"
+tier = "base"
 
 [download]
 url = "https://cdn.modrinth.com/data/nrikgvxm/versions/UrZSj6yQ/particlerain-4.0.0-beta.5%2B1.21.1-fabric.jar"

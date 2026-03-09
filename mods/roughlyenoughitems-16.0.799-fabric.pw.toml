@@ -1,6 +1,7 @@
 name = "Roughly Enough Items (REI)"
 filename = "RoughlyEnoughItems-16.0.799-fabric.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/nfn13YXA/versions/aWzTESNC/RoughlyEnoughItems-16.0.799-fabric.jar"

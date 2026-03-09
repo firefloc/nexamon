@@ -1,6 +1,7 @@
 name = "Cobblemon Trainer Structures"
 filename = "cobblemonopponents-fabric-1.6.0.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/12e2QV8Q/versions/zOQ9Wss5/cobblemonopponents-fabric-1.6.0.jar"

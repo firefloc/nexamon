@@ -1,6 +1,7 @@
 name = "Cobblemon Classic Grass Pack"
 filename = "Classic Grass.zip"
 side = "client"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/vtFYGarZ/versions/k7BV0a5T/Cobblemon%20Classic%20Grass%20Pack%20v2.1%20MC1.21.1.zip"

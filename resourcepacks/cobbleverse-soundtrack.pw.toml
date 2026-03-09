@@ -1,6 +1,7 @@
 name = "COBBLEVERSE Soundtrack.zip"
 filename = "COBBLEVERSE Soundtrack.zip"
 side = "client"
+tier = "base"
 
 [download]
 url = "https://github.com/firefloc/nexamon/releases/download/v1.0.0-custom/COBBLEVERSE.Soundtrack.zip"

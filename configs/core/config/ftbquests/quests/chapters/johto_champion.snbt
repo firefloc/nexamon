@@ -1,0 +1,67 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	default_quest_size: 3.0d
+	filename: "johto_champion"
+	group: "11BEA68691B3DB4C"
+	icon: {
+		components: {
+			"ftbquests:icon": "cobbleversebadges:item/johto_league_trophy"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "2F5466DB63F8D674"
+	images: [{
+		height: 4.0d
+		image: "cobblemon_quests:item/lance"
+		rotation: 0.0d
+		width: 4.0d
+		x: 1.0d
+		y: -3.5d
+	}]
+	order_index: 2
+	quest_links: [ ]
+	quests: [{
+		dependencies: ["655BBC1A286D27F8"]
+		icon: {
+			components: {
+				"ftbquests:icon": "cobbleversebadges:item/johto_league_trophy"
+			}
+			id: "ftbquests:custom_icon"
+		}
+		id: "430BED5C1DBABF11"
+		rewards: [
+			{
+				id: "448DAE57B1434EC4"
+				item: {
+					count: 1
+					id: "cobblemon:rare_candy"
+				}
+				type: "item"
+			}
+			{
+				exclude_from_claim_all: true
+				id: "7FF4BEDF7C6AC17D"
+				table_id: 5510279823512477608L
+				type: "random"
+			}
+			{
+				id: "65680EEDF9EA06E3"
+				item: {
+					count: 1
+					id: "cobblemon:relic_coin_pouch"
+				}
+				type: "item"
+			}
+		]
+		shape: "octagon"
+		tasks: [{
+			advancement: "cobbleverse:trainer/johto/defeat_champion_lance"
+			criterion: ""
+			id: "2E83A8565FBFEC3A"
+			type: "advancement"
+		}]
+		x: 1.0d
+		y: 0.0d
+	}]
+}

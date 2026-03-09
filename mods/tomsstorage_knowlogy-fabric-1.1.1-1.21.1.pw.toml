@@ -1,6 +1,7 @@
 name = "Tom's Simple Storage Knowlogy"
 filename = "tomsstorage_knowlogy-fabric-1.1.1-1.21.1.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/WOgHMcEV/versions/pjDQHK4F/tomsstorage_knowlogy-fabric-1.1.1-1.21.1.jar"

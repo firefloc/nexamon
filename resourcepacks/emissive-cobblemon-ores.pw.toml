@@ -1,6 +1,7 @@
 name = "Cobblemon Emissive Ores"
 filename = "Emissive Cobblemon Ores.zip"
 side = "client"
+tier = "base"
 
 [download]
 url = "https://cdn.modrinth.com/data/SpgcWKWY/versions/r0ix2gfK/Emissive-Cobblemon-Ores-1.7.zip"

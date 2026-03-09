@@ -1,6 +1,7 @@
 name = "VillagerConfig"
 filename = "villagerconfig-fabric-4.5.2+1.21.1.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/OClpEDe3/versions/sUeX84bR/villagerconfig-fabric-4.5.2%2B1.21.1.jar"

@@ -1,6 +1,7 @@
 name = "Lavender"
 filename = "lavender-0.1.15+1.21.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/D5h9NKNI/versions/gdB0WW0x/lavender-0.1.15%2B1.21.jar"

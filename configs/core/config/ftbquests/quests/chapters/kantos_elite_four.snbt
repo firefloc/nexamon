@@ -1,0 +1,223 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	default_quest_size: 2.0d
+	filename: "kantos_elite_four"
+	group: "7A3B25ABFD04C294"
+	icon: {
+		components: {
+			"ftbquests:icon": "cobblemon:item/advancements/cobblemon_logo"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "545C06ECACEEAC49"
+	images: [
+		{
+			height: 2.5d
+			image: "cobblemon_quests:item/lorelei-lgpe"
+			rotation: 0.0d
+			width: 2.5d
+			x: -26.0d
+			y: 6.0d
+		}
+		{
+			height: 2.5d
+			image: "cobblemon_quests:item/agatha-lgpe"
+			rotation: 0.0d
+			width: 2.5d
+			x: -20.0d
+			y: 6.0d
+		}
+		{
+			height: 2.5d
+			image: "cobblemon_quests:item/lance-lgpe"
+			rotation: 0.0d
+			width: 2.5d
+			x: -17.0d
+			y: 6.0d
+		}
+		{
+			height: 2.5d
+			image: "cobblemon_quests:item/bruno-gen3"
+			rotation: 0.0d
+			width: 2.5d
+			x: -23.0d
+			y: 6.0d
+		}
+	]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["0E787685D592AFFC"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:item/held_items/never_melt_ice"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "28C4C6BEB823747E"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7F6C5811ED58AF97"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5B4AC315D785AA3C"
+					table_id: 6815066128165839759L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6027C69AA872EC34"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "cobbleverse:trainer/kanto/defeat_elite_lorelei"
+				criterion: ""
+				id: "392B87A89E80D827"
+				type: "advancement"
+			}]
+			x: -26.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["28C4C6BEB823747E"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:item/held_items/punching_glove"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "2A13BBA8B0CB64C7"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "19BCDF7F5070649B"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "50C2941FA96228D2"
+					table_id: 6815066128165839759L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "76694E7180FBAA48"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "cobbleverse:trainer/kanto/defeat_elite_bruno"
+				criterion: ""
+				id: "6BC7AC894FFAC5D6"
+				type: "advancement"
+			}]
+			x: -23.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["2A13BBA8B0CB64C7"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:item/held_items/spell_tag"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "3914EBF6677C4087"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3BC3C298F4B0BDAC"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "335DEBD8C0E740F0"
+					table_id: 6815066128165839759L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "293855560C3DD130"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "cobbleverse:trainer/kanto/defeat_elite_agatha"
+				criterion: ""
+				id: "7F06D5EB43EEB2ED"
+				type: "advancement"
+			}]
+			x: -20.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["3914EBF6677C4087"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:item/evolution/dragon_scale"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "1F14066FF412651B"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2CDD9BABF1BFAB1D"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7C1E496A865347C8"
+					table_id: 5510279823512477608L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7596164C0CECDFF8"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			tasks: [{
+				advancement: "cobbleverse:trainer/kanto/defeat_elite_lance"
+				criterion: ""
+				id: "0486BE609BF4BB3B"
+				type: "advancement"
+			}]
+			x: -17.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["13130CA03346A08F"]
+			icon: {
+				components: {
+					"ftbquests:icon": "lumymon:block/kanto_cartography_table_front"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 0.9d
+			id: "0E787685D592AFFC"
+			shape: "rsquare"
+			tasks: [{
+				id: "4326544BE3FA46B8"
+				structure: "cobbleverse:kanto_league"
+				type: "structure"
+			}]
+			x: -29.0d
+			y: 5.0d
+		}
+	]
+}

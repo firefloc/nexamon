@@ -1,0 +1,28 @@
+{
+  "autosow": {
+    // enable: master switch for Autosow Enchant
+    "enable": true,
+    // requireSeeds: seeds must be in inventory to replant
+    "requireSeeds": true,
+    // enableFortuneMultiplier: extra drops scale with Fortune
+    "enableFortuneMultiplier": true
+  },
+  "collector": {
+    // enable: master switch for Collector Enchant
+    "enable": true
+  },
+  "fertility": {
+    // enable: master switch for Fertility Enchant
+    "enable": true
+  },
+  "grid": {
+    // enable: master switch for Grid Enchant
+    "enable": true
+  },
+  "oasis": {
+    // enable: master switch for Oasis Enchant
+    "enable": true,
+    // autoApplyOnTilling: auto-apply Oasis on freshly tilled farmland (incl. Grid)
+    "autoApplyOnTilling": false
+  }
+}

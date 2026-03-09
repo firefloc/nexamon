@@ -1,6 +1,7 @@
 name = "CobbleCuisine"
 filename = "cobblecuisine-2.0.1-1.7.rc1.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/dlx62Wp3/versions/KQwSroDP/cobblecuisine-2.0.1-1.7-rc1.jar"

@@ -1,6 +1,7 @@
 name = "Myths and Legends [Cobblemon Sidemod]"
 filename = "MythsAndLegends-fabric-1.9.0.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/CaOWby9K/versions/eg83qtSQ/MythsAndLegends-fabric-1.9.0.jar"

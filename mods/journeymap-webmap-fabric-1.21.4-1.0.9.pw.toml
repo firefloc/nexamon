@@ -1,6 +1,7 @@
 name = "JourneyMap  Web Map"
 filename = "journeymap-webmap-fabric-1.21.4-1.0.9.jar"
 side = "client"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/YaZ1fUTg/versions/IbtHVx5S/journeymap-webmap-fabric-1.21.4-1.0.9.jar"

@@ -1,6 +1,7 @@
 name = "Euphoria Patches"
 filename = "EuphoriaPatcher-1.8.6-r5.7.1-fabric.jar"
 side = "client"
+tier = "base"
 
 [download]
 url = "https://cdn.modrinth.com/data/4H6sumDB/versions/pI6g9nqi/EuphoriaPatcher-1.8.6-r5.7.1-fabric.jar"

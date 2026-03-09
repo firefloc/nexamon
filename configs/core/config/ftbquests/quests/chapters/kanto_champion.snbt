@@ -1,0 +1,67 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	default_quest_size: 3.0d
+	filename: "kanto_champion"
+	group: "7A3B25ABFD04C294"
+	icon: {
+		components: {
+			"ftbquests:icon": "cobbleversebadges:item/kanto_league_trophy"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "362FC2E7698D11DD"
+	images: [{
+		height: 4.0d
+		image: "cobblemon_quests:item/blue-lgpe"
+		rotation: 0.0d
+		width: 4.0d
+		x: 3.0d
+		y: -5.0d
+	}]
+	order_index: 2
+	quest_links: [ ]
+	quests: [{
+		dependencies: ["1F14066FF412651B"]
+		icon: {
+			components: {
+				"ftbquests:icon": "cobbleversebadges:item/kanto_league_trophy"
+			}
+			id: "ftbquests:custom_icon"
+		}
+		id: "65650936ABCA8113"
+		rewards: [
+			{
+				id: "5EAA7B93A2ED9895"
+				item: {
+					count: 1
+					id: "cobblemon:rare_candy"
+				}
+				type: "item"
+			}
+			{
+				exclude_from_claim_all: true
+				id: "305FA439334C6FC6"
+				table_id: 5510279823512477608L
+				type: "loot"
+			}
+			{
+				id: "3EE2091529324684"
+				item: {
+					count: 1
+					id: "cobblemon:relic_coin_pouch"
+				}
+				type: "item"
+			}
+		]
+		shape: "octagon"
+		tasks: [{
+			advancement: "cobbleverse:trainer/kanto/defeat_champion_blue"
+			criterion: ""
+			id: "25C8E4F3669EE118"
+			type: "advancement"
+		}]
+		x: 3.0d
+		y: -1.5d
+	}]
+}

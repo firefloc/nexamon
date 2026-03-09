@@ -1,6 +1,7 @@
 name = "KeybindsGalore Plus"
 filename = "keybindsgalore_plus-1.4.1+1.21.jar"
 side = "client"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/nnHCum1F/versions/vah8JzE6/keybindsgalore_plus-1.4.1%2B1.21.jar"

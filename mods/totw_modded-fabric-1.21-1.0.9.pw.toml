@@ -1,6 +1,7 @@
 name = "Towers of the Wild Modded"
 filename = "totw_modded-fabric-1.21-1.0.9.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/54eqfZSC/versions/5A24T8JD/totw_modded-fabric-1.21-1.0.9.jar"

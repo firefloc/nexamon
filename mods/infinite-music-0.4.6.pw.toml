@@ -1,6 +1,7 @@
 name = "Music Delay Remover (Infinite Music)"
 filename = "infinite-music-0.4.6.jar"
 side = "client"
+tier = "base"
 
 [download]
 url = "https://cdn.modrinth.com/data/OJLdOa8k/versions/cIfcDLaq/infinite-music-0.4.6.jar"

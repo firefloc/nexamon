@@ -1,0 +1,1858 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "zmoves"
+	group: "0D71855D01B1484A"
+	icon: {
+		components: {
+			"ftbquests:icon": "cobblemon:textures/particle/z_move_icon.png"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "29B5FF4288515F44"
+	images: [{
+		height: 4.0d
+		image: "cobblemon:textures/particle/z_move_icon.png"
+		rotation: 0.0d
+		width: 4.0d
+		x: 3.0d
+		y: -5.0d
+	}]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "17092EAE1A610D25"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0163225BBA9EBA92"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				count: 4L
+				id: "638C393664276001"
+				item: { count: 1, id: "cobblemon:psychic_gem" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "53271D2D0C1C93DF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0626861106A78F82"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				count: 4L
+				id: "07774D37D010F435"
+				item: { count: 1, id: "cobblemon:steel_gem" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "59F5F74884CD3B94"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "28ED4EEF74FC9586"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				count: 4L
+				id: "67CB64AA339FE1AA"
+				item: { count: 1, id: "cobblemon:poison_gem" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "55DFDFBC25E1CE58"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "18EBF0AE87EEFD5E"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				count: 4L
+				id: "291D02E045177302"
+				item: { count: 1, id: "cobblemon:bug_gem" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "719341F9CAC0FACB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2221C5DC1AE66B80"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				count: 4L
+				id: "721DBC8812B134D6"
+				item: { count: 1, id: "cobblemon:ground_gem" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "5F7D9D29B1899F7F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6769B90889B157B2"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				count: 4L
+				id: "0816B84AB69EC086"
+				item: { count: 1, id: "cobblemon:fighting_gem" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "750792A76015F3CE"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3C429C7CB4A2BBF2"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				count: 4L
+				id: "02AD89FE7339D767"
+				item: { count: 1, id: "cobblemon:grass_gem" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "269A26F5B83ADE8D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4BA942DD6ACF7F94"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				count: 4L
+				id: "5CD5159B5F35D587"
+				item: { count: 1, id: "cobblemon:normal_gem" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "1C6BF3BD8733340E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5820B960AA4D7E28"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				count: 4L
+				id: "2EA864528168CD38"
+				item: { count: 1, id: "cobblemon:flying_gem" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "5F901161B7F64DD4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "31A97847E9179101"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				count: 4L
+				id: "74844E5681B540E6"
+				item: { count: 1, id: "cobblemon:rock_gem" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "6A63099A32C8E247"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "530DF3FE6A1CF19A"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				count: 4L
+				id: "6D1EAF627EFFB1B8"
+				item: { count: 1, id: "cobblemon:ice_gem" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "7B8B614B295F10A5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "40F93B7341005C57"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				count: 4L
+				id: "46EAC73205FBC134"
+				item: { count: 1, id: "cobblemon:fairy_gem" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "4753B5EFD0A6AA21"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "06B9E831127FD9EA"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				count: 4L
+				id: "68238BF3450ED0DF"
+				item: { count: 1, id: "cobblemon:dragon_gem" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "12394D33F7E3C52A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "6EE46F9832816BEE"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				count: 4L
+				id: "30E5E4551FB540E4"
+				item: { count: 1, id: "cobblemon:dark_gem" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "39776520454571B9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "176F249ED6DE1861"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				count: 4L
+				id: "3794F12256DBF8EC"
+				item: { count: 1, id: "cobblemon:electric_gem" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "0788B23C56E47523"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "633EAE9BF58E4FF8"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				count: 4L
+				id: "301CAC5E61CF0200"
+				item: { count: 1, id: "cobblemon:ghost_gem" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "44DC31E0C035BE3E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5A61EC3DF5105C10"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				count: 4L
+				id: "365A00ED3E180C47"
+				item: { count: 1, id: "cobblemon:water_gem" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "355C41BD58B2A6F1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "74EE680E8A4DCF47"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				count: 4L
+				id: "17FEC8A5B528789F"
+				item: { count: 1, id: "cobblemon:fire_gem" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["5171CAB9596EF011"]
+			id: "10E7617929623D39"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6C00F97930EA318C"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					count: 6
+					id: "1B98396FCE2504EE"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "37991C25587AC2A6"
+					item: { count: 1, id: "mega_showdown:z_ring" }
+					type: "item"
+				}
+				{
+					id: "2D431279111DCB84"
+					item: { count: 1, id: "mega_showdown:z_ring_black" }
+					type: "item"
+				}
+				{
+					id: "783FCD47681B4BF4"
+					item: { count: 1, id: "mega_showdown:z_ring_yellow" }
+					type: "item"
+				}
+				{
+					id: "7079C8186144B845"
+					item: { count: 1, id: "mega_showdown:z_ring_green" }
+					type: "item"
+				}
+				{
+					id: "4C9228503CE888F2"
+					item: { count: 1, id: "mega_showdown:z_ring_blue" }
+					type: "item"
+				}
+				{
+					id: "1E425021682F07D8"
+					item: { count: 1, id: "mega_showdown:z_ring_pink" }
+					type: "item"
+				}
+				{
+					id: "4C6975578DC57BC2"
+					item: { count: 1, id: "mega_showdown:z_ring_red" }
+					type: "item"
+				}
+				{
+					id: "5801BE496419FDF4"
+					item: { count: 1, id: "mega_showdown:olivias_z_ring" }
+					type: "item"
+				}
+				{
+					id: "19C3C6641F36A995"
+					item: { count: 1, id: "mega_showdown:hapus_z_ring" }
+					type: "item"
+				}
+			]
+			x: -5.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["1D1841D0B0670308"]
+			id: "5171CAB9596EF011"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "476A7AA36194E242"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "14299984F10BA4D9"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7C4CEFF3CDD073EB"
+				item: { count: 1, id: "mega_showdown:sparkling_stone_light" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["1D1841D0B0670308"]
+			id: "761A63864834610F"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0D0E0942C3C73C83"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "6FD705E00335651A"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "13CF0D1B252D45A9"
+				item: { count: 1, id: "mega_showdown:sparkling_stone_dark" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -5.5d
+		}
+		{
+			dependencies: ["761A63864834610F"]
+			id: "6EF78E8EADAECAD0"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "15DA99A1C9FDC7EC"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					count: 6
+					id: "6CA3A530716B53FA"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "0F3F055B26372337"
+					item: { count: 1, id: "mega_showdown:z_power_ring" }
+					type: "item"
+				}
+				{
+					id: "023AFC67C5438DCE"
+					item: { count: 1, id: "mega_showdown:olivia_z_power_ring" }
+					type: "item"
+				}
+				{
+					id: "2CEC55E1A309F742"
+					item: { count: 1, id: "mega_showdown:hapu_z_power_ring" }
+					type: "item"
+				}
+				{
+					id: "32A16A27AC041C18"
+					item: { count: 1, id: "mega_showdown:rocket_z_power_ring" }
+					type: "item"
+				}
+				{
+					id: "3E76A4DE47B6024D"
+					item: { count: 1, id: "mega_showdown:gladion_z_power_ring" }
+					type: "item"
+				}
+				{
+					id: "62A19FCBB6FF98B9"
+					item: { count: 1, id: "mega_showdown:nanu_z_power_ring" }
+					type: "item"
+				}
+			]
+			x: -3.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "1D1841D0B0670308"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1EB3A11EA5224DFC"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7C53539BDCE55F69"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				icon: {
+					components: {
+						"ftbquests:icon": "minecraft:textures/gui/sprites/icon/search.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "37B3FFB4670F668E"
+				structure: "mega_showdown:archaeological_site"
+				type: "structure"
+			}]
+			x: -4.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["55CA6B69314C17AA"]
+			hide_dependent_lines: true
+			id: "6DDE648965DA85F3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "128A3044D28D6899"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "137804C38A744317"
+				item: { count: 1, id: "mega_showdown:blank_z" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"6DDE648965DA85F3"
+				"55DFDFBC25E1CE58"
+			]
+			id: "479E50364CAE6717"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2CD6E115E477DC78"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "4EBEE940C5316087"
+				item: { count: 1, id: "mega_showdown:buginium_z" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"6DDE648965DA85F3"
+				"12394D33F7E3C52A"
+			]
+			id: "072F1628A410FC70"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "44176146FD01B4FB"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "6C58250385DD716E"
+				item: { count: 1, id: "mega_showdown:darkinium_z" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"2202FECB2F1E9947"
+				"25E3AB306ED4C2BE"
+			]
+			id: "3332E8B172BBCE47"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0EB8D6C24C117BE0"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "76EBA949D1A535B0"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "26DB04D890AB6BC4"
+				item: { count: 1, id: "mega_showdown:decidium_z" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"6DDE648965DA85F3"
+				"4753B5EFD0A6AA21"
+			]
+			id: "24E9DA7F0EBD8A69"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "402097A4C3C087DE"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "31BBB311D6C3CB21"
+				item: { count: 1, id: "mega_showdown:dragonium_z" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"3661DDF812C18449"
+				"74193C4BF53D6D12"
+			]
+			id: "3032AF761ADAF998"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7AD3D3092A559051"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "08E0B788DF139651"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7A5ED5D7555FA0A9"
+				item: { count: 1, id: "mega_showdown:eevium_z" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			icon: {
+				id: "minecraft:spyglass"
+			}
+			id: "55CA6B69314C17AA"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6FB6A37D30D403E6"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "321CC1A446EB7338"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				icon: {
+					id: "minecraft:spyglass"
+				}
+				id: "13D07C237284D877"
+				structure: "mega_showdown:observatory"
+				type: "structure"
+			}]
+			x: -1.5d
+			y: -6.5d
+		}
+		{
+			dependencies: [
+				"6DDE648965DA85F3"
+				"39776520454571B9"
+			]
+			id: "6D8B8F728AD84B7C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7990328740BAB36E"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "11911ADCC155C5AE"
+				item: { count: 1, id: "mega_showdown:electrium_z" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"6DDE648965DA85F3"
+				"7B8B614B295F10A5"
+			]
+			id: "624E74F3A1847ECF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "515A568079901E5C"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2D1AA9B1767C1421"
+				item: { count: 1, id: "mega_showdown:fairium_z" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"6DDE648965DA85F3"
+				"5F7D9D29B1899F7F"
+			]
+			id: "0BEDD5B4A0CBFE46"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3D919196D3891BD8"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "633D31AD5081A8C5"
+				item: { count: 1, id: "mega_showdown:fightinium_z" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"6DDE648965DA85F3"
+				"355C41BD58B2A6F1"
+			]
+			id: "46D9D425664548DA"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "530029579A1FFABA"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "38FFD66538706328"
+				item: { count: 1, id: "mega_showdown:firium_z" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"6DDE648965DA85F3"
+				"1C6BF3BD8733340E"
+			]
+			id: "0E93BABEA027E9AF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "57D609DDE4C41423"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "385043E0481DC033"
+				item: { count: 1, id: "mega_showdown:flyinium_z" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"6DDE648965DA85F3"
+				"0788B23C56E47523"
+			]
+			id: "29DD47C4A41B4180"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "132284B3F5F6AC19"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2A6D2C67373C3402"
+				item: { count: 1, id: "mega_showdown:ghostium_z" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"6DDE648965DA85F3"
+				"750792A76015F3CE"
+			]
+			id: "2202FECB2F1E9947"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "61C9A3AB66E6EF81"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2E3887B04DCE3A10"
+				item: { count: 1, id: "mega_showdown:grassium_z" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"6DDE648965DA85F3"
+				"719341F9CAC0FACB"
+			]
+			id: "73F32C4AAE981281"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "64B9CEEC37493695"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "7BE6B73DCBB0A0DB"
+				item: { count: 1, id: "mega_showdown:groundium_z" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"6DDE648965DA85F3"
+				"6A63099A32C8E247"
+			]
+			id: "7A56E3292997747A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0E96131ADAEAEF48"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2731E4F091B141C4"
+				item: { count: 1, id: "mega_showdown:icium_z" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"46D9D425664548DA"
+				"3F569A13DB57D92F"
+			]
+			id: "33265CEED6AC54CF"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6C967E29139C296F"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "568113C94FB9D826"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "230443071C7B5189"
+				item: { count: 1, id: "mega_showdown:incinium_z" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"24E9DA7F0EBD8A69"
+				"424775C13730E4F9"
+			]
+			id: "49431ECD9375E2CB"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2616E89227A37636"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "7FD25358231F49E2"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1C3490EED1601273"
+				item: { count: 1, id: "mega_showdown:kommonium_z" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"4585D8A99664DE5E"
+				"6BD58A03C0BCA531"
+			]
+			id: "2FB1C4C432696511"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "66994788011F7E86"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "2A822498ED230991"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2E6E54B700146593"
+				item: { count: 1, id: "mega_showdown:lunalium_z" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"59E091755B4CC831"
+				"62BD86BAF9CBDBB3"
+			]
+			id: "1E18BE69B8F1B4CA"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "16EA638B237567B5"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "14B7096297ECBB44"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7696435C9AE861F7"
+				item: { count: 1, id: "mega_showdown:lycanium_z" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"29DD47C4A41B4180"
+				"4617CA8540172520"
+			]
+			id: "35089715A28F4ADF"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1BEB2B56C87616E1"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "2D0E45B56A66CA6E"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "55FBE803AF0BA1AA"
+				item: { count: 1, id: "mega_showdown:marshadium_z" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"4585D8A99664DE5E"
+				"154F134AE7066789"
+			]
+			id: "79DC9FEA491EB991"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "45CB78586744C236"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "0F29C52702471C55"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3E6F5741AA7A5D02"
+				item: { count: 1, id: "mega_showdown:mewnium_z" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"624E74F3A1847ECF"
+				"2C77515D073CA3EC"
+			]
+			id: "3B8CDA7914BE2472"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "244DA7B98CE18CF6"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "6C47EF880AEF338B"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "730D31A52A1716EC"
+				item: { count: 1, id: "mega_showdown:mimikium_z" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"6DDE648965DA85F3"
+				"269A26F5B83ADE8D"
+			]
+			id: "3661DDF812C18449"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "003958CB0D3473E2"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "182F2734B91B9588"
+				item: { count: 1, id: "mega_showdown:normalium_z" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"4DD1507AB15939D7"
+				"6D8B8F728AD84B7C"
+			]
+			id: "66EAF5BB8A3109E5"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "22F8EFDE72971085"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "1B7A7A14D24E03D5"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6E3B7035F3FE36B9"
+				item: { count: 1, id: "mega_showdown:pikanium_z" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"6DDE648965DA85F3"
+				"59F5F74884CD3B94"
+			]
+			id: "342539319BB523C2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "372B30276FC5D717"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0F882C4B25F3455C"
+				item: { count: 1, id: "mega_showdown:poisonium_z" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"03BA9555784B39D0"
+				"33FF5AC5F9DB05D1"
+			]
+			id: "4311E0F70A88829E"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "68F1455622ED4A9C"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "1505D3A2B1644A28"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "714E720792A26059"
+				item: { count: 1, id: "mega_showdown:primarium_z" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"6DDE648965DA85F3"
+				"17092EAE1A610D25"
+			]
+			id: "4585D8A99664DE5E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "155E9BB801BF0BB6"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "359DA8CC44A2263D"
+				item: { count: 1, id: "mega_showdown:psychium_z" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"6DDE648965DA85F3"
+				"5F901161B7F64DD4"
+			]
+			id: "59E091755B4CC831"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "103D7F749ADA34A0"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "02B27889B84AEB76"
+				item: { count: 1, id: "mega_showdown:rockium_z" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"3661DDF812C18449"
+				"66103C35D5ACEE21"
+			]
+			id: "692EA1127D17E8A5"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "32A306B3267585D5"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "3E3203FE81C49706"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4166CAE663C428DD"
+				item: { count: 1, id: "mega_showdown:snorlium_z" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"4585D8A99664DE5E"
+				"64D5134B15D58FA4"
+			]
+			id: "6F171A95B55BAB41"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "621543499A265E5B"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "54C6787DFDC10B21"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4BB278DC0A66FAF0"
+				item: { count: 1, id: "mega_showdown:solganium_z" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"6DDE648965DA85F3"
+				"53271D2D0C1C93DF"
+			]
+			id: "40FBEEB9FB8384DB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "42F13108DFBC9461"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "0CD6B6350CB23148"
+				item: { count: 1, id: "mega_showdown:steelium_z" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"624E74F3A1847ECF"
+				"3BBD5DB4F43D6818"
+			]
+			id: "369989FE7BF2619C"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "16DF0388243DE0A4"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "7826716C90E38BFF"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1E34EF1FE996A1EC"
+				item: { count: 1, id: "mega_showdown:tapunium_z" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 2.5d
+		}
+		{
+			dependencies: [
+				"6F171A95B55BAB41"
+				"2FB1C4C432696511"
+			]
+			id: "13F7BD0AB163ED89"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2ED15E6100915855"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "6E10603FBB97BF23"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "67A2DC4C3490C4CB"
+				item: { count: 1, id: "mega_showdown:ultranecrozium_z" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 7.0d
+		}
+		{
+			dependencies: [
+				"6DDE648965DA85F3"
+				"44DC31E0C035BE3E"
+			]
+			id: "03BA9555784B39D0"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5FBEDE57E30200DF"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			tasks: [{
+				id: "038EC4683E724AF3"
+				item: { count: 1, id: "mega_showdown:waterium_z" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"6D8B8F728AD84B7C"
+				"7B727512F5DA85CA"
+			]
+			id: "249398B834D7FFD5"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7C269D8685AE81AC"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "4E6251416A078E2A"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "27CF443806C441DB"
+				item: { count: 1, id: "mega_showdown:aloraichium_z" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "74193C4BF53D6D12"
+			tasks: [
+				{
+					id: "7532A7A39FA702E8"
+					item: { count: 1, id: "cobblemon:water_stone" }
+					type: "item"
+				}
+				{
+					id: "679CEFBB9C4225BA"
+					item: { count: 1, id: "cobblemon:thunder_stone" }
+					type: "item"
+				}
+				{
+					id: "155639CCA9263F8C"
+					item: { count: 1, id: "cobblemon:leaf_stone" }
+					type: "item"
+				}
+				{
+					id: "0B8100192DA55736"
+					item: { count: 1, id: "cobblemon:fire_stone" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "6BD58A03C0BCA531"
+			tasks: [
+				{
+					count: 2L
+					id: "6C92B01B6E2D520B"
+					item: { count: 1, id: "cobblemon:moon_stone" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "5210BB5B85D44003"
+					item: { count: 1, id: "cobblemon:ghost_gem" }
+					type: "item"
+				}
+			]
+			x: -0.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "62BD86BAF9CBDBB3"
+			tasks: [{
+				count: 4L
+				id: "310371BBDEBA73E6"
+				item: { count: 1, id: "cobblemon:hard_stone" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "154F134AE7066789"
+			tasks: [{
+				count: 4L
+				id: "68B869FC6C4F1396"
+				item: { count: 1, id: "cobblemon:psychic_seed" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "4DD1507AB15939D7"
+			tasks: [{
+				count: 4L
+				id: "1D82DF79806B7F1D"
+				item: { count: 1, id: "cobblemon:thunder_stone" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "66103C35D5ACEE21"
+			tasks: [{
+				count: 4L
+				id: "2AF6B633D015E791"
+				item: { count: 1, id: "cobblemon:iron_ball" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "64D5134B15D58FA4"
+			tasks: [
+				{
+					count: 2L
+					id: "6D637022429E3C0C"
+					item: { count: 1, id: "cobblemon:sun_stone" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "7E6B9A0B13FDAEB3"
+					item: { count: 1, id: "cobblemon:steel_gem" }
+					type: "item"
+				}
+			]
+			x: -3.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "45D96E0027ED4636"
+			tasks: [{
+				count: 4L
+				id: "1E5F2F3316267F83"
+				item: { count: 1, id: "cobblemon:light_ball" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"45D96E0027ED4636"
+				"6D8B8F728AD84B7C"
+			]
+			id: "42F62B768DE761A4"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0783C3C870E8CFBA"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "255D6EA8BEED3DE5"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "525EF09A951E4F19"
+				item: { count: 1, id: "mega_showdown:pikashunium_z" }
+				type: "item"
+			}]
+			x: -5.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "2C77515D073CA3EC"
+			tasks: [{
+				count: 4L
+				id: "6850BB268F45ABB0"
+				item: { count: 1, id: "cobblemon:ghost_gem" }
+				type: "item"
+			}]
+			x: -9.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "3BBD5DB4F43D6818"
+			tasks: [
+				{
+					id: "162BC23EC59CA39F"
+					item: { count: 1, id: "cobblemon:grass_gem" }
+					type: "item"
+				}
+				{
+					id: "042F6D1A1A8227DF"
+					item: { count: 1, id: "cobblemon:psychic_gem" }
+					type: "item"
+				}
+				{
+					id: "76876EC0F220F53F"
+					item: { count: 1, id: "cobblemon:water_gem" }
+					type: "item"
+				}
+				{
+					id: "047EADB927B5A2FF"
+					item: { count: 1, id: "cobblemon:electric_gem" }
+					type: "item"
+				}
+			]
+			x: -8.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "7B727512F5DA85CA"
+			tasks: [{
+				count: 4L
+				id: "51B74C8EC53D8DDB"
+				item: { count: 1, id: "cobblemon:psychic_gem" }
+				type: "item"
+			}]
+			x: -7.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "25E3AB306ED4C2BE"
+			tasks: [{
+				count: 4L
+				id: "12A57973A83B231B"
+				item: { count: 1, id: "cobblemon:ghost_gem" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "33FF5AC5F9DB05D1"
+			tasks: [{
+				count: 4L
+				id: "191E928F6802A2DD"
+				item: { count: 1, id: "cobblemon:fairy_gem" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "3F569A13DB57D92F"
+			tasks: [{
+				count: 4L
+				id: "64860FF6AA72664F"
+				item: { count: 1, id: "cobblemon:dark_gem" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "424775C13730E4F9"
+			tasks: [{
+				count: 4L
+				id: "0E27BB2F2080BE06"
+				item: { count: 1, id: "cobblemon:fighting_gem" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "4617CA8540172520"
+			tasks: [{
+				count: 4L
+				id: "4EDEE490D424377D"
+				item: { count: 1, id: "cobblemon:fighting_gem" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: 5.0d
+		}
+		{
+			dependencies: [
+				"24E9DA7F0EBD8A69"
+				"29DD47C4A41B4180"
+				"42F62B768DE761A4"
+				"66EAF5BB8A3109E5"
+				"10E7617929623D39"
+				"3032AF761ADAF998"
+				"6EF78E8EADAECAD0"
+				"369989FE7BF2619C"
+				"1E18BE69B8F1B4CA"
+				"2FB1C4C432696511"
+				"35089715A28F4ADF"
+				"692EA1127D17E8A5"
+				"2202FECB2F1E9947"
+				"479E50364CAE6717"
+				"3661DDF812C18449"
+				"7A56E3292997747A"
+				"0BEDD5B4A0CBFE46"
+				"4585D8A99664DE5E"
+				"13F7BD0AB163ED89"
+				"6F171A95B55BAB41"
+				"40FBEEB9FB8384DB"
+				"6D8B8F728AD84B7C"
+				"73F32C4AAE981281"
+				"46D9D425664548DA"
+				"342539319BB523C2"
+				"0E93BABEA027E9AF"
+				"072F1628A410FC70"
+				"59E091755B4CC831"
+				"249398B834D7FFD5"
+				"33265CEED6AC54CF"
+				"49431ECD9375E2CB"
+				"4311E0F70A88829E"
+				"03BA9555784B39D0"
+				"624E74F3A1847ECF"
+				"79DC9FEA491EB991"
+				"3B8CDA7914BE2472"
+				"3332E8B172BBCE47"
+			]
+			dependency_requirement: "one_completed"
+			hide_dependency_lines: true
+			id: "5AC36993477AA2FA"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6A15C00DA749A5C6"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					count: 2
+					id: "3E81DFEA867D2EAC"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin_pouch"
+					}
+					type: "item"
+				}
+			]
+			shape: "octagon"
+			size: 2.0d
+			tasks: [{
+				advancement: "mega_showdown:mega_showdown/z/z_moves"
+				criterion: ""
+				id: "3CED0A787E8E0F61"
+				type: "advancement"
+			}]
+			x: -7.0d
+			y: 7.0d
+		}
+		{
+			dependencies: [
+				"29DD47C4A41B4180"
+				"24E9DA7F0EBD8A69"
+				"42F62B768DE761A4"
+				"66EAF5BB8A3109E5"
+				"3032AF761ADAF998"
+				"369989FE7BF2619C"
+				"1E18BE69B8F1B4CA"
+				"2FB1C4C432696511"
+				"35089715A28F4ADF"
+				"692EA1127D17E8A5"
+				"2202FECB2F1E9947"
+				"479E50364CAE6717"
+				"3661DDF812C18449"
+				"7A56E3292997747A"
+				"0BEDD5B4A0CBFE46"
+				"4585D8A99664DE5E"
+				"13F7BD0AB163ED89"
+				"6F171A95B55BAB41"
+				"40FBEEB9FB8384DB"
+				"6D8B8F728AD84B7C"
+				"73F32C4AAE981281"
+				"342539319BB523C2"
+				"46D9D425664548DA"
+				"0E93BABEA027E9AF"
+				"072F1628A410FC70"
+				"59E091755B4CC831"
+				"249398B834D7FFD5"
+				"33265CEED6AC54CF"
+				"49431ECD9375E2CB"
+				"4311E0F70A88829E"
+				"03BA9555784B39D0"
+				"624E74F3A1847ECF"
+				"79DC9FEA491EB991"
+				"3B8CDA7914BE2472"
+				"3332E8B172BBCE47"
+			]
+			hide_dependency_lines: true
+			id: "1A3B86F549A2BE75"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2E279B28CF5D1656"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "04C619F22BC10700"
+					item: {
+						count: 1
+						id: "cobblemon:master_ball"
+					}
+					type: "item"
+				}
+			]
+			shape: "octagon"
+			size: 2.0d
+			tasks: [{
+				advancement: "mega_showdown:mega_showdown/z/get_all_z_move"
+				criterion: ""
+				id: "05369D89B2D48118"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 7.0d
+		}
+	]
+}

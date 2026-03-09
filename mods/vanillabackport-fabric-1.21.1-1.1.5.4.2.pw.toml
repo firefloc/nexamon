@@ -1,6 +1,7 @@
 name = "Vanilla Backport"
 filename = "VanillaBackport-fabric-1.21.1-1.1.5.4.2.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/6xwxDTgf/versions/dQd9n3aB/VanillaBackport-fabric-1.21.1-1.1.5.4.2.jar"

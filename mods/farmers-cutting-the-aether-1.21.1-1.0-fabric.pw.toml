@@ -1,6 +1,7 @@
 name = "Farmer's Cutting: The Aether"
 filename = "farmers-cutting-the-aether-1.21.1-1.0-fabric.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/W77u83l0/versions/cNzZRWwB/farmers-cutting-the-aether-1.21.1-1.0-fabric.jar"

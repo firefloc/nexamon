@@ -1,6 +1,7 @@
 name = "Immersive Armor HUD"
 filename = "immersivearmorhud-fabric-1.0.1-1.21.1.jar"
 side = "client"
+tier = "base"
 
 [download]
 url = "https://cdn.modrinth.com/data/EyJFr6Vw/versions/YNFGU4YV/immersivearmorhud-fabric-1.0.1-1.21.1.jar"

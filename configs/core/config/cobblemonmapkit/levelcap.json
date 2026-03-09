@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 5,
+  "enabled": true,
+  "baseCap": 20,
+  "bypassIfShiny": false,
+  "bypassOnMasterBall": true,
+  "clampGainedOverCap": true,
+  "clampCapturedOverCap": true,
+  "progressions": [
+    {
+      "label": "Steel Badge",
+      "newCap": 30,
+      "itemIds": [
+        "mapkit:steel_badge"
+      ]
+    },
+    {
+      "label": "Fire Badge",
+      "newCap": 40,
+      "itemIds": [
+        "mapkit:fire_badge"
+      ]
+    }
+  ]
+}

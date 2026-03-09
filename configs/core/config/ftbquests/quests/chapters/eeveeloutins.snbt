@@ -1,0 +1,442 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "eeveeloutins"
+	group: "5A414AC1BCA19975"
+	icon: {
+		id: "pokeblocks:gigantic_pokedoll_eevee"
+	}
+	id: "486AB1E2FCF6AF59"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["46AF61850A606112"]
+			hide_dependent_lines: true
+			id: "3735B0EF06CACBA5"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "0D369DBF67E81AB4"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "6A4643B24DDD037A"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				action: "evolve_into"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "3D59DA5339EEB1D5"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:flareon"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 0.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "46AF61850A606112"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7E967603BE2DAD28"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			shape: "rsquare"
+			size: 2.0d
+			tasks: [{
+				action: "catch"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "0F19BA27730971C2"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:eevee"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: [
+				"1B1D1C845691BC1A"
+				"3735B0EF06CACBA5"
+				"1311FD98E021E9AF"
+				"0E33E095CBC95FA7"
+				"6A170D72D6CDA3D0"
+				"6AA5D3F4F0EE5833"
+				"02A428333C13CCEB"
+				"62427FBC65211340"
+			]
+			icon: {
+				id: "tmcraft:star_continentalcrush"
+			}
+			id: "7D3311A23B29FB40"
+			rewards: [{
+				count: 8
+				id: "32D48D3D140B08CE"
+				item: {
+					count: 1
+					id: "cobblemon:relic_coin_pouch"
+				}
+				type: "item"
+			}]
+			shape: "octagon"
+			size: 3.0d
+			tasks: [{
+				id: "0FB26D3F9204043E"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["46AF61850A606112"]
+			hide_dependent_lines: true
+			id: "62427FBC65211340"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5E41D7D88BB1EF9A"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "3722348D4543E248"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				action: "evolve_into"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "50533185418B0CD9"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:vaporeon"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 2.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["46AF61850A606112"]
+			hide_dependent_lines: true
+			id: "6AA5D3F4F0EE5833"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "26AC0769994618C1"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "749BE3CAF2B046B8"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				action: "evolve_into"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "7F3F5555EE829D1F"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:jolteon"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 3.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["46AF61850A606112"]
+			hide_dependent_lines: true
+			id: "6A170D72D6CDA3D0"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "215B9D271BA75227"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "1CD8BCDE2953CAF8"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				action: "evolve_into"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "489E3B0156EFDAC2"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:leafeon"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["46AF61850A606112"]
+			hide_dependent_lines: true
+			id: "1B1D1C845691BC1A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "1965C4E87B500ADE"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "124C69E42F25CA2D"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				action: "evolve_into"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "7A56191B63B44F31"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:espeon"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["46AF61850A606112"]
+			hide_dependent_lines: true
+			id: "0E33E095CBC95FA7"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "65BADDF305CEAFD0"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "1C4FCD985F0A32D9"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				action: "evolve_into"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "271439E2FC25E344"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:glaceon"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -3.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["46AF61850A606112"]
+			hide_dependent_lines: true
+			id: "02A428333C13CCEB"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6E3B1D8458BB6E4E"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "28E48FFF3FB52AA7"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				action: "evolve_into"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "6F7A491AA5FD4248"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:sylveon"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -2.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["46AF61850A606112"]
+			hide_dependent_lines: true
+			id: "1311FD98E021E9AF"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3770E4A51BF6F3A3"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					id: "2F1568659E34B690"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				action: "evolve_into"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "14D82A9FBE422C7F"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:umbreon"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: -2.0d
+			y: -2.0d
+		}
+	]
+}

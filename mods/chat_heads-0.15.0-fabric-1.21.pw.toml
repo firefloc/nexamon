@@ -1,6 +1,7 @@
 name = "Chat Heads"
 filename = "chat_heads-0.15.0-fabric-1.21.jar"
 side = "client"
+tier = "base"
 
 [download]
 url = "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/86yH2lgJ/chat_heads-0.15.0-fabric-1.21.jar"

@@ -1,6 +1,7 @@
 name = "Cobblemon Battle Tower"
 filename = "cobblemon_battle_tower-fabric-1.7.11.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/v19DG9nW/versions/88Pc3OFM/cobblemon_battle_tower-fabric-1.7.11.jar"

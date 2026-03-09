@@ -1,6 +1,7 @@
 name = "Structurify"
 filename = "structurify-fabric-2.0.17+mc1.21.1.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/yz7AM2zx/versions/vNEI9u7F/structurify-fabric-2.0.17%2Bmc1.21.1.jar"

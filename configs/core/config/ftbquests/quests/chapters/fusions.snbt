@@ -1,0 +1,462 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fusions"
+	group: "0D71855D01B1484A"
+	icon: {
+		id: "mega_showdown:dna_splicer"
+	}
+	id: "7D81F917A36C958B"
+	images: [
+		{
+			height: 2.0d
+			hover: ["White Kyurem"]
+			image: "cobblemon_quests:item/kyurem-white"
+			rotation: 0.0d
+			width: 2.0d
+			x: -2.5d
+			y: -4.5d
+		}
+		{
+			height: 2.0d
+			hover: ["Black Kyurem"]
+			image: "cobblemon_quests:item/kyurem-black"
+			rotation: 0.0d
+			width: 2.0d
+			x: -2.5d
+			y: 1.0d
+		}
+		{
+			height: 2.0d
+			hover: ["Ice Rider Calyrex"]
+			image: "cobblemon_quests:item/calyrex-ice-rider"
+			rotation: 0.0d
+			width: 2.0d
+			x: 6.5d
+			y: 1.0d
+		}
+		{
+			height: 2.0d
+			hover: ["Shadow Rider Calyrex"]
+			image: "cobblemon_quests:item/calyrex-shadow-rider"
+			rotation: 0.0d
+			width: 2.0d
+			x: 6.5d
+			y: -4.5d
+		}
+		{
+			height: 2.0d
+			hover: ["Dawn Wings Necrozma"]
+			image: "cobblemon_quests:item/necrozma-dawn-wings"
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.0d
+			y: 3.5d
+		}
+		{
+			height: 2.0d
+			hover: ["Dusk Mane Necrozma"]
+			image: "cobblemon_quests:item/necrozma-dusk-mane"
+			rotation: 0.0d
+			width: 2.0d
+			x: 1.5d
+			y: 10.0d
+		}
+		{
+			height: 2.0d
+			image: "cobblemon_quests:item/necrozma-ultra"
+			rotation: 0.0d
+			width: 2.0d
+			x: 4.5d
+			y: 5.5d
+		}
+	]
+	order_index: 5
+	quest_links: [
+		{
+			id: "43132B5314747F1F"
+			linked_quest: "13F7BD0AB163ED89"
+			shape: "rsquare"
+			x: 6.0d
+			y: 7.0d
+		}
+		{
+			id: "5AD1F4563ADF3626"
+			linked_quest: "08AD363504827E24"
+			shape: "rsquare"
+			x: 3.5d
+			y: -1.5d
+		}
+		{
+			id: "4E4348161B0E4262"
+			linked_quest: "20927CA7A8A07DB8"
+			shape: "rsquare"
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			id: "28F70B5AF2A0CFE6"
+			linked_quest: "75F978B1E39C1091"
+			shape: "rsquare"
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			id: "76803FCEFF826D2C"
+			linked_quest: "36B24DE8AA40DC42"
+			shape: "rsquare"
+			x: -2.5d
+			y: 9.0d
+		}
+		{
+			id: "1DEE40DBD24F56D6"
+			linked_quest: "33EDF5C423E850DA"
+			shape: "rsquare"
+			x: -2.5d
+			y: 5.0d
+		}
+		{
+			id: "4B64EFF8357DEAE9"
+			linked_quest: "05DD48CCC386EC3F"
+			x: -2.0d
+			y: 7.0d
+		}
+		{
+			id: "044399D6751C650E"
+			linked_quest: "524CE7E6765F6FD5"
+			shape: "rsquare"
+			x: -6.0d
+			y: -3.0d
+		}
+		{
+			id: "345E3AC112C51F8B"
+			linked_quest: "60A0E7B3EE51147B"
+			shape: "rsquare"
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			id: "33B79C622CE553CE"
+			linked_quest: "0C0B95617B4A289A"
+			shape: "rsquare"
+			x: -5.5d
+			y: -1.5d
+		}
+	]
+	quests: [
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "3988D3D04D4D8C1C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "10BBCFF3AAFC22AC"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "3F24F1C0F3B5EAAD"
+				item: { count: 1, id: "mega_showdown:dna_splicer" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"524CE7E6765F6FD5"
+				"0C0B95617B4A289A"
+				"3988D3D04D4D8C1C"
+			]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/gui/pokedex/scan/scan_unknown.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 0.75d
+			id: "335402653A555691"
+			shape: "hexagon"
+			tasks: [{
+				id: "764F03CF38679D86"
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"60A0E7B3EE51147B"
+				"0C0B95617B4A289A"
+				"3988D3D04D4D8C1C"
+			]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/gui/pokedex/scan/scan_unknown.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 0.75d
+			id: "0DB909B0FD28B9A5"
+			shape: "hexagon"
+			tasks: [{
+				id: "36DF3D0A4648F274"
+				type: "checkmark"
+			}]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"0DB909B0FD28B9A5"
+				"335402653A555691"
+			]
+			id: "05E58B21B7AB848C"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "468327A438DE99F2"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2A285DCA7E24CFE9"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "0E7CEB252F5CCC9F"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"20927CA7A8A07DB8"
+				"08AD363504827E24"
+				"4B9985FE32E37675"
+			]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/gui/pokedex/scan/scan_unknown.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 0.75d
+			id: "1C35FC8CD94EDB4C"
+			shape: "hexagon"
+			tasks: [{
+				id: "6A84630A8CB097C1"
+				type: "checkmark"
+			}]
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"75F978B1E39C1091"
+				"08AD363504827E24"
+				"4B9985FE32E37675"
+			]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/gui/pokedex/scan/scan_unknown.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 0.75d
+			id: "4874494DF630F862"
+			shape: "hexagon"
+			tasks: [{
+				id: "5DA47E29558E828E"
+				type: "checkmark"
+			}]
+			x: 5.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "4B9985FE32E37675"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "61EA3687051AE965"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "0D2A8861288B3D69"
+				item: { count: 1, id: "mega_showdown:reins_of_unity" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -1.5d
+		}
+		{
+			dependencies: [
+				"1C35FC8CD94EDB4C"
+				"4874494DF630F862"
+			]
+			id: "0FF89F37E6141C8D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2FA01D224AF709F8"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6D89BD556C0A9231"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "5865D25BC0CBE13C"
+				type: "checkmark"
+			}]
+			x: 7.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "556733907AEC013F"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "138313B7CE4A78CE"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "2BBEBB5731A26B45"
+				item: { count: 1, id: "mega_showdown:n_lunarizer" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "5BC2F48F8260306E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3890B29B47C37CBF"
+				table_id: 2493341832966408448L
+				type: "random"
+			}]
+			shape: "rsquare"
+			tasks: [{
+				id: "53635AFF446F99D3"
+				item: { count: 1, id: "mega_showdown:n_solarizer" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			dependencies: [
+				"556733907AEC013F"
+				"05DD48CCC386EC3F"
+				"33EDF5C423E850DA"
+			]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/gui/pokedex/scan/scan_unknown.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 0.75d
+			id: "25A0273D06F317A4"
+			shape: "hexagon"
+			tasks: [{
+				id: "051B2D24167E9E5A"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"5BC2F48F8260306E"
+				"36B24DE8AA40DC42"
+				"05DD48CCC386EC3F"
+			]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/gui/pokedex/scan/scan_unknown.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 0.75d
+			id: "1FCB04828260D948"
+			shape: "hexagon"
+			tasks: [{
+				id: "13A07B92FAC840A2"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 9.5d
+		}
+		{
+			dependencies: [
+				"1FCB04828260D948"
+				"25A0273D06F317A4"
+			]
+			id: "223BC3A3F166D181"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7B5F0EE7C7074DBD"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "79DCA4BA6B8A4F44"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "30D7C4A2148FE0E5"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 7.0d
+		}
+		{
+			dependencies: [
+				"1FCB04828260D948"
+				"25A0273D06F317A4"
+				"13F7BD0AB163ED89"
+			]
+			dependency_requirement: "one_completed"
+			id: "53F245619B3B44F2"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "73F28339A397F3E1"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5D1048C9ECD10118"
+					table_id: 7208652602539620127L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "35E47D54F8873905"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 7.0d
+		}
+	]
+}

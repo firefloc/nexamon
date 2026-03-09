@@ -1,6 +1,7 @@
 name = "Cobblemon: Mega Showdown"
 filename = "mega_showdown-fabric-1.6.10+1.7.3+1.21.1.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/SszvX85I/versions/GCGtiDQy/mega_showdown-fabric-1.6.10%2B1.7.3%2B1.21.1.jar"

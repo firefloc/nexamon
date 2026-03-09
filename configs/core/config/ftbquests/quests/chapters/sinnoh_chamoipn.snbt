@@ -1,0 +1,67 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	default_quest_size: 3.0d
+	filename: "sinnoh_chamoipn"
+	group: "5D79B3BD438A8363"
+	icon: {
+		components: {
+			"ftbquests:icon": "cobbleversebadges:item/sinnoh_league_trophy"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "3D61312671719F0E"
+	images: [{
+		height: 4.0d
+		image: "cobblemon_quests:item/cynthia-gen7"
+		rotation: 0.0d
+		width: 4.0d
+		x: 1.5d
+		y: -3.0d
+	}]
+	order_index: 2
+	quest_links: [ ]
+	quests: [{
+		dependencies: ["534FBD7084B569D1"]
+		icon: {
+			components: {
+				"ftbquests:icon": "cobbleversebadges:item/sinnoh_league_trophy"
+			}
+			id: "ftbquests:custom_icon"
+		}
+		id: "5E2DCF4788367C5B"
+		rewards: [
+			{
+				id: "163755C29D9640F3"
+				item: {
+					count: 1
+					id: "cobblemon:rare_candy"
+				}
+				type: "item"
+			}
+			{
+				exclude_from_claim_all: true
+				id: "2EB5100637665382"
+				table_id: 5510279823512477608L
+				type: "random"
+			}
+			{
+				id: "2C978EB5177ADDF8"
+				item: {
+					count: 1
+					id: "cobblemon:relic_coin_pouch"
+				}
+				type: "item"
+			}
+		]
+		shape: "octagon"
+		tasks: [{
+			advancement: "cobbleverse:trainer/sinnoh/defeat_champion_camilla"
+			criterion: ""
+			id: "0ED07AE78FB94E62"
+			type: "advancement"
+		}]
+		x: 1.5d
+		y: 0.5d
+	}]
+}

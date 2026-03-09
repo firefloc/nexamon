@@ -1,6 +1,7 @@
 name = "Cobblemon Trials Edition"
 filename = "CobblemonTrialsEdition-fabric-1.2.1.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/oH4pigcS/versions/J2IqdyMZ/CobblemonTrialsEdition-fabric-1.2.1.jar"

@@ -1,6 +1,7 @@
 name = "Forgiving Void"
 filename = "forgivingvoid-fabric-1.21.1-21.1.6.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/1vkzEZjE/versions/1gnUKJtk/forgivingvoid-fabric-1.21.1-21.1.6.jar"

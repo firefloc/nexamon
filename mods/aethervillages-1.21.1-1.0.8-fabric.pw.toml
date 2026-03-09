@@ -1,6 +1,7 @@
 name = "Aether Villages"
 filename = "AetherVillages-1.21.1-1.0.8-fabric.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/3P2XnNW6/versions/AOZ2B4Ql/AetherVillages-1.21.1-1.0.8-fabric.jar"

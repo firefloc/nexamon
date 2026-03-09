@@ -1,6 +1,7 @@
 name = "Carry On"
 filename = "carryon-fabric-1.21.1-2.2.4.4.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/joEfVgkn/versions/dmotghAy/carryon-fabric-1.21.1-2.2.4.4.jar"

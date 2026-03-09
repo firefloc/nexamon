@@ -1,0 +1,88 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "mega_showdown"
+	group: "0D71855D01B1484A"
+	icon: {
+		id: "mega_showdown:omni_ring"
+	}
+	id: "41AFF2DA138387A8"
+	order_index: 4
+	quest_links: [
+		{
+			id: "1C9EDADE8893E9EE"
+			linked_quest: "48754C845085257D"
+			x: -48.0d
+			y: 8.5d
+		}
+		{
+			id: "3A781EC369B566F4"
+			linked_quest: "0412555EDD02C321"
+			x: -47.0d
+			y: 6.5d
+		}
+		{
+			id: "134EEC925C1395C0"
+			linked_quest: "01B9BD934F0FD87C"
+			x: -44.0d
+			y: 8.5d
+		}
+		{
+			id: "3ACC8DB96A7D4CD7"
+			linked_quest: "5171CAB9596EF011"
+			x: -45.0d
+			y: 6.5d
+		}
+	]
+	quests: [
+		{
+			dependencies: [
+				"02FD55D3061FB0DE"
+				"1AC52DF97A550F64"
+				"5171CAB9596EF011"
+				"01B9BD934F0FD87C"
+				"48754C845085257D"
+				"0412555EDD02C321"
+			]
+			hide_dependent_lines: true
+			id: "4EB0F4E451270A2A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3A8C9DF1B9EDBC3C"
+					table_id: 2493341832966408448L
+					type: "random"
+				}
+				{
+					count: 4
+					id: "484ABB0BBDC5B9C2"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin_pouch"
+					}
+					type: "item"
+				}
+			]
+			shape: "octagon"
+			size: 4.0d
+			tasks: [{
+				id: "27C66C9B90C95170"
+				item: { count: 1, id: "mega_showdown:omni_ring" }
+				type: "item"
+			}]
+			x: -46.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["02FD55D3061FB0DE"]
+			id: "1AC52DF97A550F64"
+			tasks: [{
+				id: "39397E0480BAEE20"
+				item: { count: 1, id: "minecraft:netherite_ingot" }
+				type: "item"
+			}]
+			x: -46.0d
+			y: 8.5d
+		}
+	]
+}

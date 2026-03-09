@@ -1,6 +1,7 @@
 name = "Carved Wood"
 filename = "Carved Wood-fabric-1.21.1-1.8.2.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/WuwijfrW/versions/9z5609PZ/Carved%20Wood-fabric-1.21.1-1.8.2.jar"

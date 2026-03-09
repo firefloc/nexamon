@@ -1,6 +1,7 @@
 name = "Cobblemon: Poke Stops"
 filename = "cobblemon_poke_stops-fabric-1.0.0.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/HiwZaUgN/versions/61rZNyhD/cobblemon_poke_stops-fabric-1.0.0.jar"

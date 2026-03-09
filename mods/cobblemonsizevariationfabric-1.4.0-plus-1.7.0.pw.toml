@@ -1,6 +1,7 @@
 name = "Cobblemon Size Variations"
 filename = "CobblemonSizeVariationFabric-1.4.0+1.7.0.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/bMdS1gMo/versions/cJf7Izms/CobblemonSizeVariationFabric-1.4.0%2B1.7.0.jar"

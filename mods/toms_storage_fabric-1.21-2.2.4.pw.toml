@@ -1,6 +1,7 @@
 name = "Tom's Simple Storage Mod"
 filename = "toms_storage_fabric-1.21-2.2.4.jar"
 side = "both"
+tier = "core"
 
 [download]
 url = "https://cdn.modrinth.com/data/XZNI4Cpy/versions/ffa8Bl7Z/toms_storage_fabric-1.21-2.2.4.jar"
