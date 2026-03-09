@@ -3,6 +3,8 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [main]
+  pull_request:
+    branches: [main]
 
 permissions:
   contents: read
@@ -14,7 +16,111 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  verify:
+    name: Verify pack integrity
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build packs
+        run: python3 build_packs.py
+
+      - name: Validate pack structure
+        run: |
+          status=0
+          for variant in low base ultra; do
+            echo "=== Checking ${variant}/ ==="
+            for required in pack.toml index.toml; do
+              if [ ! -f "${variant}/${required}" ]; then
+                echo "::error::Missing ${variant}/${required}"
+                status=1
+              fi
+            done
+
+            # Check mods directory exists and has .pw.toml files
+            if [ ! -d "${variant}/mods" ] || [ -z "$(ls ${variant}/mods/*.pw.toml 2>/dev/null)" ]; then
+              echo "::error::${variant}/mods/ is empty or missing"
+              status=1
+            else
+              mod_count=$(ls ${variant}/mods/*.pw.toml 2>/dev/null | wc -l)
+              echo "  mods: ${mod_count} entries"
+            fi
+
+            # Check resourcepacks
+            rp_count=$(ls ${variant}/resourcepacks/*.pw.toml 2>/dev/null | wc -l)
+            echo "  resourcepacks: ${rp_count} entries"
+
+            # Check config dir
+            if [ -d "${variant}/config" ]; then
+              config_count=$(find "${variant}/config" -type f | wc -l)
+              echo "  config: ${config_count} files"
+            fi
+
+            echo "  ${variant}/ OK"
+          done
+
+          if [ $status -ne 0 ]; then
+            echo "::error::Pack verification failed."
+            exit 1
+          fi
+          echo ""
+          echo "All packs verified OK."
+
+      - name: Validate .pw.toml tier fields
+        run: |
+          status=0
+          for dir in mods resourcepacks shaderpacks; do
+            if [ ! -d "$dir" ]; then continue; fi
+            for f in ${dir}/*.pw.toml; do
+              [ -f "$f" ] || continue
+              if ! grep -q '^tier\s*=' "$f"; then
+                echo "::error::Missing tier field in ${f}"
+                status=1
+              else
+                tier=$(grep '^tier\s*=' "$f" | head -1 | sed 's/.*=\s*"\(.*\)"/\1/')
+                if [[ "$tier" != "core" && "$tier" != "base" && "$tier" != "ultra" ]]; then
+                  echo "::error::Invalid tier '${tier}' in ${f}"
+                  status=1
+                fi
+              fi
+            done
+          done
+          if [ $status -ne 0 ]; then
+            echo "::error::Some .pw.toml files have missing or invalid tier fields. Run: python3 build_packs.py --tag"
+            exit 1
+          fi
+          echo "All tier fields OK."
+
+      - name: Validate config consistency
+        run: |
+          status=0
+          for tier_dir in configs/core configs/base configs/ultra; do
+            [ -d "$tier_dir" ] || continue
+            tier_name=$(basename "$tier_dir")
+
+            # Check that config files are properly structured
+            while IFS= read -r -d '' file; do
+              rel="${file#${tier_dir}/}"
+              # Warn about unexpected top-level files (not in config/ subdir)
+              dir_part=$(echo "$rel" | cut -d'/' -f1)
+              if [ "$dir_part" != "config" ] && [ "$dir_part" != "shaderpacks" ]; then
+                echo "::warning::Unexpected path in ${tier_dir}/: ${rel} (expected config/ or shaderpacks/)"
+              fi
+            done < <(find "$tier_dir" -type f -print0)
+          done
+
+          if [ $status -ne 0 ]; then
+            exit 1
+          fi
+          echo "Config structure OK."
+
   deploy:
+    needs: verify
+    if: github.event_name == 'push'
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
