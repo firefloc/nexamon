@@ -1,30 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/pages.yml"
-hash = "9d66f74f2b71451251c437fe0a3d1feb59e8d1059e922089e0121e8705b9a3d7"
-
-[[files]]
-file = "fix_custom_urls.py"
-hash = "18007f53941ee66c95a8ea17cf7491ab47eb8ee277e542df930f0b155c060d73"
-
-[[files]]
-file = "fix_modrinth_urls.py"
-hash = "34a31baed223aaea4494143b568ec75009508480ba556103c1d6d6cb75dd6ca5"
-
-[[files]]
-file = "index_mods.py"
-hash = "b51695ab9de03122218d4c029ae5815ff948d00d70eb7438fbe9d2834aa5d181"
-
-[[files]]
-file = "index_report.json"
-hash = "536ef512301611b82baf3c30a33944d0d0fb3fedf7adc1f76cf06bdb6a8d7c4d"
-
-[[files]]
-file = "index_resourcepacks.py"
-hash = "578b42838d12e9662003fc87d3a9db5802842b4dddb0864b42f4bb1d9002bac9"
-
-[[files]]
 file = "mods/accessories-fabric-1.1.0-beta.53-plus-1.21.1.pw.toml"
 hash = "5086dbe83ed0c1032df18f5e054c789b044877bf5a8cf137243d7922768a266f"
 metafile = true
@@ -1436,7 +1412,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/cutil-nerf-tooltips.pw.toml"
-hash = "785c31c5ead1850fb6c8e67553e48189725a91ec8c9a2205edbff68e3f49cef9"
+hash = "4ee0e1736c7d242f4e6a5f68a3ef2c1645a54b746c6b681684bd3d5ff6caec24"
 metafile = true
 
 [[files]]

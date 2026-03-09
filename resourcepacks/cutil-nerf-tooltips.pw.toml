@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "http://90.73.30.60:9457/cutil-nerf-tooltips.zip"
 hash-format = "sha256"
-hash = "72cc6c97b4f7cb92614b6338029d97bef3a596cc04293fba68ce322c826d05bb"
+hash = "afe8118fd7fc71783aeaaa028763f6ff2c351914e4cfc008bdae137210791322"
