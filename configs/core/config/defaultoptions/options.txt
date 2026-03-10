@@ -1,4 +1,5 @@
 version:3955
+lang:fr_fr
 biomeBlendRadius:3
 enableVsync:true
 entityShadows:true
