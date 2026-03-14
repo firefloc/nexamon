@@ -11,7 +11,7 @@
     ],
     "minLevel": 10,
     "maxLevel": 100,
-    "deriveAverageGymLevel": true,
+    "deriveAverageGymLevel": false,
     "pokeCachePools": {
         "common": [
             "common"
